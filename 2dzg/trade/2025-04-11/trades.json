@@ -1,5 +1,5 @@
 {
-  "count": 288,
+  "count": 289,
   "data": [
     {
       "id": "46162602",
@@ -4315,6 +4315,21 @@
       "amount_btc": 10000000,
       "amount_token": 550064635587653,
       "price": 1810,
+      "bonded": true,
+      "user_username": "63r124-5o2i6u",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46182022",
+      "user": "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe",
+      "token": "2dzg",
+      "time": "2025-04-11T13:49:52.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 549354232338140,
+      "price": 1812,
       "bonded": true,
       "user_username": "63r124-5o2i6u",
       "user_image": null,
