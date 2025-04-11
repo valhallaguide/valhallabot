@@ -1,5 +1,5 @@
 {
-  "count": 320,
+  "count": 321,
   "data": [
     {
       "id": "46162602",
@@ -4798,6 +4798,21 @@
       "bonded": true,
       "user_username": "broke",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46202796",
+      "user": "h767k-7yue4-yffwt-5nr5b-l5azx-bcjta-vivf3-a6gb2-ednzg-oxhvj-7ae",
+      "token": "2dzg",
+      "time": "2025-04-11T21:39:50.000Z",
+      "buy": false,
+      "amount_btc": 110468609,
+      "amount_token": 6354010259120242,
+      "price": 1734,
+      "bonded": true,
+      "user_username": "satosh.band",
+      "user_image": "abae54b4-0925-4c6b-994a-41120006db07.jpg",
       "decimals": 3,
       "divisibility": 8
     }
