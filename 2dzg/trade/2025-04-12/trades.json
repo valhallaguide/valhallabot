@@ -1,5 +1,5 @@
 {
-  "count": 166,
+  "count": 167,
   "data": [
     {
       "id": "46239987",
@@ -2488,6 +2488,21 @@
       "bonded": true,
       "user_username": "MAGNUSOPIUS",
       "user_image": "88e6c826-1d39-4962-8591-5331cfe6cd73.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46240621",
+      "user": "cro42-thfbs-nj2sw-eowok-2lcdi-tb7jq-lg6tk-2jk72-xnbrc-asstb-gqe",
+      "token": "2dzg",
+      "time": "2025-04-12T16:39:07.000Z",
+      "buy": false,
+      "amount_btc": 410969779,
+      "amount_token": 29689131077433336,
+      "price": 1349,
+      "bonded": true,
+      "user_username": "cro42-thfbs",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
