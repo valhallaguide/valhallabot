@@ -1,5 +1,5 @@
 {
-  "count": 164,
+  "count": 165,
   "data": [
     {
       "id": "46238969",
@@ -2455,6 +2455,21 @@
       "amount_btc": 71953863,
       "amount_token": 5000000000000000,
       "price": 1438,
+      "bonded": true,
+      "user_username": "LLONGKING.blife",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46239987",
+      "user": "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae",
+      "token": "2dzg",
+      "time": "2025-04-12T16:11:09.000Z",
+      "buy": true,
+      "amount_btc": 69705901,
+      "amount_token": 4796450737967990,
+      "price": 1453,
       "bonded": true,
       "user_username": "LLONGKING.blife",
       "user_image": null,
