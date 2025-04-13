@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 100,
-    "nonSellersCount": 96,
+    "totalUsers": 99,
+    "nonSellersCount": 95,
     "sellersCount": 4,
-    "totalBalance": 990575532151658200
+    "totalBalance": 985062753938208900
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -161,10 +161,6 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
-    },
-    "iyzuc-hfqud-yo4fl-7mr6a-engxz-7zxd7-fuudo-m3rhp-n5czp-ul73r-nae": {
-      "balance": 5512778213449373,
-      "username": "Odinnator bot"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 5349817447095149,
