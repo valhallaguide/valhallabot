@@ -1,5 +1,5 @@
 {
-  "count": 64,
+  "count": 65,
   "data": [
     {
       "id": "46248443",
@@ -958,6 +958,21 @@
       "bonded": true,
       "user_username": "币圈奶牛",
       "user_image": "d92df4d6-4d6f-467e-b178-41d4a263e055.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46251810",
+      "user": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
+      "token": "2dzg",
+      "time": "2025-04-13T04:07:37.000Z",
+      "buy": true,
+      "amount_btc": 58250000,
+      "amount_token": 5005676821961831,
+      "price": 1163,
+      "bonded": true,
+      "user_username": "The Awoken",
+      "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png",
       "decimals": 3,
       "divisibility": 8
     }
