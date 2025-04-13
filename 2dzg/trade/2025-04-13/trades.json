@@ -1,5 +1,5 @@
 {
-  "count": 82,
+  "count": 84,
   "data": [
     {
       "id": "46248443",
@@ -1228,6 +1228,36 @@
       "bonded": true,
       "user_username": "金π | 铁军 | 不良帅",
       "user_image": "6eb9271e-ce39-4b14-a4bd-533348f06f51.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46267076",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-13T13:03:24.000Z",
+      "buy": true,
+      "amount_btc": 73207634,
+      "amount_token": 6400739709420300,
+      "price": 1144,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46267479",
+      "user": "s3zj7-fjwbe-6rhmh-rvhhi-p46xe-4z6cy-iqyyg-hcevp-dmvuv-qcs4v-vae",
+      "token": "2dzg",
+      "time": "2025-04-13T13:24:44.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 25454689665139944,
+      "price": 1201,
+      "bonded": true,
+      "user_username": "符文堂丨TIGER",
+      "user_image": "39e62dfc-1c92-4ae2-ac15-0db29f3eae02.jpg",
       "decimals": 3,
       "divisibility": 8
     }
