@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 74,
   "data": [
     {
       "id": "46248443",
@@ -1078,6 +1078,36 @@
       "bonded": true,
       "user_username": "ae84r-w57yu",
       "user_image": "2a0a61b9-dfde-4cd9-ba9b-99b4cec8fc8d.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46254809",
+      "user": "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae",
+      "token": "2dzg",
+      "time": "2025-04-13T05:37:10.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 4329225380116968,
+      "price": 1153,
+      "bonded": true,
+      "user_username": "marinaMarina",
+      "user_image": "76719835-9347-46f4-adb8-879143611a6d.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46254799",
+      "user": "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae",
+      "token": "2dzg",
+      "time": "2025-04-13T05:37:01.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 4364521405992517,
+      "price": 1144,
+      "bonded": true,
+      "user_username": "marinaMarina",
+      "user_image": "76719835-9347-46f4-adb8-879143611a6d.jpg",
       "decimals": 3,
       "divisibility": 8
     }
