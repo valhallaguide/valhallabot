@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 104,
-    "nonSellersCount": 97,
+    "totalUsers": 106,
+    "nonSellersCount": 99,
     "sellersCount": 7,
-    "totalBalance": 1013279887143396100
+    "totalBalance": 1020572704799113200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -193,6 +193,14 @@
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
       "username": "卖瓜子"
+    },
+    "uj4y3-5xois-zemd2-l6dnt-mafq7-m656m-dv4jt-ohgei-hq7bs-wv4bx-kqe": {
+      "balance": 3731975289363351,
+      "username": "科学家Bot丨ODIN TO THE MOON"
+    },
+    "jpfi7-j5ycb-jm7xe-vyjlr-4vz7q-vzsgg-sucsl-x5b5m-rkaqb-kfpnx-iae": {
+      "balance": 3560842366353834,
+      "username": "科学家Bot丨I'm bob"
     },
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
