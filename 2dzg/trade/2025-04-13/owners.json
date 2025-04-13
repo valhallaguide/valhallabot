@@ -203,13 +203,6 @@
     "user_image": null
   },
   {
-    "user": "iyzuc-hfqud-yo4fl-7mr6a-engxz-7zxd7-fuudo-m3rhp-n5czp-ul73r-nae",
-    "token": "2dzg",
-    "balance": 12141279644452440,
-    "user_username": "Odinnator bot",
-    "user_image": "2456d22d-09c9-4f0a-89e9-b725540082ba.jpeg"
-  },
-  {
     "user": "hpfdu-7tlqp-nkbbl-ahemw-daxac-d7yxg-azhcv-vuts5-eghjf-ber4a-nae",
     "token": "2dzg",
     "balance": 12069767662223534,
@@ -228,13 +221,6 @@
     "token": "2dzg",
     "balance": 10453705630428584,
     "user_username": "MORIARTY",
-    "user_image": null
-  },
-  {
-    "user": "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae",
-    "token": "2dzg",
-    "balance": 10320343471240672,
-    "user_username": "t7ikl-oqjix",
     "user_image": null
   },
   {
@@ -308,18 +294,18 @@
     "user_image": null
   },
   {
-    "user": "jfpoh-4gq7z-wzcjj-bjt5z-cenlb-t6tvh-pduc4-c4hto-f66w6-tlr44-5ae",
-    "token": "2dzg",
-    "balance": 6359526287882834,
-    "user_username": "xiao4",
-    "user_image": null
-  },
-  {
     "user": "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe",
     "token": "2dzg",
     "balance": 6044860718951457,
     "user_username": "Omandem",
     "user_image": "288d2dcb-7e85-43cb-bb32-2b9438715aa1.jpg"
+  },
+  {
+    "user": "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae",
+    "token": "2dzg",
+    "balance": 6037652235044357,
+    "user_username": "t7ikl-oqjix",
+    "user_image": null
   },
   {
     "user": "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe",
