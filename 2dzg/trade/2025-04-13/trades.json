@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 70,
   "data": [
     {
       "id": "46248443",
@@ -1003,6 +1003,51 @@
       "bonded": true,
       "user_username": "The Awoken",
       "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46252451",
+      "user": "7gaxs-fw5t6-6broo-jt5oo-bcnb6-dxklw-24kee-4pms4-q474d-id2jg-bqe",
+      "token": "2dzg",
+      "time": "2025-04-13T04:31:30.000Z",
+      "buy": false,
+      "amount_btc": 140001656,
+      "amount_token": 12119619439318700,
+      "price": 1147,
+      "bonded": true,
+      "user_username": "Get rich",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46252518",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-13T04:32:37.000Z",
+      "buy": false,
+      "amount_btc": 36424808,
+      "amount_token": 3198768133525317,
+      "price": 1141,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46252572",
+      "user": "ca5cx-6eggx-ofush-wfoqd-ad62d-24ppz-nqows-otwir-llvkm-k5rvr-4ae",
+      "token": "2dzg",
+      "time": "2025-04-13T04:35:14.000Z",
+      "buy": true,
+      "amount_btc": 131847733,
+      "amount_token": 11375547387454828,
+      "price": 1165,
+      "bonded": true,
+      "user_username": "ae84r-w57yu",
+      "user_image": "2a0a61b9-dfde-4cd9-ba9b-99b4cec8fc8d.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
