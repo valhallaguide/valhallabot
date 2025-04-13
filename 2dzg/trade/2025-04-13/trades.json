@@ -1,5 +1,5 @@
 {
-  "count": 63,
+  "count": 64,
   "data": [
     {
       "id": "46248443",
@@ -943,6 +943,21 @@
       "bonded": true,
       "user_username": "打狗上学",
       "user_image": "4345d0cd-adcc-42a3-ac79-2401dbd1e90e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46251512",
+      "user": "grlfo-a2xtd-xu3pf-6d4oe-22acq-xah3b-3p5py-pmbbi-k4nbh-tdyxt-fae",
+      "token": "2dzg",
+      "time": "2025-04-13T03:53:01.000Z",
+      "buy": false,
+      "amount_btc": 377874159,
+      "amount_token": 31969925500963844,
+      "price": 1152,
+      "bonded": true,
+      "user_username": "币圈奶牛",
+      "user_image": "d92df4d6-4d6f-467e-b178-41d4a263e055.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
