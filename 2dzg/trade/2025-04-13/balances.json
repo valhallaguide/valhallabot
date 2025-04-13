@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 100,
-    "nonSellersCount": 95,
+    "totalUsers": 101,
+    "nonSellersCount": 96,
     "sellersCount": 5,
-    "totalBalance": 977658932899654000
+    "totalBalance": 1003113622564794000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -69,6 +69,10 @@
     "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
       "balance": 25664167529133660,
       "username": "信leo还是信我是秦始皇"
+    },
+    "s3zj7-fjwbe-6rhmh-rvhhi-p46xe-4z6cy-iqyyg-hcevp-dmvuv-qcs4v-vae": {
+      "balance": 25454689665139944,
+      "username": "符文堂丨TIGER"
     },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
