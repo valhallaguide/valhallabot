@@ -1,5 +1,5 @@
 {
-  "count": 93,
+  "count": 91,
   "data": [
     {
       "id": "46268289",
@@ -1363,36 +1363,6 @@
       "bonded": true,
       "user_username": "Odinnator bot",
       "user_image": "2456d22d-09c9-4f0a-89e9-b725540082ba.jpeg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46270311",
-      "user": "jpfi7-j5ycb-jm7xe-vyjlr-4vz7q-vzsgg-sucsl-x5b5m-rkaqb-kfpnx-iae",
-      "token": "2dzg",
-      "time": "2025-04-13T15:57:01.000Z",
-      "buy": true,
-      "amount_btc": 45947098,
-      "amount_token": 3560842366353834,
-      "price": 1288,
-      "bonded": true,
-      "user_username": "科学家Bot丨I'm bob",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46270306",
-      "user": "uj4y3-5xois-zemd2-l6dnt-mafq7-m656m-dv4jt-ohgei-hq7bs-wv4bx-kqe",
-      "token": "2dzg",
-      "time": "2025-04-13T15:56:35.000Z",
-      "buy": true,
-      "amount_btc": 47809826,
-      "amount_token": 3731975289363351,
-      "price": 1279,
-      "bonded": true,
-      "user_username": "科学家Bot丨ODIN TO THE MOON",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
