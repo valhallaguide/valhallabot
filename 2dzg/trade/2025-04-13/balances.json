@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 99,
-    "nonSellersCount": 95,
+    "totalUsers": 101,
+    "nonSellersCount": 97,
     "sellersCount": 4,
-    "totalBalance": 985062753938208900
+    "totalBalance": 1007196690162366500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -25,6 +25,10 @@
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
+    },
+    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
+      "balance": 29361490314769504,
+      "username": "unknown-M"
     },
     "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae": {
       "balance": 29208612324495160,
@@ -82,10 +86,6 @@
       "balance": 22199042632945504,
       "username": "MR _DOGINAL XXXX"
     },
-    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
-      "balance": 20630403023839230,
-      "username": "unknown-M"
-    },
     "7wny3-xuodk-6q45n-qbt7f-oe4gf-6dqv5-qzt5f-xer7w-b5ajl-w4hyf-wqe": {
       "balance": 20594448070068652,
       "username": "马保国"
@@ -142,6 +142,10 @@
       "balance": 9629131557839352,
       "username": "satosh.band"
     },
+    "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
+      "balance": 9137690727238174,
+      "username": "GAME_PLAYER"
+    },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 8805813196123235,
       "username": "👑King"
@@ -177,6 +181,10 @@
     "g37iv-bgfpg-a6nqo-htahk-ffohl-q75gm-2ah54-3u6hg-7u7dq-xlcfm-cqe": {
       "balance": 4452492776740156,
       "username": "zuanshi"
+    },
+    "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
+      "balance": 4265158205989083,
+      "username": "not domo"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
