@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 89,
-    "nonSellersCount": 89,
+    "totalUsers": 87,
+    "nonSellersCount": 87,
     "sellersCount": 0,
-    "totalBalance": 901538439868262300
+    "totalBalance": 878176247951378700
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -94,10 +94,6 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
-    "djpb7-x7zjd-qhejx-sjd7f-yzsmk-hfwno-n4okz-wqkkk-2py6b-rd6ly-bae": {
-      "balance": 15660589459376806,
-      "username": "NAKAJSJWWJ"
-    },
     "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe": {
       "balance": 14692614278047282,
       "username": "63r124-5o2i6u"
@@ -105,10 +101,6 @@
     "6bkdj-fmxg2-vabjn-nyfvz-hfspp-yn4rk-6ko5e-fhhac-aps4o-mmgzr-vqe": {
       "balance": 11479302070193200,
       "username": "金辟 | 铁军 | 符文"
-    },
-    "i2fuj-fmzhu-z7z4k-in7qu-vps7l-3nxqh-4b6of-fk7u4-yflwg-eamfd-7qe": {
-      "balance": 10453705630428584,
-      "username": "MORIARTY"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
@@ -165,6 +157,10 @@
     "wxjnu-puiyk-mklse-hmrqr-wlsix-ghi7d-32eml-gg6og-3cllh-ppjqc-cae": {
       "balance": 5026864797047424,
       "username": "wxjnu-puiyk"
+    },
+    "djpb7-x7zjd-qhejx-sjd7f-yzsmk-hfwno-n4okz-wqkkk-2py6b-rd6ly-bae": {
+      "balance": 3915147364844203,
+      "username": "NAKAJSJWWJ"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
@@ -229,10 +225,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "3n2lw-cn6pf-uvjw4-l4frb-q52j2-rl5dr-mosni-5w3za-pnzwm-oxlvz-mqe": {
-      "balance": 1163044191922433,
-      "username": "Drew"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
