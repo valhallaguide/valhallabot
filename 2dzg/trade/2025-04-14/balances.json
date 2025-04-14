@@ -3,12 +3,16 @@
     "totalUsers": 83,
     "nonSellersCount": 83,
     "sellersCount": 0,
-    "totalBalance": 839354625498546400
+    "totalBalance": 893226809633621500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 101773648533673400,
       "username": "valhalla.guide"
+    },
+    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
+      "balance": 55337515313163070,
+      "username": "信leo还是信我是秦始皇"
     },
     "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae": {
       "balance": 46016533277544980,
@@ -66,10 +70,6 @@
       "balance": 25872191112213040,
       "username": "CryptoSam"
     },
-    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
-      "balance": 25664167529133660,
-      "username": "信leo还是信我是秦始皇"
-    },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
       "username": "0xSatoshiFan"
@@ -77,6 +77,10 @@
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
+    },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 24341785776384300,
+      "username": "TORGAS.blife"
     },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 22199042632945504,
@@ -293,10 +297,6 @@
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 162098416225143,
       "username": "MILK"
-    },
-    "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
-      "balance": 142949425338581,
-      "username": "gundam"
     },
     "zqcov-zai2b-e7hge-sdytg-qanpy-6dlu2-rjefl-mwkjr-hritx-fx6vn-fae": {
       "balance": 104858551337291,
