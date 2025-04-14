@@ -1,18 +1,14 @@
 {
   "summary": {
-    "totalUsers": 77,
-    "nonSellersCount": 77,
+    "totalUsers": 76,
+    "nonSellersCount": 76,
     "sellersCount": 0,
-    "totalBalance": 790362846161237000
+    "totalBalance": 744346312883692000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 101773648533673400,
       "username": "valhalla.guide"
-    },
-    "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae": {
-      "balance": 46016533277544980,
-      "username": "marinaMarina"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000252953836160,
