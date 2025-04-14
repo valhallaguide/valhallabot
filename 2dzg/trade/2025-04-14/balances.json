@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 87,
-    "nonSellersCount": 87,
+    "totalUsers": 85,
+    "nonSellersCount": 85,
     "sellersCount": 0,
-    "totalBalance": 878176247951378700
+    "totalBalance": 843583867559000600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -70,10 +70,6 @@
       "balance": 25664167529133660,
       "username": "信leo还是信我是秦始皇"
     },
-    "s3zj7-fjwbe-6rhmh-rvhhi-p46xe-4z6cy-iqyyg-hcevp-dmvuv-qcs4v-vae": {
-      "balance": 25454689665139944,
-      "username": "符文堂丨TIGER"
-    },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
       "username": "0xSatoshiFan"
@@ -121,10 +117,6 @@
     "h767k-7yue4-yffwt-5nr5b-l5azx-bcjta-vivf3-a6gb2-ednzg-oxhvj-7ae": {
       "balance": 9629131557839352,
       "username": "satosh.band"
-    },
-    "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
-      "balance": 9137690727238174,
-      "username": "GAME_PLAYER"
     },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 8805813196123235,
