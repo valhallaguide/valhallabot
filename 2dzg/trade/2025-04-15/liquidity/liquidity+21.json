@@ -1,0 +1,41 @@
+{
+  "count": 5,
+  "data": [
+    {
+      "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+      "token": "lp_2dzg",
+      "balance": 18067046626449150,
+      "user_username": "forseti holder",
+      "user_image": null
+    },
+    {
+      "user": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
+      "token": "lp_2dzg",
+      "balance": 10154458311733904,
+      "user_username": "The Awoken",
+      "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
+    },
+    {
+      "user": "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae",
+      "token": "lp_2dzg",
+      "balance": 894576986351139,
+      "user_username": "odin红岩",
+      "user_image": "bdee022b-3204-4ea1-bcff-553752ab1806.jpg"
+    },
+    {
+      "user": "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe",
+      "token": "lp_2dzg",
+      "balance": 468236979409635,
+      "user_username": "vu2to-6rlzb",
+      "user_image": null
+    },
+    {
+      "user": "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae",
+      "token": "lp_2dzg",
+      "balance": 166141779762013,
+      "user_username": "符文堂｜ SOLMAXI",
+      "user_image": "e75c111d-a19f-4c41-91f5-91dcdcbfc76c.png"
+    }
+  ],
+  "timestamp": "2025-04-15T21:00:34.932Z"
+}
