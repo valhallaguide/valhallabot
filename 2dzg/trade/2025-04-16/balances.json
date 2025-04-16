@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 144,
+    "totalUsers": 145,
     "nonSellersCount": 128,
-    "sellersCount": 16,
-    "totalBalance": 1409720577359753700
+    "sellersCount": 17,
+    "totalBalance": 1413772602474239000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -18,6 +18,10 @@
       "balance": 48406403049482500,
       "username": "4.blife"
     },
+    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
+      "balance": 43236722382273900,
+      "username": "独孤求败"
+    },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000252953836160,
       "username": "The Awoken"
@@ -25,10 +29,6 @@
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
       "username": "muppet man"
-    },
-    "y2wp3-i2vmv-sknm6-wh4do-plqec-qykwk-sgkxi-hxjuo-6qqlr-w3l2i-dae": {
-      "balance": 37721607849607680,
-      "username": "Zorobtc"
     },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 36529351479831680,
@@ -46,9 +46,9 @@
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
     },
-    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
-      "balance": 29784697267788630,
-      "username": "独孤求败"
+    "y2wp3-i2vmv-sknm6-wh4do-plqec-qykwk-sgkxi-hxjuo-6qqlr-w3l2i-dae": {
+      "balance": 30021607849607684,
+      "username": "Zorobtc"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -226,10 +226,6 @@
       "balance": 7153394142911442,
       "username": "大哥哥"
     },
-    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
-      "balance": 7116669213792773,
-      "username": "Encek"
-    },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
@@ -241,6 +237,10 @@
     "jwgxn-io4uo-tjr7n-3eqta-sy4hc-f6cks-y5gdc-ugooq-etj7v-gpza3-6qe": {
       "balance": 5442580483115229,
       "username": "无所谓了"
+    },
+    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
+      "balance": 5416669213792773,
+      "username": "Encek"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 5349817447095149,
