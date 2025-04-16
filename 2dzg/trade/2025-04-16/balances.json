@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 110,
-    "nonSellersCount": 110,
+    "totalUsers": 112,
+    "nonSellersCount": 112,
     "sellersCount": 0,
-    "totalBalance": 1299753924998316800
+    "totalBalance": 1321443178254649600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -142,6 +142,10 @@
       "balance": 14925869109570112,
       "username": "Fuike"
     },
+    "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae": {
+      "balance": 14769265837996372,
+      "username": "A88888"
+    },
     "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe": {
       "balance": 14692614278047282,
       "username": "63r124-5o2i6u"
@@ -186,6 +190,14 @@
       "balance": 8519642013954611,
       "username": "BigFoot"
     },
+    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
+      "balance": 8033898749504098,
+      "username": "FKSTEP.blife"
+    },
+    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
+      "balance": 7902914618062341,
+      "username": "MAGNUSOPIUS"
+    },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 7703409950278216,
       "username": "isvcj-d7on7"
@@ -217,14 +229,6 @@
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 5197550137056336,
       "username": "grgsl-q7xr3"
-    },
-    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
-      "balance": 5001326317973518,
-      "username": "MAGNUSOPIUS"
-    },
-    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
-      "balance": 5000000000000000,
-      "username": "FKSTEP.blife"
     },
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
@@ -317,6 +321,10 @@
     "smgpv-eklk3-gcfak-7oqia-ei6lr-asqti-7cfyf-rlqly-pampf-dsjg4-iae": {
       "balance": 1044078785720737,
       "username": "Markio"
+    },
+    "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae": {
+      "balance": 984500368743597,
+      "username": "火力十足"
     },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 957323071229970,
