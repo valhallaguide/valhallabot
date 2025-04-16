@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 112,
-    "nonSellersCount": 112,
+    "totalUsers": 113,
+    "nonSellersCount": 113,
     "sellersCount": 0,
-    "totalBalance": 1321443178254649600
+    "totalBalance": 1347611257875765500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -13,6 +13,10 @@
     "jldap-zgmsv-ux4dv-olzih-fnsrf-z4qed-bks7l-dl7lx-g4rtj-lq3op-bqe": {
       "balance": 69328284865927370,
       "username": "Eriife"
+    },
+    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
+      "balance": 48406403049482500,
+      "username": "4.blife"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000252953836160,
@@ -49,10 +53,6 @@
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
-    },
-    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
-      "balance": 29463535480674096,
-      "username": "4.blife"
     },
     "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
       "balance": 29361490314769504,
@@ -143,7 +143,7 @@
       "username": "Fuike"
     },
     "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae": {
-      "balance": 14769265837996372,
+      "balance": 14823339746349420,
       "username": "A88888"
     },
     "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe": {
@@ -201,6 +201,10 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 7703409950278216,
       "username": "isvcj-d7on7"
+    },
+    "t3bfs-kl5fa-5sy6h-sldrw-tpdwk-p4otx-mlork-h3a3o-idc4y-nd6b3-gqe": {
+      "balance": 7171138143954190,
+      "username": "Ruine"
     },
     "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
       "balance": 7116669213792773,
