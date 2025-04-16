@@ -1,5 +1,5 @@
 {
-  "count": 308,
+  "count": 304,
   "data": [
     {
       "id": "46377483",
@@ -4558,66 +4558,6 @@
       "bonded": true,
       "user_username": "大哥哥",
       "user_image": "4358a05a-0eed-457d-a87e-cb9d48917576.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46380927",
-      "user": "ddtzi-ke4qm-bm773-hnbsy-2amir-4xfgy-fr7od-47owo-mpw32-fsf43-iae",
-      "token": "2dzg",
-      "time": "2025-04-16T23:46:34.000Z",
-      "buy": true,
-      "amount_btc": 20000000,
-      "amount_token": 483424929751711,
-      "price": 4120,
-      "bonded": true,
-      "user_username": "博尔特",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46380846",
-      "user": "omuy5-tu6bl-bkej7-bnsex-pdnwk-37f5i-g5f5j-4i3jv-yogj3-mhjak-sqe",
-      "token": "2dzg",
-      "time": "2025-04-16T23:44:48.000Z",
-      "buy": false,
-      "amount_btc": 150350968,
-      "amount_token": 3649867245234661,
-      "price": 4112,
-      "bonded": true,
-      "user_username": "omuy5-tu6bl",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46380716",
-      "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
-      "token": "2dzg",
-      "time": "2025-04-16T23:43:10.000Z",
-      "buy": false,
-      "amount_btc": 318224234,
-      "amount_token": 7569105733981094,
-      "price": 4167,
-      "bonded": true,
-      "user_username": "6h5t7-4kzx6",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46380689",
-      "user": "oooys-d6bke-e5zsz-ufmyw-hozpj-2pobn-22ydp-ciwyc-tgizl-23srs-tae",
-      "token": "2dzg",
-      "time": "2025-04-16T23:42:22.000Z",
-      "buy": false,
-      "amount_btc": 2626237,
-      "amount_token": 61601405286168,
-      "price": 4284,
-      "bonded": true,
-      "user_username": "oooys-d6bke",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
