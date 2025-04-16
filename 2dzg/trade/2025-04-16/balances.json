@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 110,
-    "nonSellersCount": 110,
+    "totalUsers": 108,
+    "nonSellersCount": 108,
     "sellersCount": 0,
-    "totalBalance": 1328810949446871300
+    "totalBalance": 1295564023886757600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -130,10 +130,6 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
-    "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
-      "balance": 17062336534431072,
-      "username": "ktpc3-6lpkw"
-    },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 16718803537296364,
       "username": "MRINSIGHTS.blife"
@@ -149,10 +145,6 @@
     "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe": {
       "balance": 14692614278047282,
       "username": "63r124-5o2i6u"
-    },
-    "ratgk-5i6x6-bkziw-ryavl-4saeh-3ij4b-qydw4-ps222-fwy4m-44gbt-fqe": {
-      "balance": 14477078883716202,
-      "username": "yuki"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 14218544958611916,
@@ -186,10 +178,6 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 9585584760350558,
-      "username": "6h5t7-4kzx6"
-    },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 8805813196123235,
       "username": "👑King"
@@ -206,6 +194,10 @@
       "balance": 7116669213792773,
       "username": "Encek"
     },
+    "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
+      "balance": 7062336534431072,
+      "username": "ktpc3-6lpkw"
+    },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 6880602135063048,
       "username": "odin红岩"
@@ -213,6 +205,10 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
+    },
+    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
+      "balance": 5941073331133927,
+      "username": "FKSTEP.blife"
     },
     "jwgxn-io4uo-tjr7n-3eqta-sy4hc-f6cks-y5gdc-ugooq-etj7v-gpza3-6qe": {
       "balance": 5442580483115229,
@@ -225,10 +221,6 @@
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 5197550137056336,
       "username": "grgsl-q7xr3"
-    },
-    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
-      "balance": 5125335247180457,
-      "username": "FKSTEP.blife"
     },
     "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
       "balance": 5001326317973518,
