@@ -3,7 +3,7 @@
     "totalUsers": 125,
     "nonSellersCount": 125,
     "sellersCount": 0,
-    "totalBalance": 1445527439810843000
+    "totalBalance": 1424588424230489000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -21,10 +21,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000252953836160,
       "username": "The Awoken"
-    },
-    "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae": {
-      "balance": 41878031160707560,
-      "username": "marinaMarina"
     },
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
@@ -129,6 +125,10 @@
     "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae": {
       "balance": 21174598792912280,
       "username": "A88888"
+    },
+    "xlfo6-ht7it-6lbaj-wpszh-abxgp-2sxn5-4ng67-yfdw6-rske2-nbool-6ae": {
+      "balance": 20939015580353780,
+      "username": "marinaMarina"
     },
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 20779409573954172,
