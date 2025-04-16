@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 144,
-    "nonSellersCount": 126,
+    "totalUsers": 146,
+    "nonSellersCount": 128,
     "sellersCount": 18,
-    "totalBalance": 1384217355669609700
+    "totalBalance": 1409298753835288000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -45,6 +45,10 @@
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
+    },
+    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
+      "balance": 29784697267788630,
+      "username": "独孤求败"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -150,10 +154,6 @@
       "balance": 16221470878814220,
       "username": "not domo"
     },
-    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
-      "balance": 15357575766054780,
-      "username": "独孤求败"
-    },
     "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae": {
       "balance": 14925869109570112,
       "username": "Fuike"
@@ -222,6 +222,10 @@
       "balance": 7171138143954190,
       "username": "Ruine"
     },
+    "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae": {
+      "balance": 7153394142911442,
+      "username": "大哥哥"
+    },
     "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
       "balance": 7116669213792773,
       "username": "Encek"
@@ -257,6 +261,10 @@
     "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe": {
       "balance": 3615359039612358,
       "username": "fewzv-xinjl"
+    },
+    "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe": {
+      "balance": 3597513756041701,
+      "username": "DiamondHands"
     },
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
@@ -349,6 +357,10 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
+    },
+    "2oxdh-ubw6h-hgwss-t5c3e-txpzg-h6rn3-ctncp-tbai7-3uo2m-2pdkh-fqe": {
+      "balance": 1209648692893372,
+      "username": "ZUZALU"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
