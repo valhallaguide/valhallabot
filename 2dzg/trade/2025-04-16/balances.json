@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 103,
-    "nonSellersCount": 103,
+    "totalUsers": 104,
+    "nonSellersCount": 104,
     "sellersCount": 0,
-    "totalBalance": 1214493623261262600
+    "totalBalance": 1209099469274356200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -23,7 +23,7 @@
       "username": "marinaMarina"
     },
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
-      "balance": 40487046166673810,
+      "balance": 40190437483258056,
       "username": "muppet man"
     },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -118,10 +118,6 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
-    "ratgk-5i6x6-bkziw-ryavl-4saeh-3ij4b-qydw4-ps222-fwy4m-44gbt-fqe": {
-      "balance": 19808465311021730,
-      "username": "yuki"
-    },
     "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
       "balance": 19502923258741908,
       "username": "MOSES11.blife"
@@ -170,6 +166,10 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
+    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
+      "balance": 9585584760350558,
+      "username": "6h5t7-4kzx6"
+    },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 8805813196123235,
       "username": "👑King"
@@ -201,6 +201,10 @@
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 5197550137056336,
       "username": "grgsl-q7xr3"
+    },
+    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
+      "balance": 5125335247180457,
+      "username": "FKSTEP.blife"
     },
     "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
       "balance": 3910071385965108,
