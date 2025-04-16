@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 129,
-    "nonSellersCount": 129,
+    "totalUsers": 128,
+    "nonSellersCount": 128,
     "sellersCount": 0,
-    "totalBalance": 1467965967718472700
+    "totalBalance": 1447462863493635300
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -162,10 +162,6 @@
       "balance": 14925869109570112,
       "username": "Fuike"
     },
-    "3myzl-c7tvt-fas3f-bir4k-3pysg-c5xrr-otf4z-n5whq-vshri-wc7j6-gqe": {
-      "balance": 14692614278047282,
-      "username": "63r124-5o2i6u"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 14218544958611916,
       "username": "H11."
@@ -173,10 +169,6 @@
     "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
       "balance": 13926466420573708,
       "username": "ktpc3-6lpkw"
-    },
-    "sad22-jjnuh-zyr3o-zal7a-xipq2-mbj7h-eqzz3-ogk36-btocv-vpoug-3ae": {
-      "balance": 11506431908365372,
-      "username": "sad22-jjnuh"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
@@ -245,6 +237,10 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 6880602135063048,
       "username": "odin红岩"
+    },
+    "sad22-jjnuh-zyr3o-zal7a-xipq2-mbj7h-eqzz3-ogk36-btocv-vpoug-3ae": {
+      "balance": 6472367948455522,
+      "username": "sad22-jjnuh"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -342,10 +338,6 @@
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 1552851973760615,
-      "username": "MILK"
-    },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
       "username": "f5sjn-alw4i"
@@ -389,6 +381,10 @@
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
+    },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 776425986880308,
+      "username": "MILK"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
