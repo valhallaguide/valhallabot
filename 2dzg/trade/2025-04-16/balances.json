@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 106,
-    "nonSellersCount": 106,
+    "totalUsers": 108,
+    "nonSellersCount": 108,
     "sellersCount": 0,
-    "totalBalance": 1229334891722269200
+    "totalBalance": 1284303855902517500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -29,6 +29,10 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 36529351479831680,
       "username": "符文堂｜Leo"
+    },
+    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
+      "balance": 35715177428488360,
+      "username": "MOSES11.blife"
     },
     "uhv3a-rrpf7-jh4fn-hfy3f-cjlmz-loubv-g63ph-jmw4b-wixjv-cas37-oqe": {
       "balance": 35044997238245510,
@@ -57,6 +61,10 @@
     "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae": {
       "balance": 29208612324495160,
       "username": "kittylord"
+    },
+    "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
+      "balance": 29177358920069692,
+      "username": "Kuromi"
     },
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
@@ -118,10 +126,6 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
-    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
-      "balance": 19502923258741908,
-      "username": "MOSES11.blife"
-    },
     "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
       "balance": 17062336534431072,
       "username": "ktpc3-6lpkw"
@@ -182,6 +186,10 @@
       "balance": 8519642013954611,
       "username": "BigFoot"
     },
+    "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
+      "balance": 8350473814339336,
+      "username": "not domo"
+    },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 7703409950278216,
       "username": "isvcj-d7on7"
@@ -214,6 +222,10 @@
       "balance": 5125335247180457,
       "username": "FKSTEP.blife"
     },
+    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
+      "balance": 5001326317973518,
+      "username": "MAGNUSOPIUS"
+    },
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
@@ -225,10 +237,6 @@
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
       "username": "卖瓜子"
-    },
-    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
-      "balance": 3772449041880382,
-      "username": "MAGNUSOPIUS"
     },
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
