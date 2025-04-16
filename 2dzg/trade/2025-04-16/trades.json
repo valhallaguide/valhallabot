@@ -1,5 +1,5 @@
 {
-  "count": 275,
+  "count": 277,
   "data": [
     {
       "id": "46377483",
@@ -4123,6 +4123,36 @@
       "bonded": true,
       "user_username": "MAGNUSOPIUS",
       "user_image": "88e6c826-1d39-4962-8591-5331cfe6cd73.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378995",
+      "user": "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae",
+      "token": "2dzg",
+      "time": "2025-04-16T23:06:53.000Z",
+      "buy": true,
+      "amount_btc": 19283360,
+      "amount_token": 487891161574887,
+      "price": 3936,
+      "bonded": true,
+      "user_username": "MAGNUSOPIUS",
+      "user_image": "88e6c826-1d39-4962-8591-5331cfe6cd73.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378971",
+      "user": "rwmoh-b4bzc-uml6r-3rxit-u3nkv-vqdkd-cv5mq-itbcf-6ma2z-a6l3j-oae",
+      "token": "2dzg",
+      "time": "2025-04-16T23:06:43.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 2543640699553166,
+      "price": 3929,
+      "bonded": true,
+      "user_username": "bulk",
+      "user_image": "74838256-8c5a-4962-9fbf-e1e5a2bbab50.jpg",
       "decimals": 3,
       "divisibility": 8
     }
