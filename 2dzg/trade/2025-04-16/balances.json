@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 133,
+    "totalUsers": 134,
+    "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1491764736090444300
+    "totalBalance": 1494802933095248400
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -246,6 +246,10 @@
       "balance": 6880602135063048,
       "username": "odin红岩"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 6820880081006341,
+      "username": "MILK"
+    },
     "sad22-jjnuh-zyr3o-zal7a-xipq2-mbj7h-eqzz3-ogk36-btocv-vpoug-3ae": {
       "balance": 6472367948455522,
       "username": "sad22-jjnuh"
@@ -265,10 +269,6 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 5349817447095149,
       "username": "金π丨铁军丨笑哈哈"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 5222172096406476,
-      "username": "MILK"
     },
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
@@ -373,6 +373,10 @@
     "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe": {
       "balance": 1473810782004318,
       "username": "Cdd.Odin"
+    },
+    "dwrvl-voybn-ku5h4-2jila-ssp3x-yzqh5-ncbxo-kh774-6rygq-oazu3-dae": {
+      "balance": 1439489020204199,
+      "username": "Erikson"
     },
     "yg75l-n3xpo-e3lxz-nqv3z-qgd2r-kugg6-lkxtr-4wzqc-yogui-yik5j-sae": {
       "balance": 1380995325503125,
