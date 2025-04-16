@@ -1,5 +1,5 @@
 {
-  "count": 263,
+  "count": 268,
   "data": [
     {
       "id": "46377483",
@@ -3943,6 +3943,81 @@
       "bonded": true,
       "user_username": "Erikson",
       "user_image": "e68dc479-bb61-46ec-8b74-255bf3352e06.JPG",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378429",
+      "user": "7drzv-cxofi-ehim6-otkkb-n2zha-vkxmn-5g2kw-vq66q-jjycl-r5qnr-uqe",
+      "token": "2dzg",
+      "time": "2025-04-16T22:51:41.000Z",
+      "buy": true,
+      "amount_btc": 97874804,
+      "amount_token": 2574261555295378,
+      "price": 3799,
+      "bonded": true,
+      "user_username": "bigdan",
+      "user_image": "326d1c94-72cc-49bd-962e-f7ccf31966ab.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378391",
+      "user": "vv2le-xbwip-urdje-52qes-kox3h-vgdkx-defqq-o5lko-nujsp-yxqkh-eqe",
+      "token": "2dzg",
+      "time": "2025-04-16T22:50:58.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1323970562320387,
+      "price": 3766,
+      "bonded": true,
+      "user_username": "符文堂｜下雨",
+      "user_image": "f94a6dcf-a167-472b-ba63-2f3c093c1201.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378268",
+      "user": "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe",
+      "token": "2dzg",
+      "time": "2025-04-16T22:47:46.000Z",
+      "buy": true,
+      "amount_btc": 1183200000,
+      "amount_token": 33201433543365256,
+      "price": 3748,
+      "bonded": true,
+      "user_username": "ODIN-GAMEMER",
+      "user_image": "952ac913-e28a-44a5-8abc-dbd141c69b01.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378258",
+      "user": "omuy5-tu6bl-bkej7-bnsex-pdnwk-37f5i-g5f5j-4i3jv-yogj3-mhjak-sqe",
+      "token": "2dzg",
+      "time": "2025-04-16T22:47:35.000Z",
+      "buy": true,
+      "amount_btc": 122312000,
+      "amount_token": 3649867245234661,
+      "price": 3354,
+      "bonded": true,
+      "user_username": "omuy5-tu6bl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46378248",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-16T22:47:16.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 150126156708327,
+      "price": 3314,
+      "bonded": true,
+      "user_username": "A88888",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
       "decimals": 3,
       "divisibility": 8
     }
