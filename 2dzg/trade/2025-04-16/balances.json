@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 130,
-    "nonSellersCount": 130,
+    "totalUsers": 131,
+    "nonSellersCount": 131,
     "sellersCount": 0,
-    "totalBalance": 1485679258071765500
+    "totalBalance": 1475771009900456400
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -177,10 +177,6 @@
     "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
       "balance": 13926466420573708,
       "username": "ktpc3-6lpkw"
-    },
-    "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae": {
-      "balance": 11423863433403168,
-      "username": "冰绿色"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
@@ -362,6 +358,10 @@
       "balance": 1512179612919140,
       "username": "vu2to-6rlzb"
     },
+    "nr4v7-vocvh-ela2j-kvb6a-6svkw-eejqi-ofxdt-m3izb-7wxfv-ojrxm-zae": {
+      "balance": 1485969411956255,
+      "username": "Damn"
+    },
     "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe": {
       "balance": 1473810782004318,
       "username": "Cdd.Odin"
@@ -509,6 +509,10 @@
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
       "username": "yntvx-lg33w"
+    },
+    "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
+      "balance": 29645850137765,
+      "username": "DuckBro"
     },
     "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae": {
       "balance": 12528088512181,
