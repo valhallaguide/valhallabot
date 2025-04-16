@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 134,
+    "totalUsers": 135,
+    "nonSellersCount": 135,
     "sellersCount": 0,
-    "totalBalance": 1480324714054802700
+    "totalBalance": 1501491713969081900
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -150,6 +150,10 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
+    "eo26p-ih4pq-3s6bn-3jghu-n7mcl-zmkyf-kydjn-p3t2d-rssmh-6bal2-aqe": {
+      "balance": 19645614641157364,
+      "username": "mrK"
+    },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 16718803537296364,
       "username": "MRINSIGHTS.blife"
@@ -294,6 +298,10 @@
       "balance": 3507271723383270,
       "username": "PHIMITRI.blife"
     },
+    "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae": {
+      "balance": 3325651506802598,
+      "username": "No_name"
+    },
     "cvqfa-xaucu-zyulz-dy3qe-ydwj2-rt5du-hddhd-bfxfj-7rarb-ogdbg-xqe": {
       "balance": 3309202497814581,
       "username": "中国人"
@@ -341,10 +349,6 @@
     "2xwwi-x6vb3-uqwi2-jvsoi-6d3u4-5hfrp-rtgui-l2veh-t43jr-g7nz3-6qe": {
       "balance": 1971868009685424,
       "username": "2xwwi-x6vb3"
-    },
-    "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae": {
-      "balance": 1688415939800673,
-      "username": "No_name"
     },
     "c2dkm-6vyhq-ckzta-oku5j-rqdy3-z276h-uqddz-eet2t-ew47w-vp5hl-oqe": {
       "balance": 1632351351091890,
@@ -406,10 +410,6 @@
       "balance": 776425986880308,
       "username": "MILK"
     },
-    "eo26p-ih4pq-3s6bn-3jghu-n7mcl-zmkyf-kydjn-p3t2d-rssmh-6bal2-aqe": {
-      "balance": 681136411270174,
-      "username": "mrK"
-    },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "4ivvu-3te66"
@@ -429,6 +429,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 596012261161917,
       "username": "小强dog"
+    },
+    "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae": {
+      "balance": 565286117389953,
+      "username": "冰绿色"
     },
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 560159908926845,
