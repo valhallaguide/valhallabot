@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 116,
-    "nonSellersCount": 116,
+    "totalUsers": 118,
+    "nonSellersCount": 118,
     "sellersCount": 0,
-    "totalBalance": 1378788513446909000
+    "totalBalance": 1381610063574702800
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -282,6 +282,10 @@
       "balance": 2557276518998148,
       "username": "rokky.band"
     },
+    "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
+      "balance": 2461060189762385,
+      "username": "Castle"
+    },
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 2087568234093991,
       "username": "7kbya-md3zv"
@@ -344,7 +348,7 @@
     },
     "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae": {
       "balance": 984500368743597,
-      "username": "火力十足"
+      "username": "Pablimboma"
     },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 957323071229970,
@@ -393,6 +397,10 @@
     "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
       "balance": 371173768955818,
       "username": "uhned-xb6pp"
+    },
+    "vv2le-xbwip-urdje-52qes-kox3h-vgdkx-defqq-o5lko-nujsp-yxqkh-eqe": {
+      "balance": 360489938031551,
+      "username": "符文堂｜下雨"
     },
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
