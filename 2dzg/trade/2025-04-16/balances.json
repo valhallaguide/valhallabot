@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 135,
+    "totalUsers": 133,
+    "nonSellersCount": 133,
     "sellersCount": 0,
-    "totalBalance": 1501491713969081900
+    "totalBalance": 1491764736090444300
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -198,10 +198,6 @@
       "balance": 10108283731417660,
       "username": "FKSTEP.blife"
     },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 9895978987922048,
-      "username": "6h5t7-4kzx6"
-    },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
@@ -270,12 +266,16 @@
       "balance": 5349817447095149,
       "username": "金π丨铁军丨笑哈哈"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 5222172096406476,
+      "username": "MILK"
+    },
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
     "rwmoh-b4bzc-uml6r-3rxit-u3nkv-vqdkd-cv5mq-itbcf-6ma2z-a6l3j-oae": {
-      "balance": 4562025420391692,
+      "balance": 4393613920104551,
       "username": "bulk"
     },
     "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
@@ -306,14 +306,6 @@
       "balance": 3309202497814581,
       "username": "中国人"
     },
-    "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
-      "balance": 3100247739326291,
-      "username": "7kbya-md3zv"
-    },
-    "qvlxj-6htzu-dshvw-masco-rpw7h-apteb-vupqc-o4pnh-cambn-lzxvg-qae": {
-      "balance": 3095653994722636,
-      "username": "qvlxj-6htzu"
-    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 2984946081133455,
       "username": "ICBin ∞"
@@ -341,6 +333,10 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
+    },
+    "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
+      "balance": 2087568234093991,
+      "username": "7kbya-md3zv"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
@@ -405,10 +401,6 @@
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 776425986880308,
-      "username": "MILK"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
