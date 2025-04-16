@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 113,
-    "nonSellersCount": 113,
+    "totalUsers": 114,
+    "nonSellersCount": 114,
     "sellersCount": 0,
-    "totalBalance": 1347611257875765500
+    "totalBalance": 1366146624405887000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -129,6 +129,10 @@
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
+    },
+    "y2wp3-i2vmv-sknm6-wh4do-plqec-qykwk-sgkxi-hxjuo-6qqlr-w3l2i-dae": {
+      "balance": 18535366530121796,
+      "username": "Zorobtc"
     },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 16718803537296364,
@@ -268,7 +272,7 @@
     },
     "hgx4j-dvbjj-arodb-fou3l-ldnc3-bgf3m-2f2df-wuyoe-skuef-vksxg-wae": {
       "balance": 2573697923694968,
-      "username": "符文堂｜大牛子"
+      "username": "昆仑巅｜大牛子"
     },
     "zbbno-hxlzc-zqcxy-stoni-dnqrl-zbfdu-qo3bt-6xkww-mz6zl-bc6gy-lqe": {
       "balance": 2557276518998148,
