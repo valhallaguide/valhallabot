@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 111,
-    "sellersCount": 17,
-    "totalBalance": 1258052442715815200
+    "totalUsers": 127,
+    "nonSellersCount": 109,
+    "sellersCount": 18,
+    "totalBalance": 1240289560392798000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -125,10 +125,6 @@
     "eo26p-ih4pq-3s6bn-3jghu-n7mcl-zmkyf-kydjn-p3t2d-rssmh-6bal2-aqe": {
       "balance": 19645614641157364,
       "username": "mrK"
-    },
-    "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
-      "balance": 16718803537296364,
-      "username": "MRINSIGHTS.blife"
     },
     "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
       "balance": 16221470878814220,
@@ -313,10 +309,6 @@
     "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
       "balance": 1084916446422311,
       "username": "TORGAS.blife"
-    },
-    "smgpv-eklk3-gcfak-7oqia-ei6lr-asqti-7cfyf-rlqly-pampf-dsjg4-iae": {
-      "balance": 1044078785720737,
-      "username": "Markio"
     },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 957323071229970,
