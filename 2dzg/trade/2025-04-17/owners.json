@@ -441,13 +441,6 @@
     "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png"
   },
   {
-    "user": "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae",
-    "token": "2dzg",
-    "balance": 3899459082358561,
-    "user_username": "大哥哥",
-    "user_image": "4358a05a-0eed-457d-a87e-cb9d48917576.jpg"
-  },
-  {
     "user": "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe",
     "token": "2dzg",
     "balance": 3871585748644026,
@@ -838,6 +831,13 @@
     "balance": 66381390335884,
     "user_username": "blucelee88",
     "user_image": null
+  },
+  {
+    "user": "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae",
+    "token": "2dzg",
+    "balance": 55894365572169,
+    "user_username": "大哥哥",
+    "user_image": "4358a05a-0eed-457d-a87e-cb9d48917576.jpg"
   },
   {
     "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
