@@ -1,5 +1,5 @@
 {
-  "count": 361,
+  "count": 364,
   "data": [
     {
       "id": "46384751",
@@ -5413,6 +5413,51 @@
       "bonded": true,
       "user_username": "No_name",
       "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46389022",
+      "user": "7rndy-qbjgu-4lesq-3ysyb-krkjd-q2jbd-s2wmo-n24au-cki3t-tlehf-tae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:25:34.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 28031749547470,
+      "price": 3549,
+      "bonded": true,
+      "user_username": "名称｜Bull",
+      "user_image": "c1a3c08a-9a22-4ab9-b9bb-e9125aae55c8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46388901",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-17T02:22:59.000Z",
+      "buy": true,
+      "amount_btc": 77582019,
+      "amount_token": 2182539223550691,
+      "price": 3549,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46388873",
+      "user": "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:22:41.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 2836171997767934,
+      "price": 3524,
+      "bonded": true,
+      "user_username": "axxdu-mgrui",
+      "user_image": "4c47aa0d-0c26-43b8-863f-ce35a39e85ac.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
