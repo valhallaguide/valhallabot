@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 132,
-    "nonSellersCount": 113,
+    "totalUsers": 133,
+    "nonSellersCount": 114,
     "sellersCount": 19,
-    "totalBalance": 1280296016313126000
+    "totalBalance": 1280906853110675700
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -345,6 +345,10 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
+    },
+    "56ony-ee4s2-hccxz-2prue-neqdr-4fq3v-ebr44-sd23g-crjvu-mtugh-pqe": {
+      "balance": 610836797549857,
+      "username": "Jony H"
     },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 596012261161917,
