@@ -3,7 +3,7 @@
     "totalUsers": 143,
     "nonSellersCount": 113,
     "sellersCount": 30,
-    "totalBalance": 1291645229183655700
+    "totalBalance": 1289357829184108500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -258,10 +258,6 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
-    "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
-      "balance": 2287458754980538,
-      "username": "axxdu-mgrui"
-    },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
@@ -445,6 +441,10 @@
     "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae": {
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
+    },
+    "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
+      "balance": 58755433368,
+      "username": "axxdu-mgrui"
     },
     "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
       "balance": 58444213418,
