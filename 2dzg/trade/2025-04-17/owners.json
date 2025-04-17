@@ -560,13 +560,6 @@
     "user_image": null
   },
   {
-    "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
-    "token": "2dzg",
-    "balance": 1720515118103399,
-    "user_username": "slqyniyb_ojnmfs",
-    "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png"
-  },
-  {
     "user": "omuy5-tu6bl-bkej7-bnsex-pdnwk-37f5i-g5f5j-4i3jv-yogj3-mhjak-sqe",
     "token": "2dzg",
     "balance": 1697074303847880,
@@ -901,6 +894,13 @@
     "balance": 7324390781448,
     "user_username": "符文堂｜ SOLMAXI",
     "user_image": "e75c111d-a19f-4c41-91f5-91dcdcbfc76c.png"
+  },
+  {
+    "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+    "token": "2dzg",
+    "balance": 15107658576,
+    "user_username": "slqyniyb_ojnmfs",
+    "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png"
   },
   {
     "user": "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae",
