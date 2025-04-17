@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 142,
-    "nonSellersCount": 112,
+    "totalUsers": 143,
+    "nonSellersCount": 113,
     "sellersCount": 30,
-    "totalBalance": 1289778414581503200
+    "totalBalance": 1291645229183655700
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -18,13 +18,13 @@
       "balance": 48406403049482500,
       "username": "4.blife"
     },
+    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
+      "balance": 42065838139391990,
+      "username": "独孤求败"
+    },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000252953836160,
       "username": "The Awoken"
-    },
-    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
-      "balance": 40731255991378220,
-      "username": "独孤求败"
     },
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
@@ -353,6 +353,10 @@
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
       "username": "WIZARDS."
+    },
+    "4legm-l5upq-u3gw4-xvbts-5dbtw-ecqkh-7zpav-nwyrb-ajqzp-wo6pe-zae": {
+      "balance": 532232454138589,
+      "username": "Oath"
     },
     "ddtzi-ke4qm-bm773-hnbsy-2amir-4xfgy-fr7od-47owo-mpw32-fsf43-iae": {
       "balance": 483424929751711,
