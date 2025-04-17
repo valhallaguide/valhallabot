@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
+    "totalUsers": 132,
     "nonSellersCount": 110,
-    "sellersCount": 21,
-    "totalBalance": 1277665613843951900
+    "sellersCount": 22,
+    "totalBalance": 1273873252642236200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -102,10 +102,6 @@
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
     },
-    "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
-      "balance": 23916823486680292,
-      "username": "jasper"
-    },
     "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
       "balance": 22354010095315452,
       "username": "Barrett"
@@ -117,6 +113,10 @@
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 21929358837988050,
       "username": "grgsl-q7xr3"
+    },
+    "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
+      "balance": 20124462284964616,
+      "username": "jasper"
     },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 20038152033720724,
