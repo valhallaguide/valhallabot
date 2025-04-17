@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 137,
-    "nonSellersCount": 118,
+    "totalUsers": 134,
+    "nonSellersCount": 115,
     "sellersCount": 19,
-    "totalBalance": 1290479258390581800
+    "totalBalance": 1277616741973808600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -186,10 +186,6 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
-    "epvgn-adudz-rtkr7-pph3b-3gras-s4trt-7qrlv-o3z4m-5eil5-q6etz-sqe": {
-      "balance": 9473881686275884,
-      "username": "Биткоин ЩАТАЛ ▄︻╦芫≡══一一一一一 •"
-    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 8791308451429723,
       "username": "To be a millionaire"
@@ -257,10 +253,6 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 2803076623079378,
       "username": "ddbea-3vrre"
-    },
-    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
-      "balance": 2773287088345921,
-      "username": "Ghost NODE"
     },
     "hgx4j-dvbjj-arodb-fou3l-ldnc3-bgf3m-2f2df-wuyoe-skuef-vksxg-wae": {
       "balance": 2573697923694968,
@@ -357,10 +349,6 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
-    },
-    "ffiln-igdzh-4xndm-h7ipr-x55hi-svvja-y7gpn-jglj2-ifkxr-mtj7i-5qe": {
-      "balance": 615347642151441,
-      "username": "ffiln-igdzh"
     },
     "56ony-ee4s2-hccxz-2prue-neqdr-4fq3v-ebr44-sd23g-crjvu-mtugh-pqe": {
       "balance": 610836797549857,
