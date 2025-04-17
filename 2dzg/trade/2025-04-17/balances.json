@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 105,
+    "totalUsers": 134,
+    "nonSellersCount": 108,
     "sellersCount": 26,
-    "totalBalance": 1241351441614025500
+    "totalBalance": 1265576309014554600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -130,6 +130,10 @@
       "balance": 16221470878814220,
       "username": "not domo"
     },
+    "3tba7-fz547-xrfug-nwxw5-ec2mv-f26wy-jhljj-7lmt6-rm7a5-hrzjh-mae": {
+      "balance": 14513520827164490,
+      "username": "符文堂 ende"
+    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 14218544958611916,
       "username": "H11."
@@ -177,6 +181,10 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
+    },
+    "3i6r3-4bohp-csajg-mnr25-dqxwx-vje3c-rtvy3-f6tl2-wlx7w-igk6y-cae": {
+      "balance": 9402336681688834,
+      "username": "bob"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
@@ -357,6 +365,10 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
+    },
+    "22ioo-qp7zi-t6lf2-wsxb4-hp42q-lao2l-j4x4a-vmblu-hlrm5-g2jox-mqe": {
+      "balance": 309009891675862,
+      "username": "符文堂 张大爷"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
