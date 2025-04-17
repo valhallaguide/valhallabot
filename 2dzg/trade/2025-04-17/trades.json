@@ -1,5 +1,5 @@
 {
-  "count": 374,
+  "count": 377,
   "data": [
     {
       "id": "46384751",
@@ -5608,6 +5608,51 @@
       "bonded": true,
       "user_username": "bie-laozai",
       "user_image": "def37125-5224-4ed7-ac90-b32dd0cb996e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46391769",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-04-17T03:10:55.000Z",
+      "buy": false,
+      "amount_btc": 90373198,
+      "amount_token": 2773287088345921,
+      "price": 3261,
+      "bonded": true,
+      "user_username": "Ghost NODE",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46391741",
+      "user": "ffiln-igdzh-4xndm-h7ipr-x55hi-svvja-y7gpn-jglj2-ifkxr-mtj7i-5qe",
+      "token": "2dzg",
+      "time": "2025-04-17T03:10:36.000Z",
+      "buy": false,
+      "amount_btc": 20156934,
+      "amount_token": 615347642151441,
+      "price": 3289,
+      "bonded": true,
+      "user_username": "ffiln-igdzh",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46391694",
+      "user": "epvgn-adudz-rtkr7-pph3b-3gras-s4trt-7qrlv-o3z4m-5eil5-q6etz-sqe",
+      "token": "2dzg",
+      "time": "2025-04-17T03:10:22.000Z",
+      "buy": false,
+      "amount_btc": 315218428,
+      "amount_token": 9473881686275884,
+      "price": 3295,
+      "bonded": true,
+      "user_username": "Биткоин ЩАТАЛ ▄︻╦芫≡══一一一一一 •",
+      "user_image": "c8652247-c8e1-4604-9780-9d8996d8b930.jpg",
       "decimals": 3,
       "divisibility": 8
     }
