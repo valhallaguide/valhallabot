@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 139,
+    "totalUsers": 137,
+    "nonSellersCount": 137,
     "sellersCount": 0,
-    "totalBalance": 1507767924821822200
+    "totalBalance": 1478446035304137000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -78,10 +78,6 @@
       "balance": 27684763542946800,
       "username": "ChainSurfer"
     },
-    "ts54g-iysbn-aa7p3-jy5rp-dxrtv-7b6x3-rzo7o-hnwsf-ylhcv-edcqd-tae": {
-      "balance": 26868984893614984,
-      "username": "ts54g-iysbn"
-    },
     "mcpff-pfpo5-zqj5w-ohzzt-rhfiy-ahg3v-zmlne-ufp3f-d6jup-edlkc-gqe": {
       "balance": 26862482414662416,
       "username": "BitcoinBull"
@@ -109,10 +105,6 @@
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
-    },
-    "2t32f-ht64o-x4exd-ryvpt-tw4gb-uost3-x2rbm-yorxh-qik3g-k2h7u-pae": {
-      "balance": 24009169843564064,
-      "username": "sssssssssssssssssss"
     },
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 23916823486680292,
@@ -142,6 +134,10 @@
       "balance": 20611222246218770,
       "username": "x3snx-wrugd"
     },
+    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
+      "balance": 20297165050875136,
+      "username": "jlbyr-ixrpk"
+    },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 20038152033720724,
       "username": "gogo GO"
@@ -169,6 +165,10 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 14218544958611916,
       "username": "H11."
+    },
+    "wm6cx-7mhin-gpfyy-eqpab-rfblc-4cedh-higm5-coxq7-tqjaz-orqks-eqe": {
+      "balance": 14207447906323804,
+      "username": "来自尼泰罗伊的亚历克斯"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
@@ -209,10 +209,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
-    },
-    "wm6cx-7mhin-gpfyy-eqpab-rfblc-4cedh-higm5-coxq7-tqjaz-orqks-eqe": {
-      "balance": 9622696230902648,
-      "username": "来自尼泰罗伊的亚历克斯"
     },
     "epvgn-adudz-rtkr7-pph3b-3gras-s4trt-7qrlv-o3z4m-5eil5-q6etz-sqe": {
       "balance": 9473881686275884,
@@ -297,10 +293,6 @@
     "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
       "balance": 3507271723383270,
       "username": "PHIMITRI.blife"
-    },
-    "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae": {
-      "balance": 3325651506802598,
-      "username": "No_name"
     },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 2984946081133455,
