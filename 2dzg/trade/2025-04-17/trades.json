@@ -1,5 +1,5 @@
 {
-  "count": 523,
+  "count": 527,
   "data": [
     {
       "id": "46384751",
@@ -7843,6 +7843,66 @@
       "bonded": true,
       "user_username": "割割我怕",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46425490",
+      "user": "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae",
+      "token": "2dzg",
+      "time": "2025-04-17T14:59:26.000Z",
+      "buy": true,
+      "amount_btc": 107064532,
+      "amount_token": 3874872252959079,
+      "price": 2763,
+      "bonded": true,
+      "user_username": "ktpc3-6lpkw",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46425424",
+      "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+      "token": "2dzg",
+      "time": "2025-04-17T14:58:45.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1093165537827456,
+      "price": 2734,
+      "bonded": true,
+      "user_username": "To be a millionaire",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46425419",
+      "user": "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe",
+      "token": "2dzg",
+      "time": "2025-04-17T14:58:35.000Z",
+      "buy": true,
+      "amount_btc": 156171357,
+      "amount_token": 5743953126472885,
+      "price": 2726,
+      "bonded": true,
+      "user_username": "Best of luck forever",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46425295",
+      "user": "y2wp3-i2vmv-sknm6-wh4do-plqec-qykwk-sgkxi-hxjuo-6qqlr-w3l2i-dae",
+      "token": "2dzg",
+      "time": "2025-04-17T14:57:34.000Z",
+      "buy": false,
+      "amount_btc": 1005156700,
+      "amount_token": 35814993033256270,
+      "price": 2683,
+      "bonded": true,
+      "user_username": "Zorobtc",
+      "user_image": "35e51421-b1c0-4295-a8a8-dcd4031a9930.png",
       "decimals": 3,
       "divisibility": 8
     }
