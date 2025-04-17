@@ -3,7 +3,7 @@
     "totalUsers": 141,
     "nonSellersCount": 141,
     "sellersCount": 0,
-    "totalBalance": 1525392859071871500
+    "totalBalance": 1523604510536143600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -246,10 +246,6 @@
       "balance": 7171138143954190,
       "username": "Ruine"
     },
-    "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae": {
-      "balance": 7153394142911442,
-      "username": "大哥哥"
-    },
     "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae": {
       "balance": 6926466420573709,
       "username": "ktpc3-6lpkw"
@@ -273,6 +269,10 @@
     "jwgxn-io4uo-tjr7n-3eqta-sy4hc-f6cks-y5gdc-ugooq-etj7v-gpza3-6qe": {
       "balance": 5442580483115229,
       "username": "无所谓了"
+    },
+    "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae": {
+      "balance": 5365045607183582,
+      "username": "大哥哥"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 5349817447095149,
