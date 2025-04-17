@@ -1,5 +1,5 @@
 {
-  "count": 536,
+  "count": 539,
   "data": [
     {
       "id": "46384751",
@@ -8038,6 +8038,51 @@
       "bonded": true,
       "user_username": "jjeod-cgrzb13",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435165",
+      "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+      "token": "2dzg",
+      "time": "2025-04-17T16:44:12.000Z",
+      "buy": true,
+      "amount_btc": 10546390,
+      "amount_token": 365398057889794,
+      "price": 2873,
+      "bonded": true,
+      "user_username": "Barrett",
+      "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435090",
+      "user": "22fuf-5heki-e6zo7-bnc2u-dvgaa-ha7ng-vbrj2-mp3yv-lzpw2-3c4kx-aqe",
+      "token": "2dzg",
+      "time": "2025-04-17T16:42:53.000Z",
+      "buy": false,
+      "amount_btc": 46533924,
+      "amount_token": 1625670483316087,
+      "price": 2870,
+      "bonded": true,
+      "user_username": "符文堂 大白",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435032",
+      "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+      "token": "2dzg",
+      "time": "2025-04-17T16:42:37.000Z",
+      "buy": true,
+      "amount_btc": 60000000,
+      "amount_token": 2076518357925762,
+      "price": 2883,
+      "bonded": true,
+      "user_username": "Barrett",
+      "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
       "decimals": 3,
       "divisibility": 8
     }
