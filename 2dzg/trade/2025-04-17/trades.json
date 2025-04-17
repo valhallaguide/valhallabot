@@ -1,5 +1,5 @@
 {
-  "count": 335,
+  "count": 338,
   "data": [
     {
       "id": "46384751",
@@ -5023,6 +5023,51 @@
       "bonded": true,
       "user_username": "fewzv-xinjl",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46385941",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:10:58.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4303982751174746,
+      "price": 3491,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46385931",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:10:45.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4364190262269758,
+      "price": 3443,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46385922",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:10:38.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4425670669141989,
+      "price": 3396,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
       "decimals": 3,
       "divisibility": 8
     }
