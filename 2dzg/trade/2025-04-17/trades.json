@@ -1,5 +1,5 @@
 {
-  "count": 377,
+  "count": 381,
   "data": [
     {
       "id": "46384751",
@@ -5653,6 +5653,66 @@
       "bonded": true,
       "user_username": "Биткоин ЩАТАЛ ▄︻╦芫≡══一一一一一 •",
       "user_image": "c8652247-c8e1-4604-9780-9d8996d8b930.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46393355",
+      "user": "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae",
+      "token": "2dzg",
+      "time": "2025-04-17T03:34:43.000Z",
+      "buy": true,
+      "amount_btc": 186057560,
+      "amount_token": 5660707738878045,
+      "price": 3298,
+      "bonded": true,
+      "user_username": "jlbyr-ixrpk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46393269",
+      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
+      "token": "2dzg",
+      "time": "2025-04-17T03:33:54.000Z",
+      "buy": false,
+      "amount_btc": 28323199,
+      "amount_token": 876817930845817,
+      "price": 3242,
+      "bonded": true,
+      "user_username": "PHIMITRI.blife",
+      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46393175",
+      "user": "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae",
+      "token": "2dzg",
+      "time": "2025-04-17T03:33:10.000Z",
+      "buy": true,
+      "amount_btc": 37072209,
+      "amount_token": 1136675121372412,
+      "price": 3250,
+      "bonded": true,
+      "user_username": "bit-dog",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46392942",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-17T03:31:31.000Z",
+      "buy": false,
+      "amount_btc": 70585025,
+      "amount_token": 2182539223550691,
+      "price": 3239,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
