@@ -1,5 +1,5 @@
 {
-  "count": 370,
+  "count": 373,
   "data": [
     {
       "id": "46384751",
@@ -5548,6 +5548,51 @@
       "bonded": true,
       "user_username": "名称｜Bull",
       "user_image": "c1a3c08a-9a22-4ab9-b9bb-e9125aae55c8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46390649",
+      "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:55:02.000Z",
+      "buy": false,
+      "amount_btc": 48199244,
+      "amount_token": 1484946081133455,
+      "price": 3254,
+      "bonded": true,
+      "user_username": "ICBin ∞",
+      "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46390628",
+      "user": "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe",
+      "token": "2dzg",
+      "time": "2025-04-17T02:54:51.000Z",
+      "buy": true,
+      "amount_btc": 35591262,
+      "amount_token": 1084916436400517,
+      "price": 3269,
+      "bonded": true,
+      "user_username": "TORGAS.blife",
+      "user_image": "b207971c-7d61-4272-9002-c9c7d840cbc3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46390596",
+      "user": "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe",
+      "token": "2dzg",
+      "time": "2025-04-17T02:54:15.000Z",
+      "buy": true,
+      "amount_btc": 200000000,
+      "amount_token": 6165340469416242,
+      "price": 3258,
+      "bonded": true,
+      "user_username": "TORGAS.blife",
+      "user_image": "b207971c-7d61-4272-9002-c9c7d840cbc3.png",
       "decimals": 3,
       "divisibility": 8
     }
