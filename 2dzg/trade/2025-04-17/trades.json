@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 361,
   "data": [
     {
       "id": "46384751",
@@ -5368,6 +5368,51 @@
       "bonded": true,
       "user_username": "leslie",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46388536",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:17:41.000Z",
+      "buy": true,
+      "amount_btc": 46317352,
+      "amount_token": 1322490369450448,
+      "price": 3492,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46388516",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-17T02:17:38.000Z",
+      "buy": false,
+      "amount_btc": 41917537,
+      "amount_token": 1209147691840104,
+      "price": 3477,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46388468",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:16:49.000Z",
+      "buy": true,
+      "amount_btc": 61140984,
+      "amount_token": 1747598491018459,
+      "price": 3490,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
       "decimals": 3,
       "divisibility": 8
     }
