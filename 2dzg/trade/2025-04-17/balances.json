@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 132,
+    "totalUsers": 129,
     "nonSellersCount": 109,
-    "sellersCount": 23,
-    "totalBalance": 1264967944076011300
+    "sellersCount": 20,
+    "totalBalance": 1245065994405119000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -109,10 +109,6 @@
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 22199042632945504,
       "username": "MR _DOGINAL XXXX"
-    },
-    "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
-      "balance": 21929358837988050,
-      "username": "grgsl-q7xr3"
     },
     "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
       "balance": 21252366948563704,
@@ -257,6 +253,10 @@
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 2287458754980538,
       "username": "axxdu-mgrui"
+    },
+    "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
+      "balance": 2027409167095671,
+      "username": "grgsl-q7xr3"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
