@@ -1,5 +1,5 @@
 {
-  "count": 436,
+  "count": 438,
   "data": [
     {
       "id": "46384751",
@@ -6538,6 +6538,36 @@
       "bonded": true,
       "user_username": "Barrett",
       "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46413560",
+      "user": "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae",
+      "token": "2dzg",
+      "time": "2025-04-17T10:10:31.000Z",
+      "buy": true,
+      "amount_btc": 260639460,
+      "amount_token": 8056215866482962,
+      "price": 3259,
+      "bonded": true,
+      "user_username": "Fuike",
+      "user_image": "dda79de9-0540-4a2f-bbb4-a98b64c70765.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46413478",
+      "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
+      "token": "2dzg",
+      "time": "2025-04-17T10:07:13.000Z",
+      "buy": true,
+      "amount_btc": 95300000,
+      "amount_token": 2996221523073594,
+      "price": 3179,
+      "bonded": true,
+      "user_username": "FKSTEP.blife",
+      "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg",
       "decimals": 3,
       "divisibility": 8
     }
