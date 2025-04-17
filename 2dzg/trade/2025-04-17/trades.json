@@ -1,5 +1,5 @@
 {
-  "count": 421,
+  "count": 422,
   "data": [
     {
       "id": "46384751",
@@ -6313,6 +6313,21 @@
       "bonded": true,
       "user_username": "喊爹就拉盘",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46410812",
+      "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+      "token": "2dzg",
+      "time": "2025-04-17T08:55:09.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 923671807132329,
+      "price": 3236,
+      "bonded": true,
+      "user_username": "slqyniyb_ojnmfs",
+      "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png",
       "decimals": 3,
       "divisibility": 8
     }
