@@ -1,5 +1,5 @@
 {
-  "count": 353,
+  "count": 351,
   "data": [
     {
       "id": "46384751",
@@ -5263,36 +5263,6 @@
       "bonded": true,
       "user_username": "sspro",
       "user_image": "ba59f89c-4aca-47c8-bb52-48dc38387d10.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46387536",
-      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
-      "token": "2dzg",
-      "time": "2025-04-17T01:54:44.000Z",
-      "buy": false,
-      "amount_btc": 80239512,
-      "amount_token": 2443893894810319,
-      "price": 3287,
-      "bonded": true,
-      "user_username": "No_name",
-      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46387480",
-      "user": "wm6cx-7mhin-gpfyy-eqpab-rfblc-4cedh-higm5-coxq7-tqjaz-orqks-eqe",
-      "token": "2dzg",
-      "time": "2025-04-17T01:53:22.000Z",
-      "buy": false,
-      "amount_btc": 478912088,
-      "amount_token": 14207447906323804,
-      "price": 3312,
-      "bonded": true,
-      "user_username": "来自尼泰罗伊的亚历克斯",
-      "user_image": "8b18d18d-0adb-430f-80d5-a9d68b759940.jpg",
       "decimals": 3,
       "divisibility": 8
     }
