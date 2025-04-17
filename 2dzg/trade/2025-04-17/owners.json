@@ -357,13 +357,6 @@
     "user_image": "92d25549-09ae-4ef7-a5b1-1a8cd543af38.png"
   },
   {
-    "user": "e3esj-lapvn-n4clp-6tx5h-5rkcr-f4ge7-el2dj-welsr-q5qot-kcpve-bae",
-    "token": "2dzg",
-    "balance": 8861591008200095,
-    "user_username": "🇲🇦🇲🇦🇲🇦🇲🇦🇲🇦",
-    "user_image": "291c0d25-104f-4138-95a4-736ced64310e.png"
-  },
-  {
     "user": "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae",
     "token": "2dzg",
     "balance": 7998918164717122,
@@ -574,6 +567,13 @@
     "user_image": null
   },
   {
+    "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+    "token": "2dzg",
+    "balance": 1566217751225136,
+    "user_username": "slqyniyb_ojnmfs",
+    "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png"
+  },
+  {
     "user": "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe",
     "token": "2dzg",
     "balance": 1516160382553376,
@@ -663,13 +663,6 @@
     "balance": 957323071229970,
     "user_username": "pve",
     "user_image": "2a6ac9c5-2c91-44df-afff-7a620f8b6dd9.jpg"
-  },
-  {
-    "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
-    "token": "2dzg",
-    "balance": 923671837570166,
-    "user_username": "slqyniyb_ojnmfs",
-    "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png"
   },
   {
     "user": "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae",
