@@ -1,5 +1,5 @@
 {
-  "count": 345,
+  "count": 349,
   "data": [
     {
       "id": "46384751",
@@ -5173,6 +5173,66 @@
       "bonded": true,
       "user_username": "sssssssssssssssssss",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386366",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:24:23.000Z",
+      "buy": false,
+      "amount_btc": 86558476,
+      "amount_token": 2443893894810319,
+      "price": 3545,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386294",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:22:17.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 278541631793418,
+      "price": 3573,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386289",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:22:12.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 278795045967120,
+      "price": 3570,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386284",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:22:03.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 279048806302272,
+      "price": 3567,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
       "decimals": 3,
       "divisibility": 8
     }
