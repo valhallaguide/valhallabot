@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 129,
+    "totalUsers": 130,
     "nonSellersCount": 106,
-    "sellersCount": 23,
-    "totalBalance": 1244485524451324400
+    "sellersCount": 24,
+    "totalBalance": 1244451469577300200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -402,10 +402,6 @@
       "balance": 47197564708378,
       "username": "forseti holder"
     },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 39549510605410,
-      "username": "gjjw3-5peer"
-    },
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
       "username": "yntvx-lg33w"
@@ -421,6 +417,10 @@
     "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae": {
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
+    },
+    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
+      "balance": 5494636581021,
+      "username": "gjjw3-5peer"
     },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
