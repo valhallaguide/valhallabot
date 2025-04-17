@@ -1,5 +1,5 @@
 {
-  "count": 338,
+  "count": 343,
   "data": [
     {
       "id": "46384751",
@@ -5068,6 +5068,81 @@
       "bonded": true,
       "user_username": "BACK TO0 THE MOON",
       "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386027",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:12:54.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1262206804630196,
+      "price": 3950,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386017",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:12:48.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 253097215894893,
+      "price": 3932,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386008",
+      "user": "2t32f-ht64o-x4exd-ryvpt-tw4gb-uost3-x2rbm-yorxh-qik3g-k2h7u-pae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:12:38.000Z",
+      "buy": true,
+      "amount_btc": 1000000000,
+      "amount_token": 26469713882555532,
+      "price": 3929,
+      "bonded": true,
+      "user_username": "sssssssssssssssssss",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46386003",
+      "user": "jbgzz-eyu5g-4ampu-kl5bx-s5rco-2ogea-vaq7d-gcsk7-npknj-5grl4-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:12:29.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4178535602233625,
+      "price": 3596,
+      "bonded": true,
+      "user_username": "BACK TO0 THE MOON",
+      "user_image": "93786c15-fb1c-4f10-ae05-3880364708d7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46385954",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-04-17T01:11:08.000Z",
+      "buy": true,
+      "amount_btc": 172893117,
+      "amount_token": 4887787789620638,
+      "price": 3547,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
       "decimals": 3,
       "divisibility": 8
     }
