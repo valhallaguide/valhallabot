@@ -3,7 +3,7 @@
     "totalUsers": 132,
     "nonSellersCount": 110,
     "sellersCount": 22,
-    "totalBalance": 1273873252642236200
+    "totalBalance": 1278493356526364000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -70,6 +70,10 @@
       "balance": 27684763542946800,
       "username": "ChainSurfer"
     },
+    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
+      "balance": 26974113979443236,
+      "username": "Barrett"
+    },
     "mcpff-pfpo5-zqj5w-ohzzt-rhfiy-ahg3v-zmlne-ufp3f-d6jup-edlkc-gqe": {
       "balance": 26862482414662416,
       "username": "BitcoinBull"
@@ -101,10 +105,6 @@
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
-    },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 22354010095315452,
-      "username": "Barrett"
     },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 22199042632945504,
