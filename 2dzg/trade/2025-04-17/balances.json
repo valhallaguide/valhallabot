@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 115,
+    "totalUsers": 133,
+    "nonSellersCount": 114,
     "sellersCount": 19,
-    "totalBalance": 1277616741973808600
+    "totalBalance": 1280906853110675700
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -86,6 +86,10 @@
       "balance": 26147529952312356,
       "username": "CryptoPunk9"
     },
+    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
+      "balance": 25957872789753180,
+      "username": "jlbyr-ixrpk"
+    },
     "crtbq-adv64-k54ov-ibs7g-jpaka-w46ti-nv65v-baq6u-6yatk-3uorl-wae": {
       "balance": 25872191112213040,
       "username": "CryptoSam"
@@ -113,10 +117,6 @@
     "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
       "balance": 20611222246218770,
       "username": "x3snx-wrugd"
-    },
-    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
-      "balance": 20297165050875136,
-      "username": "jlbyr-ixrpk"
     },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 20038152033720724,
@@ -150,6 +150,10 @@
       "balance": 13473111576709006,
       "username": "bie-laozai"
     },
+    "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
+      "balance": 11356677464172276,
+      "username": "bit-dog"
+    },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "GAME_PLAYER"
@@ -169,10 +173,6 @@
     "7drzv-cxofi-ehim6-otkkb-n2zha-vkxmn-5g2kw-vq66q-jjycl-r5qnr-uqe": {
       "balance": 10220821843394156,
       "username": "bigdan"
-    },
-    "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
-      "balance": 10220002342799864,
-      "username": "bit-dog"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 10149851173056274,
@@ -241,10 +241,6 @@
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
       "username": "凯旋"
-    },
-    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
-      "balance": 3507271723383270,
-      "username": "PHIMITRI.blife"
     },
     "salvp-cnisg-rcwgj-fjunh-466hw-qaeeg-zl4uw-tis2u-5tsfv-bk4gz-kae": {
       "balance": 2814061633857339,
