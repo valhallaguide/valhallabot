@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 542,
   "data": [
     {
       "id": "46384751",
@@ -8083,6 +8083,51 @@
       "bonded": true,
       "user_username": "Barrett",
       "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435602",
+      "user": "yfbey-iuxox-fjtir-k5l24-o2lb2-2itxc-ih3w3-iqq5r-clmvf-z4amo-lae",
+      "token": "2dzg",
+      "time": "2025-04-17T16:48:59.000Z",
+      "buy": true,
+      "amount_btc": 5900000,
+      "amount_token": 203177088930321,
+      "price": 2890,
+      "bonded": true,
+      "user_username": "yfbey-iuxox",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435402",
+      "user": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T16:47:48.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 172273875541310,
+      "price": 2888,
+      "bonded": true,
+      "user_username": "gjjw3-5peer",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46435314",
+      "user": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
+      "token": "2dzg",
+      "time": "2025-04-17T16:46:51.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1727315776613635,
+      "price": 2887,
+      "bonded": true,
+      "user_username": "gjjw3-5peer",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
