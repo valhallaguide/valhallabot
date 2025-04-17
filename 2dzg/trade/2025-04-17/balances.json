@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 117,
+    "totalUsers": 136,
+    "nonSellersCount": 118,
     "sellersCount": 18,
-    "totalBalance": 1278906176448584000
+    "totalBalance": 1278506146813872600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -246,10 +246,6 @@
       "balance": 3507271723383270,
       "username": "PHIMITRI.blife"
     },
-    "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
-      "balance": 2984946081133455,
-      "username": "ICBin ∞"
-    },
     "salvp-cnisg-rcwgj-fjunh-466hw-qaeeg-zl4uw-tis2u-5tsfv-bk4gz-kae": {
       "balance": 2814061633857339,
       "username": "salvp-cnisg"
@@ -302,6 +298,10 @@
       "balance": 1512179612919140,
       "username": "vu2to-6rlzb"
     },
+    "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
+      "balance": 1500000000000000,
+      "username": "ICBin ∞"
+    },
     "nr4v7-vocvh-ela2j-kvb6a-6svkw-eejqi-ofxdt-m3izb-7wxfv-ojrxm-zae": {
       "balance": 1485969411956255,
       "username": "Damn"
@@ -329,6 +329,10 @@
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 1102789061938730,
       "username": "很好吃"
+    },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 1084916446422311,
+      "username": "TORGAS.blife"
     },
     "smgpv-eklk3-gcfak-7oqia-ei6lr-asqti-7cfyf-rlqly-pampf-dsjg4-iae": {
       "balance": 1044078785720737,
