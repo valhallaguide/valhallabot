@@ -1,5 +1,5 @@
 {
-  "count": 576,
+  "count": 580,
   "data": [
     {
       "id": "46384751",
@@ -8637,6 +8637,66 @@
       "price": 3202,
       "bonded": true,
       "user_username": "p5tj2-pgr7f69",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46441852",
+      "user": "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae",
+      "token": "2dzg",
+      "time": "2025-04-17T19:14:23.000Z",
+      "buy": false,
+      "amount_btc": 126736728,
+      "amount_token": 4000000000000000,
+      "price": 3165,
+      "bonded": true,
+      "user_username": "Fuike",
+      "user_image": "dda79de9-0540-4a2f-bbb4-a98b64c70765.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46441824",
+      "user": "no7y6-fyqrg-a5iaa-vrqda-r4fan-s76ae-4le7i-eynsy-awtdb-aiil7-yqe",
+      "token": "2dzg",
+      "time": "2025-04-17T19:13:31.000Z",
+      "buy": false,
+      "amount_btc": 8263590,
+      "amount_token": 259201105002664,
+      "price": 3202,
+      "bonded": true,
+      "user_username": "Tumai",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46441819",
+      "user": "k46ke-3j2vl-2akiq-k2sie-nbpid-f427z-kigrr-axefp-zfxml-tqto5-nqe",
+      "token": "2dzg",
+      "time": "2025-04-17T19:13:17.000Z",
+      "buy": false,
+      "amount_btc": 1221938,
+      "amount_token": 38311459193296,
+      "price": 3205,
+      "bonded": true,
+      "user_username": "k46ke-3j2vl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46441814",
+      "user": "k46ke-3j2vl-2akiq-k2sie-nbpid-f427z-kigrr-axefp-zfxml-tqto5-nqe",
+      "token": "2dzg",
+      "time": "2025-04-17T19:13:08.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 31039976299130,
+      "price": 3205,
+      "bonded": true,
+      "user_username": "k46ke-3j2vl",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
