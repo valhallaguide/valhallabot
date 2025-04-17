@@ -1,5 +1,5 @@
 {
-  "count": 369,
+  "count": 370,
   "data": [
     {
       "id": "46384751",
@@ -5533,6 +5533,21 @@
       "bonded": true,
       "user_username": "Victory元宝",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46390368",
+      "user": "7rndy-qbjgu-4lesq-3ysyb-krkjd-q2jbd-s2wmo-n24au-cki3t-tlehf-tae",
+      "token": "2dzg",
+      "time": "2025-04-17T02:47:35.000Z",
+      "buy": false,
+      "amount_btc": 891804,
+      "amount_token": 28031749547470,
+      "price": 3197,
+      "bonded": true,
+      "user_username": "名称｜Bull",
+      "user_image": "c1a3c08a-9a22-4ab9-b9bb-e9125aae55c8.jpg",
       "decimals": 3,
       "divisibility": 8
     }
