@@ -1,5 +1,5 @@
 {
-  "count": 535,
+  "count": 536,
   "data": [
     {
       "id": "46384751",
@@ -8023,6 +8023,21 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46434811",
+      "user": "omuy5-tu6bl-bkej7-bnsex-pdnwk-37f5i-g5f5j-4i3jv-yogj3-mhjak-sqe",
+      "token": "2dzg",
+      "time": "2025-04-17T16:39:10.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3487708816152580,
+      "price": 2866,
+      "bonded": true,
+      "user_username": "jjeod-cgrzb13",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
