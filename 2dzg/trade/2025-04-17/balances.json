@@ -3,7 +3,7 @@
     "totalUsers": 131,
     "nonSellersCount": 107,
     "sellersCount": 24,
-    "totalBalance": 1242150532188504600
+    "totalBalance": 1245719910839963000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -234,6 +234,10 @@
       "balance": 3541993236028030,
       "username": "凯旋"
     },
+    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
+      "balance": 3529829155238696,
+      "username": "信leo还是信我是秦始皇"
+    },
     "salvp-cnisg-rcwgj-fjunh-466hw-qaeeg-zl4uw-tis2u-5tsfv-bk4gz-kae": {
       "balance": 2814061633857339,
       "username": "salvp-cnisg"
@@ -402,6 +406,10 @@
       "balance": 47197564708378,
       "username": "forseti holder"
     },
+    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
+      "balance": 39549510605410,
+      "username": "gjjw3-5peer"
+    },
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
       "username": "yntvx-lg33w"
@@ -422,17 +430,9 @@
       "balance": 58755433368,
       "username": "axxdu-mgrui"
     },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 14385734,
-      "username": "gjjw3-5peer"
-    },
     "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae": {
       "balance": 83,
       "username": "Odin.band"
-    },
-    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
-      "balance": 1,
-      "username": "信leo还是信我是秦始皇"
     }
   }
 }
