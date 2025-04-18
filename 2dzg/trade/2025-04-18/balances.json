@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
+    "totalUsers": 140,
     "nonSellersCount": 112,
-    "sellersCount": 27,
-    "totalBalance": 1200454843562600200
+    "sellersCount": 28,
+    "totalBalance": 1200554228042856000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -358,6 +358,10 @@
       "balance": 415214364117197,
       "username": "普拉巴斯特"
     },
+    "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
+      "balance": 371173768955818,
+      "username": "uhned-xb6pp"
+    },
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
       "username": "Jak to the moon"
@@ -373,10 +377,6 @@
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
-    },
-    "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
-      "balance": 271789288700281,
-      "username": "uhned-xb6pp"
     },
     "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae": {
       "balance": 238986851169586,
