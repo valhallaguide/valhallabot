@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
+    "totalUsers": 133,
     "nonSellersCount": 113,
-    "sellersCount": 21,
-    "totalBalance": 1222297546996817700
+    "sellersCount": 20,
+    "totalBalance": 1224541424643559000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -246,6 +246,10 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
+    "thrwb-7h5jt-up54f-5ls6a-hr5cr-yffwp-ebyxe-uyk5m-cty4f-nid3u-dae": {
+      "balance": 2296802134107661,
+      "username": "Nbcyw888"
+    },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
@@ -402,9 +406,9 @@
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
     },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 166455887984360,
-      "username": "d5ynk-ngy6j"
+    "e2llq-schar-4kehv-kcpch-uvw44-atpmu-52z3o-sucxs-gguzp-362lg-5ae": {
+      "balance": 113531420935986,
+      "username": "Michael Myers"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
@@ -449,10 +453,6 @@
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
       "username": "axxdu-mgrui"
-    },
-    "e2llq-schar-4kehv-kcpch-uvw44-atpmu-52z3o-sucxs-gguzp-362lg-5ae": {
-      "balance": 20318022,
-      "username": "Michael Myers"
     },
     "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae": {
       "balance": 83,
