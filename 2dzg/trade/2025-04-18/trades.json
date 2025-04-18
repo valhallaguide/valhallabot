@@ -1,5 +1,5 @@
 {
-  "count": 373,
+  "count": 374,
   "data": [
     {
       "id": "46454560",
@@ -5590,6 +5590,21 @@
       "amount_btc": 10000000,
       "amount_token": 327903954870541,
       "price": 3035,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46457159",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-04-18T05:54:05.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 327343123729197,
+      "price": 3040,
       "bonded": true,
       "user_username": "MOSES11.blife",
       "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
