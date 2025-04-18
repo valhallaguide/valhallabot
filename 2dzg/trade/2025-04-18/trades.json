@@ -1,5 +1,5 @@
 {
-  "count": 572,
+  "count": 575,
   "data": [
     {
       "id": "46454560",
@@ -8578,6 +8578,51 @@
       "bonded": true,
       "user_username": "bigdan",
       "user_image": "326d1c94-72cc-49bd-962e-f7ccf31966ab.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46488940",
+      "user": "t3bfs-kl5fa-5sy6h-sldrw-tpdwk-p4otx-mlork-h3a3o-idc4y-nd6b3-gqe",
+      "token": "2dzg",
+      "time": "2025-04-18T15:41:45.000Z",
+      "buy": false,
+      "amount_btc": 138651905,
+      "amount_token": 3621223934379931,
+      "price": 3828,
+      "bonded": true,
+      "user_username": "Ruine",
+      "user_image": "c0f1cc99-1f2f-46dc-94d9-9e1b3fb36ab8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46488909",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-18T15:40:53.000Z",
+      "buy": false,
+      "amount_btc": 38536369,
+      "amount_token": 1000000000000000,
+      "price": 3867,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46488894",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-18T15:39:42.000Z",
+      "buy": false,
+      "amount_btc": 77397017,
+      "amount_token": 2000000000000000,
+      "price": 3878,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
