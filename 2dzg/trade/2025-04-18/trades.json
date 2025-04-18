@@ -1,5 +1,5 @@
 {
-  "count": 567,
+  "count": 568,
   "data": [
     {
       "id": "46454560",
@@ -8503,6 +8503,21 @@
       "bonded": true,
       "user_username": "符文堂 ende",
       "user_image": "62f482f6-4be3-4a92-9e12-52f6d4963212.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46487774",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-18T14:59:42.000Z",
+      "buy": true,
+      "amount_btc": 10014520,
+      "amount_token": 262025794865783,
+      "price": 3804,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
