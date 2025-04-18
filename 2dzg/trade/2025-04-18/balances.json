@@ -3,7 +3,7 @@
     "totalUsers": 126,
     "nonSellersCount": 126,
     "sellersCount": 0,
-    "totalBalance": 1347725852958547700
+    "totalBalance": 1334006488200236800
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -126,10 +126,6 @@
       "balance": 20000000000000000,
       "username": "MKNOWN.blife"
     },
-    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
-      "balance": 18637818308317750,
-      "username": "x3snx-wrugd"
-    },
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 17826096588178354,
       "username": "MILK"
@@ -230,6 +226,10 @@
       "balance": 5825090941748918,
       "username": "fewzv-xinjl"
     },
+    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
+      "balance": 5743953126472885,
+      "username": "Best of luck forever"
+    },
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
       "username": "Unstoppable"
@@ -254,10 +254,6 @@
       "balance": 3871585748644026,
       "username": "卖瓜子"
     },
-    "4izrw-h6glr-345x4-2wimi-wkjcc-xcofc-v7omn-vblp2-ctepv-cigbv-yqe": {
-      "balance": 3618989588767202,
-      "username": "i am chinese"
-    },
     "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe": {
       "balance": 3597513756041701,
       "username": "DiamondHands"
@@ -277,6 +273,10 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 2803076623079378,
       "username": "ddbea-3vrre"
+    },
+    "ihwst-6iprk-jeryt-jjip2-5jht7-7gvvg-ghxlt-5dtmd-qswj5-wauet-zae": {
+      "balance": 2793490012301116,
+      "username": "ihwst-6iprk"
     },
     "hgx4j-dvbjj-arodb-fou3l-ldnc3-bgf3m-2f2df-wuyoe-skuef-vksxg-wae": {
       "balance": 2573697923694968,
