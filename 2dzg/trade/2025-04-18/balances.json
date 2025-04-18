@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
+    "totalUsers": 137,
     "nonSellersCount": 113,
-    "sellersCount": 22,
-    "totalBalance": 1194377569427428900
+    "sellersCount": 24,
+    "totalBalance": 1210599917046468900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -105,6 +105,10 @@
     "grgsl-q7xr3-leuvp-ynnc6-cquny-43gwk-kf5m6-oijcq-x2mpf-vlr4e-5qe": {
       "balance": 21929358837988050,
       "username": "grgsl-q7xr3"
+    },
+    "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
+      "balance": 20430090560203628,
+      "username": "pahnk"
     },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 20038152033720724,
@@ -221,10 +225,6 @@
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 4620306230844150,
       "username": "leslie"
-    },
-    "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
-      "balance": 4207806297819032,
-      "username": "pahnk"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
@@ -446,13 +446,13 @@
       "balance": 5494636581021,
       "username": "gjjw3-5peer"
     },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 63365857286,
+      "username": "TORGAS.blife"
+    },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
       "username": "axxdu-mgrui"
-    },
-    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
-      "balance": 9201892,
-      "username": "TORGAS.blife"
     },
     "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae": {
       "balance": 83,
