@@ -1,5 +1,5 @@
 {
-  "count": 619,
+  "count": 620,
   "data": [
     {
       "id": "46454560",
@@ -9283,6 +9283,21 @@
       "bonded": true,
       "user_username": "Tumai",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46494897",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-04-18T22:52:42.000Z",
+      "buy": true,
+      "amount_btc": 29700988,
+      "amount_token": 629837812884258,
+      "price": 4696,
+      "bonded": true,
+      "user_username": "Ghost NODE",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
