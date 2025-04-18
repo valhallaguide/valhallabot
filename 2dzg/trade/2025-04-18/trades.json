@@ -1,5 +1,5 @@
 {
-  "count": 379,
+  "count": 383,
   "data": [
     {
       "id": "46454560",
@@ -5683,6 +5683,66 @@
       "bonded": true,
       "user_username": "Fuike",
       "user_image": "dda79de9-0540-4a2f-bbb4-a98b64c70765.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46458744",
+      "user": "thrwb-7h5jt-up54f-5ls6a-hr5cr-yffwp-ebyxe-uyk5m-cty4f-nid3u-dae",
+      "token": "2dzg",
+      "time": "2025-04-18T07:02:08.000Z",
+      "buy": true,
+      "amount_btc": 80000000,
+      "amount_token": 2296802134107661,
+      "price": 3476,
+      "bonded": true,
+      "user_username": "Nbcyw888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46458663",
+      "user": "e2llq-schar-4kehv-kcpch-uvw44-atpmu-52z3o-sucxs-gguzp-362lg-5ae",
+      "token": "2dzg",
+      "time": "2025-04-18T07:00:02.000Z",
+      "buy": true,
+      "amount_btc": 180000000,
+      "amount_token": 5221481741070706,
+      "price": 3454,
+      "bonded": true,
+      "user_username": "Michael Myers",
+      "user_image": "ada64646-29ce-4520-a075-79b3ad9d42ef.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46458650",
+      "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
+      "token": "2dzg",
+      "time": "2025-04-18T06:59:41.000Z",
+      "buy": false,
+      "amount_btc": 216398864,
+      "amount_token": 6331088143963109,
+      "price": 3405,
+      "bonded": true,
+      "user_username": "6h5t7-4kzx6",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46458636",
+      "user": "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe",
+      "token": "2dzg",
+      "time": "2025-04-18T06:59:38.000Z",
+      "buy": false,
+      "amount_btc": 5740144,
+      "amount_token": 166455887984360,
+      "price": 3464,
+      "bonded": true,
+      "user_username": "d5ynk-ngy6j",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
