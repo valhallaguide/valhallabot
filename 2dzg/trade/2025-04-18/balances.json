@@ -3,7 +3,7 @@
     "totalUsers": 127,
     "nonSellersCount": 127,
     "sellersCount": 0,
-    "totalBalance": 1328462619909535500
+    "totalBalance": 1329051887118275000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -54,6 +54,10 @@
       "balance": 29361490314769504,
       "username": "unknown-M"
     },
+    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
+      "balance": 29349561121709696,
+      "username": "Barrett"
+    },
     "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae": {
       "balance": 29208612324495160,
       "username": "kittylord"
@@ -61,10 +65,6 @@
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 29177358920069692,
       "username": "Kuromi"
-    },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 28541748954358120,
-      "username": "Barrett"
     },
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
@@ -139,7 +139,7 @@
       "username": "符文堂 ende"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
-      "balance": 14218544958611916,
+      "balance": 14000000000000000,
       "username": "H11."
     },
     "23mbf-ujp3d-jur2x-h2a3k-trugm-cvmap-w7mum-63ldz-56td4-xzkz2-qqe": {
