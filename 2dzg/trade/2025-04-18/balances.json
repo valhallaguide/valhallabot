@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 137,
-    "nonSellersCount": 111,
-    "sellersCount": 26,
-    "totalBalance": 1179641273404530200
+    "totalUsers": 136,
+    "nonSellersCount": 109,
+    "sellersCount": 27,
+    "totalBalance": 1177283784724791000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -250,10 +250,6 @@
       "balance": 1959204639294651,
       "username": "Tianying"
     },
-    "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
-      "balance": 1792202562349111,
-      "username": "齐天大圣"
-    },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
@@ -329,10 +325,6 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
-    },
-    "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae": {
-      "balance": 565286117389953,
-      "username": "莫兰戈斯多塞斯"
     },
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
