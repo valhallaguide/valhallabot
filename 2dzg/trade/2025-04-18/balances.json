@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 135,
+    "totalUsers": 132,
+    "nonSellersCount": 132,
     "sellersCount": 0,
-    "totalBalance": 1400383741660205600
+    "totalBalance": 1388087443910052000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -234,10 +234,6 @@
       "balance": 5349817447095149,
       "username": "金π丨铁军丨笑哈哈"
     },
-    "ym26e-i2k3j-y5tv2-byq45-xl5oi-wgznb-4kfot-pyqot-z75as-mjogm-iqe": {
-      "balance": 5199176427668504,
-      "username": "OdinPepe"
-    },
     "ozo3b-r2yzj-df25i-jlk6r-cyw7y-fyuwz-htrdd-bq5sx-czvrx-y5qgf-sae": {
       "balance": 5191846227993167,
       "username": "hello world"
@@ -245,10 +241,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 4796881201278239,
-      "username": "6h5t7-4kzx6"
     },
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 4620306230844150,
@@ -297,10 +289,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "ihwst-6iprk-jeryt-jjip2-5jht7-7gvvg-ghxlt-5dtmd-qswj5-wauet-zae": {
-      "balance": 2300240121206708,
-      "username": "ihwst-6iprk"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
