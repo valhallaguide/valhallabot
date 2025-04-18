@@ -1,5 +1,5 @@
 {
-  "count": 606,
+  "count": 609,
   "data": [
     {
       "id": "46454560",
@@ -9088,6 +9088,51 @@
       "bonded": true,
       "user_username": "MOSES11.blife",
       "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46493062",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-18T19:37:07.000Z",
+      "buy": true,
+      "amount_btc": 36771344,
+      "amount_token": 762405491348019,
+      "price": 4804,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46493037",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-18T19:35:46.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 2082596582420083,
+      "price": 4793,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46493032",
+      "user": "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae",
+      "token": "2dzg",
+      "time": "2025-04-18T19:35:45.000Z",
+      "buy": false,
+      "amount_btc": 170439932,
+      "amount_token": 3577026157274686,
+      "price": 4762,
+      "bonded": true,
+      "user_username": "ktpc3-6lpkw",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
