@@ -490,13 +490,6 @@
     "user_image": null
   },
   {
-    "user": "ktpc3-6lpkw-ini3q-2vzf5-5fn2f-7ytzh-cjcum-gqxud-o4267-dbvco-eae",
-    "token": "2dzg",
-    "balance": 3577026157274687,
-    "user_username": "ktpc3-6lpkw",
-    "user_image": null
-  },
-  {
     "user": "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe",
     "token": "2dzg",
     "balance": 3541993236028030,
@@ -756,13 +749,6 @@
     "user_image": "263189c5-403f-43b1-bcab-8cb1bce595b6.webp"
   },
   {
-    "user": "no7y6-fyqrg-a5iaa-vrqda-r4fan-s76ae-4le7i-eynsy-awtdb-aiil7-yqe",
-    "token": "2dzg",
-    "balance": 335716687203671,
-    "user_username": "Tumai",
-    "user_image": null
-  },
-  {
     "user": "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe",
     "token": "2dzg",
     "balance": 330159908926845,
@@ -831,6 +817,13 @@
     "balance": 198999037426523,
     "user_username": "发财日记...",
     "user_image": "466e494c-c846-43d7-82ac-597ead81ccce.JPG"
+  },
+  {
+    "user": "no7y6-fyqrg-a5iaa-vrqda-r4fan-s76ae-4le7i-eynsy-awtdb-aiil7-yqe",
+    "token": "2dzg",
+    "balance": 195716687203671,
+    "user_username": "Tumai",
+    "user_image": null
   },
   {
     "user": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
