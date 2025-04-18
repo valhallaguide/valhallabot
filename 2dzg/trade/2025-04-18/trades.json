@@ -1,5 +1,5 @@
 {
-  "count": 596,
+  "count": 598,
   "data": [
     {
       "id": "46454560",
@@ -8938,6 +8938,36 @@
       "bonded": true,
       "user_username": "Ghost NODE",
       "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46492630",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-04-18T19:01:24.000Z",
+      "buy": false,
+      "amount_btc": 693807266,
+      "amount_token": 15239652451190750,
+      "price": 4470,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46492619",
+      "user": "hgx4j-dvbjj-arodb-fou3l-ldnc3-bgf3m-2f2df-wuyoe-skuef-vksxg-wae",
+      "token": "2dzg",
+      "time": "2025-04-18T18:59:52.000Z",
+      "buy": false,
+      "amount_btc": 120400019,
+      "amount_token": 2573697923694968,
+      "price": 4682,
+      "bonded": true,
+      "user_username": "昆仑社区｜大牛子",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
