@@ -1,14 +1,18 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 114,
-    "sellersCount": 25,
-    "totalBalance": 1202710814724160500
+    "totalUsers": 141,
+    "nonSellersCount": 115,
+    "sellersCount": 26,
+    "totalBalance": 1264103624696938000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 62844287289389576,
       "username": "符文堂｜Leo"
+    },
+    "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
+      "balance": 61392809972777200,
+      "username": "66zv6-oq33j"
     },
     "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
       "balance": 61392144888325144,
