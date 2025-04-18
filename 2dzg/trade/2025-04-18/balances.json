@@ -3,7 +3,7 @@
     "totalUsers": 142,
     "nonSellersCount": 114,
     "sellersCount": 28,
-    "totalBalance": 1198108597302931000
+    "totalBalance": 1201868442815864600
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -142,13 +142,13 @@
       "balance": 11674756597699072,
       "username": "bigdan"
     },
+    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
+      "balance": 11543273175789912,
+      "username": "To be a millionaire"
+    },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
-    },
-    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
-      "balance": 10919514496614732,
-      "username": "To be a millionaire"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
@@ -202,6 +202,10 @@
       "balance": 5349817447095149,
       "username": "金π丨铁军丨笑哈哈"
     },
+    "xkrhh-e74gj-guef3-lvz2e-h5xbx-naa7b-jgqcp-2lnlh-btpmb-4fpbv-kae": {
+      "balance": 5107449847207214,
+      "username": "癫癫火？"
+    },
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
@@ -245,10 +249,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "xkrhh-e74gj-guef3-lvz2e-h5xbx-naa7b-jgqcp-2lnlh-btpmb-4fpbv-kae": {
-      "balance": 1971363013448597,
-      "username": "癫癫火？"
     },
     "te7j6-bqy7u-7qjkf-e4zl3-gyrrq-zkbu2-sfcdh-mpg3w-leby7-2plrs-gqe": {
       "balance": 1959204639294651,
