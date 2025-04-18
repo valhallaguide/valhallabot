@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 122,
-    "nonSellersCount": 122,
+    "totalUsers": 123,
+    "nonSellersCount": 123,
     "sellersCount": 0,
-    "totalBalance": 1298654206732945200
+    "totalBalance": 1309340173220313600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -186,6 +186,10 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
+    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
+      "balance": 9543266673806070,
+      "username": "6h5t7-4kzx6"
+    },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 9404326989729206,
       "username": "MRINSIGHTS.blife"
@@ -262,6 +266,10 @@
       "balance": 2803076623079378,
       "username": "ddbea-3vrre"
     },
+    "ihwst-6iprk-jeryt-jjip2-5jht7-7gvvg-ghxlt-5dtmd-qswj5-wauet-zae": {
+      "balance": 2793490012301116,
+      "username": "ihwst-6iprk"
+    },
     "hgx4j-dvbjj-arodb-fou3l-ldnc3-bgf3m-2f2df-wuyoe-skuef-vksxg-wae": {
       "balance": 2573697923694968,
       "username": "昆仑社区｜大牛子"
@@ -273,10 +281,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 1650790198738763,
-      "username": "53dde-k3u2g"
     },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
