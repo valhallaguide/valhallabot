@@ -3,7 +3,7 @@
     "totalUsers": 130,
     "nonSellersCount": 130,
     "sellersCount": 0,
-    "totalBalance": 1371271389048807200
+    "totalBalance": 1367844590787866600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -50,10 +50,6 @@
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
     },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 29426798260940790,
-      "username": "Barrett"
-    },
     "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
       "balance": 29361490314769504,
       "username": "unknown-M"
@@ -89,6 +85,10 @@
     "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
       "balance": 26147529952312356,
       "username": "CryptoPunk9"
+    },
+    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
+      "balance": 26000000000000000,
+      "username": "Barrett"
     },
     "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
       "balance": 25957872789753180,
