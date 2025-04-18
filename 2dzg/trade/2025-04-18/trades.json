@@ -1,5 +1,5 @@
 {
-  "count": 528,
+  "count": 530,
   "data": [
     {
       "id": "46454560",
@@ -7918,6 +7918,36 @@
       "bonded": true,
       "user_username": "Fuike",
       "user_image": "dda79de9-0540-4a2f-bbb4-a98b64c70765.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46475963",
+      "user": "omuy5-tu6bl-bkej7-bnsex-pdnwk-37f5i-g5f5j-4i3jv-yogj3-mhjak-sqe",
+      "token": "2dzg",
+      "time": "2025-04-18T12:33:37.000Z",
+      "buy": true,
+      "amount_btc": 74055003,
+      "amount_token": 1640809345866677,
+      "price": 4501,
+      "bonded": true,
+      "user_username": "jjeod-cgrzb13",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46475768",
+      "user": "cm2tf-lp3sn-6niyl-zifnf-oyur2-a6fr7-cclsm-dbqp2-p3q62-2ks7t-gae",
+      "token": "2dzg",
+      "time": "2025-04-18T12:32:02.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1112340865407453,
+      "price": 4479,
+      "bonded": true,
+      "user_username": "cccccqqqq",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
