@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 123,
+    "totalUsers": 126,
+    "nonSellersCount": 126,
     "sellersCount": 0,
-    "totalBalance": 1309340173220313600
+    "totalBalance": 1334006488200236800
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -26,6 +26,10 @@
       "balance": 42000252953836160,
       "username": "The Awoken"
     },
+    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
+      "balance": 41564564844629400,
+      "username": "jlbyr-ixrpk"
+    },
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
       "username": "muppet man"
@@ -33,10 +37,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 36529351479831680,
       "username": "符文堂｜Leo"
-    },
-    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
-      "balance": 33707271907573256,
-      "username": "jlbyr-ixrpk"
     },
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
       "balance": 33201433543365256,
@@ -190,6 +190,10 @@
       "balance": 9543266673806070,
       "username": "6h5t7-4kzx6"
     },
+    "dcdum-3a5m3-5vypy-gq5iz-4d747-zsofh-e3rpj-shsvz-vqm2t-4o2dm-fae": {
+      "balance": 9415636331386194,
+      "username": "methane"
+    },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 9404326989729206,
       "username": "MRINSIGHTS.blife"
@@ -217,6 +221,10 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
+    },
+    "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe": {
+      "balance": 5825090941748918,
+      "username": "fewzv-xinjl"
     },
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
       "balance": 5743953126472885,
@@ -285,6 +293,10 @@
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
+    },
+    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
+      "balance": 1568294769732153,
+      "username": "53dde-k3u2g"
     },
     "mzek2-3xnao-jei6x-fm3mo-czxdx-ytqri-bk5uq-gg3ng-m3du2-b3dqn-nae": {
       "balance": 1552373740717663,
