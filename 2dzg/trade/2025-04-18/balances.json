@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 132,
-    "nonSellersCount": 113,
-    "sellersCount": 19,
-    "totalBalance": 1245016587609027800
+    "nonSellersCount": 114,
+    "sellersCount": 18,
+    "totalBalance": 1258229398328928500
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -61,6 +61,10 @@
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 29177358920069692,
       "username": "Kuromi"
+    },
+    "4gkna-tqg2p-rhmrm-fvyht-xlf3c-l2swc-37nbj-oey7u-kum7a-pwrvu-6qe": {
+      "balance": 28610333536328700,
+      "username": "Hodl 🐋"
     },
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
@@ -126,10 +130,6 @@
       "balance": 17826096588178354,
       "username": "MILK"
     },
-    "vk724-7fkev-yibzg-67gvc-4wfpd-nc7yo-34jnw-gj275-feqct-mowpv-aqe": {
-      "balance": 16620160307273370,
-      "username": "old baby"
-    },
     "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
       "balance": 16221470878814220,
       "username": "not domo"
@@ -190,6 +190,10 @@
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
     },
+    "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe": {
+      "balance": 7766744512351724,
+      "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
+    },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 7761064867486250,
       "username": "ddbea-3vrre"
@@ -205,10 +209,6 @@
     "t3bfs-kl5fa-5sy6h-sldrw-tpdwk-p4otx-mlork-h3a3o-idc4y-nd6b3-gqe": {
       "balance": 7171138143954190,
       "username": "Ruine"
-    },
-    "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe": {
-      "balance": 6908890393636330,
-      "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -369,6 +369,10 @@
     "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
       "balance": 371173768955818,
       "username": "uhned-xb6pp"
+    },
+    "vk724-7fkev-yibzg-67gvc-4wfpd-nc7yo-34jnw-gj275-feqct-mowpv-aqe": {
+      "balance": 364783372129664,
+      "username": "old baby"
     },
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
