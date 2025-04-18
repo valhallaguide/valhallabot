@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 128,
+    "totalUsers": 127,
+    "nonSellersCount": 127,
     "sellersCount": 0,
-    "totalBalance": 1331604642874622200
+    "totalBalance": 1328462619909535500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -262,10 +262,6 @@
       "balance": 3541993236028030,
       "username": "凯旋"
     },
-    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
-      "balance": 3529829155238696,
-      "username": "信leo还是信我是秦始皇"
-    },
     "salvp-cnisg-rcwgj-fjunh-466hw-qaeeg-zl4uw-tis2u-5tsfv-bk4gz-kae": {
       "balance": 2814061633857339,
       "username": "salvp-cnisg"
@@ -282,6 +278,10 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
+    "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
+      "balance": 2208375494816540,
+      "username": "slqyniyb_ojnmfs"
+    },
     "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
       "balance": 2029188888136460,
       "username": "GLD"
@@ -289,10 +289,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
-      "balance": 1820569304664615,
-      "username": "slqyniyb_ojnmfs"
     },
     "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
       "balance": 1650790198738763,
