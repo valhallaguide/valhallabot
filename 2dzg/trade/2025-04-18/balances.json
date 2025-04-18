@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 111,
+    "totalUsers": 135,
+    "nonSellersCount": 112,
     "sellersCount": 23,
-    "totalBalance": 1227579943370093000
+    "totalBalance": 1227603428649395200
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -425,6 +425,10 @@
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 29645850137765,
       "username": "DuckBro"
+    },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 23485279302158,
+      "username": "5t2it-m42p3"
     },
     "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae": {
       "balance": 12528088512181,
