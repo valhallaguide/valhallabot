@@ -532,13 +532,6 @@
     "user_image": null
   },
   {
-    "user": "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae",
-    "token": "2dzg",
-    "balance": 1792202562349111,
-    "user_username": "齐天大圣",
-    "user_image": "d54a732e-8f59-4945-89c9-23138b7c7b49.png"
-  },
-  {
     "user": "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe",
     "token": "2dzg",
     "balance": 1598499549959227,
@@ -637,6 +630,13 @@
     "user_image": "dd7a0857-34e4-49ce-9ae2-29f739b3ab05.png"
   },
   {
+    "user": "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae",
+    "token": "2dzg",
+    "balance": 896101281174556,
+    "user_username": "齐天大圣",
+    "user_image": "d54a732e-8f59-4945-89c9-23138b7c7b49.png"
+  },
+  {
     "user": "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe",
     "token": "2dzg",
     "balance": 895173792883899,
@@ -698,13 +698,6 @@
     "balance": 593855400737076,
     "user_username": "odin红岩",
     "user_image": "bdee022b-3204-4ea1-bcff-553752ab1806.jpg"
-  },
-  {
-    "user": "cx7vv-occoe-pe7gh-erkpp-suqvw-qijw5-sw4wm-sal4l-kun5h-7kzq2-cae",
-    "token": "2dzg",
-    "balance": 565286117389953,
-    "user_username": "莫兰戈斯多塞斯",
-    "user_image": null
   },
   {
     "user": "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae",
