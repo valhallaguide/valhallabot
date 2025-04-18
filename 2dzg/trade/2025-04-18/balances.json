@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 114,
+    "totalUsers": 140,
+    "nonSellersCount": 115,
     "sellersCount": 25,
-    "totalBalance": 1214224721661574700
+    "totalBalance": 1216183926300869600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -253,6 +253,10 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
+    },
+    "te7j6-bqy7u-7qjkf-e4zl3-gyrrq-zkbu2-sfcdh-mpg3w-leby7-2plrs-gqe": {
+      "balance": 1959204639294651,
+      "username": "Tianying"
     },
     "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
       "balance": 1792202562349111,
