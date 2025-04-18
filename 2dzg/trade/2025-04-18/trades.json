@@ -1,5 +1,5 @@
 {
-  "count": 578,
+  "count": 579,
   "data": [
     {
       "id": "46454560",
@@ -8668,6 +8668,21 @@
       "bonded": true,
       "user_username": "WEN DOG",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46489802",
+      "user": "6siar-kmgh7-oae4h-qxzpe-dv72g-iicvg-ygksb-rdzvn-h4ywp-n3a7q-3qe",
+      "token": "2dzg",
+      "time": "2025-04-18T16:15:01.000Z",
+      "buy": false,
+      "amount_btc": 36021427,
+      "amount_token": 914882203039605,
+      "price": 3951,
+      "bonded": true,
+      "user_username": "O…O",
+      "user_image": "dd7a0857-34e4-49ce-9ae2-29f739b3ab05.png",
       "decimals": 3,
       "divisibility": 8
     }
