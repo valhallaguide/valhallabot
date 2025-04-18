@@ -1,5 +1,5 @@
 {
-  "count": 497,
+  "count": 498,
   "data": [
     {
       "id": "46454560",
@@ -7453,6 +7453,21 @@
       "bonded": true,
       "user_username": "Michael Myers",
       "user_image": "ada64646-29ce-4520-a075-79b3ad9d42ef.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46466358",
+      "user": "fyuvs-aztwm-dbfmh-6w7bc-hs322-p3ylw-mibql-u2u6a-vfs2d-kw2md-aae",
+      "token": "2dzg",
+      "time": "2025-04-18T09:49:23.000Z",
+      "buy": false,
+      "amount_btc": 54580496,
+      "amount_token": 1200683352072587,
+      "price": 4560,
+      "bonded": true,
+      "user_username": "mh-keepbuying",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
