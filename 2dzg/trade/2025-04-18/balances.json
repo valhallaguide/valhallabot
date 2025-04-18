@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
+    "totalUsers": 140,
     "nonSellersCount": 112,
-    "sellersCount": 27,
-    "totalBalance": 1200733416065557000
+    "sellersCount": 28,
+    "totalBalance": 1226197808275261400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -13,6 +13,10 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 62844287289389576,
       "username": "符文堂｜Leo"
+    },
+    "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
+      "balance": 58665825753069550,
+      "username": "USER-NAME"
     },
     "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
       "balance": 48406403049482500,
@@ -33,10 +37,6 @@
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
       "username": "muppet man"
-    },
-    "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
-      "balance": 33201433543365256,
-      "username": "USER-NAME"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
