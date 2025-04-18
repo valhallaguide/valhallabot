@@ -63,13 +63,6 @@
     "user_image": null
   },
   {
-    "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
-    "token": "2dzg",
-    "balance": 31081357355499520,
-    "user_username": "Barrett",
-    "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg"
-  },
-  {
     "user": "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae",
     "token": "2dzg",
     "balance": 29543771459455230,
@@ -110,6 +103,13 @@
     "balance": 27684763542946800,
     "user_username": "ChainSurfer",
     "user_image": null
+  },
+  {
+    "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+    "token": "2dzg",
+    "balance": 27322557455555536,
+    "user_username": "Barrett",
+    "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg"
   },
   {
     "user": "mcpff-pfpo5-zqj5w-ohzzt-rhfiy-ahg3v-zmlne-ufp3f-d6jup-edlkc-gqe",
