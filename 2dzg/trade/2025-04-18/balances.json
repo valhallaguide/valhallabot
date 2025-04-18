@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 113,
-    "sellersCount": 23,
-    "totalBalance": 1210599917046468900
+    "totalUsers": 139,
+    "nonSellersCount": 114,
+    "sellersCount": 25,
+    "totalBalance": 1214224721661574700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -130,6 +130,10 @@
       "balance": 16221470878814220,
       "username": "not domo"
     },
+    "ky67l-l2mxl-jhmv7-jvhmf-2s6nt-db4ny-v2w2s-xo3d4-e4ahl-33qq2-rqe": {
+      "balance": 14922066314988096,
+      "username": "ky67l-l2mxl"
+    },
     "23mbf-ujp3d-jur2x-h2a3k-trugm-cvmap-w7mum-63ldz-56td4-xzkz2-qqe": {
       "balance": 13473111576709006,
       "username": "bie-laozai"
@@ -190,14 +194,6 @@
       "balance": 7766744512351724,
       "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
     },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 7761064867486250,
-      "username": "ddbea-3vrre"
-    },
-    "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
-      "balance": 7703409950278216,
-      "username": "isvcj-d7on7"
-    },
     "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
       "balance": 7442730069980060,
       "username": "MAGNUSOPIUS"
@@ -225,6 +221,10 @@
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 4620306230844150,
       "username": "leslie"
+    },
+    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
+      "balance": 3994347117162855,
+      "username": "ddbea-3vrre"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
@@ -401,6 +401,10 @@
     "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe": {
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
+    },
+    "h4qcu-uhjp3-2e5gv-nxgi7-ab6zc-cndi3-4auo5-khsac-vi555-6zrfu-2qe": {
+      "balance": 172866000719689,
+      "username": "h4qcu-uhjp3"
     },
     "e2llq-schar-4kehv-kcpch-uvw44-atpmu-52z3o-sucxs-gguzp-362lg-5ae": {
       "balance": 113531420935986,
