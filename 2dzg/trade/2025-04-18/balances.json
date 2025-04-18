@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 133,
-    "nonSellersCount": 114,
-    "sellersCount": 19,
-    "totalBalance": 1237664833484299000
+    "nonSellersCount": 112,
+    "sellersCount": 21,
+    "totalBalance": 1207249197152912600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -110,10 +110,6 @@
       "balance": 21929358837988050,
       "username": "grgsl-q7xr3"
     },
-    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
-      "balance": 21000000000000000,
-      "username": "jlbyr-ixrpk"
-    },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 20038152033720724,
       "username": "gogo GO"
@@ -181,10 +177,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
-    },
-    "dcdum-3a5m3-5vypy-gq5iz-4d747-zsofh-e3rpj-shsvz-vqm2t-4o2dm-fae": {
-      "balance": 9415636331386194,
-      "username": "methane"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
