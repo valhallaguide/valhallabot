@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 145,
-    "nonSellersCount": 116,
-    "sellersCount": 29,
-    "totalBalance": 1244195015039167700
+    "totalUsers": 144,
+    "nonSellersCount": 113,
+    "sellersCount": 31,
+    "totalBalance": 1191580450503076000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -41,10 +41,6 @@
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
-    },
-    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
-      "balance": 30696072444162572,
-      "username": "MOSES11.blife"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -122,10 +118,6 @@
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
     },
-    "45kgx-dpw4x-e3nnr-myvoi-qkobu-phukh-z7ihb-ke7yt-5ack4-fjcc4-eqe": {
-      "balance": 19658543565398516,
-      "username": "45kgx-dpw4x"
-    },
     "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
       "balance": 18056141972473700,
       "username": "vh46v-g7bhd"
@@ -186,6 +178,10 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
+    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
+      "balance": 8905536734586403,
+      "username": "ddbea-3vrre"
+    },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
@@ -193,10 +189,6 @@
     "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
       "balance": 8187980331342362,
       "username": "MAGNUSOPIUS"
-    },
-    "t3bfs-kl5fa-5sy6h-sldrw-tpdwk-p4otx-mlork-h3a3o-idc4y-nd6b3-gqe": {
-      "balance": 7171138143954190,
-      "username": "Ruine"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -221,10 +213,6 @@
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 4620306230844150,
       "username": "leslie"
-    },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 3994347117162855,
-      "username": "ddbea-3vrre"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
