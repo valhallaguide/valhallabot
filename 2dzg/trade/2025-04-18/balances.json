@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 113,
-    "sellersCount": 20,
-    "totalBalance": 1224541424643559000
+    "totalUsers": 131,
+    "nonSellersCount": 112,
+    "sellersCount": 19,
+    "totalBalance": 1221796546799794000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -186,10 +186,6 @@
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
     },
-    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
-      "balance": 7890805779637228,
-      "username": "MAGNUSOPIUS"
-    },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 7761064867486250,
       "username": "ddbea-3vrre"
@@ -197,6 +193,10 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 7703409950278216,
       "username": "isvcj-d7on7"
+    },
+    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
+      "balance": 7442730069980060,
+      "username": "MAGNUSOPIUS"
     },
     "t3bfs-kl5fa-5sy6h-sldrw-tpdwk-p4otx-mlork-h3a3o-idc4y-nd6b3-gqe": {
       "balance": 7171138143954190,
@@ -245,10 +245,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "thrwb-7h5jt-up54f-5ls6a-hr5cr-yffwp-ebyxe-uyk5m-cty4f-nid3u-dae": {
-      "balance": 2296802134107661,
-      "username": "Nbcyw888"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
