@@ -1,5 +1,5 @@
 {
-  "count": 399,
+  "count": 396,
   "data": [
     {
       "id": "46454560",
@@ -5938,51 +5938,6 @@
       "bonded": true,
       "user_username": "来财财",
       "user_image": "e1a347a0-4e3a-4776-8f54-b2c1b2a8ca29.jpeg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46460169",
-      "user": "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae",
-      "token": "2dzg",
-      "time": "2025-04-18T07:32:12.000Z",
-      "buy": false,
-      "amount_btc": 339266564,
-      "amount_token": 9000000000000000,
-      "price": 3741,
-      "bonded": true,
-      "user_username": "jlbyr-ixrpk",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46460159",
-      "user": "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae",
-      "token": "2dzg",
-      "time": "2025-04-18T07:31:57.000Z",
-      "buy": false,
-      "amount_btc": 28658324,
-      "amount_token": 749995769442040,
-      "price": 3836,
-      "bonded": true,
-      "user_username": "Victory元宝",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46460138",
-      "user": "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae",
-      "token": "2dzg",
-      "time": "2025-04-18T07:31:27.000Z",
-      "buy": false,
-      "amount_btc": 449634715,
-      "amount_token": 11564564844629400,
-      "price": 3844,
-      "bonded": true,
-      "user_username": "jlbyr-ixrpk",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
