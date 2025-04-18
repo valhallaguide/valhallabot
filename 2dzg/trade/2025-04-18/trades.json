@@ -1,5 +1,5 @@
 {
-  "count": 520,
+  "count": 523,
   "data": [
     {
       "id": "46454560",
@@ -7798,6 +7798,51 @@
       "bonded": true,
       "user_username": "dеv",
       "user_image": "74838256-8c5a-4962-9fbf-e1e5a2bbab50.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46474613",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-04-18T12:18:03.000Z",
+      "buy": false,
+      "amount_btc": 2481917,
+      "amount_token": 50000000000000,
+      "price": 4988,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46474584",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-04-18T12:17:54.000Z",
+      "buy": false,
+      "amount_btc": 1241104,
+      "amount_token": 25000000000000,
+      "price": 4989,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46474509",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-04-18T12:17:17.000Z",
+      "buy": false,
+      "amount_btc": 12416323,
+      "amount_token": 250000000000000,
+      "price": 4989,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
       "decimals": 3,
       "divisibility": 8
     }
