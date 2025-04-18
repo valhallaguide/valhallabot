@@ -1,12 +1,5 @@
 [
   {
-    "user": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
-    "token": "2dzg",
-    "balance": 101773648533673400,
-    "user_username": "valhalla.guide",
-    "user_image": "ad088bf8-2fa8-4fca-a1d2-fdd2eab136c3.png"
-  },
-  {
     "user": "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae",
     "token": "2dzg",
     "balance": 62844287289389576,
@@ -26,6 +19,13 @@
     "balance": 48406403049482500,
     "user_username": "4.blife",
     "user_image": null
+  },
+  {
+    "user": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
+    "token": "2dzg",
+    "balance": 47412651021926240,
+    "user_username": "valhalla.guide",
+    "user_image": "ad088bf8-2fa8-4fca-a1d2-fdd2eab136c3.png"
   },
   {
     "user": "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe",
