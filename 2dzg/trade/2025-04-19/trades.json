@@ -1,5 +1,5 @@
 {
-  "count": 380,
+  "count": 377,
   "data": [
     {
       "id": "46497603",
@@ -5653,51 +5653,6 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501328",
-      "user": "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:10:35.000Z",
-      "buy": true,
-      "amount_btc": 50000000,
-      "amount_token": 916162470114430,
-      "price": 5438,
-      "bonded": true,
-      "user_username": "奥丁资本",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501313",
-      "user": "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:10:24.000Z",
-      "buy": true,
-      "amount_btc": 926922932,
-      "amount_token": 17504133611964068,
-      "price": 5421,
-      "bonded": true,
-      "user_username": "4.blife",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501197",
-      "user": "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:06:55.000Z",
-      "buy": true,
-      "amount_btc": 70000000,
-      "amount_token": 1363162475323310,
-      "price": 5120,
-      "bonded": true,
-      "user_username": "奥丁资本",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
