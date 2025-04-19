@@ -1,5 +1,5 @@
 {
-  "count": 380,
+  "count": 383,
   "data": [
     {
       "id": "46497603",
@@ -5697,6 +5697,51 @@
       "price": 5120,
       "bonded": true,
       "user_username": "奥丁资本",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46501449",
+      "user": "uzgfw-oi2xx-eyedk-2ybr4-npypk-pdnmt-qs6ax-fqw5j-fqyw4-i323w-mqe",
+      "token": "2dzg",
+      "time": "2025-04-19T04:15:39.000Z",
+      "buy": true,
+      "amount_btc": 66312395,
+      "amount_token": 1195674306233196,
+      "price": 5529,
+      "bonded": true,
+      "user_username": "BB 1usdt buy",
+      "user_image": "046b0a34-0e3e-41fd-bd14-073548a83d7f.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46501412",
+      "user": "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe",
+      "token": "2dzg",
+      "time": "2025-04-19T04:14:26.000Z",
+      "buy": true,
+      "amount_btc": 120000000,
+      "amount_token": 2175924209415206,
+      "price": 5507,
+      "bonded": true,
+      "user_username": "gll",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46501373",
+      "user": "iz3do-henho-jo4yu-7jnzp-mjlhe-aovhj-vsksh-o3d6t-ayw63-fps4q-tae",
+      "token": "2dzg",
+      "time": "2025-04-19T04:12:30.000Z",
+      "buy": true,
+      "amount_btc": 87569860,
+      "amount_token": 1597882884643586,
+      "price": 5467,
+      "bonded": true,
+      "user_username": "猫🐱11",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
