@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 141,
-    "nonSellersCount": 117,
-    "sellersCount": 24,
-    "totalBalance": 1168458957244364800
+    "nonSellersCount": 116,
+    "sellersCount": 25,
+    "totalBalance": 1143407176170675000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -66,10 +66,6 @@
       "balance": 26749992539240044,
       "username": "planBCrypto"
     },
-    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
-      "balance": 26661490314769504,
-      "username": "unknown-M"
-    },
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
       "balance": 26586496585601670,
       "username": "To the Valhalla"
@@ -130,13 +126,13 @@
       "balance": 14922066314988096,
       "username": "ky67l-l2mxl"
     },
+    "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
+      "balance": 13792929103106536,
+      "username": "BigFoot"
+    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 12758805109141562,
       "username": "To be a millionaire"
-    },
-    "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
-      "balance": 12183219862025988,
-      "username": "BigFoot"
     },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
