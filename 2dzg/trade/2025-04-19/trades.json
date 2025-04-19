@@ -1,5 +1,5 @@
 {
-  "count": 398,
+  "count": 394,
   "data": [
     {
       "id": "46497603",
@@ -5908,66 +5908,6 @@
       "bonded": true,
       "user_username": "猫🐱11",
       "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501713",
-      "user": "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:25:56.000Z",
-      "buy": true,
-      "amount_btc": 118000000,
-      "amount_token": 1931413793818034,
-      "price": 6099,
-      "bonded": true,
-      "user_username": "USER-NAME",
-      "user_image": "952ac913-e28a-44a5-8abc-dbd141c69b01.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501695",
-      "user": "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:25:39.000Z",
-      "buy": true,
-      "amount_btc": 118000000,
-      "amount_token": 1944569572294600,
-      "price": 6058,
-      "bonded": true,
-      "user_username": "USER-NAME",
-      "user_image": "952ac913-e28a-44a5-8abc-dbd141c69b01.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501676",
-      "user": "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe",
-      "token": "2dzg",
-      "time": "2025-04-19T04:24:58.000Z",
-      "buy": true,
-      "amount_btc": 118000000,
-      "amount_token": 1957860293889332,
-      "price": 6017,
-      "bonded": true,
-      "user_username": "USER-NAME",
-      "user_image": "952ac913-e28a-44a5-8abc-dbd141c69b01.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46501671",
-      "user": "evsxw-qksz3-wzczf-knehe-46tzo-tuln3-pnxz3-yohd3-7efuc-a4c2l-wae",
-      "token": "2dzg",
-      "time": "2025-04-19T04:24:54.000Z",
-      "buy": true,
-      "amount_btc": 594339056,
-      "amount_token": 10068510923062034,
-      "price": 5976,
-      "bonded": true,
-      "user_username": "Mr. Odin",
-      "user_image": "ceaeca41-f9da-4a73-95d3-18adb5ed8080.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
