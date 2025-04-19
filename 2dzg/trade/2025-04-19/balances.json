@@ -1,11 +1,15 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 118,
+    "totalUsers": 139,
+    "nonSellersCount": 119,
     "sellersCount": 20,
-    "totalBalance": 1279814981786200300
+    "totalBalance": 1295717336369264400
   },
   "data": {
+    "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
+      "balance": 64499669413071520,
+      "username": "USER-NAME"
+    },
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
       "balance": 64019867442161310,
       "username": "To the Valhalla"
@@ -13,10 +17,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 62844287289389576,
       "username": "符文堂｜Leo"
-    },
-    "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
-      "balance": 58665825753069550,
-      "username": "USER-NAME"
     },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
@@ -174,6 +174,10 @@
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
     },
+    "evsxw-qksz3-wzczf-knehe-46tzo-tuln3-pnxz3-yohd3-7efuc-a4c2l-wae": {
+      "balance": 10068510923062034,
+      "username": "Mr. Odin"
+    },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 9782222038296026,
       "username": "👑King"
@@ -304,7 +308,7 @@
     },
     "uzgfw-oi2xx-eyedk-2ybr4-npypk-pdnmt-qs6ax-fqw5j-fqyw4-i323w-mqe": {
       "balance": 1195674306233196,
-      "username": "BB 1usdt buy"
+      "username": "BB 💎🫴🏻"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
