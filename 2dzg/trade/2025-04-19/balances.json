@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 116,
+    "totalUsers": 133,
+    "nonSellersCount": 114,
     "sellersCount": 19,
-    "totalBalance": 1270664210151215400
+    "totalBalance": 1265694728750923500
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -142,10 +142,6 @@
       "balance": 14922066314988096,
       "username": "ky67l-l2mxl"
     },
-    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
-      "balance": 12819597790623752,
-      "username": "gll"
-    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 12758805109141562,
       "username": "To be a millionaire"
@@ -161,6 +157,10 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "GAME_PLAYER"
+    },
+    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
+      "balance": 10643673581208548,
+      "username": "gll"
     },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
@@ -270,10 +270,6 @@
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
     },
-    "iz3do-henho-jo4yu-7jnzp-mjlhe-aovhj-vsksh-o3d6t-ayw63-fps4q-tae": {
-      "balance": 1597882884643586,
-      "username": "猫🐱11"
-    },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
       "username": "f5sjn-alw4i"
@@ -297,10 +293,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "uzgfw-oi2xx-eyedk-2ybr4-npypk-pdnmt-qs6ax-fqw5j-fqyw4-i323w-mqe": {
-      "balance": 1195674306233196,
-      "username": "BB 1usdt buy"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
