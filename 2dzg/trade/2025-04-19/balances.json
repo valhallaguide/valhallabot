@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 140,
-    "nonSellersCount": 120,
+    "totalUsers": 142,
+    "nonSellersCount": 122,
     "sellersCount": 20,
-    "totalBalance": 1298544268427265500
+    "totalBalance": 1301775974287087000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -62,6 +62,10 @@
       "balance": 27983037290951332,
       "username": "LilyLiu"
     },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 27871034773869884,
+      "username": "5t2it-m42p3"
+    },
     "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae": {
       "balance": 27684763542946800,
       "username": "ChainSurfer"
@@ -73,10 +77,6 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
       "username": "planBCrypto"
-    },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 26501533108694760,
-      "username": "5t2it-m42p3"
     },
     "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
       "balance": 26359173694348988,
@@ -298,6 +298,10 @@
       "balance": 1485969411956255,
       "username": "Damn"
     },
+    "77i3i-rt7ia-xqdbq-j5jpc-7metf-rszjw-nbuas-eecga-ih7d7-k2ld2-7qe": {
+      "balance": 1440708785978577,
+      "username": "eggdhkesukdshkddgh傻逼"
+    },
     "yg75l-n3xpo-e3lxz-nqv3z-qgd2r-kugg6-lkxtr-4wzqc-yogui-yik5j-sae": {
       "balance": 1380995325503125,
       "username": "yg75l-n3xpo"
@@ -377,6 +381,10 @@
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 475763483296148,
       "username": "cola999"
+    },
+    "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
+      "balance": 421495408667964,
+      "username": "SNEK"
     },
     "k4i4q-ysx6t-ru2r6-lt7ew-5lcoe-tmval-xgysf-jgca4-geuz5-nkenn-pae": {
       "balance": 415214364117197,
