@@ -1,5 +1,5 @@
 {
-  "count": 502,
+  "count": 504,
   "data": [
     {
       "id": "46497603",
@@ -7528,6 +7528,36 @@
       "bonded": true,
       "user_username": "MOSES11.blife",
       "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46520910",
+      "user": "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe",
+      "token": "2dzg",
+      "time": "2025-04-19T14:35:42.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1066861939629160,
+      "price": 4670,
+      "bonded": true,
+      "user_username": "hjj",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46520682",
+      "user": "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae",
+      "token": "2dzg",
+      "time": "2025-04-19T14:32:33.000Z",
+      "buy": true,
+      "amount_btc": 500000000,
+      "amount_token": 10851196132706536,
+      "price": 4655,
+      "bonded": true,
+      "user_username": "odin-发",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
