@@ -3,7 +3,7 @@
     "totalUsers": 141,
     "nonSellersCount": 117,
     "sellersCount": 24,
-    "totalBalance": 1171158957244364800
+    "totalBalance": 1168458957244364800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -42,10 +42,6 @@
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
     },
-    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
-      "balance": 29361490314769504,
-      "username": "unknown-M"
-    },
     "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae": {
       "balance": 29208612324495160,
       "username": "kittylord"
@@ -69,6 +65,10 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
       "username": "planBCrypto"
+    },
+    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
+      "balance": 26661490314769504,
+      "username": "unknown-M"
     },
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
       "balance": 26586496585601670,
