@@ -1,5 +1,5 @@
 {
-  "count": 472,
+  "count": 475,
   "data": [
     {
       "id": "46497603",
@@ -7078,6 +7078,51 @@
       "bonded": true,
       "user_username": "MOSES11.blife",
       "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46512495",
+      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
+      "token": "2dzg",
+      "time": "2025-04-19T10:28:38.000Z",
+      "buy": true,
+      "amount_btc": 59803229,
+      "amount_token": 1287353742769909,
+      "price": 4631,
+      "bonded": true,
+      "user_username": "PHIMITRI.blife",
+      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46512484",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-19T10:28:33.000Z",
+      "buy": true,
+      "amount_btc": 7000000,
+      "amount_token": 151014454956281,
+      "price": 4613,
+      "bonded": true,
+      "user_username": "5t2it-m42p3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46512465",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-19T10:28:13.000Z",
+      "buy": true,
+      "amount_btc": 700000000,
+      "amount_token": 15459556802550588,
+      "price": 4610,
+      "bonded": true,
+      "user_username": "5t2it-m42p3",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
