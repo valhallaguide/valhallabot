@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 142,
+    "totalUsers": 143,
     "nonSellersCount": 122,
-    "sellersCount": 20,
-    "totalBalance": 1296142071135604000
+    "sellersCount": 21,
+    "totalBalance": 1305170142121841200
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -126,6 +126,10 @@
       "balance": 18637818308317750,
       "username": "x3snx-wrugd"
     },
+    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
+      "balance": 18056141972473700,
+      "username": "vh46v-g7bhd"
+    },
     "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe": {
       "balance": 17923296829583120,
       "username": "Black Lotus"
@@ -185,10 +189,6 @@
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 9404326989729206,
       "username": "MRINSIGHTS.blife"
-    },
-    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
-      "balance": 9028070986236848,
-      "username": "vh46v-g7bhd"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
