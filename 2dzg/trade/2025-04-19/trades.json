@@ -1,5 +1,5 @@
 {
-  "count": 429,
+  "count": 430,
   "data": [
     {
       "id": "46497603",
@@ -6433,6 +6433,21 @@
       "bonded": true,
       "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46504560",
+      "user": "7rndy-qbjgu-4lesq-3ysyb-krkjd-q2jbd-s2wmo-n24au-cki3t-tlehf-tae",
+      "token": "2dzg",
+      "time": "2025-04-19T06:35:48.000Z",
+      "buy": true,
+      "amount_btc": 171030614,
+      "amount_token": 3092610182886396,
+      "price": 5530,
+      "bonded": true,
+      "user_username": "名称｜Bull",
+      "user_image": "c1a3c08a-9a22-4ab9-b9bb-e9125aae55c8.jpg",
       "decimals": 3,
       "divisibility": 8
     }
