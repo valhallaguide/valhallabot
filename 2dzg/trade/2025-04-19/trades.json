@@ -1,5 +1,5 @@
 {
-  "count": 443,
+  "count": 445,
   "data": [
     {
       "id": "46497603",
@@ -6643,6 +6643,36 @@
       "bonded": true,
       "user_username": "ejakh-jejiw",
       "user_image": "a686a484-9825-47a6-b92e-7b79a498a71a.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46505444",
+      "user": "aquoz-vlkbq-z4jd3-4phx6-w2lfe-z42wq-brlxc-faj34-ar3n3-rund3-wae",
+      "token": "2dzg",
+      "time": "2025-04-19T07:37:47.000Z",
+      "buy": true,
+      "amount_btc": 40000000,
+      "amount_token": 755433234070766,
+      "price": 5274,
+      "bonded": true,
+      "user_username": "带我飞",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46505431",
+      "user": "c473x-hpyqn-xi6zm-smmbt-mcxwn-5fcf7-2vo6y-ozpnf-4mb7e-4gqoa-sae",
+      "token": "2dzg",
+      "time": "2025-04-19T07:37:30.000Z",
+      "buy": false,
+      "amount_btc": 1306865,
+      "amount_token": 24959374363353,
+      "price": 5262,
+      "bonded": true,
+      "user_username": "科学家Bot丨3",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
