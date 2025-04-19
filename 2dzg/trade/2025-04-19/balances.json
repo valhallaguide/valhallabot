@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 117,
-    "sellersCount": 21,
-    "totalBalance": 1214971396081065500
+    "totalUsers": 140,
+    "nonSellersCount": 118,
+    "sellersCount": 22,
+    "totalBalance": 1216258749823835400
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -297,6 +297,10 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 1287353742769909,
+      "username": "PHIMITRI.blife"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
