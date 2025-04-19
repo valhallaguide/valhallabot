@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 141,
-    "nonSellersCount": 120,
-    "sellersCount": 21,
-    "totalBalance": 1250780743868476200
+    "nonSellersCount": 119,
+    "sellersCount": 22,
+    "totalBalance": 1248175276900160300
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -42,6 +42,10 @@
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
     },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 30240271470018184,
+      "username": "5t2it-m42p3"
+    },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
@@ -61,10 +65,6 @@
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
       "username": "LilyLiu"
-    },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 27871034773869884,
-      "username": "5t2it-m42p3"
     },
     "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae": {
       "balance": 27684763542946800,
@@ -217,10 +217,6 @@
     "iz3do-henho-jo4yu-7jnzp-mjlhe-aovhj-vsksh-o3d6t-ayw63-fps4q-tae": {
       "balance": 5203412585422690,
       "username": "猫🐱11"
-    },
-    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
-      "balance": 4974703664463901,
-      "username": "gll"
     },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
