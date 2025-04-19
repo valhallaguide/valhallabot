@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1453633879862550500
+    "totalBalance": 1443102710786025200
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -110,6 +110,10 @@
       "balance": 22661000655355064,
       "username": "Fuike"
     },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 22590719164128600,
+      "username": "5t2it-m42p3"
+    },
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 22492840052380864,
       "username": "jasper"
@@ -146,17 +150,9 @@
       "balance": 18056141972473700,
       "username": "vh46v-g7bhd"
     },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 17949992551633246,
-      "username": "5t2it-m42p3"
-    },
     "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe": {
       "balance": 17923296829583120,
       "username": "Black Lotus"
-    },
-    "hzqt6-aj2vf-c4icx-bod7y-fhiga-ofrkg-fjxvg-3sg6f-vsd76-enpzo-uae": {
-      "balance": 17794693822174916,
-      "username": "嫂子开门儿，我是我"
     },
     "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
       "balance": 16221470878814220,
@@ -293,6 +289,10 @@
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 3025631615488566,
       "username": "slqyniyb_ojnmfs"
+    },
+    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
+      "balance": 2622798133154522,
+      "username": "gll"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
