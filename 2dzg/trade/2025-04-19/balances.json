@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 119,
+    "totalUsers": 142,
+    "nonSellersCount": 122,
     "sellersCount": 20,
-    "totalBalance": 1282877583306190600
+    "totalBalance": 1296142071135604000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -186,6 +186,10 @@
       "balance": 9404326989729206,
       "username": "MRINSIGHTS.blife"
     },
+    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
+      "balance": 9028070986236848,
+      "username": "vh46v-g7bhd"
+    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -253,6 +257,10 @@
     "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe": {
       "balance": 3518386906351608,
       "username": "奥丁资本"
+    },
+    "djs53-tywb3-o5kkj-qpzmh-id5gf-huvaf-kznam-3y7oj-gfm7z-vloan-aqe": {
+      "balance": 3358824807202487,
+      "username": "ejcuvtdue"
     },
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 3025631615488566,
@@ -325,6 +333,10 @@
     "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe": {
       "balance": 895173792883899,
       "username": "割割我怕"
+    },
+    "mvl2j-ng476-za35w-z3aqx-spu62-og7zf-pkeqy-erpdl-hmk3k-3uabu-cqe": {
+      "balance": 877592035974025,
+      "username": "BTC忠实信仰者"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
