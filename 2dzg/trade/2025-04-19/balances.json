@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 116,
-    "sellersCount": 19,
-    "totalBalance": 1211499269357589200
+    "totalUsers": 138,
+    "nonSellersCount": 117,
+    "sellersCount": 21,
+    "totalBalance": 1214971396081065500
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -237,6 +237,10 @@
     "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe": {
       "balance": 3518386906351608,
       "username": "奥丁资本"
+    },
+    "jpfi7-j5ycb-jm7xe-vyjlr-4vz7q-vzsgg-sucsl-x5b5m-rkaqb-kfpnx-iae": {
+      "balance": 3472126723476127,
+      "username": "科学家Bot丨I'm bob"
     },
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 3025631615488566,
