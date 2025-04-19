@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 141,
+    "totalUsers": 142,
     "nonSellersCount": 120,
-    "sellersCount": 21,
-    "totalBalance": 1250780743868476200
+    "sellersCount": 22,
+    "totalBalance": 1260780743868476000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -130,6 +130,10 @@
       "balance": 16221470878814220,
       "username": "not domo"
     },
+    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
+      "balance": 14974703664463900,
+      "username": "gll"
+    },
     "ky67l-l2mxl-jhmv7-jvhmf-2s6nt-db4ny-v2w2s-xo3d4-e4ahl-33qq2-rqe": {
       "balance": 14922066314988096,
       "username": "ky67l-l2mxl"
@@ -217,10 +221,6 @@
     "iz3do-henho-jo4yu-7jnzp-mjlhe-aovhj-vsksh-o3d6t-ayw63-fps4q-tae": {
       "balance": 5203412585422690,
       "username": "猫🐱11"
-    },
-    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
-      "balance": 4974703664463901,
-      "username": "gll"
     },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
