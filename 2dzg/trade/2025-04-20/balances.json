@@ -1,11 +1,15 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 139,
+    "totalUsers": 138,
+    "nonSellersCount": 138,
     "sellersCount": 0,
-    "totalBalance": 1328274722257845500
+    "totalBalance": 1366688566427410000
   },
   "data": {
+    "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
+      "balance": 82764840852241020,
+      "username": "seer00X"
+    },
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
       "balance": 64499669413071520,
       "username": "Minting-$VOLK"
@@ -33,10 +37,6 @@
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 40190437483258056,
       "username": "muppet man"
-    },
-    "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
-      "balance": 36354518444005350,
-      "username": "seer00X"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -210,10 +210,6 @@
       "balance": 7923647805150646,
       "username": "ddbea-3vrre"
     },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 7498311128133365,
-      "username": "6h5t7-4kzx6"
-    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 7435845491179805,
       "username": "ICBin ∞"
@@ -298,10 +294,6 @@
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
     },
-    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 1947059598946125,
-      "username": "Best of luck forever"
-    },
     "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
       "balance": 1913669874198961,
       "username": "53dde-k3u2g"
@@ -325,6 +317,10 @@
     "nr4v7-vocvh-ela2j-kvb6a-6svkw-eejqi-ofxdt-m3izb-7wxfv-ojrxm-zae": {
       "balance": 1485969411956255,
       "username": "Damn"
+    },
+    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
+      "balance": 1448892488408443,
+      "username": "Encek"
     },
     "77i3i-rt7ia-xqdbq-j5jpc-7metf-rszjw-nbuas-eecga-ih7d7-k2ld2-7qe": {
       "balance": 1440708785978577,
