@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 130,
-    "nonSellersCount": 130,
+    "totalUsers": 129,
+    "nonSellersCount": 129,
     "sellersCount": 0,
-    "totalBalance": 1293215331714655200
+    "totalBalance": 1272976653869566200
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -35,7 +35,7 @@
       "username": "muppet man"
     },
     "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 37305099804843600,
+      "balance": 40140588481581940,
       "username": "5t2it-m42"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
@@ -97,10 +97,6 @@
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 24200000000000000,
       "username": "MILK"
-    },
-    "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae": {
-      "balance": 23356647484876532,
-      "username": "Fuike"
     },
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 22492840052380864,
@@ -282,6 +278,10 @@
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
     },
+    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
+      "balance": 1846444537343988,
+      "username": "53dde-k3u2g"
+    },
     "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
       "balance": 1616541283015469,
       "username": "Encek"
@@ -289,10 +289,6 @@
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
-    },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 1563963574295098,
-      "username": "53dde-k3u2g"
     },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
