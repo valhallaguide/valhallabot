@@ -3,7 +3,7 @@
     "totalUsers": 129,
     "nonSellersCount": 129,
     "sellersCount": 0,
-    "totalBalance": 1314598863502715000
+    "totalBalance": 1314360981761066800
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -378,10 +378,6 @@
       "balance": 483424929751711,
       "username": "博尔特"
     },
-    "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
-      "balance": 475763483296148,
-      "username": "cola999"
-    },
     "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
       "balance": 421495408667964,
       "username": "SNEK"
@@ -421,6 +417,10 @@
     "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae": {
       "balance": 238986851169586,
       "username": "3bbgm-elddd"
+    },
+    "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
+      "balance": 237881741648074,
+      "username": "cola999"
     },
     "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe": {
       "balance": 237523484105680,
