@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 134,
+    "totalUsers": 135,
+    "nonSellersCount": 135,
     "sellersCount": 0,
-    "totalBalance": 1331092116006854700
+    "totalBalance": 1336587882849658400
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -146,6 +146,10 @@
       "balance": 12758805109141562,
       "username": "To be a millionaire"
     },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 11995038719289278,
+      "username": "5t2it-m42p3"
+    },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
@@ -177,10 +181,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
-    },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 9629798751284224,
-      "username": "5t2it-m42p3"
     },
     "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
       "balance": 9404326989729206,
@@ -265,6 +265,10 @@
     "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe": {
       "balance": 3518386906351608,
       "username": "奥丁资本"
+    },
+    "7rndy-qbjgu-4lesq-3ysyb-krkjd-q2jbd-s2wmo-n24au-cki3t-tlehf-tae": {
+      "balance": 3130526874798539,
+      "username": "名称｜Bull"
     },
     "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
       "balance": 2903712735947973,
