@@ -3,7 +3,7 @@
     "totalUsers": 135,
     "nonSellersCount": 135,
     "sellersCount": 0,
-    "totalBalance": 1322434421754014500
+    "totalBalance": 1319390246784642600
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -194,10 +194,6 @@
       "balance": 8187980331342362,
       "username": "MAGNUSOPIUS"
     },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 7923647805150646,
-      "username": "ddbea-3vrre"
-    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 7435845491179805,
       "username": "ICBin ∞"
@@ -237,6 +233,10 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
+    },
+    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
+      "balance": 4886717513584040,
+      "username": "ddbea-3vrre"
     },
     "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
       "balance": 4199372324748422,
@@ -510,10 +510,6 @@
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
     },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 7244698761603,
-      "username": "gjjw3-5peer"
-    },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
       "username": "axxdu-mgrui"
@@ -521,6 +517,10 @@
     "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
       "balance": 32392186601,
       "username": "TORGAS.blife"
+    },
+    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
+      "balance": 20956490,
+      "username": "gjjw3-5peer"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 17069705,
