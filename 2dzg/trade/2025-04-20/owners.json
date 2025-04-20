@@ -140,13 +140,6 @@
     "user_image": null
   },
   {
-    "user": "crtbq-adv64-k54ov-ibs7g-jpaka-w46ti-nv65v-baq6u-6yatk-3uorl-wae",
-    "token": "2dzg",
-    "balance": 25872191112213040,
-    "user_username": "CryptoSam",
-    "user_image": null
-  },
-  {
     "user": "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe",
     "token": "2dzg",
     "balance": 25004420106582064,
@@ -354,13 +347,6 @@
     "token": "2dzg",
     "balance": 7004858649962549,
     "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
-    "user_image": null
-  },
-  {
-    "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
-    "token": "2dzg",
-    "balance": 6997191154055498,
-    "user_username": "6h5t7-4kzx6",
     "user_image": null
   },
   {
@@ -914,6 +900,13 @@
     "token": "2dzg",
     "balance": 83,
     "user_username": "Odin.band",
+    "user_image": null
+  },
+  {
+    "user": "crtbq-adv64-k54ov-ibs7g-jpaka-w46ti-nv65v-baq6u-6yatk-3uorl-wae",
+    "token": "2dzg",
+    "balance": 39,
+    "user_username": "CryptoSam",
     "user_image": null
   },
   {
