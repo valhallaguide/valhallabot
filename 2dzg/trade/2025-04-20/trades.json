@@ -1,5 +1,5 @@
 {
-  "count": 294,
+  "count": 296,
   "data": [
     {
       "id": "46558541",
@@ -4408,6 +4408,36 @@
       "bonded": true,
       "user_username": "RAKIABODY.blife",
       "user_image": "6c022edb-d830-4aca-ab92-13a7272c69bb.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46563803",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-20T23:35:08.000Z",
+      "buy": false,
+      "amount_btc": 297016363,
+      "amount_token": 7984126402666138,
+      "price": 3701,
+      "bonded": true,
+      "user_username": "bgffuvcc",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46563789",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-20T23:34:32.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 7984126402666138,
+      "price": 3776,
+      "bonded": true,
+      "user_username": "bgffuvcc",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
