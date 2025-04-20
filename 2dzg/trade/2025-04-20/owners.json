@@ -329,13 +329,6 @@
     "user_image": "88e6c826-1d39-4962-8591-5331cfe6cd73.webp"
   },
   {
-    "user": "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae",
-    "token": "2dzg",
-    "balance": 7923647805150646,
-    "user_username": "ddbea-3vrre",
-    "user_image": null
-  },
-  {
     "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
     "token": "2dzg",
     "balance": 7435845491179805,
@@ -403,6 +396,13 @@
     "token": "2dzg",
     "balance": 4917621246714855,
     "user_username": "Moby Dick",
+    "user_image": null
+  },
+  {
+    "user": "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae",
+    "token": "2dzg",
+    "balance": 4886717513584040,
+    "user_username": "ddbea-3vrre",
     "user_image": null
   },
   {
@@ -882,13 +882,6 @@
     "user_image": "e75c111d-a19f-4c41-91f5-91dcdcbfc76c.png"
   },
   {
-    "user": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
-    "token": "2dzg",
-    "balance": 7244698761603,
-    "user_username": "gjjw3-5peer",
-    "user_image": null
-  },
-  {
     "user": "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae",
     "token": "2dzg",
     "balance": 58755433368,
@@ -901,6 +894,13 @@
     "balance": 32392186601,
     "user_username": "TORGAS.blife",
     "user_image": "b207971c-7d61-4272-9002-c9c7d840cbc3.png"
+  },
+  {
+    "user": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
+    "token": "2dzg",
+    "balance": 20956490,
+    "user_username": "gjjw3-5peer",
+    "user_image": null
   },
   {
     "user": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
