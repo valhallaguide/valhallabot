@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 133,
+    "totalUsers": 135,
+    "nonSellersCount": 135,
     "sellersCount": 0,
-    "totalBalance": 1338722060838603800
+    "totalBalance": 1322434421754014500
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -121,10 +121,6 @@
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
-    },
-    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
-      "balance": 19282679486345324,
-      "username": "TORGAS.blife"
     },
     "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe": {
       "balance": 17923296829583120,
@@ -286,6 +282,10 @@
       "balance": 1913669874198961,
       "username": "53dde-k3u2g"
     },
+    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
+      "balance": 1606841465552192,
+      "username": "Encek"
+    },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
@@ -321,6 +321,10 @@
     "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
       "balance": 1287353742769909,
       "username": "PHIMITRI.blife"
+    },
+    "vp5jc-ufqxt-qc5t7-vzdlr-cllfc-a4dgl-qvyig-jfwip-ekhn4-ycoeg-vqe": {
+      "balance": 1264687402240080,
+      "username": "ghjcfyghjh"
     },
     "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe": {
       "balance": 1230967455230940,
@@ -414,6 +418,10 @@
       "balance": 348877003860349,
       "username": "Jak to the moon"
     },
+    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
+      "balance": 331015918071935,
+      "username": "d5ynk-ngy6j"
+    },
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 330159908926845,
       "username": "gundam"
@@ -445,10 +453,6 @@
     "p44ug-accwv-cfxfo-n67gb-fsiz5-x2uu7-gqcsc-c66el-vgb3r-kcutf-rae": {
       "balance": 227651586196216,
       "username": "p44ug-accwv"
-    },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 207536776294353,
-      "username": "d5ynk-ngy6j"
     },
     "yfbey-iuxox-fjtir-k5l24-o2lb2-2itxc-ih3w3-iqq5r-clmvf-z4amo-lae": {
       "balance": 203177088930321,
@@ -513,6 +517,10 @@
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
       "username": "axxdu-mgrui"
+    },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 32392186601,
+      "username": "TORGAS.blife"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 17069705,
