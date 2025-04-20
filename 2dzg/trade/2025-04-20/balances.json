@@ -3,7 +3,7 @@
     "totalUsers": 135,
     "nonSellersCount": 135,
     "sellersCount": 0,
-    "totalBalance": 1385728396855168000
+    "totalBalance": 1366445780734679800
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -125,10 +125,6 @@
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
-    },
-    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
-      "balance": 19282679486345324,
-      "username": "TORGAS.blife"
     },
     "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe": {
       "balance": 17923296829583120,
@@ -517,6 +513,10 @@
     "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
       "balance": 7244698761603,
       "username": "gjjw3-5peer"
+    },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 63365857286,
+      "username": "TORGAS.blife"
     },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
