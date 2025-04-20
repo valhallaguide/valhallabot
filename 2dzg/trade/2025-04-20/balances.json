@@ -3,7 +3,7 @@
     "totalUsers": 141,
     "nonSellersCount": 141,
     "sellersCount": 0,
-    "totalBalance": 1363169828188873000
+    "totalBalance": 1361580645647012900
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -94,10 +94,6 @@
       "balance": 25872191112213040,
       "username": "CryptoSam"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 25789182541860188,
-      "username": "MILK"
-    },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
       "username": "0xSatoshiFan"
@@ -105,6 +101,10 @@
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
+    },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 24200000000000000,
+      "username": "MILK"
     },
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 22492840052380864,
