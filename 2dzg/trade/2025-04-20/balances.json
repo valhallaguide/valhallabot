@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 134,
+    "totalUsers": 133,
+    "nonSellersCount": 133,
     "sellersCount": 0,
-    "totalBalance": 1344381618487961900
+    "totalBalance": 1311512236221693200
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -85,10 +85,6 @@
     "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
       "balance": 26147529952312356,
       "username": "CryptoPunk9"
-    },
-    "crtbq-adv64-k54ov-ibs7g-jpaka-w46ti-nv65v-baq6u-6yatk-3uorl-wae": {
-      "balance": 25872191112213040,
-      "username": "CryptoSam"
     },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
@@ -209,10 +205,6 @@
     "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe": {
       "balance": 7004858649962549,
       "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
-    },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 6997191154055498,
-      "username": "6h5t7-4kzx6"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -529,6 +521,10 @@
     "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae": {
       "balance": 83,
       "username": "Odin.band"
+    },
+    "crtbq-adv64-k54ov-ibs7g-jpaka-w46ti-nv65v-baq6u-6yatk-3uorl-wae": {
+      "balance": 39,
+      "username": "CryptoSam"
     },
     "ozjul-snw22-6nrqh-ueu6v-6yfgx-5shbn-xbrep-uzpdj-4vvvu-f3xmu-wqe": {
       "balance": 2,
