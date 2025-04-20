@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 131,
+    "totalUsers": 130,
+    "nonSellersCount": 130,
     "sellersCount": 0,
-    "totalBalance": 1308518815896892000
+    "totalBalance": 1293215331714655200
   },
   "data": {
     "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
@@ -129,10 +129,6 @@
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 17311843658839164,
       "username": "共识+V:joytok18"
-    },
-    "qpghi-m3re3-psx4u-cy43u-bvwuq-ray5r-5ce4r-tuky5-3lmmo-d3hu5-dae": {
-      "balance": 15572325089956712,
-      "username": "qpghi-frdae"
     },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 14494780516240720,
@@ -294,6 +290,10 @@
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
     },
+    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
+      "balance": 1563963574295098,
+      "username": "53dde-k3u2g"
+    },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
       "username": "f5sjn-alw4i"
@@ -317,10 +317,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 1295122666574958,
-      "username": "53dde-k3u2g"
     },
     "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe": {
       "balance": 1230967455230940,
