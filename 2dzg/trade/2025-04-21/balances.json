@@ -1,18 +1,14 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 116,
-    "sellersCount": 11,
-    "totalBalance": 1311657384966360300
+    "totalUsers": 128,
+    "nonSellersCount": 115,
+    "sellersCount": 13,
+    "totalBalance": 1228892544114119400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
       "balance": 84660243093611220,
       "username": "To the Valhalla"
-    },
-    "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
-      "balance": 82764840852241020,
-      "username": "seer00X"
     },
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
       "balance": 64499669413071520,
