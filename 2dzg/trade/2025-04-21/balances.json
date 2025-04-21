@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 115,
+    "totalUsers": 127,
+    "nonSellersCount": 114,
     "sellersCount": 13,
-    "totalBalance": 1228892544114119400
+    "totalBalance": 1228260630920894500
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -305,10 +305,6 @@
     "aquoz-vlkbq-z4jd3-4phx6-w2lfe-z42wq-brlxc-faj34-ar3n3-rund3-wae": {
       "balance": 755433234070766,
       "username": "带我飞"
-    },
-    "g3t7d-h5eke-x2nwl-e5bj7-lc2g4-avxft-oecc6-y7bdv-jllxd-ks7ed-bae": {
-      "balance": 631913193225035,
-      "username": "大会的萨格"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
