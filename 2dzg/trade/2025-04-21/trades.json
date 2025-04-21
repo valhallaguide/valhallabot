@@ -1,5 +1,5 @@
 {
-  "count": 138,
+  "count": 139,
   "data": [
     {
       "id": "46567403",
@@ -2068,6 +2068,21 @@
       "bonded": true,
       "user_username": "TORGAS.blife",
       "user_image": "b207971c-7d61-4272-9002-c9c7d840cbc3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46573697",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-21T06:25:22.000Z",
+      "buy": false,
+      "amount_btc": 41038499,
+      "amount_token": 1049843081187105,
+      "price": 3922,
+      "bonded": true,
+      "user_username": "GLD",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
