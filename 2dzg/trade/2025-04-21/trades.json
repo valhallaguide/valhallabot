@@ -1,5 +1,5 @@
 {
-  "count": 159,
+  "count": 163,
   "data": [
     {
       "id": "46567403",
@@ -2382,6 +2382,66 @@
       "price": 4309,
       "bonded": true,
       "user_username": "53dde-k3u2g",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46586064",
+      "user": "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe",
+      "token": "2dzg",
+      "time": "2025-04-21T10:31:24.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 250149014641519,
+      "price": 3979,
+      "bonded": true,
+      "user_username": "53dde-k3u2g",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46586050",
+      "user": "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe",
+      "token": "2dzg",
+      "time": "2025-04-21T10:31:14.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 250324389761966,
+      "price": 3976,
+      "bonded": true,
+      "user_username": "53dde-k3u2g",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46586019",
+      "user": "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe",
+      "token": "2dzg",
+      "time": "2025-04-21T10:30:52.000Z",
+      "buy": false,
+      "amount_btc": 1237879778,
+      "amount_token": 30000020426120510,
+      "price": 3973,
+      "bonded": true,
+      "user_username": "seer00X",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46585664",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-21T10:27:39.000Z",
+      "buy": true,
+      "amount_btc": 66248172,
+      "amount_token": 1526258544755317,
+      "price": 4328,
+      "bonded": true,
+      "user_username": "GLD",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
