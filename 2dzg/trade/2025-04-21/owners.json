@@ -112,13 +112,6 @@
     "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg"
   },
   {
-    "user": "mcpff-pfpo5-zqj5w-ohzzt-rhfiy-ahg3v-zmlne-ufp3f-d6jup-edlkc-gqe",
-    "token": "2dzg",
-    "balance": 26862482414662416,
-    "user_username": "BitcoinBull",
-    "user_image": null
-  },
-  {
     "user": "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae",
     "token": "2dzg",
     "balance": 26749992539240044,
@@ -490,13 +483,6 @@
     "user_image": null
   },
   {
-    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
-    "token": "2dzg",
-    "balance": 1526258544755317,
-    "user_username": "GLD",
-    "user_image": null
-  },
-  {
     "user": "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe",
     "token": "2dzg",
     "balance": 1516160382553376,
@@ -515,6 +501,13 @@
     "token": "2dzg",
     "balance": 1512179612919140,
     "user_username": "vu2to-6rlzb",
+    "user_image": null
+  },
+  {
+    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+    "token": "2dzg",
+    "balance": 1511058412317089,
+    "user_username": "GLD",
     "user_image": null
   },
   {
