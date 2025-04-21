@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 120,
+    "totalUsers": 130,
+    "nonSellersCount": 119,
     "sellersCount": 11,
-    "totalBalance": 1296162476500094000
+    "totalBalance": 1319532246069662700
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -81,6 +81,10 @@
     "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
       "balance": 26359173694348988,
       "username": "MangoMarkets"
+    },
+    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
+      "balance": 26273514697703148,
+      "username": "TORGAS.blife"
     },
     "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
       "balance": 26147529952312356,
@@ -241,10 +245,6 @@
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
       "username": "凯旋"
-    },
-    "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
-      "balance": 2903712735947973,
-      "username": "odin-发"
     },
     "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe": {
       "balance": 2874299901767694,
@@ -457,10 +457,6 @@
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
       "username": "axxdu-mgrui"
-    },
-    "vd3d7-xvpz4-w26t6-yfryk-eh3nb-z5nf5-vvyc4-2kprp-c2wqv-s5oug-6qe": {
-      "balance": 32392186601,
-      "username": "TORGAS.blife"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 17069705,
