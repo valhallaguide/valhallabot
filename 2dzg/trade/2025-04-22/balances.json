@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 120,
-    "nonSellersCount": 120,
-    "sellersCount": 0,
-    "totalBalance": 1282536857565676000
+    "nonSellersCount": 113,
+    "sellersCount": 7,
+    "totalBalance": 1136642886869799400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -18,10 +18,6 @@
       "balance": 59684482437091710,
       "username": "符文堂｜Leo"
     },
-    "6zo4w-fgwss-wiond-fbb4e-p45w3-wwn7k-edghp-zu5mm-tq4es-wrjwt-3qe": {
-      "balance": 52764820426120510,
-      "username": "seer00X"
-    },
     "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
       "balance": 50393733021419496,
       "username": "独孤求败"
@@ -34,10 +30,6 @@
       "balance": 42028465416065656,
       "username": "Dovah"
     },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 33622114896154040,
-      "username": "5t2it-m42"
-    },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
@@ -45,10 +37,6 @@
     "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae": {
       "balance": 30458374628355540,
       "username": "xn2f7-ifshx"
-    },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 29681441247963064,
-      "username": "▄︻┯芜ˣ⁼⁼⁼⁼⁼⁼⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻ ᶜᶻ"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -126,10 +114,6 @@
       "balance": 17298568470506050,
       "username": "ky67l-l2mxl"
     },
-    "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
-      "balance": 16013282758495860,
-      "username": "H11."
-    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 14758177125816992,
       "username": "To be a millionaire"
@@ -137,10 +121,6 @@
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 13792929103106536,
       "username": "BigFoot"
-    },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 13345443325392090,
-      "username": "6h5t7-4kzx6"
     },
     "odjgu-d7cgx-p6kpm-h66il-4b7rm-e566k-5ptl6-53clg-dlbmu-6hemz-4qe": {
       "balance": 12173863907269940,
@@ -350,10 +330,6 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 466768041750686,
-      "username": "d5ynk-ngy6j"
-    },
     "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
       "balance": 421495408667964,
       "username": "SNEK"
@@ -445,10 +421,6 @@
     "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae": {
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
-    },
-    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
-      "balance": 100000000000,
-      "username": "The heartbeat bangs"
     },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
