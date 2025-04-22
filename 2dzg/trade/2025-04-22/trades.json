@@ -1,5 +1,5 @@
 {
-  "count": 296,
+  "count": 297,
   "data": [
     {
       "id": "46634230",
@@ -4438,6 +4438,21 @@
       "bonded": true,
       "user_username": "Black Lotus",
       "user_image": "be90ab2a-3c2c-48a2-af7e-64ff30c43577.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46673018",
+      "user": "bbdoj-y757l-m7acj-5hoja-mzxce-czidi-tzwuq-2lj54-nxj5p-mscib-3ae",
+      "token": "2dzg",
+      "time": "2025-04-22T23:22:06.000Z",
+      "buy": false,
+      "amount_btc": 47682662,
+      "amount_token": 1631305300416173,
+      "price": 2931,
+      "bonded": true,
+      "user_username": "准备起飞",
+      "user_image": "ba800945-8344-49d0-9124-ab62283f03ad.jpg",
       "decimals": 3,
       "divisibility": 8
     }
