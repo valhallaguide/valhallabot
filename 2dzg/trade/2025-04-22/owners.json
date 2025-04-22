@@ -42,13 +42,6 @@
     "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
   },
   {
-    "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
-    "token": "2dzg",
-    "balance": 34106853680988504,
-    "user_username": "5t2it-m42",
-    "user_image": null
-  },
-  {
     "user": "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae",
     "token": "2dzg",
     "balance": 32982291413674750,
@@ -189,6 +182,13 @@
     "user_image": "183158b2-c62a-4000-bf34-7c1794828836.png"
   },
   {
+    "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+    "token": "2dzg",
+    "balance": 19185105195556030,
+    "user_username": "5t2it-m42",
+    "user_image": null
+  },
+  {
     "user": "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe",
     "token": "2dzg",
     "balance": 17923296829583120,
@@ -231,13 +231,6 @@
     "user_image": null
   },
   {
-    "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
-    "token": "2dzg",
-    "balance": 14196518656859382,
-    "user_username": "6h5t7-4kzx6",
-    "user_image": null
-  },
-  {
     "user": "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe",
     "token": "2dzg",
     "balance": 13792929103106536,
@@ -270,13 +263,6 @@
     "token": "2dzg",
     "balance": 10811442120218028,
     "user_username": "GAME_PLAYER",
-    "user_image": null
-  },
-  {
-    "user": "qpghi-m3re3-psx4u-cy43u-bvwuq-ray5r-5ce4r-tuky5-3lmmo-d3hu5-dae",
-    "token": "2dzg",
-    "balance": 10679562451908304,
-    "user_username": "qpghi-frdae",
     "user_image": null
   },
   {
@@ -495,13 +481,6 @@
     "balance": 3049512455370789,
     "user_username": "SNEK",
     "user_image": null
-  },
-  {
-    "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
-    "token": "2dzg",
-    "balance": 3000000000000000,
-    "user_username": "MOSES11.blife",
-    "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png"
   },
   {
     "user": "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae",
