@@ -1,0 +1,430 @@
+[
+  {
+    "Principal": "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae",
+    "Amount": 84660243093611220
+  },
+  {
+    "Principal": "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe",
+    "Amount": 64499669413071520
+  },
+  {
+    "Principal": "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae",
+    "Amount": 59684482437091710
+  },
+  {
+    "Principal": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
+    "Amount": 47412651021926240
+  },
+  {
+    "Principal": "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe",
+    "Amount": 44664215566150184
+  },
+  {
+    "Principal": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+    "Amount": 44647178601998870
+  },
+  {
+    "Principal": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
+    "Amount": 42000252953836160
+  },
+  {
+    "Principal": "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae",
+    "Amount": 32982291413674750
+  },
+  {
+    "Principal": "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae",
+    "Amount": 30458374628355540
+  },
+  {
+    "Principal": "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae",
+    "Amount": 29543771459455230
+  },
+  {
+    "Principal": "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae",
+    "Amount": 29208612324495160
+  },
+  {
+    "Principal": "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae",
+    "Amount": 27983037290951332
+  },
+  {
+    "Principal": "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae",
+    "Amount": 27684763542946800
+  },
+  {
+    "Principal": "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae",
+    "Amount": 26749992539240044
+  },
+  {
+    "Principal": "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae",
+    "Amount": 26661490314769504
+  },
+  {
+    "Principal": "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe",
+    "Amount": 26359173694348988
+  },
+  {
+    "Principal": "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe",
+    "Amount": 26147529952312356
+  },
+  {
+    "Principal": "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe",
+    "Amount": 25004420106582064
+  },
+  {
+    "Principal": "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae",
+    "Amount": 24764048130376172
+  },
+  {
+    "Principal": "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae",
+    "Amount": 22492840052380864
+  },
+  {
+    "Principal": "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae",
+    "Amount": 22199042632945504
+  },
+  {
+    "Principal": "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe",
+    "Amount": 20430090560203628
+  },
+  {
+    "Principal": "my6qv-mlikj-xk2k5-r5xot-lnclz-qflae-diozb-7dvcz-43vwd-tgd4m-qqe",
+    "Amount": 20403857379390820
+  },
+  {
+    "Principal": "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe",
+    "Amount": 20000000000000000
+  },
+  {
+    "Principal": "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe",
+    "Amount": 17923296829583120
+  },
+  {
+    "Principal": "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae",
+    "Amount": 17311843658839164
+  },
+  {
+    "Principal": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+    "Amount": 14758177125816992
+  },
+  {
+    "Principal": "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe",
+    "Amount": 13792929103106536
+  },
+  {
+    "Principal": "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae",
+    "Amount": 11356677464172276
+  },
+  {
+    "Principal": "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae",
+    "Amount": 10811442120218028
+  },
+  {
+    "Principal": "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe",
+    "Amount": 10500757818513568
+  },
+  {
+    "Principal": "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe",
+    "Amount": 10462042455977318
+  },
+  {
+    "Principal": "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae",
+    "Amount": 10320343471240672
+  },
+  {
+    "Principal": "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe",
+    "Amount": 9782222038296026
+  },
+  {
+    "Principal": "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae",
+    "Amount": 9631135052230792
+  },
+  {
+    "Principal": "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe",
+    "Amount": 9404326989729206
+  },
+  {
+    "Principal": "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae",
+    "Amount": 8900402998486548
+  },
+  {
+    "Principal": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
+    "Amount": 8774107277299572
+  },
+  {
+    "Principal": "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae",
+    "Amount": 8561394098609697
+  },
+  {
+    "Principal": "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe",
+    "Amount": 8354815757366572
+  },
+  {
+    "Principal": "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae",
+    "Amount": 8187980331342362
+  },
+  {
+    "Principal": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
+    "Amount": 7435845491179805
+  },
+  {
+    "Principal": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
+    "Amount": 7323215076948842
+  },
+  {
+    "Principal": "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe",
+    "Amount": 6044860718951457
+  },
+  {
+    "Principal": "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe",
+    "Amount": 5669000695023501
+  },
+  {
+    "Principal": "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe",
+    "Amount": 5000000000000000
+  },
+  {
+    "Principal": "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae",
+    "Amount": 4927293145988130
+  },
+  {
+    "Principal": "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae",
+    "Amount": 4917621246714855
+  },
+  {
+    "Principal": "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae",
+    "Amount": 4886717513584040
+  },
+  {
+    "Principal": "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe",
+    "Amount": 3871585748644026
+  },
+  {
+    "Principal": "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe",
+    "Amount": 3719156398597797
+  },
+  {
+    "Principal": "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe",
+    "Amount": 3703565218347823
+  },
+  {
+    "Principal": "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe",
+    "Amount": 3541993236028030
+  },
+  {
+    "Principal": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
+    "Amount": 3155256756968063
+  },
+  {
+    "Principal": "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae",
+    "Amount": 2908780489808965
+  },
+  {
+    "Principal": "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe",
+    "Amount": 2874299901767694
+  },
+  {
+    "Principal": "x5ijg-wwoor-kppqm-vnwfg-yh6cj-pyguj-gfmdq-xeosr-7m6vw-fmip6-3qe",
+    "Amount": 2868422653938418
+  },
+  {
+    "Principal": "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe",
+    "Amount": 2461060189762385
+  },
+  {
+    "Principal": "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae",
+    "Amount": 1991374004848860
+  },
+  {
+    "Principal": "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe",
+    "Amount": 1598499549959227
+  },
+  {
+    "Principal": "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe",
+    "Amount": 1516160382553376
+  },
+  {
+    "Principal": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+    "Amount": 1512815826914518
+  },
+  {
+    "Principal": "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe",
+    "Amount": 1512179612919140
+  },
+  {
+    "Principal": "nr4v7-vocvh-ela2j-kvb6a-6svkw-eejqi-ofxdt-m3izb-7wxfv-ojrxm-zae",
+    "Amount": 1485969411956255
+  },
+  {
+    "Principal": "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae",
+    "Amount": 1306279927902199
+  },
+  {
+    "Principal": "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe",
+    "Amount": 1299866761790557
+  },
+  {
+    "Principal": "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe",
+    "Amount": 1230967455230940
+  },
+  {
+    "Principal": "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae",
+    "Amount": 1126648240528628
+  },
+  {
+    "Principal": "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae",
+    "Amount": 1102789061938730
+  },
+  {
+    "Principal": "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe",
+    "Amount": 828336243999451
+  },
+  {
+    "Principal": "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae",
+    "Amount": 788983440753631
+  },
+  {
+    "Principal": "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae",
+    "Amount": 765219399310963
+  },
+  {
+    "Principal": "aquoz-vlkbq-z4jd3-4phx6-w2lfe-z42wq-brlxc-faj34-ar3n3-rund3-wae",
+    "Amount": 755433234070766
+  },
+  {
+    "Principal": "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe",
+    "Amount": 630583363198936
+  },
+  {
+    "Principal": "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae",
+    "Amount": 615946484608948
+  },
+  {
+    "Principal": "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe",
+    "Amount": 615395972687099
+  },
+  {
+    "Principal": "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe",
+    "Amount": 596012261161917
+  },
+  {
+    "Principal": "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae",
+    "Amount": 593855400737076
+  },
+  {
+    "Principal": "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae",
+    "Amount": 551163968799962
+  },
+  {
+    "Principal": "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe",
+    "Amount": 421495408667964
+  },
+  {
+    "Principal": "k4i4q-ysx6t-ru2r6-lt7ew-5lcoe-tmval-xgysf-jgca4-geuz5-nkenn-pae",
+    "Amount": 415214364117197
+  },
+  {
+    "Principal": "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe",
+    "Amount": 355899660046888
+  },
+  {
+    "Principal": "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae",
+    "Amount": 348877003860349
+  },
+  {
+    "Principal": "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe",
+    "Amount": 330159908926845
+  },
+  {
+    "Principal": "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae",
+    "Amount": 326837436264380
+  },
+  {
+    "Principal": "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe",
+    "Amount": 277626153946160
+  },
+  {
+    "Principal": "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae",
+    "Amount": 275909724863493
+  },
+  {
+    "Principal": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
+    "Amount": 271789288700281
+  },
+  {
+    "Principal": "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae",
+    "Amount": 238986851169586
+  },
+  {
+    "Principal": "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe",
+    "Amount": 237523484105680
+  },
+  {
+    "Principal": "p44ug-accwv-cfxfo-n67gb-fsiz5-x2uu7-gqcsc-c66el-vgb3r-kcutf-rae",
+    "Amount": 227651586196216
+  },
+  {
+    "Principal": "yfbey-iuxox-fjtir-k5l24-o2lb2-2itxc-ih3w3-iqq5r-clmvf-z4amo-lae",
+    "Amount": 203177088930321
+  },
+  {
+    "Principal": "sotbo-rmkba-hxf4w-54b6w-fgfhd-6i4v4-lr4n3-dhbdo-irvhg-t6srr-3ae",
+    "Amount": 198999037426523
+  },
+  {
+    "Principal": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
+    "Amount": 189153918581828
+  },
+  {
+    "Principal": "h4qcu-uhjp3-2e5gv-nxgi7-ab6zc-cndi3-4auo5-khsac-vi555-6zrfu-2qe",
+    "Amount": 172866000719689
+  },
+  {
+    "Principal": "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe",
+    "Amount": 70073621520772
+  },
+  {
+    "Principal": "sdgxm-5dris-d2ly5-wxm2b-34liq-r2knr-b2ovf-6lrmi-fwy2r-zychm-qqe",
+    "Amount": 66381390335884
+  },
+  {
+    "Principal": "kej6w-igclr-rufct-lcrgn-trl6m-op4t5-dofpr-quvjx-anxcf-pg2a4-cqe",
+    "Amount": 65913461892905
+  },
+  {
+    "Principal": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+    "Amount": 47197564708378
+  },
+  {
+    "Principal": "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae",
+    "Amount": 34097882664381
+  },
+  {
+    "Principal": "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe",
+    "Amount": 29645850137765
+  },
+  {
+    "Principal": "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae",
+    "Amount": 12528088512181
+  },
+  {
+    "Principal": "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae",
+    "Amount": 7324390781448
+  },
+  {
+    "Principal": "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae",
+    "Amount": 58755433368
+  },
+  {
+    "Principal": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
+    "Amount": 17069705
+  },
+  {
+    "Principal": "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe",
+    "Amount": 8069629
+  },
+  {
+    "Principal": "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe",
+    "Amount": 2776888
+  }
+]
