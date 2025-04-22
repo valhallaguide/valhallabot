@@ -1,5 +1,5 @@
 {
-  "count": 297,
+  "count": 298,
   "data": [
     {
       "id": "46634230",
@@ -4453,6 +4453,21 @@
       "bonded": true,
       "user_username": "准备起飞",
       "user_image": "ba800945-8344-49d0-9124-ab62283f03ad.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46673615",
+      "user": "brppy-2hvki-5dyjw-ejnim-bcli5-xf36t-2nloh-5atly-f4fwd-sp2k3-lqe",
+      "token": "2dzg",
+      "time": "2025-04-22T23:45:46.000Z",
+      "buy": false,
+      "amount_btc": 331960101,
+      "amount_token": 11540182669567484,
+      "price": 2850,
+      "bonded": true,
+      "user_username": "yyxx",
+      "user_image": "326477eb-0aa5-4a54-b08e-35c43ab21a07.png",
       "decimals": 3,
       "divisibility": 8
     }
