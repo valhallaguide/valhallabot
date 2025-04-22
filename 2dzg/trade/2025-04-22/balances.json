@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 129,
-    "nonSellersCount": 116,
-    "sellersCount": 13,
-    "totalBalance": 1169204645702863000
+    "totalUsers": 127,
+    "nonSellersCount": 115,
+    "sellersCount": 12,
+    "totalBalance": 1158769252895579400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -145,10 +145,6 @@
     "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
       "balance": 10462042455977318,
       "username": "Nobody can"
-    },
-    "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
-      "balance": 10435392807283444,
-      "username": "符文堂｜法务部"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
