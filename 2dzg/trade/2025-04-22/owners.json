@@ -91,13 +91,6 @@
     "user_image": null
   },
   {
-    "user": "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae",
-    "token": "2dzg",
-    "balance": 27684763542946800,
-    "user_username": "ChainSurfer",
-    "user_image": null
-  },
-  {
     "user": "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae",
     "token": "2dzg",
     "balance": 26749992539240044,
@@ -872,6 +865,13 @@
     "token": "2dzg",
     "balance": 1,
     "user_username": "Evelone192",
+    "user_image": null
+  },
+  {
+    "user": "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae",
+    "token": "2dzg",
+    "balance": 1,
+    "user_username": "ChainSurfer",
     "user_image": null
   }
 ]
