@@ -1,5 +1,5 @@
 {
-  "count": 270,
+  "count": 275,
   "data": [
     {
       "id": "46634230",
@@ -4048,6 +4048,81 @@
       "bonded": true,
       "user_username": "5t2it-m42",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46669392",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T20:06:16.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32733951270815,
+      "price": 3039,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46669382",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T20:05:53.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32736624151976,
+      "price": 3039,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46669328",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T20:03:28.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32739297360695,
+      "price": 3039,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46669318",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T20:03:18.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32741970897025,
+      "price": 3039,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46669305",
+      "user": "3i6r3-4bohp-csajg-mnr25-dqxwx-vje3c-rtvy3-f6tl2-wlx7w-igk6y-cae",
+      "token": "2dzg",
+      "time": "2025-04-22T20:02:25.000Z",
+      "buy": false,
+      "amount_btc": 264696877,
+      "amount_token": 8660166761357475,
+      "price": 3038,
+      "bonded": true,
+      "user_username": "bob",
+      "user_image": "6c38ef07-203a-458a-a4e1-57c2148b310c.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
