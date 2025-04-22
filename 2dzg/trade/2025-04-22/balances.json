@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 121,
-    "nonSellersCount": 110,
+    "totalUsers": 122,
+    "nonSellersCount": 111,
     "sellersCount": 11,
-    "totalBalance": 1125277656845803300
+    "totalBalance": 1130455258333434500
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -189,6 +189,10 @@
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
       "username": "Unstoppable"
+    },
+    "l2623-tsu4g-ipfmp-p7hhl-i3iue-y5yvs-liona-7nlvs-u52s4-u5gpj-3qe": {
+      "balance": 5177601487631200,
+      "username": "STACKS.blife"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 5000000000000000,
