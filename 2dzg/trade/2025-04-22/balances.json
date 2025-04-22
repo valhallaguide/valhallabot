@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
+    "totalUsers": 134,
     "nonSellersCount": 119,
-    "sellersCount": 14,
-    "totalBalance": 1192218542855262200
+    "sellersCount": 15,
+    "totalBalance": 1175791483552765200
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -101,10 +101,6 @@
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
-    },
-    "2lend-6zhpg-gxaff-kl7wr-mgsww-mp7eg-d7el5-kmutq-4vjhb-khrjr-pqe": {
-      "balance": 17923296829583120,
-      "username": "Black Lotus"
     },
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 17311843658839164,
@@ -281,6 +277,10 @@
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
       "username": "vu2to-6rlzb"
+    },
+    "vp5jc-ufqxt-qc5t7-vzdlr-cllfc-a4dgl-qvyig-jfwip-ekhn4-ycoeg-vqe": {
+      "balance": 1496237527086193,
+      "username": "ghjcfyghjh"
     },
     "nr4v7-vocvh-ela2j-kvb6a-6svkw-eejqi-ofxdt-m3izb-7wxfv-ojrxm-zae": {
       "balance": 1485969411956255,
