@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 129,
-    "nonSellersCount": 115,
+    "totalUsers": 131,
+    "nonSellersCount": 117,
     "sellersCount": 14,
-    "totalBalance": 1164713401893865000
+    "totalBalance": 1186414529992481300
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -130,6 +130,10 @@
       "balance": 12173863907269940,
       "username": "MIAO"
     },
+    "brppy-2hvki-5dyjw-ejnim-bcli5-xf36t-2nloh-5atly-f4fwd-sp2k3-lqe": {
+      "balance": 11540182669567484,
+      "username": "yyxx"
+    },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
@@ -153,6 +157,10 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
+    },
+    "wiyh4-bsz2d-4br77-vav3x-vxbvw-qxgpm-xr6xf-hhc3z-f544p-3rb6e-zqe": {
+      "balance": 10160945429049298,
+      "username": "asdzf-ljvks"
     },
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 9782222038296026,
