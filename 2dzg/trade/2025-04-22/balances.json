@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 128,
+    "totalUsers": 126,
+    "nonSellersCount": 126,
     "sellersCount": 0,
-    "totalBalance": 1305098914639240400
+    "totalBalance": 1305031776477519000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -458,10 +458,6 @@
       "balance": 47197564708378,
       "username": "valhalla holder"
     },
-    "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
-      "balance": 38257525434249,
-      "username": ".domo"
-    },
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
       "username": "yntvx-lg33w"
@@ -469,10 +465,6 @@
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 29645850137765,
       "username": "DuckBro"
-    },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 28880636286852,
-      "username": "gjjw3-5peer"
     },
     "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae": {
       "balance": 12528088512181,
