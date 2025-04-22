@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 125,
-    "nonSellersCount": 125,
+    "totalUsers": 121,
+    "nonSellersCount": 121,
     "sellersCount": 0,
-    "totalBalance": 1311060566107278800
+    "totalBalance": 1286366253465586400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -150,10 +150,6 @@
       "balance": 11356677464172276,
       "username": "bit-dog"
     },
-    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
-      "balance": 11117035314199692,
-      "username": "MOSES11.blife"
-    },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "GAME_PLAYER"
@@ -177,10 +173,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
-    },
-    "3xtz6-rz7ai-ebupq-r4pif-6ku7s-aljwi-ngk3g-qbgiw-6zeve-bo52k-rqe": {
-      "balance": 9404326989729206,
-      "username": "MRINSIGHTS.blife"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
@@ -274,10 +266,6 @@
       "balance": 2868422653938418,
       "username": "ㅋㅋㅋ"
     },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 2540348730910723,
-      "username": "53dde-k3u2g"
-    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -285,10 +273,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
-      "balance": 1632601606852931,
-      "username": "Encek"
     },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
