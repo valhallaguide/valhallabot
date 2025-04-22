@@ -3,7 +3,7 @@
     "totalUsers": 124,
     "nonSellersCount": 124,
     "sellersCount": 0,
-    "totalBalance": 1305647304263589400
+    "totalBalance": 1305149072045954300
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -366,10 +366,6 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
-    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
-      "balance": 498332217635116,
-      "username": "The heartbeat bangs"
-    },
     "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
       "balance": 421495408667964,
       "username": "SNEK"
@@ -465,6 +461,10 @@
     "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae": {
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
+    },
+    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
+      "balance": 100000000000,
+      "username": "The heartbeat bangs"
     },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 58755433368,
