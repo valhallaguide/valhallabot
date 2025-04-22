@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 125,
-    "nonSellersCount": 116,
+    "totalUsers": 126,
+    "nonSellersCount": 117,
     "sellersCount": 9,
-    "totalBalance": 1185741999570104800
+    "totalBalance": 1158295117768806400
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -49,10 +49,6 @@
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
       "username": "LilyLiu"
-    },
-    "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae": {
-      "balance": 27684763542946800,
-      "username": "ChainSurfer"
     },
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
@@ -469,6 +465,10 @@
     "qi3pu-zr3ti-rir5r-ut3qo-hhyia-a6bdn-nmefr-6fvpe-27edw-otsqe-wqe": {
       "balance": 1,
       "username": "Evelone192"
+    },
+    "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae": {
+      "balance": 1,
+      "username": "ChainSurfer"
     }
   }
 }
