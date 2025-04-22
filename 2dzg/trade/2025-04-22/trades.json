@@ -1,5 +1,5 @@
 {
-  "count": 232,
+  "count": 236,
   "data": [
     {
       "id": "46634230",
@@ -3478,6 +3478,66 @@
       "bonded": true,
       "user_username": "LUCKY Boy",
       "user_image": "5081eb84-e105-4c6d-bde6-db756cde05fd.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46664609",
+      "user": "brppy-2hvki-5dyjw-ejnim-bcli5-xf36t-2nloh-5atly-f4fwd-sp2k3-lqe",
+      "token": "2dzg",
+      "time": "2025-04-22T18:36:58.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4905223014232030,
+      "price": 3061,
+      "bonded": true,
+      "user_username": "yyxx",
+      "user_image": "326477eb-0aa5-4a54-b08e-35c43ab21a07.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46664555",
+      "user": "brppy-2hvki-5dyjw-ejnim-bcli5-xf36t-2nloh-5atly-f4fwd-sp2k3-lqe",
+      "token": "2dzg",
+      "time": "2025-04-22T18:34:41.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4965958354909157,
+      "price": 3024,
+      "bonded": true,
+      "user_username": "yyxx",
+      "user_image": "326477eb-0aa5-4a54-b08e-35c43ab21a07.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46664540",
+      "user": "brppy-2hvki-5dyjw-ejnim-bcli5-xf36t-2nloh-5atly-f4fwd-sp2k3-lqe",
+      "token": "2dzg",
+      "time": "2025-04-22T18:34:34.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1669001300426297,
+      "price": 2986,
+      "bonded": true,
+      "user_username": "yyxx",
+      "user_image": "326477eb-0aa5-4a54-b08e-35c43ab21a07.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46664448",
+      "user": "wiyh4-bsz2d-4br77-vav3x-vxbvw-qxgpm-xr6xf-hhc3z-f544p-3rb6e-zqe",
+      "token": "2dzg",
+      "time": "2025-04-22T18:33:00.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 10160945429049298,
+      "price": 2974,
+      "bonded": true,
+      "user_username": "asdzf-ljvks",
+      "user_image": "bffc0dfd-c8c8-400c-b443-b7d4426ad93d.jfif",
       "decimals": 3,
       "divisibility": 8
     }
