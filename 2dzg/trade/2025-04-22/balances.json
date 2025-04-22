@@ -3,7 +3,7 @@
     "totalUsers": 123,
     "nonSellersCount": 111,
     "sellersCount": 12,
-    "totalBalance": 1136212347276398200
+    "totalBalance": 1130743333327821000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -154,10 +154,6 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
-    "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe": {
-      "balance": 9172579166924880,
-      "username": "DiamondHands"
-    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -221,6 +217,10 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
+    },
+    "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe": {
+      "balance": 3703565218347823,
+      "username": "DiamondHands"
     },
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
