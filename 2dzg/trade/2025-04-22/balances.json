@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
+    "totalUsers": 133,
     "nonSellersCount": 117,
-    "sellersCount": 14,
-    "totalBalance": 1186414529992481300
+    "sellersCount": 16,
+    "totalBalance": 1187959220482072000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -66,6 +66,10 @@
       "balance": 26147529952312356,
       "username": "CryptoPunk9"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 25744690489590764,
+      "username": "MILK"
+    },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
       "username": "0xSatoshiFan"
@@ -73,10 +77,6 @@
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
       "username": "AliceInCrypto"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 24200000000000000,
-      "username": "MILK"
     },
     "qkjl6-rsvma-rn7gf-i2sbv-6y256-q6enf-whndh-n7ttx-e5yj3-4nwvq-jqe": {
       "balance": 23634571982995564,
