@@ -1,5 +1,5 @@
 {
-  "count": 189,
+  "count": 192,
   "data": [
     {
       "id": "46634230",
@@ -2830,6 +2830,51 @@
       "amount_btc": 1000000,
       "amount_token": 32522332769461,
       "price": 3059,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46651295",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T14:41:44.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32509071109699,
+      "price": 3060,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46651205",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T14:38:09.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32511722792320,
+      "price": 3060,
+      "bonded": true,
+      "user_username": "5t2it-m42",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46651150",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-04-22T14:37:03.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 32514374799554,
+      "price": 3060,
       "bonded": true,
       "user_username": "5t2it-m42",
       "user_image": null,
