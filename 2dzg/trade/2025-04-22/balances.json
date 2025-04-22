@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 127,
+    "totalUsers": 129,
+    "nonSellersCount": 129,
     "sellersCount": 0,
-    "totalBalance": 1323196459118322700
+    "totalBalance": 1334806511683772200
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -11,7 +11,7 @@
       "username": "To the Valhalla"
     },
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
-      "balance": 64499669413071520,
+      "balance": 72677691454668100,
       "username": "Minting-$VOLK"
     },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -286,6 +286,14 @@
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
     },
+    "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
+      "balance": 1656996359411772,
+      "username": "GLD"
+    },
+    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
+      "balance": 1632601606852931,
+      "username": "Encek"
+    },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
@@ -366,6 +374,10 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
+    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
+      "balance": 498332217635116,
+      "username": "The heartbeat bangs"
+    },
     "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
       "balance": 421495408667964,
       "username": "SNEK"
@@ -373,10 +385,6 @@
     "k4i4q-ysx6t-ru2r6-lt7ew-5lcoe-tmval-xgysf-jgca4-geuz5-nkenn-pae": {
       "balance": 415214364117197,
       "username": "普拉巴斯特"
-    },
-    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
-      "balance": 355899660046888,
-      "username": "The heartbeat bangs"
     },
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
