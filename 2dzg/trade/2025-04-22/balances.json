@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 121,
-    "nonSellersCount": 121,
+    "totalUsers": 120,
+    "nonSellersCount": 120,
     "sellersCount": 0,
-    "totalBalance": 1286366253465586400
+    "totalBalance": 1282536857565676000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -230,10 +230,6 @@
       "balance": 4886717513584040,
       "username": "ddbea-3vrre"
     },
-    "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe": {
-      "balance": 4000000000000000,
-      "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
-    },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
       "username": "卖瓜子"
@@ -354,6 +350,10 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
+    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
+      "balance": 466768041750686,
+      "username": "d5ynk-ngy6j"
+    },
     "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
       "balance": 421495408667964,
       "username": "SNEK"
@@ -373,10 +373,6 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
-    },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 296163941661145,
-      "username": "d5ynk-ngy6j"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
