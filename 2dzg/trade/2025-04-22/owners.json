@@ -37,7 +37,7 @@
   {
     "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
     "token": "2dzg",
-    "balance": 43573735217376210,
+    "balance": 43537711944842070,
     "user_username": "5t2it-m42",
     "user_image": null
   },
@@ -336,18 +336,18 @@
     "user_image": null
   },
   {
-    "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
-    "token": "2dzg",
-    "balance": 7611290071335461,
-    "user_username": "leslie",
-    "user_image": null
-  },
-  {
     "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
     "token": "2dzg",
     "balance": 7435845491179805,
     "user_username": "ICBin ∞",
     "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png"
+  },
+  {
+    "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
+    "token": "2dzg",
+    "balance": 7323215076948842,
+    "user_username": "leslie",
+    "user_image": null
   },
   {
     "user": "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe",
