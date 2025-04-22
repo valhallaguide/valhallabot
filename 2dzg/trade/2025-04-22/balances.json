@@ -3,7 +3,7 @@
     "totalUsers": 136,
     "nonSellersCount": 120,
     "sellersCount": 16,
-    "totalBalance": 1208058723363633700
+    "totalBalance": 1209926966768111900
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -250,6 +250,10 @@
       "balance": 3541993236028030,
       "username": "凯旋"
     },
+    "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
+      "balance": 3049512455370789,
+      "username": "SNEK"
+    },
     "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae": {
       "balance": 2908780489808965,
       "username": "v6qfr-juarl"
@@ -301,10 +305,6 @@
     "q4hxu-ofunh-wb3lj-onnjy-74sjn-3zolv-5kagw-siekt-dode3-3ypxb-hqe": {
       "balance": 1230967455230940,
       "username": "Cdd.Odin"
-    },
-    "4utcq-qbko3-45b2e-z65qg-kw2rp-5tjen-h5qne-dfpeu-nu6j2-voddu-zqe": {
-      "balance": 1181269050892533,
-      "username": "SNEK"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
