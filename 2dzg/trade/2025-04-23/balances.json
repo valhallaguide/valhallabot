@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 138,
+    "totalUsers": 137,
+    "nonSellersCount": 137,
     "sellersCount": 0,
-    "totalBalance": 1342997184493566500
+    "totalBalance": 1335268165537153300
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -38,10 +38,6 @@
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
     },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 32288635645225932,
-      "username": "▄︻┯芜ˣ⁼⁼⁼⁼⁼⁼⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻ ᶜᶻ"
-    },
     "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae": {
       "balance": 30458374628355540,
       "username": "xn2f7-ifshx"
@@ -57,6 +53,10 @@
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
       "username": "LilyLiu"
+    },
+    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
+      "balance": 27000000000000000,
+      "username": "▄︻┯芜ˣ⁼⁼⁼⁼⁼⁼⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻ ᶜᶻ"
     },
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
@@ -293,10 +293,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
-      "balance": 2440383311187073,
-      "username": "Encek"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
