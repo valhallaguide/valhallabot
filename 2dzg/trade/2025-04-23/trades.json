@@ -1,5 +1,5 @@
 {
-  "count": 420,
+  "count": 422,
   "data": [
     {
       "id": "46710334",
@@ -6298,6 +6298,36 @@
       "bonded": true,
       "user_username": "web6k-ohew4",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721722",
+      "user": "yerel-ad67o-mw5qx-xxj3x-3lv4k-oukwe-amams-y5mrs-xv2ao-jkvjz-2qe",
+      "token": "2dzg",
+      "time": "2025-04-23T22:01:37.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1660546772551328,
+      "price": 3002,
+      "bonded": true,
+      "user_username": "H21NFT.blife",
+      "user_image": "06749b0a-fa9b-477d-b8ed-47b2d2bb1c58.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721687",
+      "user": "yerel-ad67o-mw5qx-xxj3x-3lv4k-oukwe-amams-y5mrs-xv2ao-jkvjz-2qe",
+      "token": "2dzg",
+      "time": "2025-04-23T22:00:31.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1667439532166836,
+      "price": 2989,
+      "bonded": true,
+      "user_username": "H21NFT.blife",
+      "user_image": "06749b0a-fa9b-477d-b8ed-47b2d2bb1c58.png",
       "decimals": 3,
       "divisibility": 8
     }
