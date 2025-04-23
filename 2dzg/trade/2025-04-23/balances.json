@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 133,
+    "totalUsers": 134,
+    "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1305977055719314400
+    "totalBalance": 1316498114600540200
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -26,6 +26,10 @@
       "balance": 42028465416065656,
       "username": "Dovah"
     },
+    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
+      "balance": 37795517254249150,
+      "username": "▄︻┯芜ˣ⁼⁼⁼⁼⁼⁼⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻ ᶜᶻ"
+    },
     "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
       "balance": 37795299766064620,
       "username": "独孤求败"
@@ -37,10 +41,6 @@
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
-    },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 32712664589833944,
-      "username": "▄︻┯芜ˣ⁼⁼⁼⁼⁼⁼⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻ ᶜᶻ"
     },
     "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae": {
       "balance": 30458374628355540,
@@ -225,6 +225,10 @@
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
       "username": "Unstoppable"
+    },
+    "f5arz-eiwre-wvsdo-r2noc-2fajq-7o5pv-427tk-xlrng-4tk2h-mt7ih-aqe": {
+      "balance": 5438206216810604,
+      "username": "f5arz-eiwre"
     },
     "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
       "balance": 5151722271759789,
