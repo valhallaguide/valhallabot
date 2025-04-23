@@ -1,5 +1,5 @@
 {
-  "count": 414,
+  "count": 415,
   "data": [
     {
       "id": "46710334",
@@ -6208,6 +6208,21 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721361",
+      "user": "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe",
+      "token": "2dzg",
+      "time": "2025-04-23T21:35:43.000Z",
+      "buy": true,
+      "amount_btc": 223534780,
+      "amount_token": 7782313947190267,
+      "price": 2885,
+      "bonded": true,
+      "user_username": "The tide must turn",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
