@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1328917503628310800
+    "totalBalance": 1335405870872603000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -62,6 +62,10 @@
       "balance": 26661490314769504,
       "username": "unknown-M"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 26544216384980724,
+      "username": "MILK"
+    },
     "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
       "balance": 26359173694348988,
       "username": "MangoMarkets"
@@ -74,13 +78,13 @@
       "balance": 26134243847897264,
       "username": "jlbyr-ixrpk"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 26093731897499636,
-      "username": "MILK"
-    },
     "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
       "balance": 25004420106582064,
       "username": "0xSatoshiFan"
+    },
+    "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
+      "balance": 24967410052965176,
+      "username": "pahnk"
     },
     "htgvg-diy2x-lpsfk-vy2xk-mevq2-xhrok-3266r-qckq6-t6wus-vqz5z-5ae": {
       "balance": 24764048130376172,
@@ -105,10 +109,6 @@
     "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
       "balance": 20576787052840496,
       "username": "5t2it-m42"
-    },
-    "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
-      "balance": 20430090560203628,
-      "username": "pahnk"
     },
     "my6qv-mlikj-xk2k5-r5xot-lnclz-qflae-diozb-7dvcz-43vwd-tgd4m-qqe": {
       "balance": 20403857379390820,
@@ -182,6 +182,10 @@
       "balance": 9631135052230792,
       "username": "mengou2"
     },
+    "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe": {
+      "balance": 9248263223943356,
+      "username": "fewzv-xinjl"
+    },
     "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe": {
       "balance": 9172579166924880,
       "username": "DiamondHands"
@@ -205,10 +209,6 @@
     "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
       "balance": 8187980331342362,
       "username": "MAGNUSOPIUS"
-    },
-    "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe": {
-      "balance": 7747699959893618,
-      "username": "fewzv-xinjl"
     },
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 7611290071335461,
