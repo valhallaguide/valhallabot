@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 136,
+    "totalUsers": 137,
+    "nonSellersCount": 137,
     "sellersCount": 0,
-    "totalBalance": 1329951853856352000
+    "totalBalance": 1327546732891163000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -238,10 +238,6 @@
       "balance": 5669000695023501,
       "username": "Unstoppable"
     },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 5151722271759789,
-      "username": "5t2it-m42"
-    },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 5000000000000000,
       "username": "isvcj-d7on7"
@@ -289,6 +285,10 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 2748986274202608,
       "username": "7kbya-md3zv"
+    },
+    "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe": {
+      "balance": 2715813381403431,
+      "username": "不良帅🕷️🕷️🕸️🕸️🕸️"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
@@ -485,6 +485,10 @@
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
       "username": "yntvx-lg33w"
+    },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 30787925167488,
+      "username": "5t2it-m42"
     },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 29645850137765,
