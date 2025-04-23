@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 133,
+    "totalUsers": 134,
+    "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1297890956394490400
+    "totalBalance": 1307661241868482800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -173,6 +173,10 @@
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 9782222038296026,
       "username": "👑King"
+    },
+    "uhv3a-rrpf7-jh4fn-hfy3f-cjlmz-loubv-g63ph-jmw4b-wixjv-cas37-oqe": {
+      "balance": 9770285473992522,
+      "username": "nonviolent"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
