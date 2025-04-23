@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 136,
+    "totalUsers": 137,
+    "nonSellersCount": 137,
     "sellersCount": 0,
-    "totalBalance": 1332200169909528600
+    "totalBalance": 1336703324361075500
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -245,6 +245,10 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 4886717513584040,
       "username": "ddbea-3vrre"
+    },
+    "yerel-ad67o-mw5qx-xxj3x-3lv4k-oukwe-amams-y5mrs-xv2ao-jkvjz-2qe": {
+      "balance": 4503154451546808,
+      "username": "H21NFT.blife"
     },
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
       "balance": 4004243475931990,
