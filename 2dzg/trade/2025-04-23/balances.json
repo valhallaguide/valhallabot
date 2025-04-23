@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 135,
+    "totalUsers": 134,
+    "nonSellersCount": 134,
     "sellersCount": 0,
-    "totalBalance": 1333715980409298400
+    "totalBalance": 1322780439730789400
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -102,10 +102,6 @@
       "balance": 22199042632945504,
       "username": "MR _DOGINAL XXXX"
     },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 20606889087039156,
-      "username": "5t2it-m42"
-    },
     "my6qv-mlikj-xk2k5-r5xot-lnclz-qflae-diozb-7dvcz-43vwd-tgd4m-qqe": {
       "balance": 20403857379390820,
       "username": "jak56sv-4likj"
@@ -169,6 +165,10 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
+    },
+    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
+      "balance": 10303444543519578,
+      "username": "5t2it-m42"
     },
     "wiyh4-bsz2d-4br77-vav3x-vxbvw-qxgpm-xr6xf-hhc3z-f544p-3rb6e-zqe": {
       "balance": 10160945429049298,
@@ -369,10 +369,6 @@
     "aquoz-vlkbq-z4jd3-4phx6-w2lfe-z42wq-brlxc-faj34-ar3n3-rund3-wae": {
       "balance": 755433234070766,
       "username": "带我飞"
-    },
-    "vcett-3c3ao-r4wze-3oedt-3hem6-7zitr-t4rd5-bpfpu-foiuw-5g2ij-sqe": {
-      "balance": 632096134989515,
-      "username": "ODINKING0.blife"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
