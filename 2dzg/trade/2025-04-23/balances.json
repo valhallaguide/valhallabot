@@ -3,7 +3,7 @@
     "totalUsers": 136,
     "nonSellersCount": 136,
     "sellersCount": 0,
-    "totalBalance": 1330185237877227500
+    "totalBalance": 1329951853856352000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -402,10 +402,6 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 466768041750686,
-      "username": "d5ynk-ngy6j"
-    },
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 419944982956917,
       "username": "ksnzhb纵横"
@@ -449,6 +445,10 @@
     "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe": {
       "balance": 237523484105680,
       "username": "oase1"
+    },
+    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
+      "balance": 233384020875343,
+      "username": "d5ynk-ngy6j"
     },
     "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
       "balance": 228799391587513,
