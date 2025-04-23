@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 119,
-    "sellersCount": 15,
-    "totalBalance": 1158972763046851800
+    "totalUsers": 133,
+    "nonSellersCount": 115,
+    "sellersCount": 18,
+    "totalBalance": 1096571945675706100
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -21,10 +21,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 43550062095680770,
-      "username": "MILK"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42028465416065656,
@@ -150,10 +146,6 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
-    "uhv3a-rrpf7-jh4fn-hfy3f-cjlmz-loubv-g63ph-jmw4b-wixjv-cas37-oqe": {
-      "balance": 9770285473992522,
-      "username": "nonviolent"
-    },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 9631135052230792,
       "username": "mengou2"
@@ -177,10 +169,6 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
-    },
-    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
-      "balance": 7687980331342362,
-      "username": "MAGNUSOPIUS"
     },
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 7611290071335461,
@@ -281,10 +269,6 @@
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 1412815827107434,
       "username": "slqyniyb_ojnmfs"
-    },
-    "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae": {
-      "balance": 1392489470129619,
-      "username": "Bitcoin Pancake"
     },
     "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae": {
       "balance": 1306279927902199,
