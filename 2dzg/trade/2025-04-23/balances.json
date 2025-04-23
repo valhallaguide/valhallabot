@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 137,
-    "nonSellersCount": 137,
+    "totalUsers": 138,
+    "nonSellersCount": 138,
     "sellersCount": 0,
-    "totalBalance": 1336703324361075500
+    "totalBalance": 1344749348976154400
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -30,6 +30,10 @@
       "balance": 42028465416065656,
       "username": "Dovah"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 36089569764436930,
+      "username": "MILK"
+    },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
@@ -41,10 +45,6 @@
     "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae": {
       "balance": 30458374628355540,
       "username": "xn2f7-ifshx"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 29625832283952096,
-      "username": "MILK"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -313,6 +313,10 @@
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 1582287134594126,
+      "username": "PHIMITRI.blife"
     },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
