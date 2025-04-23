@@ -1,5 +1,5 @@
 {
-  "count": 338,
+  "count": 342,
   "data": [
     {
       "id": "46710334",
@@ -5067,6 +5067,66 @@
       "price": 3139,
       "bonded": true,
       "user_username": "AliceInCrypto",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46713348",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-04-23T14:15:59.000Z",
+      "buy": true,
+      "amount_btc": 901832545,
+      "amount_token": 28403664508313860,
+      "price": 3275,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46713197",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-23T14:14:21.000Z",
+      "buy": false,
+      "amount_btc": 15167594,
+      "amount_token": 500000000000000,
+      "price": 3046,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46713169",
+      "user": "qpghi-m3re3-psx4u-cy43u-bvwuq-ray5r-5ce4r-tuky5-3lmmo-d3hu5-dae",
+      "token": "2dzg",
+      "time": "2025-04-23T14:13:49.000Z",
+      "buy": false,
+      "amount_btc": 336054810,
+      "amount_token": 10919994212289476,
+      "price": 3050,
+      "bonded": true,
+      "user_username": "odinisback",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46713149",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-04-23T14:13:20.000Z",
+      "buy": false,
+      "amount_btc": 15610408,
+      "amount_token": 500000000000000,
+      "price": 3135,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
