@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 132,
-    "nonSellersCount": 115,
-    "sellersCount": 17,
-    "totalBalance": 1096571945675706100
+    "nonSellersCount": 114,
+    "sellersCount": 18,
+    "totalBalance": 1059735493956424400
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -38,10 +38,6 @@
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
     },
-    "nkfwc-ah4jy-ueekh-h6eym-rieyx-n4cpa-bqfdt-s75lq-uk2zq-czil5-vae": {
-      "balance": 29208612324495160,
-      "username": "kittylord"
-    },
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
       "username": "LilyLiu"
@@ -49,10 +45,6 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
       "username": "planBCrypto"
-    },
-    "pmhyd-pei56-wpnwg-knxuw-3brqm-r4d6z-q5722-moag4-k3u4x-xg22q-eae": {
-      "balance": 26661490314769504,
-      "username": "unknown-M"
     },
     "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
       "balance": 26359173694348988,
@@ -89,6 +81,10 @@
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
+    },
+    "tfcvv-w4f5e-d5sib-6iojn-lbxxm-ivbkd-wetpp-t5zi3-slnvp-rxosg-qae": {
+      "balance": 19033650919982896,
+      "username": "w4f5e-tfcvv"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 17526724590380098,
