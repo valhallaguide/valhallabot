@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 134,
+    "totalUsers": 136,
+    "nonSellersCount": 136,
     "sellersCount": 0,
-    "totalBalance": 1328974756511543600
+    "totalBalance": 1332200169909528600
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -42,6 +42,10 @@
       "balance": 30458374628355540,
       "username": "xn2f7-ifshx"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 29625832283952096,
+      "username": "MILK"
+    },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
@@ -53,10 +57,6 @@
     "wbvpp-pdrsq-ciruf-fl6af-b5ugd-ir6vd-ckafc-trjwo-o2ukb-hfvol-yae": {
       "balance": 27983037290951332,
       "username": "LilyLiu"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 27520807064655556,
-      "username": "MILK"
     },
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
@@ -247,7 +247,7 @@
       "username": "ddbea-3vrre"
     },
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 4000768604929869,
+      "balance": 4004243475931990,
       "username": "🚀🚀🚀🚀🚀🚀🚀"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
@@ -370,6 +370,10 @@
       "balance": 755433234070766,
       "username": "带我飞"
     },
+    "vcett-3c3ao-r4wze-3oedt-3hem6-7zitr-t4rd5-bpfpu-foiuw-5g2ij-sqe": {
+      "balance": 632096134989515,
+      "username": "ODINKING0.blife"
+    },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "4ivvu-3te66"
@@ -393,6 +397,10 @@
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
       "username": "WIZARDS."
+    },
+    "6h4jf-rgext-swdjz-hrjdb-kjflu-hjqqx-i5hj5-5yzgs-3dxrl-22ic4-iae": {
+      "balance": 484817172696754,
+      "username": "小配角"
     },
     "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
       "balance": 466768041750686,
