@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 134,
+    "totalUsers": 132,
+    "nonSellersCount": 132,
     "sellersCount": 0,
-    "totalBalance": 1305988019575584800
+    "totalBalance": 1296820516506573800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -226,10 +226,6 @@
       "balance": 5669000695023501,
       "username": "Unstoppable"
     },
-    "f5arz-eiwre-wvsdo-r2noc-2fajq-7o5pv-427tk-xlrng-4tk2h-mt7ih-aqe": {
-      "balance": 5438206216810604,
-      "username": "f5arz-eiwre"
-    },
     "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
       "balance": 5151722271759789,
       "username": "5t2it-m42"
@@ -261,10 +257,6 @@
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
       "username": "卖瓜子"
-    },
-    "7rndy-qbjgu-4lesq-3ysyb-krkjd-q2jbd-s2wmo-n24au-cki3t-tlehf-tae": {
-      "balance": 3729296852200432,
-      "username": "名称｜Bull"
     },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
