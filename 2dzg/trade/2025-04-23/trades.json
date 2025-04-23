@@ -1,5 +1,5 @@
 {
-  "count": 373,
+  "count": 375,
   "data": [
     {
       "id": "46710334",
@@ -5590,6 +5590,36 @@
       "amount_btc": 10000000,
       "amount_token": 283146956142400,
       "price": 3515,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46717791",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-23T16:58:30.000Z",
+      "buy": true,
+      "amount_btc": 30892235,
+      "amount_token": 872339976894785,
+      "price": 3527,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46717725",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-23T16:56:34.000Z",
+      "buy": true,
+      "amount_btc": 15000000,
+      "amount_token": 424314976812469,
+      "price": 3519,
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
