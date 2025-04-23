@@ -1,5 +1,5 @@
 {
-  "count": 415,
+  "count": 419,
   "data": [
     {
       "id": "46710334",
@@ -6223,6 +6223,66 @@
       "bonded": true,
       "user_username": "The tide must turn",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721528",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-23T21:41:41.000Z",
+      "buy": true,
+      "amount_btc": 16500000,
+      "amount_token": 552237036745775,
+      "price": 2974,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721416",
+      "user": "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe",
+      "token": "2dzg",
+      "time": "2025-04-23T21:39:10.000Z",
+      "buy": true,
+      "amount_btc": 333858276,
+      "amount_token": 11339071915780040,
+      "price": 2970,
+      "bonded": true,
+      "user_username": "I WANT MORE BTC",
+      "user_image": "451cab97-e444-4660-aa41-e1e61cb9070f.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721403",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-23T21:39:00.000Z",
+      "buy": true,
+      "amount_btc": 5582480,
+      "amount_token": 192310673671496,
+      "price": 2889,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46721366",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-23T21:37:03.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 344716046485711,
+      "price": 2887,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
