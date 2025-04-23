@@ -3,7 +3,7 @@
     "totalUsers": 130,
     "nonSellersCount": 130,
     "sellersCount": 0,
-    "totalBalance": 1287259074106232300
+    "totalBalance": 1270960505635726300
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -117,10 +117,6 @@
     "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae": {
       "balance": 17311843658839164,
       "username": "gogogo"
-    },
-    "ky67l-l2mxl-jhmv7-jvhmf-2s6nt-db4ny-v2w2s-xo3d4-e4ahl-33qq2-rqe": {
-      "balance": 17298568470506050,
-      "username": "ky67l-l2mxl"
     },
     "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae": {
       "balance": 17085212212061616,
@@ -345,6 +341,10 @@
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 1102789061938730,
       "username": "很好吃"
+    },
+    "ky67l-l2mxl-jhmv7-jvhmf-2s6nt-db4ny-v2w2s-xo3d4-e4ahl-33qq2-rqe": {
+      "balance": 1000000000000000,
+      "username": "ky67l-l2mxl"
     },
     "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe": {
       "balance": 828336243999451,
