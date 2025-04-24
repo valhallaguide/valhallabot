@@ -1,5 +1,5 @@
 {
-  "count": 280,
+  "count": 283,
   "data": [
     {
       "id": "46725952",
@@ -4197,6 +4197,51 @@
       "price": 2779,
       "bonded": true,
       "user_username": "ODIN Wisdom",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46736822",
+      "user": "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe",
+      "token": "2dzg",
+      "time": "2025-04-24T06:37:23.000Z",
+      "buy": true,
+      "amount_btc": 33000000,
+      "amount_token": 1120716169271167,
+      "price": 2933,
+      "bonded": true,
+      "user_username": "7kbya-md3zv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46736812",
+      "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
+      "token": "2dzg",
+      "time": "2025-04-24T06:37:20.000Z",
+      "buy": true,
+      "amount_btc": 500000000,
+      "amount_token": 17366628995434020,
+      "price": 2925,
+      "bonded": true,
+      "user_username": "uj2ot-rsdjv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46736807",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-04-24T06:37:16.000Z",
+      "buy": true,
+      "amount_btc": 106490128,
+      "amount_token": 3794658040447993,
+      "price": 2804,
+      "bonded": true,
+      "user_username": "GLD",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
