@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 118,
+    "totalUsers": 129,
+    "nonSellersCount": 116,
     "sellersCount": 13,
-    "totalBalance": 1081700974253106600
+    "totalBalance": 1045490738941456300
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -42,10 +42,6 @@
       "balance": 27983037290951332,
       "username": "LilyLiu"
     },
-    "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
-      "balance": 27527211515019384,
-      "username": "jlbyr-ixrpk"
-    },
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
       "username": "planBCrypto"
@@ -74,10 +70,6 @@
       "balance": 22199042632945504,
       "username": "MR _DOGINAL XXXX"
     },
-    "my6qv-mlikj-xk2k5-r5xot-lnclz-qflae-diozb-7dvcz-43vwd-tgd4m-qqe": {
-      "balance": 20403857379390820,
-      "username": "jak56sv-4likj"
-    },
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 20000000000000000,
       "username": "qtu6n-vkger"
@@ -94,6 +86,10 @@
       "balance": 17311843658839164,
       "username": "gogogo"
     },
+    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
+      "balance": 17270810033571624,
+      "username": "6h5t7-4kzx6"
+    },
     "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae": {
       "balance": 17085212212061616,
       "username": "35b35-p4w26"
@@ -102,9 +98,9 @@
       "balance": 16716467976919456,
       "username": "qa2bp-pllzs"
     },
-    "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe": {
-      "balance": 15400494922959376,
-      "username": "6h5t7-4kzx6"
+    "vxcze-pgriq-afkvu-fqmau-3webl-muwds-mqtvy-eljbs-awv7o-pfewv-pqe": {
+      "balance": 15245048871295888,
+      "username": "ODIN Wisdom"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 13792929103106536,
@@ -193,10 +189,6 @@
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
       "username": "Unstoppable"
-    },
-    "iyzuc-hfqud-yo4fl-7mr6a-engxz-7zxd7-fuudo-m3rhp-n5czp-ul73r-nae": {
-      "balance": 5568283667043318,
-      "username": "Yoo7"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 5000000000000000,
@@ -394,6 +386,10 @@
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
     },
+    "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe": {
+      "balance": 173753288263631,
+      "username": "RHM"
+    },
     "h4qcu-uhjp3-2e5gv-nxgi7-ab6zc-cndi3-4auo5-khsac-vi555-6zrfu-2qe": {
       "balance": 172866000719689,
       "username": "h4qcu-uhjp3"
@@ -441,10 +437,6 @@
     "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
       "balance": 26071022,
       "username": "msv63-6h6dg"
-    },
-    "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe": {
-      "balance": 20368439,
-      "username": "RHM"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 17069705,
