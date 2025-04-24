@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 117,
-    "sellersCount": 14,
-    "totalBalance": 1058227316423172100
+    "totalUsers": 134,
+    "nonSellersCount": 119,
+    "sellersCount": 15,
+    "totalBalance": 1074540600200430800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -110,6 +110,10 @@
       "balance": 13792929103106536,
       "username": "BigFoot"
     },
+    "dg3bz-juwpq-x22uu-i3r5u-5xgwk-fkwd5-svcvq-2vshn-mwdd7-ycw3u-eae": {
+      "balance": 12303581369033904,
+      "username": "王老五"
+    },
     "odjgu-d7cgx-p6kpm-h66il-4b7rm-e566k-5ptl6-53clg-dlbmu-6hemz-4qe": {
       "balance": 12173863907269940,
       "username": "MIAO"
@@ -205,6 +209,10 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 4886717513584040,
       "username": "ddbea-3vrre"
+    },
+    "xkrhh-e74gj-guef3-lvz2e-h5xbx-naa7b-jgqcp-2lnlh-btpmb-4fpbv-kae": {
+      "balance": 4009702408224871,
+      "username": "癫癫火？"
     },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
