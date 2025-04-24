@@ -1,5 +1,5 @@
 {
-  "count": 399,
+  "count": 402,
   "data": [
     {
       "id": "46725952",
@@ -5983,6 +5983,51 @@
       "bonded": true,
       "user_username": "再创辉煌",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46775814",
+      "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
+      "token": "2dzg",
+      "time": "2025-04-24T22:38:03.000Z",
+      "buy": true,
+      "amount_btc": 66774953,
+      "amount_token": 2537448408068747,
+      "price": 2626,
+      "bonded": true,
+      "user_username": "Bitcoin Pancake",
+      "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46775794",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-04-24T22:37:34.000Z",
+      "buy": true,
+      "amount_btc": 83237110,
+      "amount_token": 3184489735791306,
+      "price": 2610,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46775779",
+      "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
+      "token": "2dzg",
+      "time": "2025-04-24T22:36:41.000Z",
+      "buy": true,
+      "amount_btc": 101920938,
+      "amount_token": 3932131047796404,
+      "price": 2590,
+      "bonded": true,
+      "user_username": "Bitcoin Pancake",
+      "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
