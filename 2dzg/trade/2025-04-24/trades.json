@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 362,
   "data": [
     {
       "id": "46725952",
@@ -5368,6 +5368,66 @@
       "bonded": true,
       "user_username": "再创辉煌",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46761386",
+      "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
+      "token": "2dzg",
+      "time": "2025-04-24T14:48:40.000Z",
+      "buy": false,
+      "amount_btc": 102883643,
+      "amount_token": 3805645035667730,
+      "price": 2704,
+      "bonded": true,
+      "user_username": "leslie",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46761350",
+      "user": "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe",
+      "token": "2dzg",
+      "time": "2025-04-24T14:47:18.000Z",
+      "buy": false,
+      "amount_btc": 330813477,
+      "amount_token": 12004420106582064,
+      "price": 2729,
+      "bonded": true,
+      "user_username": "0xSatoshiFan",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46761328",
+      "user": "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe",
+      "token": "2dzg",
+      "time": "2025-04-24T14:46:57.000Z",
+      "buy": true,
+      "amount_btc": 25000000,
+      "amount_token": 886085127779106,
+      "price": 2810,
+      "bonded": true,
+      "user_username": "RHM",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46761299",
+      "user": "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe",
+      "token": "2dzg",
+      "time": "2025-04-24T14:46:29.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1777978730981020,
+      "price": 2804,
+      "bonded": true,
+      "user_username": "RHM",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
