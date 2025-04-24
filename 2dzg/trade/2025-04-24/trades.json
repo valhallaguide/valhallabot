@@ -1,5 +1,5 @@
 {
-  "count": 322,
+  "count": 323,
   "data": [
     {
       "id": "46725952",
@@ -4828,6 +4828,21 @@
       "bonded": true,
       "user_username": "ODINKING0.blife",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46747018",
+      "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
+      "token": "2dzg",
+      "time": "2025-04-24T09:19:12.000Z",
+      "buy": true,
+      "amount_btc": 103098074,
+      "amount_token": 3623826953942108,
+      "price": 2843,
+      "bonded": true,
+      "user_username": "FKSTEP.blife",
+      "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg",
       "decimals": 3,
       "divisibility": 8
     }
