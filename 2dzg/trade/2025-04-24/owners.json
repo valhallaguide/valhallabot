@@ -336,13 +336,6 @@
     "user_image": null
   },
   {
-    "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
-    "token": "2dzg",
-    "balance": 8248706424213007,
-    "user_username": "FKSTEP.blife",
-    "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg"
-  },
-  {
     "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
     "token": "2dzg",
     "balance": 7435845491179805,
@@ -369,13 +362,6 @@
     "balance": 5669000695023501,
     "user_username": "Unstoppable",
     "user_image": "93544593-243b-4f92-8027-a7d1957e1a22.jpeg"
-  },
-  {
-    "user": "l2623-tsu4g-ipfmp-p7hhl-i3iue-y5yvs-liona-7nlvs-u52s4-u5gpj-3qe",
-    "token": "2dzg",
-    "balance": 5486882047835219,
-    "user_username": "STACKS.blife",
-    "user_image": "936267b7-fd48-44d4-ba21-acd604def98a.jpg"
   },
   {
     "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
@@ -425,6 +411,13 @@
     "balance": 4886717513584040,
     "user_username": "ddbea-3vrre",
     "user_image": null
+  },
+  {
+    "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
+    "token": "2dzg",
+    "balance": 4178706424213007,
+    "user_username": "FKSTEP.blife",
+    "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg"
   },
   {
     "user": "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe",
