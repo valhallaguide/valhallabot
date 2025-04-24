@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 304,
   "data": [
     {
       "id": "46725952",
@@ -4527,6 +4527,36 @@
       "price": 2810,
       "bonded": true,
       "user_username": "GLD",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46741293",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-24T07:44:23.000Z",
+      "buy": false,
+      "amount_btc": 69445310,
+      "amount_token": 2500000000000000,
+      "price": 2783,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46741179",
+      "user": "vcett-3c3ao-r4wze-3oedt-3hem6-7zitr-t4rd5-bpfpu-foiuw-5g2ij-sqe",
+      "token": "2dzg",
+      "time": "2025-04-24T07:42:28.000Z",
+      "buy": false,
+      "amount_btc": 41256059,
+      "amount_token": 1477986029595397,
+      "price": 2800,
+      "bonded": true,
+      "user_username": "ODINKING0.blife",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
