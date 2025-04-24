@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 119,
     "sellersCount": 15,
-    "totalBalance": 1091422497113616800
+    "totalBalance": 1084279288332228400
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -82,10 +82,6 @@
       "balance": 17875730467814120,
       "username": "To be a millionaire"
     },
-    "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
-      "balance": 17605251237365716,
-      "username": "Nobody can"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 17526724590380098,
       "username": "H11."
@@ -137,6 +133,10 @@
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
+    },
+    "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
+      "balance": 10462042455977318,
+      "username": "Nobody can"
     },
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
