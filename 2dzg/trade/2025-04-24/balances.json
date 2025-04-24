@@ -3,7 +3,7 @@
     "totalUsers": 131,
     "nonSellersCount": 131,
     "sellersCount": 0,
-    "totalBalance": 1299278532543588600
+    "totalBalance": 1297778532543588600
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -18,13 +18,13 @@
       "balance": 64012497141570824,
       "username": "符文堂｜Leo"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 47500000000000000,
-      "username": "MILK"
-    },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
+    },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 46000000000000000,
+      "username": "MILK"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42028465416065656,
