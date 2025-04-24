@@ -364,13 +364,6 @@
     "user_image": null
   },
   {
-    "user": "yerel-ad67o-mw5qx-xxj3x-3lv4k-oukwe-amams-y5mrs-xv2ao-jkvjz-2qe",
-    "token": "2dzg",
-    "balance": 7831140756264972,
-    "user_username": "H21NFT.blife",
-    "user_image": "06749b0a-fa9b-477d-b8ed-47b2d2bb1c58.png"
-  },
-  {
     "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
     "token": "2dzg",
     "balance": 7611290071335461,
@@ -383,6 +376,13 @@
     "balance": 7435845491179805,
     "user_username": "ICBin ∞",
     "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png"
+  },
+  {
+    "user": "yerel-ad67o-mw5qx-xxj3x-3lv4k-oukwe-amams-y5mrs-xv2ao-jkvjz-2qe",
+    "token": "2dzg",
+    "balance": 6981140756264972,
+    "user_username": "H21NFT.blife",
+    "user_image": "06749b0a-fa9b-477d-b8ed-47b2d2bb1c58.png"
   },
   {
     "user": "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae",
