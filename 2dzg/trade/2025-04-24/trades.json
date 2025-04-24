@@ -1,5 +1,5 @@
 {
-  "count": 368,
+  "count": 369,
   "data": [
     {
       "id": "46725952",
@@ -5518,6 +5518,21 @@
       "bonded": true,
       "user_username": "FKSTEP.blife",
       "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46764054",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-24T15:45:15.000Z",
+      "buy": false,
+      "amount_btc": 27680720,
+      "amount_token": 1000000000000000,
+      "price": 2778,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
