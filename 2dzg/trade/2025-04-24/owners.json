@@ -224,13 +224,6 @@
     "user_image": null
   },
   {
-    "user": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
-    "token": "2dzg",
-    "balance": 12722405957518944,
-    "user_username": "fewzv-xinjl",
-    "user_image": null
-  },
-  {
     "user": "odjgu-d7cgx-p6kpm-h66il-4b7rm-e566k-5ptl6-53clg-dlbmu-6hemz-4qe",
     "token": "2dzg",
     "balance": 12173863907269940,
@@ -242,6 +235,13 @@
     "token": "2dzg",
     "balance": 11356677464172276,
     "user_username": "bit-dog",
+    "user_image": null
+  },
+  {
+    "user": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
+    "token": "2dzg",
+    "balance": 10901959909295376,
+    "user_username": "fewzv-xinjl",
     "user_image": null
   },
   {
