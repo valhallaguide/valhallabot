@@ -315,13 +315,6 @@
     "user_image": null
   },
   {
-    "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
-    "token": "2dzg",
-    "balance": 8817883259227284,
-    "user_username": "Bitcoin Pancake",
-    "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg"
-  },
-  {
     "user": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
     "token": "2dzg",
     "balance": 8774107277299572,
@@ -462,13 +455,6 @@
     "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg"
   },
   {
-    "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
-    "token": "2dzg",
-    "balance": 3184489735791306,
-    "user_username": "Encek",
-    "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg"
-  },
-  {
     "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
     "token": "2dzg",
     "balance": 2996207520641759,
@@ -502,6 +488,13 @@
     "balance": 2461060189762385,
     "user_username": "Castle",
     "user_image": null
+  },
+  {
+    "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
+    "token": "2dzg",
+    "balance": 2348303803362133,
+    "user_username": "Bitcoin Pancake",
+    "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg"
   },
   {
     "user": "2cvzy-kd2zr-v3obu-tapzu-wtz4b-e5yl5-q7dos-dduxu-ritih-jwy5v-wae",
