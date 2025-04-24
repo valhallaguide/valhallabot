@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 130,
-    "nonSellersCount": 116,
+    "totalUsers": 131,
+    "nonSellersCount": 117,
     "sellersCount": 14,
-    "totalBalance": 1073495754158904600
+    "totalBalance": 1073838322101859800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -341,6 +341,10 @@
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
       "username": "Jak to the moon"
+    },
+    "z7bn7-7zlfv-fsty5-ewaca-uckxn-haz4s-2pd7h-gnuwx-f7vsx-um7xm-hae": {
+      "balance": 342567942955285,
+      "username": "z7bn7-7zlfv"
     },
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
