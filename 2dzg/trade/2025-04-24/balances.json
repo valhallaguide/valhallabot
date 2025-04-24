@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
+    "totalUsers": 134,
     "nonSellersCount": 117,
-    "sellersCount": 16,
-    "totalBalance": 1088229659101840400
+    "sellersCount": 17,
+    "totalBalance": 1088788116377285900
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -214,6 +214,10 @@
       "balance": 4886717513584040,
       "username": "ddbea-3vrre"
     },
+    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
+      "balance": 4182284229387663,
+      "username": "FKSTEP.blife"
+    },
     "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe": {
       "balance": 3871585748644026,
       "username": "卖瓜子"
@@ -225,10 +229,6 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
-    },
-    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
-      "balance": 3623826953942108,
-      "username": "FKSTEP.blife"
     },
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
