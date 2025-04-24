@@ -434,13 +434,6 @@
     "user_image": null
   },
   {
-    "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
-    "token": "2dzg",
-    "balance": 4182284229387663,
-    "user_username": "FKSTEP.blife",
-    "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg"
-  },
-  {
     "user": "oxr73-vbars-cjkhd-pp6yt-4gnrz-gdqf4-zxld2-m7mtt-7xht2-6ath2-zqe",
     "token": "2dzg",
     "balance": 3871585748644026,
@@ -462,6 +455,13 @@
     "user_image": null
   },
   {
+    "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
+    "token": "2dzg",
+    "balance": 3623826953942108,
+    "user_username": "FKSTEP.blife",
+    "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg"
+  },
+  {
     "user": "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe",
     "token": "2dzg",
     "balance": 3541993236028030,
@@ -481,13 +481,6 @@
     "balance": 3385586066409502,
     "user_username": "PHIMITRI.blife",
     "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg"
-  },
-  {
-    "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
-    "token": "2dzg",
-    "balance": 3069134353592702,
-    "user_username": "Encek",
-    "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg"
   },
   {
     "user": "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae",
