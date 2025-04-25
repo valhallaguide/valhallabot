@@ -3,7 +3,7 @@
     "totalUsers": 133,
     "nonSellersCount": 120,
     "sellersCount": 13,
-    "totalBalance": 1176562509717641000
+    "totalBalance": 1148448878741321000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -29,10 +29,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000000019285580,
       "username": "Dovah"
-    },
-    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
-      "balance": 38927815757476790,
-      "username": "4.blife"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -133,6 +129,10 @@
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
+    },
+    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
+      "balance": 10814184781156058,
+      "username": "4.blife"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
