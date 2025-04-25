@@ -1,5 +1,5 @@
 {
-  "count": 197,
+  "count": 195,
   "data": [
     {
       "id": "46777052",
@@ -2923,36 +2923,6 @@
       "bonded": true,
       "user_username": "vs4uh-4gl7z",
       "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46778547",
-      "user": "odjgu-d7cgx-p6kpm-h66il-4b7rm-e566k-5ptl6-53clg-dlbmu-6hemz-4qe",
-      "token": "2dzg",
-      "time": "2025-04-25T01:44:29.000Z",
-      "buy": false,
-      "amount_btc": 322023911,
-      "amount_token": 12173863907269940,
-      "price": 2620,
-      "bonded": true,
-      "user_username": "MIAO",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46778444",
-      "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
-      "token": "2dzg",
-      "time": "2025-04-25T01:41:35.000Z",
-      "buy": false,
-      "amount_btc": 33329932,
-      "amount_token": 1240014833328837,
-      "price": 2697,
-      "bonded": true,
-      "user_username": "Bitcoin Pancake",
-      "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
