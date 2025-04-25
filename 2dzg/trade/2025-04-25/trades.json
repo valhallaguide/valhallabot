@@ -1,5 +1,5 @@
 {
-  "count": 192,
+  "count": 194,
   "data": [
     {
       "id": "46777052",
@@ -2878,6 +2878,36 @@
       "bonded": true,
       "user_username": "PHIMITRI.blife",
       "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46777865",
+      "user": "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe",
+      "token": "2dzg",
+      "time": "2025-04-25T01:18:41.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3772126332356175,
+      "price": 2649,
+      "bonded": true,
+      "user_username": "mu2728",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46777855",
+      "user": "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe",
+      "token": "2dzg",
+      "time": "2025-04-25T01:18:21.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3806196448584103,
+      "price": 2625,
+      "bonded": true,
+      "user_username": "mu2728",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
