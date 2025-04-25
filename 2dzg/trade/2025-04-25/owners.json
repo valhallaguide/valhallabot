@@ -350,13 +350,6 @@
     "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png"
   },
   {
-    "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
-    "token": "2dzg",
-    "balance": 6613412444420463,
-    "user_username": "Bitcoin Pancake",
-    "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg"
-  },
-  {
     "user": "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe",
     "token": "2dzg",
     "balance": 6044860718951457,
@@ -397,6 +390,13 @@
     "balance": 5000000000000000,
     "user_username": "isvcj-d7on7",
     "user_image": null
+  },
+  {
+    "user": "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae",
+    "token": "2dzg",
+    "balance": 4960059333315348,
+    "user_username": "Bitcoin Pancake",
+    "user_image": "d425975f-ccee-433b-bd17-346825ac805b.jpeg"
   },
   {
     "user": "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae",
