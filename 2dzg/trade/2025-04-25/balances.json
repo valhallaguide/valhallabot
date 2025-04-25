@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 119,
+    "totalUsers": 134,
+    "nonSellersCount": 120,
     "sellersCount": 14,
-    "totalBalance": 1161062841962612500
+    "totalBalance": 1181616689794177300
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -22,6 +22,10 @@
       "balance": 56397202945361700,
       "username": "独孤求败"
     },
+    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
+      "balance": 52611017857587840,
+      "username": "4.blife"
+    },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
@@ -29,10 +33,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000000019285580,
       "username": "Dovah"
-    },
-    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
-      "balance": 38927815757476790,
-      "username": "4.blife"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -185,6 +185,10 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 7435845491179805,
       "username": "ICBin ∞"
+    },
+    "kow5a-5plow-ayteq-nwech-gu5lk-k3llb-f44wf-34cud-ywywn-q7beg-fqe": {
+      "balance": 6870645731453768,
+      "username": "Cindo"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
