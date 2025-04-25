@@ -3,7 +3,7 @@
     "totalUsers": 133,
     "nonSellersCount": 133,
     "sellersCount": 0,
-    "totalBalance": 1256645970049481000
+    "totalBalance": 1254992616938376000
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -206,10 +206,6 @@
       "balance": 7435845491179805,
       "username": "ICBin ∞"
     },
-    "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae": {
-      "balance": 6613412444420463,
-      "username": "Bitcoin Pancake"
-    },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
@@ -233,6 +229,10 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 5000000000000000,
       "username": "isvcj-d7on7"
+    },
+    "mxjnc-5oihz-kp72p-nbpid-j6kys-dtfuu-lrdvl-l4kl2-nxzgl-xftpq-2ae": {
+      "balance": 4960059333315348,
+      "username": "Bitcoin Pancake"
     },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
