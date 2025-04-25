@@ -1,5 +1,5 @@
 {
-  "count": 231,
+  "count": 233,
   "data": [
     {
       "id": "46777052",
@@ -3463,6 +3463,36 @@
       "bonded": true,
       "user_username": "Cindo",
       "user_image": "92ef3815-5de1-4422-826a-7ce415e7eddd.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46816395",
+      "user": "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae",
+      "token": "2dzg",
+      "time": "2025-04-25T14:23:33.000Z",
+      "buy": true,
+      "amount_btc": 15000000,
+      "amount_token": 498036436820592,
+      "price": 2998,
+      "bonded": true,
+      "user_username": "Bad Moon Rising",
+      "user_image": "e0d3e61a-0071-45d0-b2a7-e5d970daac93.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46816381",
+      "user": "ysh6x-x4d4i-kbcim-xi6tt-xof6f-67p7c-s6j3x-2iq5e-4dujp-ilmro-fqe",
+      "token": "2dzg",
+      "time": "2025-04-25T14:22:17.000Z",
+      "buy": true,
+      "amount_btc": 105941641,
+      "amount_token": 3535155596280058,
+      "price": 2994,
+      "bonded": true,
+      "user_username": "SMH",
+      "user_image": "ecd1f4a0-983e-4b5d-b82c-1d00abf5c988.jpg",
       "decimals": 3,
       "divisibility": 8
     }
