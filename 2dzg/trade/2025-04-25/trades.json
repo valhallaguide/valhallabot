@@ -1,5 +1,5 @@
 {
-  "count": 238,
+  "count": 239,
   "data": [
     {
       "id": "46777052",
@@ -3568,6 +3568,21 @@
       "bonded": true,
       "user_username": "大会的萨格",
       "user_image": "e9b0023f-8e23-4e7a-89f1-3e79da808375.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46818127",
+      "user": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
+      "token": "2dzg",
+      "time": "2025-04-25T15:22:20.000Z",
+      "buy": false,
+      "amount_btc": 190421864,
+      "amount_token": 6579136892063333,
+      "price": 2885,
+      "bonded": true,
+      "user_username": "fewzv-xinjl",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
