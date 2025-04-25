@@ -3,7 +3,7 @@
     "totalUsers": 132,
     "nonSellersCount": 119,
     "sellersCount": 13,
-    "totalBalance": 1144690551878980000
+    "totalBalance": 1143844155362377600
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -230,10 +230,6 @@
       "balance": 3482301236528644,
       "username": "mmm-ooo"
     },
-    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
-      "balance": 3385586066409502,
-      "username": "PHIMITRI.blife"
-    },
     "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae": {
       "balance": 2908780489808965,
       "username": "v6qfr-juarl"
@@ -245,6 +241,10 @@
     "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe": {
       "balance": 2629279939523176,
       "username": "iqpyq-lcyna"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 2539189549807127,
+      "username": "PHIMITRI.blife"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
