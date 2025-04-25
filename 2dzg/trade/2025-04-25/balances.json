@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
+    "totalUsers": 135,
     "nonSellersCount": 119,
-    "sellersCount": 15,
-    "totalBalance": 1170465220806156000
+    "sellersCount": 16,
+    "totalBalance": 1146029954963594900
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -57,10 +57,6 @@
     "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
       "balance": 26359173694348988,
       "username": "MangoMarkets"
-    },
-    "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
-      "balance": 26147529952312356,
-      "username": "CryptoPunk9"
     },
     "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
       "balance": 24967410052965176,
@@ -257,6 +253,10 @@
     "b7olb-ze5hh-dmo5b-h3bgc-yibeg-r6nwt-g3pme-3pkxh-2ut6l-duthd-sae": {
       "balance": 1802295720404644,
       "username": "chendaozai"
+    },
+    "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe": {
+      "balance": 1712264109751062,
+      "username": "hjj"
     },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
