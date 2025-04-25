@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 135,
-    "nonSellersCount": 119,
-    "sellersCount": 16,
-    "totalBalance": 1146029954963594900
+    "nonSellersCount": 120,
+    "sellersCount": 15,
+    "totalBalance": 1149966489489742100
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -222,6 +222,10 @@
       "balance": 3541993236028030,
       "username": "凯旋"
     },
+    "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe": {
+      "balance": 3506192781069494,
+      "username": "hjj"
+    },
     "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae": {
       "balance": 2908780489808965,
       "username": "v6qfr-juarl"
@@ -242,6 +246,10 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
+    "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae": {
+      "balance": 2142605854828740,
+      "username": "ICP MAXI"
+    },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
@@ -253,10 +261,6 @@
     "b7olb-ze5hh-dmo5b-h3bgc-yibeg-r6nwt-g3pme-3pkxh-2ut6l-duthd-sae": {
       "balance": 1802295720404644,
       "username": "chendaozai"
-    },
-    "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe": {
-      "balance": 1712264109751062,
-      "username": "hjj"
     },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
