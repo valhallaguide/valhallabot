@@ -1,5 +1,5 @@
 {
-  "count": 233,
+  "count": 235,
   "data": [
     {
       "id": "46777052",
@@ -3490,6 +3490,36 @@
       "amount_btc": 105941641,
       "amount_token": 3535155596280058,
       "price": 2994,
+      "bonded": true,
+      "user_username": "SMH",
+      "user_image": "ecd1f4a0-983e-4b5d-b82c-1d00abf5c988.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46816536",
+      "user": "qi3pu-zr3ti-rir5r-ut3qo-hhyia-a6bdn-nmefr-6fvpe-27edw-otsqe-wqe",
+      "token": "2dzg",
+      "time": "2025-04-25T14:30:18.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1002949562822644,
+      "price": 2979,
+      "bonded": true,
+      "user_username": "Evelone192",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46816496",
+      "user": "ysh6x-x4d4i-kbcim-xi6tt-xof6f-67p7c-s6j3x-2iq5e-4dujp-ilmro-fqe",
+      "token": "2dzg",
+      "time": "2025-04-25T14:28:56.000Z",
+      "buy": false,
+      "amount_btc": 105015738,
+      "amount_token": 3535155596280058,
+      "price": 2972,
       "bonded": true,
       "user_username": "SMH",
       "user_image": "ecd1f4a0-983e-4b5d-b82c-1d00abf5c988.jpg",
