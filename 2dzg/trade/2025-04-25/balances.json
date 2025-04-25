@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 136,
-    "nonSellersCount": 121,
-    "sellersCount": 15,
-    "totalBalance": 1178779236095823600
+    "nonSellersCount": 120,
+    "sellersCount": 16,
+    "totalBalance": 1175244080499543800
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -229,10 +229,6 @@
     "mg7sv-cri4q-qzqdh-q3xrf-nzbt5-i2abk-imcjo-dqgcm-egaaa-75qgt-3qe": {
       "balance": 3541993236028030,
       "username": "凯旋"
-    },
-    "ysh6x-x4d4i-kbcim-xi6tt-xof6f-67p7c-s6j3x-2iq5e-4dujp-ilmro-fqe": {
-      "balance": 3535155596280058,
-      "username": "SMH"
     },
     "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae": {
       "balance": 2908780489808965,
