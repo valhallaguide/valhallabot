@@ -1,5 +1,5 @@
 {
-  "count": 245,
+  "count": 249,
   "data": [
     {
       "id": "46777052",
@@ -3673,6 +3673,66 @@
       "bonded": true,
       "user_username": "hjj",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46822621",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-25T17:10:00.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 356337754816660,
+      "price": 2793,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46822616",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-25T17:09:57.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1786268100012080,
+      "price": 2791,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46822602",
+      "user": "56tsm-3xows-weo2g-znwcb-foac5-t3zmg-hgai4-axf3b-smisz-uuoop-7qe",
+      "token": "2dzg",
+      "time": "2025-04-25T17:08:47.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1793928671318432,
+      "price": 2779,
+      "bonded": true,
+      "user_username": "hjj",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46822566",
+      "user": "kow5a-5plow-ayteq-nwech-gu5lk-k3llb-f44wf-34cud-ywywn-q7beg-fqe",
+      "token": "2dzg",
+      "time": "2025-04-25T17:08:15.000Z",
+      "buy": false,
+      "amount_btc": 192763156,
+      "amount_token": 6942935550778395,
+      "price": 2767,
+      "bonded": true,
+      "user_username": "4bill",
+      "user_image": "92ef3815-5de1-4422-826a-7ce415e7eddd.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
