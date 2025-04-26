@@ -1,5 +1,5 @@
 {
-  "count": 141,
+  "count": 142,
   "data": [
     {
       "id": "46827993",
@@ -2113,6 +2113,21 @@
       "bonded": true,
       "user_username": "独孤求败",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46853912",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-04-26T16:19:10.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 882107739461887,
+      "price": 2258,
+      "bonded": true,
+      "user_username": "来财`",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
       "decimals": 3,
       "divisibility": 8
     }
