@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 93,
   "data": [
     {
       "id": "46827993",
@@ -1333,6 +1333,66 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829890",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-26T02:07:35.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 393390679262813,
+      "price": 2530,
+      "bonded": true,
+      "user_username": "ndkdosnsndb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829885",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-26T02:07:32.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 393748438398548,
+      "price": 2528,
+      "bonded": true,
+      "user_username": "ndkdosnsndb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829880",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-26T02:07:27.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 394106686034022,
+      "price": 2525,
+      "bonded": true,
+      "user_username": "ndkdosnsndb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829875",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-04-26T02:07:24.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 394465423059220,
+      "price": 2523,
+      "bonded": true,
+      "user_username": "ndkdosnsndb",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
