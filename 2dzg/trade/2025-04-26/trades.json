@@ -1,5 +1,5 @@
 {
-  "count": 154,
+  "count": 155,
   "data": [
     {
       "id": "46827993",
@@ -2308,6 +2308,21 @@
       "bonded": true,
       "user_username": "ICP MAXI",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46855111",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-04-26T17:53:21.000Z",
+      "buy": false,
+      "amount_btc": 936391445,
+      "amount_token": 47597346405199650,
+      "price": 1882,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
       "decimals": 3,
       "divisibility": 8
     }
