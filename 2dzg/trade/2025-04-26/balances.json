@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
-    "nonSellersCount": 127,
+    "totalUsers": 140,
+    "nonSellersCount": 128,
     "sellersCount": 12,
-    "totalBalance": 1139139177212863200
+    "totalBalance": 1150497302300677900
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -121,6 +121,10 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
       "username": "mengou2"
+    },
+    "vxcze-pgriq-afkvu-fqmau-3webl-muwds-mqtvy-eljbs-awv7o-pfewv-pqe": {
+      "balance": 11358125087814676,
+      "username": "ODIN Wisdom"
     },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
