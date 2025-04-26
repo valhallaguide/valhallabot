@@ -1,5 +1,5 @@
 {
-  "count": 106,
+  "count": 109,
   "data": [
     {
       "id": "46827993",
@@ -1588,6 +1588,51 @@
       "bonded": true,
       "user_username": "belief",
       "user_image": "ccc70052-e07e-4ec9-b4db-5e19724c5015.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46833502",
+      "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
+      "token": "2dzg",
+      "time": "2025-04-26T05:05:04.000Z",
+      "buy": true,
+      "amount_btc": 15000000,
+      "amount_token": 551908907360151,
+      "price": 2706,
+      "bonded": true,
+      "user_username": "leslie",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46833473",
+      "user": "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe",
+      "token": "2dzg",
+      "time": "2025-04-26T05:04:22.000Z",
+      "buy": true,
+      "amount_btc": 80000000,
+      "amount_token": 2955983830747833,
+      "price": 2702,
+      "bonded": true,
+      "user_username": "leslie",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46833463",
+      "user": "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe",
+      "token": "2dzg",
+      "time": "2025-04-26T05:04:05.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1858209088740466,
+      "price": 2683,
+      "bonded": true,
+      "user_username": "53dde-k3u2g",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
