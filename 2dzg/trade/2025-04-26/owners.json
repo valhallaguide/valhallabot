@@ -224,13 +224,6 @@
     "user_image": null
   },
   {
-    "user": "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe",
-    "token": "2dzg",
-    "balance": 12000000000000000,
-    "user_username": "CryptoPunk9",
-    "user_image": null
-  },
-  {
     "user": "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae",
     "token": "2dzg",
     "balance": 11356677464172276,
@@ -893,6 +886,13 @@
     "token": "2dzg",
     "balance": 2776888,
     "user_username": "Kuromi",
+    "user_image": null
+  },
+  {
+    "user": "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe",
+    "token": "2dzg",
+    "balance": 99999,
+    "user_username": "CryptoPunk9",
     "user_image": null
   },
   {
