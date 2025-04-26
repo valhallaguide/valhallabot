@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 125,
     "sellersCount": 9,
-    "totalBalance": 1175103263841544000
+    "totalBalance": 1174750555976659200
   },
   "data": {
     "kqvot-uoir7-3myvu-l2ioq-3q4ea-bnm4b-tp2ih-jpqyg-aokdh-6kb3m-xqe": {
@@ -246,13 +246,13 @@
       "balance": 2689809502120380,
       "username": "大会的萨格"
     },
-    "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe": {
-      "balance": 2629279939523176,
-      "username": "iqpyq-lcyna"
-    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
+    },
+    "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe": {
+      "balance": 2276572074638323,
+      "username": "iqpyq-lcyna"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
