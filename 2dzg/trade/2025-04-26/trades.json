@@ -1,5 +1,5 @@
 {
-  "count": 85,
+  "count": 89,
   "data": [
     {
       "id": "46827993",
@@ -1273,6 +1273,66 @@
       "bonded": true,
       "user_username": "4.blife",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829703",
+      "user": "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe",
+      "token": "2dzg",
+      "time": "2025-04-26T01:50:02.000Z",
+      "buy": true,
+      "amount_btc": 3052355,
+      "amount_token": 120476360240638,
+      "price": 2521,
+      "bonded": true,
+      "user_username": "iqpyq-lcyna",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829698",
+      "user": "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe",
+      "token": "2dzg",
+      "time": "2025-04-26T01:49:01.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 394934397095479,
+      "price": 2520,
+      "bonded": true,
+      "user_username": "iqpyq-lcyna",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829653",
+      "user": "adsic-vqjaz-e4ics-qv7um-a5hsi-fdxvv-wwrd5-ebtbu-no7w5-x3qv4-qae",
+      "token": "2dzg",
+      "time": "2025-04-26T01:47:02.000Z",
+      "buy": true,
+      "amount_btc": 178044480,
+      "amount_token": 7092378655714272,
+      "price": 2518,
+      "bonded": true,
+      "user_username": "Gujtgjfjffjvvjjv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46829643",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-26T01:46:35.000Z",
+      "buy": false,
+      "amount_btc": 61806060,
+      "amount_token": 2500000000000000,
+      "price": 2477,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
