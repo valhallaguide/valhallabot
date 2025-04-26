@@ -1,5 +1,5 @@
 {
-  "count": 153,
+  "count": 154,
   "data": [
     {
       "id": "46827993",
@@ -2293,6 +2293,21 @@
       "bonded": true,
       "user_username": "The heartbeat bangs",
       "user_image": "1859b4cd-dbb3-491c-a068-94835c7b8aa1.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46855019",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-26T17:46:01.000Z",
+      "buy": false,
+      "amount_btc": 63311439,
+      "amount_token": 3054498060720798,
+      "price": 2076,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
