@@ -14,13 +14,6 @@
     "user_image": "6d757d91-8a42-45cc-94d3-7f2a1631cca0.gif"
   },
   {
-    "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
-    "token": "2dzg",
-    "balance": 47597346405199650,
-    "user_username": "MOSES11.blife",
-    "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png"
-  },
-  {
     "user": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
     "token": "2dzg",
     "balance": 47412651021926240,
@@ -47,13 +40,6 @@
     "balance": 32982291413674750,
     "user_username": "LLONGKING.blife",
     "user_image": null
-  },
-  {
-    "user": "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae",
-    "token": "2dzg",
-    "balance": 31362502015127604,
-    "user_username": "jasper",
-    "user_image": "ec2cf02e-ae7a-4c97-bf3d-9850da3cbc2e.jpg"
   },
   {
     "user": "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae",
@@ -194,6 +180,13 @@
     "balance": 16716467976919456,
     "user_username": "qa2bp-pllzs",
     "user_image": null
+  },
+  {
+    "user": "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae",
+    "token": "2dzg",
+    "balance": 15070973893364820,
+    "user_username": "jasper",
+    "user_image": "ec2cf02e-ae7a-4c97-bf3d-9850da3cbc2e.jpg"
   },
   {
     "user": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
