@@ -1,5 +1,5 @@
 {
-  "count": 105,
+  "count": 106,
   "data": [
     {
       "id": "46827993",
@@ -1573,6 +1573,21 @@
       "bonded": true,
       "user_username": "ODIN Wisdom",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46833330",
+      "user": "mtq5b-jtutn-igj7q-5jjpt-36wdp-xlcq5-kfn2j-4fds6-hx3g5-slevs-yqe",
+      "token": "2dzg",
+      "time": "2025-04-26T05:00:14.000Z",
+      "buy": true,
+      "amount_btc": 30518556,
+      "amount_token": 1138278571569631,
+      "price": 2671,
+      "bonded": true,
+      "user_username": "belief",
+      "user_image": "ccc70052-e07e-4ec9-b4db-5e19724c5015.jpg",
       "decimals": 3,
       "divisibility": 8
     }
