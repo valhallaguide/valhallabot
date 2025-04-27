@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 128,
-    "sellersCount": 6,
-    "totalBalance": 1022875751912824600
+    "totalUsers": 136,
+    "nonSellersCount": 129,
+    "sellersCount": 7,
+    "totalBalance": 1046531047180284800
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -53,6 +53,10 @@
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
       "balance": 24792311071685480,
       "username": "⚽️🏀⚽️🏀⚽️🏀"
+    },
+    "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae": {
+      "balance": 22899409721931052,
+      "username": "Fuike"
     },
     "nyoqc-opgfv-zjr2a-4sjyu-dsmxm-5sqej-5irvs-vpvgh-3v5mw-zr3sk-rqe": {
       "balance": 22759435285371852,
@@ -274,6 +278,10 @@
       "balance": 1598499549959227,
       "username": "hicoi-fm7uq"
     },
+    "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe": {
+      "balance": 1584221789528515,
+      "username": "割割我怕"
+    },
     "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe": {
       "balance": 1516160382553376,
       "username": "f5sjn-alw4i"
@@ -333,10 +341,6 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
-    },
-    "kdnxq-poqqk-d6zpn-lucbq-nrx2z-basdr-j3esv-lqukt-4f442-ajmpq-2qe": {
-      "balance": 828336243999451,
-      "username": "割割我怕"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
