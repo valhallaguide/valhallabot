@@ -1,5 +1,5 @@
 {
-  "count": 151,
+  "count": 152,
   "data": [
     {
       "id": "46857566",
@@ -2263,6 +2263,21 @@
       "bonded": true,
       "user_username": "i am the balancing point",
       "user_image": "47f4fd3f-79f4-4187-91f4-47eccb499519.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46880819",
+      "user": "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe",
+      "token": "2dzg",
+      "time": "2025-04-27T15:05:47.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 306534616460154,
+      "price": 1623,
+      "bonded": true,
+      "user_username": "d5ynk-ngy6j",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
