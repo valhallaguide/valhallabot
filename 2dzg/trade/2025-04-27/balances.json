@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 134,
-    "nonSellersCount": 134,
-    "sellersCount": 0,
-    "totalBalance": 1080856263937632500
+    "nonSellersCount": 131,
+    "sellersCount": 3,
+    "totalBalance": 1043831736112292500
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -21,10 +21,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 41999999959738800,
       "username": "Dovah"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 35000000000000000,
-      "username": "MILK"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -278,10 +274,6 @@
       "balance": 2165240318917314,
       "username": "ghjcfyghjh"
     },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 2024527825240080,
-      "username": "53dde-k3u2g"
-    },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
@@ -513,10 +505,6 @@
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 2776888,
       "username": "Kuromi"
-    },
-    "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
-      "balance": 99999,
-      "username": "CryptoPunk9"
     },
     "yxg3h-7gh7s-q7t5z-lyykl-4m6r2-mws6i-rn276-y4dtt-ogcjy-ll5b6-3ae": {
       "balance": 83,
