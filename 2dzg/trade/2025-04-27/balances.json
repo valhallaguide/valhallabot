@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 132,
-    "nonSellersCount": 125,
-    "sellersCount": 7,
-    "totalBalance": 940312450308809000
+    "totalUsers": 128,
+    "nonSellersCount": 123,
+    "sellersCount": 5,
+    "totalBalance": 905834830007305200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -37,10 +37,6 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 26749992539240044,
       "username": "planBCrypto"
-    },
-    "ulyox-bgmev-4emv3-sijkx-jd5g2-4ghoi-lt4bn-vxj4o-uboe7-syhwl-tqe": {
-      "balance": 26359173694348988,
-      "username": "MangoMarkets"
     },
     "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe": {
       "balance": 24967410052965176,
@@ -165,10 +161,6 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
-    },
-    "jllyq-ylonb-aavbp-hy36k-kaewh-t6vwp-ckibg-h4orm-i4dt5-xrznt-nae": {
-      "balance": 8118446607154826,
-      "username": "MAGNUSOPIUS"
     },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
