@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 133,
+    "totalUsers": 137,
+    "nonSellersCount": 132,
     "sellersCount": 5,
-    "totalBalance": 1070195517233626800
+    "totalBalance": 1074883507725890000
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -206,6 +206,10 @@
       "balance": 5669000695023501,
       "username": "Unstoppable"
     },
+    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
+      "balance": 5427400579987510,
+      "username": "gjjw3-5peer"
+    },
     "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae": {
       "balance": 5348134195916440,
       "username": "ASSCLOWNS"
@@ -370,10 +374,6 @@
       "balance": 755433234070766,
       "username": "带我飞"
     },
-    "3wako-56b3n-7drfp-bduc2-3xugs-r3eik-5pcne-qdc65-nktok-nwbx7-iae": {
-      "balance": 739410053162935,
-      "username": "发财了"
-    },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "4ivvu-3te66"
@@ -501,10 +501,6 @@
     "qfg77-3zunv-dbgkj-6m34q-pxgzv-axt3k-pkh34-mxjij-pcqza-37ndm-2ae": {
       "balance": 43917211,
       "username": "Valkyrie ⠀"
-    },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 34561246,
-      "username": "gjjw3-5peer"
     },
     "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
       "balance": 26071022,
