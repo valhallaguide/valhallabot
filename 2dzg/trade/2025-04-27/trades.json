@@ -1,5 +1,5 @@
 {
-  "count": 134,
+  "count": 136,
   "data": [
     {
       "id": "46857566",
@@ -2008,6 +2008,36 @@
       "bonded": true,
       "user_username": "来财`",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46879154",
+      "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
+      "token": "2dzg",
+      "time": "2025-04-27T14:09:39.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3088974957407391,
+      "price": 1615,
+      "bonded": true,
+      "user_username": "6h5t7-4kzx6",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46879011",
+      "user": "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae",
+      "token": "2dzg",
+      "time": "2025-04-27T14:07:54.000Z",
+      "buy": false,
+      "amount_btc": 1465616319,
+      "amount_token": 84660243093611220,
+      "price": 1605,
+      "bonded": true,
+      "user_username": "To the Valhalla",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
