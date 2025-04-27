@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 122,
+    "totalUsers": 133,
+    "nonSellersCount": 124,
     "sellersCount": 9,
-    "totalBalance": 924395552819284100
+    "totalBalance": 947690982826999300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -110,6 +110,10 @@
       "balance": 14632421421889960,
       "username": "pve"
     },
+    "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe": {
+      "balance": 14013261112419016,
+      "username": "e5s55-bijuk"
+    },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
       "username": "mengou2"
@@ -145,6 +149,10 @@
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 9782222038296026,
       "username": "👑King"
+    },
+    "hok32-7rvkh-s4nbn-helr7-4nbye-tsvck-k3dvf-aayap-bgmc6-uhpqp-4ae": {
+      "balance": 9282168895296184,
+      "username": "i am the balancing point"
     },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 9225288384894366,
