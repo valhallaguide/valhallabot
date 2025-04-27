@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 131,
+    "totalUsers": 135,
+    "nonSellersCount": 132,
     "sellersCount": 3,
-    "totalBalance": 1043210211149556400
+    "totalBalance": 1049467146786052200
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -189,6 +189,10 @@
     "g3t7d-h5eke-x2nwl-e5bj7-lc2g4-avxft-oecc6-y7bdv-jllxd-ks7ed-bae": {
       "balance": 6265519876591893,
       "username": "大会的萨格"
+    },
+    "iyzuc-hfqud-yo4fl-7mr6a-engxz-7zxd7-fuudo-m3rhp-n5czp-ul73r-nae": {
+      "balance": 6256935636495863,
+      "username": "Yoo7"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
