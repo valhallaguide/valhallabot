@@ -1,5 +1,5 @@
 {
-  "count": 130,
+  "count": 131,
   "data": [
     {
       "id": "46857566",
@@ -1948,6 +1948,21 @@
       "bonded": true,
       "user_username": "Wenber～Victory",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46877474",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-04-27T13:10:30.000Z",
+      "buy": false,
+      "amount_btc": 64164162,
+      "amount_token": 3502307563035868,
+      "price": 1834,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
