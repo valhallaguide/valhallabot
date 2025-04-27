@@ -3,7 +3,7 @@
     "totalUsers": 131,
     "nonSellersCount": 124,
     "sellersCount": 7,
-    "totalBalance": 947384448210539100
+    "totalBalance": 947690982826999300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -250,6 +250,10 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
+    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
+      "balance": 2215095628424537,
+      "username": "d5ynk-ngy6j"
+    },
     "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
       "balance": 2041084336025174,
       "username": "msv63-6h6dg"
@@ -257,10 +261,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 1908561011964383,
-      "username": "d5ynk-ngy6j"
     },
     "cr422-ocahl-spzmu-a2fq6-tnpnj-egrq2-uaorx-5noct-kqt7m-jtpcz-sqe": {
       "balance": 1811253369368316,
