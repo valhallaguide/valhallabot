@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 126,
+    "totalUsers": 132,
+    "nonSellersCount": 127,
     "sellersCount": 5,
-    "totalBalance": 1021760080804323700
+    "totalBalance": 1022035622577132500
   },
   "data": {
     "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
@@ -405,6 +405,10 @@
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
+    },
+    "rvvcw-hlftl-umj6a-w43dm-cfxnb-kgbhw-lbs6l-vbzin-al5wi-jv3zl-5ae": {
+      "balance": 275541772808816,
+      "username": "rvvcw"
     },
     "jnrdb-lszbf-7lsy3-4kcmr-nfzus-2vs3j-xmgwv-isq2c-ze4fk-qf3zf-kae": {
       "balance": 272554789220992,
