@@ -1,15 +1,11 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 127,
+    "totalUsers": 133,
+    "nonSellersCount": 126,
     "sellersCount": 7,
-    "totalBalance": 1024971225379473400
+    "totalBalance": 940310982285862100
   },
   "data": {
-    "66zv6-oq33j-wm5up-d2pgc-wopck-yzpcj-7opcw-jrmpz-da7lm-vo7of-qae": {
-      "balance": 84660243093611220,
-      "username": "To the Valhalla"
-    },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 64012497141570824,
       "username": "RUNESLEO.blife"
