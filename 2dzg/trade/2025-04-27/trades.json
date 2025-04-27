@@ -1,5 +1,5 @@
 {
-  "count": 160,
+  "count": 162,
   "data": [
     {
       "id": "46857566",
@@ -2398,6 +2398,36 @@
       "bonded": true,
       "user_username": "e5s55-bijuk",
       "user_image": "451cab97-e444-4660-aa41-e1e61cb9070f.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46883618",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-04-27T19:32:42.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 1214086648865148,
+      "price": 1640,
+      "bonded": true,
+      "user_username": "来财`",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46883608",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-04-27T19:31:30.000Z",
+      "buy": true,
+      "amount_btc": 12800000,
+      "amount_token": 778441606939276,
+      "price": 1637,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
