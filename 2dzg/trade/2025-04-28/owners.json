@@ -133,13 +133,6 @@
     "user_image": null
   },
   {
-    "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
-    "token": "2dzg",
-    "balance": 17875730467814120,
-    "user_username": "To be a millionaire",
-    "user_image": null
-  },
-  {
     "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
     "token": "2dzg",
     "balance": 17366628995434020,
@@ -285,6 +278,13 @@
     "balance": 9225288384894366,
     "user_username": "ICBin ∞",
     "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png"
+  },
+  {
+    "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+    "token": "2dzg",
+    "balance": 8937865233907061,
+    "user_username": "To be a millionaire",
+    "user_image": null
   },
   {
     "user": "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae",
