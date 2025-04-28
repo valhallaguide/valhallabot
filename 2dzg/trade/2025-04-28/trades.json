@@ -1,5 +1,5 @@
 {
-  "count": 139,
+  "count": 143,
   "data": [
     {
       "id": "46887060",
@@ -2083,6 +2083,66 @@
       "bonded": true,
       "user_username": "Encek",
       "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46910816",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-04-28T12:22:24.000Z",
+      "buy": true,
+      "amount_btc": 129016552,
+      "amount_token": 7616395008755910,
+      "price": 1697,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46910806",
+      "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+      "token": "2dzg",
+      "time": "2025-04-28T12:22:16.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1786702265381194,
+      "price": 1673,
+      "bonded": true,
+      "user_username": "To be a millionaire",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46910787",
+      "user": "aecgo-ayobn-hseww-7jg22-hsuad-m2xhv-6733n-57ves-gj5iz-7ktyk-qae",
+      "token": "2dzg",
+      "time": "2025-04-28T12:21:35.000Z",
+      "buy": false,
+      "amount_btc": 438000175,
+      "amount_token": 25759969720879828,
+      "price": 1667,
+      "bonded": true,
+      "user_username": "Fuike",
+      "user_image": "dda79de9-0540-4a2f-bbb4-a98b64c70765.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46910782",
+      "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+      "token": "2dzg",
+      "time": "2025-04-28T12:21:17.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 5713858940153389,
+      "price": 1750,
+      "bonded": true,
+      "user_username": "To be a millionaire",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
