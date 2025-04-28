@@ -1,5 +1,5 @@
 {
-  "count": 182,
+  "count": 183,
   "data": [
     {
       "id": "46887060",
@@ -2728,6 +2728,21 @@
       "bonded": true,
       "user_username": "bobCOIN",
       "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46920563",
+      "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+      "token": "2dzg",
+      "time": "2025-04-28T22:05:23.000Z",
+      "buy": false,
+      "amount_btc": 90245460,
+      "amount_token": 4800000000000000,
+      "price": 1880,
+      "bonded": true,
+      "user_username": "₿o₿",
+      "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
       "decimals": 3,
       "divisibility": 8
     }
