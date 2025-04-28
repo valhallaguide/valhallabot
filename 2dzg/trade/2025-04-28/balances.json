@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
+    "totalUsers": 125,
     "nonSellersCount": 119,
-    "sellersCount": 5,
-    "totalBalance": 956494876735617500
+    "sellersCount": 6,
+    "totalBalance": 974586158484750300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -81,6 +81,10 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 18172617168098124,
       "username": "ICBin ∞"
+    },
+    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
+      "balance": 18091281749132772,
+      "username": "vh46v-g7bhd"
     },
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 17366628995434020,
@@ -469,10 +473,6 @@
     "ozjul-snw22-6nrqh-ueu6v-6yfgx-5shbn-xbrep-uzpdj-4vvvu-f3xmu-wqe": {
       "balance": 2,
       "username": "八方来财·因果"
-    },
-    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
-      "balance": 1,
-      "username": "vh46v-g7bhd"
     },
     "kfksd-olb7c-rplh3-e3uva-l75ja-7gi2r-gw4qi-euaj5-f3ujr-45t7q-dae": {
       "balance": 1,
