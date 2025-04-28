@@ -1,5 +1,5 @@
 {
-  "count": 108,
+  "count": 109,
   "data": [
     {
       "id": "46887060",
@@ -1618,6 +1618,21 @@
       "bonded": true,
       "user_username": "ASSCLOWNS",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893991",
+      "user": "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae",
+      "token": "2dzg",
+      "time": "2025-04-28T05:02:52.000Z",
+      "buy": false,
+      "amount_btc": 21230306,
+      "amount_token": 1306279927902199,
+      "price": 1631,
+      "bonded": true,
+      "user_username": "fucking winner",
+      "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg",
       "decimals": 3,
       "divisibility": 8
     }
