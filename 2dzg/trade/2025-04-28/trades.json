@@ -1,5 +1,5 @@
 {
-  "count": 103,
+  "count": 108,
   "data": [
     {
       "id": "46887060",
@@ -1543,6 +1543,81 @@
       "bonded": true,
       "user_username": "ICBin ∞",
       "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893888",
+      "user": "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe",
+      "token": "2dzg",
+      "time": "2025-04-28T04:58:37.000Z",
+      "buy": false,
+      "amount_btc": 81742810,
+      "amount_token": 5000000000000000,
+      "price": 1635,
+      "bonded": true,
+      "user_username": "⚽️🏀⚽️🏀⚽️🏀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893855",
+      "user": "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae",
+      "token": "2dzg",
+      "time": "2025-04-28T04:57:29.000Z",
+      "buy": true,
+      "amount_btc": 97183320,
+      "amount_token": 5890153967598995,
+      "price": 1650,
+      "bonded": true,
+      "user_username": "ASSCLOWNS",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893845",
+      "user": "6h5t7-4kzx6-tjlpl-nsorr-qlpu7-hnrnt-ga24n-cidsq-tg3gv-taaxe-tqe",
+      "token": "2dzg",
+      "time": "2025-04-28T04:56:59.000Z",
+      "buy": false,
+      "amount_btc": 322298137,
+      "amount_token": 19479870744978050,
+      "price": 1632,
+      "bonded": true,
+      "user_username": "6h5t7-4kzx6",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893809",
+      "user": "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae",
+      "token": "2dzg",
+      "time": "2025-04-28T04:55:35.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2945719898940380,
+      "price": 1693,
+      "bonded": true,
+      "user_username": "ASSCLOWNS",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46893800",
+      "user": "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae",
+      "token": "2dzg",
+      "time": "2025-04-28T04:55:30.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 591126507988255,
+      "price": 1684,
+      "bonded": true,
+      "user_username": "ASSCLOWNS",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
