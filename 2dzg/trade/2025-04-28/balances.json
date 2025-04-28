@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
+    "totalUsers": 124,
     "nonSellersCount": 118,
-    "sellersCount": 5,
-    "totalBalance": 983156025790387800
+    "sellersCount": 6,
+    "totalBalance": 986050566464000300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -174,6 +174,10 @@
       "balance": 8354815757366572,
       "username": "笑哈哈"
     },
+    "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe": {
+      "balance": 7588459781078204,
+      "username": "meme-mimi"
+    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
@@ -209,10 +213,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe": {
-      "balance": 4693919107465734,
-      "username": "meme-mimi"
     },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
