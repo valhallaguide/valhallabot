@@ -1,5 +1,5 @@
 {
-  "count": 109,
+  "count": 111,
   "data": [
     {
       "id": "46887060",
@@ -1633,6 +1633,36 @@
       "bonded": true,
       "user_username": "fucking winner",
       "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46895441",
+      "user": "v6qfr-juarl-k72pc-po3bq-5kvr2-awzft-puikq-6l5f2-cyeck-x4hal-dae",
+      "token": "2dzg",
+      "time": "2025-04-28T05:42:44.000Z",
+      "buy": false,
+      "amount_btc": 49148984,
+      "amount_token": 2908780489808965,
+      "price": 1693,
+      "bonded": true,
+      "user_username": "v6qfr-juarl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46895397",
+      "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
+      "token": "2dzg",
+      "time": "2025-04-28T05:41:20.000Z",
+      "buy": true,
+      "amount_btc": 380000000,
+      "amount_token": 22685314052684570,
+      "price": 1702,
+      "bonded": true,
+      "user_username": "56dsn-qkwnf",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
