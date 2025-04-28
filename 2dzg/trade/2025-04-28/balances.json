@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 129,
-    "nonSellersCount": 123,
+    "totalUsers": 128,
+    "nonSellersCount": 122,
     "sellersCount": 6,
-    "totalBalance": 956407872727600300
+    "totalBalance": 955668462674437400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -329,10 +329,6 @@
     "aquoz-vlkbq-z4jd3-4phx6-w2lfe-z42wq-brlxc-faj34-ar3n3-rund3-wae": {
       "balance": 755433234070766,
       "username": "带我飞"
-    },
-    "3wako-56b3n-7drfp-bduc2-3xugs-r3eik-5pcne-qdc65-nktok-nwbx7-iae": {
-      "balance": 739410053162935,
-      "username": "发财了"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
