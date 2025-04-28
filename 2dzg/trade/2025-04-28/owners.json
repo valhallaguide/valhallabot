@@ -189,13 +189,6 @@
     "user_image": null
   },
   {
-    "user": "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe",
-    "token": "2dzg",
-    "balance": 15845281909943536,
-    "user_username": "BigFoot",
-    "user_image": "ec3f1fc5-eed4-4b11-a761-9bacc1bf4467.jpg"
-  },
-  {
     "user": "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe",
     "token": "2dzg",
     "balance": 15551283596954368,
@@ -208,6 +201,13 @@
     "balance": 15070973893364820,
     "user_username": "jasper",
     "user_image": "ec2cf02e-ae7a-4c97-bf3d-9850da3cbc2e.jpg"
+  },
+  {
+    "user": "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe",
+    "token": "2dzg",
+    "balance": 14687447595493296,
+    "user_username": "BigFoot",
+    "user_image": "ec3f1fc5-eed4-4b11-a761-9bacc1bf4467.jpg"
   },
   {
     "user": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
