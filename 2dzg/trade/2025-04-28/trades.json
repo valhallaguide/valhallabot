@@ -1,5 +1,5 @@
 {
-  "count": 155,
+  "count": 153,
   "data": [
     {
       "id": "46887060",
@@ -2290,36 +2290,6 @@
       "amount_btc": 21753449,
       "amount_token": 1182151481863987,
       "price": 1833,
-      "bonded": true,
-      "user_username": "PHIMITRI.blife",
-      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46914704",
-      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
-      "token": "2dzg",
-      "time": "2025-04-28T14:42:09.000Z",
-      "buy": true,
-      "amount_btc": 5060031,
-      "amount_token": 274143117271691,
-      "price": 1837,
-      "bonded": true,
-      "user_username": "PHIMITRI.blife",
-      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "46914689",
-      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
-      "token": "2dzg",
-      "time": "2025-04-28T14:41:42.000Z",
-      "buy": true,
-      "amount_btc": 15201689,
-      "amount_token": 824486741378822,
-      "price": 1836,
       "bonded": true,
       "user_username": "PHIMITRI.blife",
       "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
