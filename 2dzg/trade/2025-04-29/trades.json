@@ -1,5 +1,5 @@
 {
-  "count": 110,
+  "count": 111,
   "data": [
     {
       "id": "46921328",
@@ -1645,6 +1645,21 @@
       "amount_btc": 172144089,
       "amount_token": 8999830517022352,
       "price": 1905,
+      "bonded": true,
+      "user_username": "Goldcicada",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46924094",
+      "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+      "token": "2dzg",
+      "time": "2025-04-29T03:08:23.000Z",
+      "buy": true,
+      "amount_btc": 81588004,
+      "amount_token": 4204864778218200,
+      "price": 1938,
       "bonded": true,
       "user_username": "Goldcicada",
       "user_image": null,
