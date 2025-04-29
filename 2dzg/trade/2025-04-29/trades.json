@@ -1,5 +1,5 @@
 {
-  "count": 124,
+  "count": 125,
   "data": [
     {
       "id": "46921328",
@@ -1855,6 +1855,21 @@
       "amount_btc": 34224102,
       "amount_token": 1818890241706573,
       "price": 1875,
+      "bonded": true,
+      "user_username": "PHIMITRI.blife",
+      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46935548",
+      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
+      "token": "2dzg",
+      "time": "2025-04-29T14:07:48.000Z",
+      "buy": false,
+      "amount_btc": 37278012,
+      "amount_token": 2001510001283276,
+      "price": 1868,
       "bonded": true,
       "user_username": "PHIMITRI.blife",
       "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
