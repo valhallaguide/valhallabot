@@ -3,7 +3,7 @@
     "totalUsers": 127,
     "nonSellersCount": 114,
     "sellersCount": 13,
-    "totalBalance": 898489270426106000
+    "totalBalance": 898312728730460800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -398,10 +398,6 @@
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
     },
-    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
-      "balance": 180844544499836,
-      "username": "gjjw3-5peer"
-    },
     "h4qcu-uhjp3-2e5gv-nxgi7-ab6zc-cndi3-4auo5-khsac-vi555-6zrfu-2qe": {
       "balance": 172866000719689,
       "username": "h4qcu-uhjp3"
@@ -433,6 +429,10 @@
     "qzmfy-7kmzl-jpnyf-hlx2u-w6rlv-syrfg-vdsks-ycus5-lhr2r-k7nrt-eae": {
       "balance": 7324390781448,
       "username": "符文堂｜ SOLMAXI"
+    },
+    "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
+      "balance": 4302848854638,
+      "username": "gjjw3-5peer"
     },
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 2776888,
