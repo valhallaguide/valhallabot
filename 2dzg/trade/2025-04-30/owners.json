@@ -217,13 +217,6 @@
     "user_image": "ec2cf02e-ae7a-4c97-bf3d-9850da3cbc2e.jpg"
   },
   {
-    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
-    "token": "2dzg",
-    "balance": 14282443595394446,
-    "user_username": "ICP MAXI",
-    "user_image": null
-  },
-  {
     "user": "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae",
     "token": "2dzg",
     "balance": 13673066889855710,
@@ -292,6 +285,13 @@
     "balance": 10088092388737020,
     "user_username": "UfoBoBMsk",
     "user_image": "18496963-bb81-4df4-883e-6f5d747eb154.jpg"
+  },
+  {
+    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+    "token": "2dzg",
+    "balance": 10000000000000000,
+    "user_username": "ICP MAXI",
+    "user_image": null
   },
   {
     "user": "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe",
