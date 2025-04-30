@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 44,
   "data": [
     {
       "id": "46943766",
@@ -613,6 +613,51 @@
       "bonded": true,
       "user_username": "Encek",
       "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46946830",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-30T03:57:46.000Z",
+      "buy": true,
+      "amount_btc": 22267547,
+      "amount_token": 1291542174318139,
+      "price": 1717,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46946810",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-30T03:57:20.000Z",
+      "buy": true,
+      "amount_btc": 67438150,
+      "amount_token": 3931074357268028,
+      "price": 1713,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46946799",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-04-30T03:56:09.000Z",
+      "buy": true,
+      "amount_btc": 91429443,
+      "amount_token": 5377047490031695,
+      "price": 1700,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
