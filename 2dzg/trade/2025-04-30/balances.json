@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 124,
-    "nonSellersCount": 121,
-    "sellersCount": 3,
-    "totalBalance": 1021556688306842000
+    "nonSellersCount": 120,
+    "sellersCount": 4,
+    "totalBalance": 989580774298560800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -21,10 +21,6 @@
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
-    },
-    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
-      "balance": 31975914008281210,
-      "username": "Encek"
     },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 31141537422739836,
