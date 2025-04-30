@@ -3,7 +3,7 @@
     "totalUsers": 124,
     "nonSellersCount": 120,
     "sellersCount": 4,
-    "totalBalance": 989580774298560800
+    "totalBalance": 1000180438320178600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -118,6 +118,10 @@
       "balance": 15000000000000000,
       "username": "ASSCLOWNS"
     },
+    "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae": {
+      "balance": 14282443595394446,
+      "username": "ICP MAXI"
+    },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
       "username": "mengou2"
@@ -221,10 +225,6 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
-    },
-    "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae": {
-      "balance": 3682779573776584,
-      "username": "ICP MAXI"
     },
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 3566998352544767,
