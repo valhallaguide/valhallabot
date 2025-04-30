@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 124,
-    "nonSellersCount": 119,
-    "sellersCount": 5,
-    "totalBalance": 1006699201762605000
+    "nonSellersCount": 118,
+    "sellersCount": 6,
+    "totalBalance": 992416758167210600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -117,10 +117,6 @@
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 15070973893364820,
       "username": "jasper"
-    },
-    "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae": {
-      "balance": 14282443595394446,
-      "username": "ICP MAXI"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
