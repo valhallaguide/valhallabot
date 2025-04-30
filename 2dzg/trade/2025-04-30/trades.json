@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 48,
   "data": [
     {
       "id": "46943766",
@@ -703,6 +703,21 @@
       "bonded": true,
       "user_username": "To be a millionaire",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46949236",
+      "user": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
+      "token": "2dzg",
+      "time": "2025-04-30T06:29:39.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 8524654134607331,
+      "price": 1765,
+      "bonded": true,
+      "user_username": "pve",
+      "user_image": "2a6ac9c5-2c91-44df-afff-7a620f8b6dd9.jpg",
       "decimals": 3,
       "divisibility": 8
     }
