@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 49,
   "data": [
     {
       "id": "46968373",
@@ -702,6 +702,36 @@
       "price": 1784,
       "bonded": true,
       "user_username": "meme-mimi",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46970914",
+      "user": "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe",
+      "token": "2dzg",
+      "time": "2025-05-01T03:50:08.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2782815541180920,
+      "price": 1792,
+      "bonded": true,
+      "user_username": "🪙BTC STANDARD🪙",
+      "user_image": "467f072a-1f79-4c91-b08d-d52c844d0daf.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46970889",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-05-01T03:48:11.000Z",
+      "buy": false,
+      "amount_btc": 44457971,
+      "amount_token": 2500000000000000,
+      "price": 1782,
+      "bonded": true,
+      "user_username": "ICP MAXI",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
