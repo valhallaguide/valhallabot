@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 74,
   "data": [
     {
       "id": "46968373",
@@ -1078,6 +1078,36 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46990966",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-05-01T21:55:14.000Z",
+      "buy": true,
+      "amount_btc": 15000000,
+      "amount_token": 833890790973783,
+      "price": 1791,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46990942",
+      "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+      "token": "2dzg",
+      "time": "2025-05-01T21:54:27.000Z",
+      "buy": true,
+      "amount_btc": 164818620,
+      "amount_token": 9253184716056766,
+      "price": 1788,
+      "bonded": true,
+      "user_username": "RWA",
+      "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
       "decimals": 3,
       "divisibility": 8
     }
