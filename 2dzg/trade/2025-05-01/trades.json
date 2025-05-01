@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 47,
   "data": [
     {
       "id": "46968373",
@@ -673,6 +673,36 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46970869",
+      "user": "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae",
+      "token": "2dzg",
+      "time": "2025-05-01T03:45:58.000Z",
+      "buy": true,
+      "amount_btc": 36913131,
+      "amount_token": 2054146025937257,
+      "price": 1791,
+      "bonded": true,
+      "user_username": "ASSCLOWNS",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46970830",
+      "user": "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe",
+      "token": "2dzg",
+      "time": "2025-05-01T03:41:29.000Z",
+      "buy": false,
+      "amount_btc": 49473357,
+      "amount_token": 2778883751082857,
+      "price": 1784,
+      "bonded": true,
+      "user_username": "meme-mimi",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
