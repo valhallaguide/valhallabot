@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 60,
   "data": [
     {
       "id": "46968373",
@@ -868,6 +868,36 @@
       "bonded": true,
       "user_username": "Encek",
       "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46985551",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-01T15:45:04.000Z",
+      "buy": true,
+      "amount_btc": 234077840,
+      "amount_token": 13686951834126686,
+      "price": 1723,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46985370",
+      "user": "osndt-2szwp-wzjlo-pqibf-kng2g-yhah3-2wu22-vlkh7-zqrkh-2rh5j-aae",
+      "token": "2dzg",
+      "time": "2025-05-01T15:41:47.000Z",
+      "buy": true,
+      "amount_btc": 20686277,
+      "amount_token": 1226844454091448,
+      "price": 1679,
+      "bonded": true,
+      "user_username": "ODINICP.blife",
+      "user_image": "964c232b-47c6-4297-9753-f7664b855cd7.png",
       "decimals": 3,
       "divisibility": 8
     }
