@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 60,
   "data": [
     {
       "id": "46992096",
@@ -865,6 +865,36 @@
       "amount_btc": 10000000,
       "amount_token": 491972414709663,
       "price": 2023,
+      "bonded": true,
+      "user_username": "RWA",
+      "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46998452",
+      "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+      "token": "2dzg",
+      "time": "2025-05-02T05:19:17.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2442920084296467,
+      "price": 2041,
+      "bonded": true,
+      "user_username": "RWA",
+      "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "46998414",
+      "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+      "token": "2dzg",
+      "time": "2025-05-02T05:16:52.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 490030645237487,
+      "price": 2031,
       "bonded": true,
       "user_username": "RWA",
       "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
