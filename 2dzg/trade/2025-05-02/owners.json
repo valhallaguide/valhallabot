@@ -49,6 +49,13 @@
     "user_image": "2a6ac9c5-2c91-44df-afff-7a620f8b6dd9.jpg"
   },
   {
+    "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+    "token": "2dzg",
+    "balance": 30703010078645350,
+    "user_username": "Encek",
+    "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg"
+  },
+  {
     "user": "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae",
     "token": "2dzg",
     "balance": 30458374628355540,
@@ -82,13 +89,6 @@
     "balance": 26749992539240044,
     "user_username": "planBCrypto",
     "user_image": null
-  },
-  {
-    "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
-    "token": "2dzg",
-    "balance": 25948414331213576,
-    "user_username": "Encek",
-    "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg"
   },
   {
     "user": "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe",
@@ -354,13 +354,6 @@
     "token": "2dzg",
     "balance": 7517719848720327,
     "user_username": "Dongshan",
-    "user_image": null
-  },
-  {
-    "user": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
-    "token": "2dzg",
-    "balance": 6980109506658632,
-    "user_username": "fewzv-xinjl",
     "user_image": null
   },
   {
