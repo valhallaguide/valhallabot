@@ -294,13 +294,6 @@
     "user_image": "18496963-bb81-4df4-883e-6f5d747eb154.jpg"
   },
   {
-    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
-    "token": "2dzg",
-    "balance": 10000000000000000,
-    "user_username": "ICP MAXI",
-    "user_image": null
-  },
-  {
     "user": "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe",
     "token": "2dzg",
     "balance": 9907773266902376,
@@ -396,6 +389,13 @@
     "token": "2dzg",
     "balance": 5000000000000000,
     "user_username": "isvcj-d7on7",
+    "user_image": null
+  },
+  {
+    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+    "token": "2dzg",
+    "balance": 5000000000000000,
+    "user_username": "ICP MAXI",
     "user_image": null
   },
   {
