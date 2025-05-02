@@ -224,13 +224,6 @@
     "user_image": null
   },
   {
-    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
-    "token": "2dzg",
-    "balance": 13472331090977092,
-    "user_username": "ICP MAXI",
-    "user_image": null
-  },
-  {
     "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
     "token": "2dzg",
     "balance": 11684218782087886,
@@ -292,6 +285,13 @@
     "balance": 10088092388737020,
     "user_username": "不恋红尘",
     "user_image": "18496963-bb81-4df4-883e-6f5d747eb154.jpg"
+  },
+  {
+    "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+    "token": "2dzg",
+    "balance": 10000000000000000,
+    "user_username": "ICP MAXI",
+    "user_image": null
   },
   {
     "user": "hgnna-dyjwk-3o2fz-6s5uc-4w4n2-qc36v-3q5kh-3otur-tuhky-kpwfn-pqe",
@@ -863,7 +863,7 @@
   {
     "user": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
     "token": "2dzg",
-    "balance": 14452267,
+    "balance": 8046953,
     "user_username": "gjjw3-5peer",
     "user_image": null
   },
