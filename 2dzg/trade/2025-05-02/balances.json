@@ -3,7 +3,7 @@
     "totalUsers": 127,
     "nonSellersCount": 125,
     "sellersCount": 2,
-    "totalBalance": 1047876272826505700
+    "totalBalance": 1050407350024026000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -246,6 +246,10 @@
       "balance": 3541993236028030,
       "username": "凯旋"
     },
+    "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
+      "balance": 3127089458682100,
+      "username": "小强dog"
+    },
     "4rp5b-bgwtz-2civ4-ptqxz-3lvmu-rbvhf-wkw4f-53kg6-ylhza-3yotb-wae": {
       "balance": 3033199922293017,
       "username": "More US dollars"
@@ -361,10 +365,6 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
-    },
-    "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
-      "balance": 596012261161917,
-      "username": "小强dog"
     },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
