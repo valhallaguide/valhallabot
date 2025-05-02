@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 123,
+    "totalUsers": 129,
+    "nonSellersCount": 124,
     "sellersCount": 5,
-    "totalBalance": 1002162014432958500
+    "totalBalance": 1016841327626719900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -57,6 +57,10 @@
     "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae": {
       "balance": 24468265805491130,
       "username": "ASSCLOWNS"
+    },
+    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
+      "balance": 24048336302739656,
+      "username": "独孤求败"
     },
     "nyoqc-opgfv-zjr2a-4sjyu-dsmxm-5sqej-5irvs-vpvgh-3v5mw-zr3sk-rqe": {
       "balance": 22759435285371852,
@@ -157,10 +161,6 @@
     "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe": {
       "balance": 9782222038296026,
       "username": "👑King"
-    },
-    "owbq4-hjkxg-tmyv3-zwz27-vhi7s-psutz-atwoy-kudfg-aqbsr-ptssb-cqe": {
-      "balance": 9780605248494352,
-      "username": "独孤求败"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
@@ -377,6 +377,10 @@
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 469676135605741,
       "username": "gundam"
+    },
+    "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe": {
+      "balance": 411582139516138,
+      "username": "iqpyq-lcyna"
     },
     "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae": {
       "balance": 348877003860349,
