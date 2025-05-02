@@ -168,6 +168,13 @@
     "user_image": null
   },
   {
+    "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+    "token": "2dzg",
+    "balance": 17328842095622696,
+    "user_username": "RWA",
+    "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg"
+  },
+  {
     "user": "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae",
     "token": "2dzg",
     "balance": 17085212212061616,
@@ -201,13 +208,6 @@
     "balance": 15070973893364820,
     "user_username": "jasper",
     "user_image": "ec2cf02e-ae7a-4c97-bf3d-9850da3cbc2e.jpg"
-  },
-  {
-    "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
-    "token": "2dzg",
-    "balance": 14897924132758818,
-    "user_username": "RWA",
-    "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg"
   },
   {
     "user": "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae",
