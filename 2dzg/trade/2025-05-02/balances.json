@@ -3,7 +3,7 @@
     "totalUsers": 132,
     "nonSellersCount": 127,
     "sellersCount": 5,
-    "totalBalance": 1028887602905312500
+    "totalBalance": 1026857903070300200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -226,10 +226,6 @@
       "balance": 4874670590947403,
       "username": "₿o₿"
     },
-    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
-      "balance": 4059399670024540,
-      "username": "PHIMITRI.blife"
-    },
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 4053393790389572,
       "username": "qtu6n-vkger"
@@ -273,6 +269,10 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 2029699835012270,
+      "username": "PHIMITRI.blife"
     },
     "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
       "balance": 2024527825240080,
