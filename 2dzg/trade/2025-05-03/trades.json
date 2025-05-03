@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 89,
   "data": [
     {
       "id": "47022030",
@@ -1303,6 +1303,36 @@
       "bonded": true,
       "user_username": "Encek",
       "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47045003",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-03T09:25:24.000Z",
+      "buy": true,
+      "amount_btc": 36554295,
+      "amount_token": 1696997418961195,
+      "price": 2147,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47044891",
+      "user": "dk4hv-wr6bv-fgkfm-gchdj-dwnzq-yvksy-b7kjk-owixt-vt62a-zejav-kae",
+      "token": "2dzg",
+      "time": "2025-05-03T09:23:12.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 7026512725731552,
+      "price": 2139,
+      "bonded": true,
+      "user_username": "奥丁狗。真牛逼我操",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
