@@ -3,7 +3,7 @@
     "totalUsers": 133,
     "nonSellersCount": 128,
     "sellersCount": 5,
-    "totalBalance": 1031464316760831400
+    "totalBalance": 1030461664527277600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -134,10 +134,6 @@
       "balance": 11356677464172276,
       "username": "bit-dog"
     },
-    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
-      "balance": 11210608934215600,
-      "username": "信leo还是信我是秦始皇"
-    },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "GAME_PLAYER"
@@ -153,6 +149,10 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
+    },
+    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
+      "balance": 10207956700661700,
+      "username": "信leo还是信我是秦始皇"
     },
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 10088260117243000,
