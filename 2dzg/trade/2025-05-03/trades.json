@@ -1,5 +1,5 @@
 {
-  "count": 54,
+  "count": 57,
   "data": [
     {
       "id": "47022030",
@@ -808,6 +808,51 @@
       "bonded": true,
       "user_username": "环球俱乐部-独孤求败",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47026986",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-03T03:34:38.000Z",
+      "buy": false,
+      "amount_btc": 135084232,
+      "amount_token": 6725849043343101,
+      "price": 2004,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47026891",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-03T03:33:27.000Z",
+      "buy": true,
+      "amount_btc": 194840910,
+      "amount_token": 9632953004134394,
+      "price": 2032,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47026705",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-03T03:31:12.000Z",
+      "buy": false,
+      "amount_btc": 114823108,
+      "amount_token": 5756814389746003,
+      "price": 1992,
+      "bonded": true,
+      "user_username": "Encek",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
