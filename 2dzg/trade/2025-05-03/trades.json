@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "data": [
     {
       "id": "47022030",
@@ -1108,6 +1108,21 @@
       "bonded": true,
       "user_username": "奥丁狗。真牛逼我操",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47038641",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-05-03T07:19:55.000Z",
+      "buy": true,
+      "amount_btc": 15900000,
+      "amount_token": 757794485823278,
+      "price": 2089,
+      "bonded": true,
+      "user_username": "MILK",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
