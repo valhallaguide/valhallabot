@@ -3,7 +3,7 @@
     "totalUsers": 133,
     "nonSellersCount": 126,
     "sellersCount": 7,
-    "totalBalance": 1035785968034689400
+    "totalBalance": 1040543971922440100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -86,6 +86,10 @@
       "balance": 18799875840480584,
       "username": "H11."
     },
+    "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
+      "balance": 18497782037833220,
+      "username": "web3钢铁侠"
+    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 18281063441218748,
       "username": "To be a millionaire"
@@ -117,10 +121,6 @@
     "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
       "balance": 15070973893364820,
       "username": "jasper"
-    },
-    "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
-      "balance": 13879029948760300,
-      "username": "web3钢铁侠"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
@@ -382,6 +382,10 @@
       "balance": 469676135605741,
       "username": "gundam"
     },
+    "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae": {
+      "balance": 417876678284016,
+      "username": "6ynyv-geuvc"
+    },
     "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe": {
       "balance": 384943816338087,
       "username": "IC Blife"
@@ -397,10 +401,6 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
-    },
-    "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae": {
-      "balance": 278624879606216,
-      "username": "6ynyv-geuvc"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
