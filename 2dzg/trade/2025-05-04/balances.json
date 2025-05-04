@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
+    "totalUsers": 135,
     "nonSellersCount": 125,
-    "sellersCount": 9,
-    "totalBalance": 1015039469675931600
+    "sellersCount": 10,
+    "totalBalance": 1018757741495259900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -166,6 +166,10 @@
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
     },
+    "n723o-hzbo6-weoxz-5qv4d-xu6c5-tnlv4-w3vbi-g7j36-pzww7-es3ot-bqe": {
+      "balance": 8453406661337144,
+      "username": "财神大爷"
+    },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
@@ -213,10 +217,6 @@
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 4779336948358875,
       "username": "xiaopo"
-    },
-    "n723o-hzbo6-weoxz-5qv4d-xu6c5-tnlv4-w3vbi-g7j36-pzww7-es3ot-bqe": {
-      "balance": 4735134842008842,
-      "username": "财神大爷"
     },
     "qtu6n-vkger-psceg-7o2fr-2b6cu-3vpu6-ksspy-hdivd-wctpy-nmooq-tqe": {
       "balance": 4053393790389572,
