@@ -301,13 +301,6 @@
     "user_image": null
   },
   {
-    "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
-    "token": "2dzg",
-    "balance": 10000000000000000,
-    "user_username": "SK telecom T1电子竞技俱乐部",
-    "user_image": null
-  },
-  {
     "user": "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe",
     "token": "2dzg",
     "balance": 9782222038296026,
@@ -333,6 +326,13 @@
     "token": "2dzg",
     "balance": 8354815757366572,
     "user_username": "笑哈哈",
+    "user_image": null
+  },
+  {
+    "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
+    "token": "2dzg",
+    "balance": 8000000000000000,
+    "user_username": "SK telecom T1电子竞技俱乐部",
     "user_image": null
   },
   {
