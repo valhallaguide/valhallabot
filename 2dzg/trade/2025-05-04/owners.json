@@ -455,13 +455,6 @@
     "user_image": null
   },
   {
-    "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
-    "token": "2dzg",
-    "balance": 3892151948555688,
-    "user_username": "₿o₿",
-    "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg"
-  },
-  {
     "user": "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe",
     "token": "2dzg",
     "balance": 3719156398597797,
@@ -537,6 +530,13 @@
     "balance": 2027354106818602,
     "user_username": "lucky-dgga",
     "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg"
+  },
+  {
+    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+    "token": "2dzg",
+    "balance": 2005634949957398,
+    "user_username": "oznmqe",
+    "user_image": null
   },
   {
     "user": "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae",
