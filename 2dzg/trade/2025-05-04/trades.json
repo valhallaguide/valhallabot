@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 76,
   "data": [
     {
       "id": "47069939",
@@ -1107,6 +1107,36 @@
       "price": 2097,
       "bonded": true,
       "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47077774",
+      "user": "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae",
+      "token": "2dzg",
+      "time": "2025-05-04T03:42:56.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 232176179261007,
+      "price": 2143,
+      "bonded": true,
+      "user_username": "6ynyv-geuvc",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47077679",
+      "user": "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae",
+      "token": "2dzg",
+      "time": "2025-05-04T03:40:52.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 46448700345209,
+      "price": 2142,
+      "bonded": true,
+      "user_username": "6ynyv-geuvc",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
