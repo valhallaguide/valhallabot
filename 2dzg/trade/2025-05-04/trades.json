@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 69,
   "data": [
     {
       "id": "47069939",
@@ -1003,6 +1003,36 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47075374",
+      "user": "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe",
+      "token": "2dzg",
+      "time": "2025-05-04T02:18:54.000Z",
+      "buy": true,
+      "amount_btc": 30390000,
+      "amount_token": 1451066974722726,
+      "price": 2086,
+      "bonded": true,
+      "user_username": "Timothius",
+      "user_image": "b8ce118b-6c89-458c-8ef7-0d5cff08a474.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47075349",
+      "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
+      "token": "2dzg",
+      "time": "2025-05-04T02:18:29.000Z",
+      "buy": false,
+      "amount_btc": 166994209,
+      "amount_token": 8000000000000000,
+      "price": 2080,
+      "bonded": true,
+      "user_username": "SK telecom T1电子竞技俱乐部",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
