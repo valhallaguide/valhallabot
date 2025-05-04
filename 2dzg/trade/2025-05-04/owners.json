@@ -14,18 +14,18 @@
     "user_image": "ad088bf8-2fa8-4fca-a1d2-fdd2eab136c3.png"
   },
   {
-    "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
-    "token": "2dzg",
-    "balance": 43726030287573790,
-    "user_username": "MILK",
-    "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
-  },
-  {
     "user": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
     "token": "2dzg",
     "balance": 42000013562879420,
     "user_username": "Dovah",
     "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
+  },
+  {
+    "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+    "token": "2dzg",
+    "balance": 42000000000000000,
+    "user_username": "MILK",
+    "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
   },
   {
     "user": "dk4hv-wr6bv-fgkfm-gchdj-dwnzq-yvksy-b7kjk-owixt-vt62a-zejav-kae",
