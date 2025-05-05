@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 124,
+    "totalUsers": 137,
+    "nonSellersCount": 125,
     "sellersCount": 12,
-    "totalBalance": 1063737692800728600
+    "totalBalance": 1068987040732146000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -213,6 +213,10 @@
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
       "username": "Unstoppable"
+    },
+    "5w3vj-piumk-q525q-lwphr-f4oqp-vqmir-4o66z-qf2qs-5qc2b-ens7l-3ae": {
+      "balance": 5249347931417449,
+      "username": "来财财"
     },
     "dmrdf-6dklr-qglld-si6zw-blnbi-lvwhj-mfryw-orkc4-nftpu-xdevv-2qe": {
       "balance": 5053328076739880,
