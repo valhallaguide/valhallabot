@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 132,
-    "nonSellersCount": 124,
+    "totalUsers": 133,
+    "nonSellersCount": 125,
     "sellersCount": 8,
-    "totalBalance": 1048451295180718100
+    "totalBalance": 1058550571356238600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -161,6 +161,10 @@
     "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
       "balance": 10207956700661700,
       "username": "信leo还是信我是秦始皇"
+    },
+    "q3jrx-2v4kj-wileh-ggpkx-wxpnu-asl3j-syswr-t7nzj-lpw7k-pbs52-zae": {
+      "balance": 10099276175520464,
+      "username": "q3jrx-2v4kj"
     },
     "rbtkq-fbat3-46zcy-m5zcr-z7n2j-j73sc-y67km-tsm4l-57cng-sdwey-gqe": {
       "balance": 10088260117243000,
