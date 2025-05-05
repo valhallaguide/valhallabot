@@ -1,5 +1,5 @@
 {
-  "count": 128,
+  "count": 129,
   "data": [
     {
       "id": "47126609",
@@ -1918,6 +1918,21 @@
       "bonded": true,
       "user_username": "LUCKY Boy",
       "user_image": "5081eb84-e105-4c6d-bde6-db756cde05fd.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47155655",
+      "user": "mtq5b-jtutn-igj7q-5jjpt-36wdp-xlcq5-kfn2j-4fds6-hx3g5-slevs-yqe",
+      "token": "2dzg",
+      "time": "2025-05-05T07:21:51.000Z",
+      "buy": true,
+      "amount_btc": 13634233,
+      "amount_token": 682130003277269,
+      "price": 1990,
+      "bonded": true,
+      "user_username": "belief",
+      "user_image": "ccc70052-e07e-4ec9-b4db-5e19724c5015.jpg",
       "decimals": 3,
       "divisibility": 8
     }
