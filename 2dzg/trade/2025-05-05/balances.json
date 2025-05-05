@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 125,
+    "totalUsers": 136,
+    "nonSellersCount": 127,
     "sellersCount": 9,
-    "totalBalance": 1065091092064272500
+    "totalBalance": 1076515323541712600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -170,6 +170,10 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
+    "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae": {
+      "balance": 9413861960124908,
+      "username": "Wenber"
+    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -198,9 +202,9 @@
       "balance": 7480853024231251,
       "username": "2xwwi-x6vb3"
     },
-    "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae": {
-      "balance": 7106266606459551,
-      "username": "Wenber"
+    "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
+      "balance": 6400595565192389,
+      "username": "msv63-6h6dg"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -257,6 +261,10 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
+    },
+    "wdejc-2ussr-sisia-5pjm2-5t4co-cegf6-qbr7k-b32t7-7wavi-havk5-cae": {
+      "balance": 2716040558582227,
+      "username": "Jian"
     },
     "pt4cn-i2dyk-nigku-sumrv-tn2b7-iapqp-cbcoi-nx4uq-dkzij-pq6bu-eae": {
       "balance": 2640550603521563,
