@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 126,
+    "totalUsers": 135,
+    "nonSellersCount": 125,
     "sellersCount": 10,
-    "totalBalance": 1070290477892707800
+    "totalBalance": 1051792695854874600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -85,10 +85,6 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 19126552815352400,
       "username": "H11."
-    },
-    "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
-      "balance": 18497782037833220,
-      "username": "web3钢铁侠"
     },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 18281063441218748,
