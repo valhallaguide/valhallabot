@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
+    "totalUsers": 136,
     "nonSellersCount": 126,
-    "sellersCount": 9,
-    "totalBalance": 1070270322309199900
+    "sellersCount": 10,
+    "totalBalance": 1070290477892707800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -346,13 +346,13 @@
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
     },
+    "cuhds-m66ow-24fvb-r2ijg-r5wfw-ff7gy-v2cwb-eo4bo-vmei5-sdjjw-aae": {
+      "balance": 636102068116909,
+      "username": "cuhds-m66ow"
+    },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "4ivvu-3te66"
-    },
-    "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
-      "balance": 615946484608948,
-      "username": "Dex是未来"
     },
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
