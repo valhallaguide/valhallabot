@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 127,
+    "totalUsers": 130,
+    "nonSellersCount": 124,
     "sellersCount": 6,
-    "totalBalance": 1041236773339978600
+    "totalBalance": 1022648158749164000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -125,10 +125,6 @@
     "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae": {
       "balance": 14776995790865600,
       "username": "Bkiak. Worly"
-    },
-    "bblfg-f75az-jf3im-tz3yw-5zr7r-sfa24-6dame-tdyls-fkg2k-cclui-eqe": {
-      "balance": 14245175603080318,
-      "username": "jjkiller1"
     },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
@@ -265,14 +261,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "rj4lp-mntei-wni7c-2k43z-tljje-jt72g-gnzwy-cml3e-74ho7-ou7gj-kae": {
-      "balance": 2328773144267965,
-      "username": "fINnNN"
-    },
-    "vuamp-x3jvv-42om3-x5tp2-rzvvg-ayh2h-2numr-tnfj4-hesr2-zqrwd-3qe": {
-      "balance": 2014665843466409,
-      "username": "vuamp-x3jvv"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
