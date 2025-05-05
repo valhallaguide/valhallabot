@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 137,
-    "nonSellersCount": 128,
+    "totalUsers": 136,
+    "nonSellersCount": 127,
     "sellersCount": 9,
-    "totalBalance": 1083194319568443900
+    "totalBalance": 1080478279009861600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -265,10 +265,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "wdejc-2ussr-sisia-5pjm2-5t4co-cegf6-qbr7k-b32t7-7wavi-havk5-cae": {
-      "balance": 2716040558582227,
-      "username": "Jian"
     },
     "pt4cn-i2dyk-nigku-sumrv-tn2b7-iapqp-cbcoi-nx4uq-dkzij-pq6bu-eae": {
       "balance": 2640550603521563,
