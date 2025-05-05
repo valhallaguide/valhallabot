@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 127,
+    "totalUsers": 136,
+    "nonSellersCount": 128,
     "sellersCount": 8,
-    "totalBalance": 1049855471723578500
+    "totalBalance": 1060674825435096300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -137,6 +137,10 @@
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
+    },
+    "psmhc-emm4j-ivjsv-7hmo2-kg6g5-e54oi-uoqnm-tzzlp-e2zxx-jz7r3-eqe": {
+      "balance": 10819353711517872,
+      "username": "rune2"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
