@@ -1,5 +1,5 @@
 {
-  "count": 156,
+  "count": 157,
   "data": [
     {
       "id": "47126609",
@@ -2338,6 +2338,21 @@
       "bonded": true,
       "user_username": "我信基督",
       "user_image": "76a56a55-e7e5-4a61-8e3d-7093280c3988.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47180494",
+      "user": "2xwwi-x6vb3-uqwi2-jvsoi-6d3u4-5hfrp-rtgui-l2veh-t43jr-g7nz3-6qe",
+      "token": "2dzg",
+      "time": "2025-05-05T14:48:20.000Z",
+      "buy": true,
+      "amount_btc": 160392255,
+      "amount_token": 7480853024231251,
+      "price": 2150,
+      "bonded": true,
+      "user_username": "2xwwi-x6vb3",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
