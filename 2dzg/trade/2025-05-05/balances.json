@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 122,
+    "totalUsers": 132,
+    "nonSellersCount": 123,
     "sellersCount": 9,
-    "totalBalance": 1037092942681155700
+    "totalBalance": 1043870089364454800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -189,6 +189,10 @@
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
+    },
+    "cv5ns-qqnd6-qmke7-m6aoy-ff4th-ha64r-wj7qh-hnl6p-hjzld-xv5ob-bqe": {
+      "balance": 6777146683299117,
+      "username": "我信基督"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
