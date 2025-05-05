@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 123,
+    "totalUsers": 132,
+    "nonSellersCount": 124,
     "sellersCount": 8,
-    "totalBalance": 1009217927474504800
+    "totalBalance": 1048451295180718100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -13,6 +13,10 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
+    },
+    "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
+      "balance": 43583274837851496,
+      "username": "jasper"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 42000013562879420,
@@ -118,10 +122,6 @@
       "balance": 15551283596954368,
       "username": "x3snx-wrugd"
     },
-    "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
-      "balance": 15070973893364820,
-      "username": "jasper"
-    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
@@ -141,6 +141,10 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "GAME_PLAYER"
+    },
+    "6hgkd-dwp3m-jpbmm-u7sd7-kf7bw-4v3sm-ntqgu-vam36-y5dj3-mbaid-5qe": {
+      "balance": 10721066761726774,
+      "username": "6hgkd-dwp3m"
     },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
