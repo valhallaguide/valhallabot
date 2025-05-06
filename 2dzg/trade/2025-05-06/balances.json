@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 123,
+    "totalUsers": 132,
+    "nonSellersCount": 124,
     "sellersCount": 8,
-    "totalBalance": 1030777648059307500
+    "totalBalance": 1046944955906528100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -101,6 +101,10 @@
     "mtrrm-dtcnb-7dud4-yqrow-u2mp6-hvw5c-yvm5y-zywis-uuoca-7cupp-kqe": {
       "balance": 16224563192921072,
       "username": "alice love bob"
+    },
+    "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe": {
+      "balance": 16167307847220568,
+      "username": "BTC.odin"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
