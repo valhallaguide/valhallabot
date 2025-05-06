@@ -3,7 +3,7 @@
     "totalUsers": 135,
     "nonSellersCount": 129,
     "sellersCount": 6,
-    "totalBalance": 1128773584946856100
+    "totalBalance": 1126148910981147300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -222,10 +222,6 @@
       "balance": 5669000695023501,
       "username": "Unstoppable"
     },
-    "5w3vj-piumk-q525q-lwphr-f4oqp-vqmir-4o66z-qf2qs-5qc2b-ens7l-3ae": {
-      "balance": 5249347931417449,
-      "username": "来财财"
-    },
     "dmrdf-6dklr-qglld-si6zw-blnbi-lvwhj-mfryw-orkc4-nftpu-xdevv-2qe": {
       "balance": 5053328076739880,
       "username": "mengou3"
@@ -289,6 +285,10 @@
     "pt4cn-i2dyk-nigku-sumrv-tn2b7-iapqp-cbcoi-nx4uq-dkzij-pq6bu-eae": {
       "balance": 2640550603521563,
       "username": "pt4cn-i2dyk"
+    },
+    "5w3vj-piumk-q525q-lwphr-f4oqp-vqmir-4o66z-qf2qs-5qc2b-ens7l-3ae": {
+      "balance": 2624673965708725,
+      "username": "来财财"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
