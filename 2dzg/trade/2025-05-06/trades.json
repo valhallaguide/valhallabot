@@ -1,5 +1,5 @@
 {
-  "count": 171,
+  "count": 175,
   "data": [
     {
       "id": "47201997",
@@ -2563,6 +2563,66 @@
       "bonded": true,
       "user_username": "SKTGGBOY.blife",
       "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47251368",
+      "user": "b7olb-ze5hh-dmo5b-h3bgc-yibeg-r6nwt-g3pme-3pkxh-2ut6l-duthd-sae",
+      "token": "2dzg",
+      "time": "2025-05-06T17:34:38.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2677277672470882,
+      "price": 1863,
+      "bonded": true,
+      "user_username": "chendaozai",
+      "user_image": "4a38c8f1-8daa-44b3-9bb5-884e00326660.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47251349",
+      "user": "fmd2s-j22hc-2c5z4-njqnj-4ndfx-gmcjh-nwzov-7dkx2-4h77h-imjwu-5qe",
+      "token": "2dzg",
+      "time": "2025-05-06T17:34:18.000Z",
+      "buy": true,
+      "amount_btc": 9249554,
+      "amount_token": 496860426257151,
+      "price": 1853,
+      "bonded": true,
+      "user_username": "Vincent",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47251316",
+      "user": "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae",
+      "token": "2dzg",
+      "time": "2025-05-06T17:32:52.000Z",
+      "buy": true,
+      "amount_btc": 64490892,
+      "amount_token": 3478173746648970,
+      "price": 1851,
+      "bonded": true,
+      "user_username": "共识加群:1044815063",
+      "user_image": "44166836-9e89-4037-b792-23ebfdb829b9.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47251288",
+      "user": "yiqdy-snlnk-azibp-nhgup-g3c75-yloub-2mluu-scue2-gyjmu-jrxmc-dqe",
+      "token": "2dzg",
+      "time": "2025-05-06T17:30:29.000Z",
+      "buy": true,
+      "amount_btc": 6284529,
+      "amount_token": 340245028847712,
+      "price": 1838,
+      "bonded": true,
+      "user_username": "UUUU",
+      "user_image": "e5604d20-7dab-4130-8b7e-7dddc9d4a422.jpg",
       "decimals": 3,
       "divisibility": 8
     }
