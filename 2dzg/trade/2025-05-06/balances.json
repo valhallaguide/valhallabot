@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 127,
+    "totalUsers": 135,
+    "nonSellersCount": 126,
     "sellersCount": 9,
-    "totalBalance": 1055623625620614000
+    "totalBalance": 1047836045124504000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -181,10 +181,6 @@
     "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae": {
       "balance": 7923266090000726,
       "username": "bobCOIN"
-    },
-    "6bkdj-fmxg2-vabjn-nyfvz-hfspp-yn4rk-6ko5e-fhhac-aps4o-mmgzr-vqe": {
-      "balance": 7787580496109923,
-      "username": "金辟 | 铁军 | 符文"
     },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
