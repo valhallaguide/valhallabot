@@ -1,5 +1,5 @@
 {
-  "count": 182,
+  "count": 183,
   "data": [
     {
       "id": "47201997",
@@ -2728,6 +2728,21 @@
       "bonded": true,
       "user_username": "金辟 | 铁军 | 符文",
       "user_image": "d7b4d5f6-bca7-4a0d-84b0-72c9127cb695.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47254717",
+      "user": "vs4uh-4gl7z-426cu-dzrxt-viecx-lbluj-aczw4-6hxsy-7345o-th7qz-pqe",
+      "token": "2dzg",
+      "time": "2025-05-06T20:32:04.000Z",
+      "buy": true,
+      "amount_btc": 90036407,
+      "amount_token": 4615202333150819,
+      "price": 1950,
+      "bonded": true,
+      "user_username": "vs4uh-4gl7z",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
