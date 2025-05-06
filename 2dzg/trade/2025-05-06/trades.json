@@ -1,5 +1,5 @@
 {
-  "count": 151,
+  "count": 155,
   "data": [
     {
       "id": "47201997",
@@ -2263,6 +2263,66 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47247179",
+      "user": "t5bhb-wwv6f-v5tbu-ugg22-hbhqa-57ljw-sg5g6-jiun5-sdg5j-om4rm-jqe",
+      "token": "2dzg",
+      "time": "2025-05-06T15:10:14.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 552078071291932,
+      "price": 1803,
+      "bonded": true,
+      "user_username": "t5bhb-wwv6f",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47247165",
+      "user": "t5bhb-wwv6f-v5tbu-ugg22-hbhqa-57ljw-sg5g6-jiun5-sdg5j-om4rm-jqe",
+      "token": "2dzg",
+      "time": "2025-05-06T15:09:55.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 552684800411930,
+      "price": 1801,
+      "bonded": true,
+      "user_username": "t5bhb-wwv6f",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47247142",
+      "user": "t5bhb-wwv6f-v5tbu-ugg22-hbhqa-57ljw-sg5g6-jiun5-sdg5j-om4rm-jqe",
+      "token": "2dzg",
+      "time": "2025-05-06T15:09:41.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 553292530770021,
+      "price": 1799,
+      "bonded": true,
+      "user_username": "t5bhb-wwv6f",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47247136",
+      "user": "t5bhb-wwv6f-v5tbu-ugg22-hbhqa-57ljw-sg5g6-jiun5-sdg5j-om4rm-jqe",
+      "token": "2dzg",
+      "time": "2025-05-06T15:09:20.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 553901264570991,
+      "price": 1797,
+      "bonded": true,
+      "user_username": "t5bhb-wwv6f",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
