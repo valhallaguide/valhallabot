@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 134,
-    "nonSellersCount": 125,
+    "totalUsers": 133,
+    "nonSellersCount": 124,
     "sellersCount": 9,
-    "totalBalance": 1037896581421593900
+    "totalBalance": 1033921547248687700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -122,10 +122,6 @@
       "balance": 12947686500781508,
       "username": "good luck"
     },
-    "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae": {
-      "balance": 11478173746648970,
-      "username": "共识加群:1044815063"
-    },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 11356677464172276,
       "username": "bit-dog"
@@ -169,6 +165,10 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
+    },
+    "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae": {
+      "balance": 8000000000000000,
+      "username": "共识加群:1044815063"
     },
     "4dmlu-43ert-nk2yi-j7w52-i3iym-beirz-x6x4i-3lmzt-uhtof-utvhl-4qe": {
       "balance": 7981024641247190,
@@ -373,10 +373,6 @@
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
       "username": "Bad Moon Rising"
-    },
-    "fmd2s-j22hc-2c5z4-njqnj-4ndfx-gmcjh-nwzov-7dkx2-4h77h-imjwu-5qe": {
-      "balance": 496860426257151,
-      "username": "Vincent"
     },
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 469676135605741,
