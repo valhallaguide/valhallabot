@@ -91,13 +91,6 @@
     "user_image": null
   },
   {
-    "user": "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae",
-    "token": "2dzg",
-    "balance": 26749992539240044,
-    "user_username": "planBCrypto",
-    "user_image": null
-  },
-  {
     "user": "hu3df-ugdhb-kagyx-ahuz4-ir3yd-noe23-ogymq-2hmeo-pldbd-azt52-uqe",
     "token": "2dzg",
     "balance": 24967410052965176,
@@ -213,7 +206,7 @@
     "user": "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae",
     "token": "2dzg",
     "balance": 12400291456307208,
-    "user_username": "聚财社区～Vic",
+    "user_username": "free_room",
     "user_image": null
   },
   {
@@ -921,6 +914,13 @@
     "token": "2dzg",
     "balance": 1,
     "user_username": "ChainSurfer",
+    "user_image": null
+  },
+  {
+    "user": "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae",
+    "token": "2dzg",
+    "balance": 1,
+    "user_username": "planBCrypto",
     "user_image": null
   },
   {
