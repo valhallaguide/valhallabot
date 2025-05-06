@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 131,
-    "nonSellersCount": 123,
-    "sellersCount": 8,
-    "totalBalance": 1031325043103781900
+    "nonSellersCount": 122,
+    "sellersCount": 9,
+    "totalBalance": 1029522747383377300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -285,10 +285,6 @@
     "cr422-ocahl-spzmu-a2fq6-tnpnj-egrq2-uaorx-5noct-kqt7m-jtpcz-sqe": {
       "balance": 1811253369368316,
       "username": "cr422-ocahl"
-    },
-    "b7olb-ze5hh-dmo5b-h3bgc-yibeg-r6nwt-g3pme-3pkxh-2ut6l-duthd-sae": {
-      "balance": 1802295720404644,
-      "username": "chendaozai"
     },
     "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe": {
       "balance": 1598499549959227,
