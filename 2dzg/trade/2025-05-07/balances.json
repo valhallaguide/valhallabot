@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 130,
-    "nonSellersCount": 126,
+    "totalUsers": 129,
+    "nonSellersCount": 125,
     "sellersCount": 4,
-    "totalBalance": 1046521400435252400
+    "totalBalance": 1040120804870059900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -201,10 +201,6 @@
     "sgx4c-dvht6-2x5nk-z6zmm-s2znj-34wbu-jqhiq-snsc5-nr4yq-4i5ii-aae": {
       "balance": 6678996026731219,
       "username": "军刀sgx4c-dvht6"
-    },
-    "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
-      "balance": 6400595565192389,
-      "username": "msv63-6h6dg"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
