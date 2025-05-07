@@ -1,5 +1,5 @@
 {
-  "count": 137,
+  "count": 142,
   "data": [
     {
       "id": "47259250",
@@ -2053,6 +2053,81 @@
       "bonded": true,
       "user_username": "MILK",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47311158",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-07T17:26:16.000Z",
+      "buy": true,
+      "amount_btc": 23721039,
+      "amount_token": 1293453511759510,
+      "price": 1827,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47311098",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-07T17:25:13.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 546279976963118,
+      "price": 1822,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47311084",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-07T17:25:08.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 546876679295286,
+      "price": 1820,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47311079",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-07T17:25:00.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 547474360321428,
+      "price": 1818,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47311044",
+      "user": "bixxr-xv2xb-2cbfs-k5hcp-7i72m-54myv-ya5o6-tluob-la2hd-5ostg-fae",
+      "token": "2dzg",
+      "time": "2025-05-07T17:24:05.000Z",
+      "buy": true,
+      "amount_btc": 13945000,
+      "amount_token": 764452964319301,
+      "price": 1816,
+      "bonded": true,
+      "user_username": "Sparks has biggest holder",
+      "user_image": "38f0649b-8073-4f8a-a231-7edc70713bbc.png",
       "decimals": 3,
       "divisibility": 8
     }
