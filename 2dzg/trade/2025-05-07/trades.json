@@ -1,5 +1,5 @@
 {
-  "count": 102,
+  "count": 104,
   "data": [
     {
       "id": "47259250",
@@ -1528,6 +1528,36 @@
       "bonded": true,
       "user_username": "符文堂 | エドアルド",
       "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47269253",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-05-07T04:36:33.000Z",
+      "buy": false,
+      "amount_btc": 96094916,
+      "amount_token": 5018698928367140,
+      "price": 1914,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47269182",
+      "user": "f2bn7-e3etd-ejoae-bpnza-4af6y-3awim-ct2iv-uaqaq-boikn-wxhgy-kae",
+      "token": "2dzg",
+      "time": "2025-05-07T04:35:38.000Z",
+      "buy": true,
+      "amount_btc": 129193661,
+      "amount_token": 6691598571156187,
+      "price": 1934,
+      "bonded": true,
+      "user_username": "ICP MAXI",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
