@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 126,
+    "totalUsers": 132,
+    "nonSellersCount": 127,
     "sellersCount": 5,
-    "totalBalance": 1040352439485988600
+    "totalBalance": 1041116892450308000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -341,6 +341,10 @@
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
+    },
+    "bixxr-xv2xb-2cbfs-k5hcp-7i72m-54myv-ya5o6-tluob-la2hd-5ostg-fae": {
+      "balance": 764452964319301,
+      "username": "Sparks has biggest holder"
     },
     "cuhds-m66ow-24fvb-r2ijg-r5wfw-ff7gy-v2cwb-eo4bo-vmei5-sdjjw-aae": {
       "balance": 636102068116909,
