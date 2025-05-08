@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "data": [
     {
       "id": "47321605",
@@ -1105,6 +1105,21 @@
       "amount_btc": 47500000,
       "amount_token": 2596164244526198,
       "price": 1825,
+      "bonded": true,
+      "user_username": "XRP ARMY",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47330488",
+      "user": "syz4f-ae2uh-w45to-fk4oq-hobhf-22scz-yiki4-e3xew-sqagn-vju2d-4qe",
+      "token": "2dzg",
+      "time": "2025-05-08T04:18:14.000Z",
+      "buy": true,
+      "amount_btc": 11117000,
+      "amount_token": 602838710169868,
+      "price": 1835,
       "bonded": true,
       "user_username": "XRP ARMY",
       "user_image": null,
