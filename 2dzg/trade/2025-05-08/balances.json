@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 125,
-    "nonSellersCount": 119,
+    "totalUsers": 123,
+    "nonSellersCount": 117,
     "sellersCount": 6,
-    "totalBalance": 947787690600599800
+    "totalBalance": 942806374390591600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -238,10 +238,6 @@
       "balance": 2731984229509440,
       "username": "chendaozai"
     },
-    "pt4cn-i2dyk-nigku-sumrv-tn2b7-iapqp-cbcoi-nx4uq-dkzij-pq6bu-eae": {
-      "balance": 2640550603521563,
-      "username": "pt4cn-i2dyk"
-    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -249,10 +245,6 @@
     "ryo4x-h5arg-tzgue-iind5-4mpc6-yqldi-tu7nn-2bgij-uw3hi-nndls-eae": {
       "balance": 2381252834216721,
       "username": "Captain Marvel"
-    },
-    "vcett-3c3ao-r4wze-3oedt-3hem6-7zitr-t4rd5-bpfpu-foiuw-5g2ij-sqe": {
-      "balance": 2340765606486657,
-      "username": "ODINKING0.blife"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
