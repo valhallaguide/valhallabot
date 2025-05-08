@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 130,
-    "nonSellersCount": 128,
+    "totalUsers": 129,
+    "nonSellersCount": 127,
     "sellersCount": 2,
-    "totalBalance": 1091989003658485900
+    "totalBalance": 1083583734237373000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -173,10 +173,6 @@
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
-    },
-    "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe": {
-      "balance": 8405269421112874,
-      "username": "iqpyq-lcyna"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
