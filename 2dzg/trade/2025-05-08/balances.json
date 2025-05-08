@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 129,
-    "nonSellersCount": 125,
-    "sellersCount": 4,
-    "totalBalance": 997209103716534300
+    "nonSellersCount": 124,
+    "sellersCount": 5,
+    "totalBalance": 985852426252362000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -117,10 +117,6 @@
     "56dsn-qkwnf-ryudv-fbq2u-vqp35-iw6va-fejwx-7zhvr-jpnga-qduz4-fae": {
       "balance": 11478173746648970,
       "username": "共识加群:1044815063"
-    },
-    "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
-      "balance": 11356677464172276,
-      "username": "bit-dog"
     },
     "psmhc-emm4j-ivjsv-7hmo2-kg6g5-e54oi-uoqnm-tzzlp-e2zxx-jz7r3-eqe": {
       "balance": 10819353711517872,
