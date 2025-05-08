@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 79,
   "data": [
     {
       "id": "47321605",
@@ -1168,6 +1168,21 @@
       "bonded": true,
       "user_username": "SKTGGBOY.blife",
       "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47338070",
+      "user": "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae",
+      "token": "2dzg",
+      "time": "2025-05-08T07:11:06.000Z",
+      "buy": false,
+      "amount_btc": 98445518,
+      "amount_token": 5460931608404141,
+      "price": 1801,
+      "bonded": true,
+      "user_username": "名人的爹",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
