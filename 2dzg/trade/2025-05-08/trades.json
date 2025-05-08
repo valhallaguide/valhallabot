@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 74,
   "data": [
     {
       "id": "47321605",
@@ -1078,6 +1078,36 @@
       "bonded": true,
       "user_username": "RWA",
       "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47330276",
+      "user": "vcett-3c3ao-r4wze-3oedt-3hem6-7zitr-t4rd5-bpfpu-foiuw-5g2ij-sqe",
+      "token": "2dzg",
+      "time": "2025-05-08T04:10:08.000Z",
+      "buy": true,
+      "amount_btc": 43039094,
+      "amount_token": 2340765606486657,
+      "price": 1833,
+      "bonded": true,
+      "user_username": "ODINKING0.blife",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47330179",
+      "user": "syz4f-ae2uh-w45to-fk4oq-hobhf-22scz-yiki4-e3xew-sqagn-vju2d-4qe",
+      "token": "2dzg",
+      "time": "2025-05-08T04:06:30.000Z",
+      "buy": true,
+      "amount_btc": 47500000,
+      "amount_token": 2596164244526198,
+      "price": 1825,
+      "bonded": true,
+      "user_username": "XRP ARMY",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
