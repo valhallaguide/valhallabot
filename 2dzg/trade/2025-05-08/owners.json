@@ -98,18 +98,18 @@
     "user_image": "26021488-2e2d-47fe-850e-a9c924c45e5d.jpg"
   },
   {
-    "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
-    "token": "2dzg",
-    "balance": 22290204336919744,
-    "user_username": "RWA",
-    "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg"
-  },
-  {
     "user": "wjujg-grptp-mv7ih-jfpuf-2mrhf-g5gat-55o45-kiq2v-hzlg4-xgcjc-sae",
     "token": "2dzg",
     "balance": 22261600249063010,
     "user_username": "gogogo",
     "user_image": null
+  },
+  {
+    "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+    "token": "2dzg",
+    "balance": 21500000000000000,
+    "user_username": "RWA",
+    "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg"
   },
   {
     "user": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
@@ -291,13 +291,6 @@
     "token": "2dzg",
     "balance": 8561394098609697,
     "user_username": "Elon_mAsk",
-    "user_image": null
-  },
-  {
-    "user": "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe",
-    "token": "2dzg",
-    "balance": 8405269421112874,
-    "user_username": "iqpyq-lcyna",
     "user_image": null
   },
   {
