@@ -1,5 +1,5 @@
 {
-  "count": 126,
+  "count": 129,
   "data": [
     {
       "id": "47397974",
@@ -1888,6 +1888,51 @@
       "bonded": true,
       "user_username": "Black Lotus",
       "user_image": "be90ab2a-3c2c-48a2-af7e-64ff30c43577.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47468795",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-09T21:16:55.000Z",
+      "buy": true,
+      "amount_btc": 74531148,
+      "amount_token": 4057742279980026,
+      "price": 1834,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47468617",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-05-09T21:13:51.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 16671481848011302,
+      "price": 1820,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47468600",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-05-09T21:13:37.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 17233681525900250,
+      "price": 1761,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
       "decimals": 3,
       "divisibility": 8
     }
