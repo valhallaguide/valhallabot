@@ -1,5 +1,5 @@
 {
-  "count": 63,
+  "count": 64,
   "data": [
     {
       "id": "47397974",
@@ -943,6 +943,21 @@
       "bonded": true,
       "user_username": "141319",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47405914",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-09T03:48:11.000Z",
+      "buy": false,
+      "amount_btc": 67968434,
+      "amount_token": 4253934505811002,
+      "price": 1599,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
       "decimals": 3,
       "divisibility": 8
     }
