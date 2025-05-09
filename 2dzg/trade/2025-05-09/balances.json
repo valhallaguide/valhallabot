@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 125,
+    "totalUsers": 128,
     "nonSellersCount": 115,
-    "sellersCount": 10,
-    "totalBalance": 909127594124648700
+    "sellersCount": 13,
+    "totalBalance": 918345280722317800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -94,6 +94,10 @@
       "balance": 15551283596954368,
       "username": "x3snx-wrugd"
     },
+    "rj4lp-mntei-wni7c-2k43z-tljje-jt72g-gnzwy-cml3e-74ho7-ou7gj-kae": {
+      "balance": 14938818856650228,
+      "username": "fif"
+    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
@@ -165,10 +169,6 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
-    },
-    "rj4lp-mntei-wni7c-2k43z-tljje-jt72g-gnzwy-cml3e-74ho7-ou7gj-kae": {
-      "balance": 5721132258981116,
-      "username": "fif"
     },
     "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe": {
       "balance": 5669000695023501,
