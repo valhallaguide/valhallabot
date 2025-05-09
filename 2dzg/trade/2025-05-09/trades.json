@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 79,
   "data": [
     {
       "id": "47397974",
@@ -1168,6 +1168,21 @@
       "bonded": true,
       "user_username": "散修`、",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47418883",
+      "user": "lmzb5-vxb55-5wnsc-lzw4b-mk6oh-puto6-3dvrp-h3o4l-rca2s-irsc7-lqe",
+      "token": "2dzg",
+      "time": "2025-05-09T08:04:42.000Z",
+      "buy": false,
+      "amount_btc": 295986655,
+      "amount_token": 18429206320723396,
+      "price": 1586,
+      "bonded": true,
+      "user_username": "CoinFind.Pro",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
