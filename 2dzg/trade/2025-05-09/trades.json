@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 102,
   "data": [
     {
       "id": "47397974",
@@ -1498,6 +1498,36 @@
       "bonded": true,
       "user_username": "符文堂 | エドアルド",
       "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47446164",
+      "user": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+      "token": "2dzg",
+      "time": "2025-05-09T15:01:27.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 8991699718008327,
+      "price": 1674,
+      "bonded": true,
+      "user_username": "Brandon Stark",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47445464",
+      "user": "vvpiq-lxgn6-x3q7p-amhp3-6n3j3-dmtm2-ojfc7-d3y4l-eczw2-5um43-aae",
+      "token": "2dzg",
+      "time": "2025-05-09T14:57:05.000Z",
+      "buy": true,
+      "amount_btc": 39399899,
+      "amount_token": 2387430812481279,
+      "price": 1645,
+      "bonded": true,
+      "user_username": "vvpiq-lxgn6",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
