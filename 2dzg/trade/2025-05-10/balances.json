@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 128,
-    "nonSellersCount": 128,
-    "sellersCount": 0,
-    "totalBalance": 1033335606851760000
+    "nonSellersCount": 124,
+    "sellersCount": 4,
+    "totalBalance": 1001826341242892800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -114,14 +114,6 @@
       "balance": 13657318987073832,
       "username": "keep saying"
     },
-    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
-      "balance": 11920785112119330,
-      "username": "Brandon Stark"
-    },
-    "oc7ef-e5iqx-4jhxs-azpha-3cjxs-gqqvn-hqexc-53ivh-lw32z-uqan4-lqe": {
-      "balance": 11531601005490364,
-      "username": "Timothius"
-    },
     "psmhc-emm4j-ivjsv-7hmo2-kg6g5-e54oi-uoqnm-tzzlp-e2zxx-jz7r3-eqe": {
       "balance": 10819353711517872,
       "username": "psykyfdw"
@@ -189,10 +181,6 @@
     "sgx4c-dvht6-2x5nk-z6zmm-s2znj-34wbu-jqhiq-snsc5-nr4yq-4i5ii-aae": {
       "balance": 6678996026731219,
       "username": "军刀sgx4c-dvht6"
-    },
-    "xb5dw-dt5e2-q5sxn-crsr5-dzi3m-v7jst-e6dtq-2xefo-cs5dw-5qw3s-dae": {
-      "balance": 6654219549214249,
-      "username": "SKTGGBOY.blife"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -293,10 +281,6 @@
     "pgjvu-5sm5d-u7axv-5c3ke-6qqi3-xcum4-iq6y2-h2tvy-fymwy-denei-qae": {
       "balance": 1454848638779767,
       "username": "pgjvu-5sm5d"
-    },
-    "2xwwi-x6vb3-uqwi2-jvsoi-6d3u4-5hfrp-rtgui-l2veh-t43jr-g7nz3-6qe": {
-      "balance": 1402659942043360,
-      "username": "2xwwi-x6vb3"
     },
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
