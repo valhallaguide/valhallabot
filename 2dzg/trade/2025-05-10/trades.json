@@ -1,5 +1,5 @@
 {
-  "count": 101,
+  "count": 102,
   "data": [
     {
       "id": "47475946",
@@ -1513,6 +1513,21 @@
       "bonded": true,
       "user_username": "xsh ⁸⁸⁸",
       "user_image": "65f8f18e-977f-41a6-9099-8166b8aaa610.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47520250",
+      "user": "bixxr-xv2xb-2cbfs-k5hcp-7i72m-54myv-ya5o6-tluob-la2hd-5ostg-fae",
+      "token": "2dzg",
+      "time": "2025-05-10T15:57:49.000Z",
+      "buy": true,
+      "amount_btc": 350000000,
+      "amount_token": 20031892966740090,
+      "price": 1772,
+      "bonded": true,
+      "user_username": "Super Ex to 10 million.",
+      "user_image": "38f0649b-8073-4f8a-a231-7edc70713bbc.png",
       "decimals": 3,
       "divisibility": 8
     }
