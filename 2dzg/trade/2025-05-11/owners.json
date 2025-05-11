@@ -301,13 +301,6 @@
     "user_image": null
   },
   {
-    "user": "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae",
-    "token": "2dzg",
-    "balance": 7923266090000726,
-    "user_username": "bobCOIN",
-    "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg"
-  },
-  {
     "user": "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe",
     "token": "2dzg",
     "balance": 7578322780940278,
@@ -453,6 +446,13 @@
     "balance": 1991374004848860,
     "user_username": "y573i-a5kmp",
     "user_image": null
+  },
+  {
+    "user": "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae",
+    "token": "2dzg",
+    "balance": 1980816522500182,
+    "user_username": "bobCOIN",
+    "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg"
   },
   {
     "user": "cr422-ocahl-spzmu-a2fq6-tnpnj-egrq2-uaorx-5noct-kqt7m-jtpcz-sqe",
