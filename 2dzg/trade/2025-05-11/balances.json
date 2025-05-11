@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 127,
-    "nonSellersCount": 124,
-    "sellersCount": 3,
-    "totalBalance": 974092993204157200
+    "nonSellersCount": 123,
+    "sellersCount": 4,
+    "totalBalance": 966169727114156400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -169,10 +169,6 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
-    },
-    "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae": {
-      "balance": 7923266090000726,
-      "username": "bobCOIN"
     },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
