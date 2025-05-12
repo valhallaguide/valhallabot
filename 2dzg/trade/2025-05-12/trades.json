@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 19,
   "data": [
     {
       "id": "47581815",
@@ -253,6 +253,36 @@
       "bonded": true,
       "user_username": "Fartus deus",
       "user_image": "d4bdc306-2dc0-4f69-8d70-ad4d8da05ab6.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47625292",
+      "user": "sgx4c-dvht6-2x5nk-z6zmm-s2znj-34wbu-jqhiq-snsc5-nr4yq-4i5ii-aae",
+      "token": "2dzg",
+      "time": "2025-05-12T13:44:25.000Z",
+      "buy": false,
+      "amount_btc": 115112908,
+      "amount_token": 6678996026731219,
+      "price": 1721,
+      "bonded": true,
+      "user_username": "123sgx4c-dvht6",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47625044",
+      "user": "t2gvg-nqbmr-ubbyw-xnred-v7fqq-i2rrv-ug57j-ngue7-3q2zq-vqm4c-pqe",
+      "token": "2dzg",
+      "time": "2025-05-12T13:43:06.000Z",
+      "buy": false,
+      "amount_btc": 17361362,
+      "amount_token": 1000000000000000,
+      "price": 1743,
+      "bonded": true,
+      "user_username": "不良帅🕷️🕷️🕸️🕸️🕸️",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
