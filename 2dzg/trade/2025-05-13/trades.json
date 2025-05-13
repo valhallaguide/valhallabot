@@ -1,5 +1,5 @@
 {
-  "count": 125,
+  "count": 129,
   "data": [
     {
       "id": "47637375",
@@ -1873,6 +1873,66 @@
       "bonded": true,
       "user_username": "fgh24-gh3fw",
       "user_image": "50f47297-161f-4204-9c33-fc17157edce6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47689920",
+      "user": "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae",
+      "token": "2dzg",
+      "time": "2025-05-13T16:15:20.000Z",
+      "buy": false,
+      "amount_btc": 243305998,
+      "amount_token": 10816160805514204,
+      "price": 2235,
+      "bonded": true,
+      "user_username": "MOSES11.blife",
+      "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47689860",
+      "user": "qkjl6-rsvma-rn7gf-i2sbv-6y256-q6enf-whndh-n7ttx-e5yj3-4nwvq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T16:14:56.000Z",
+      "buy": false,
+      "amount_btc": 279787390,
+      "amount_token": 12144093248413040,
+      "price": 2286,
+      "bonded": true,
+      "user_username": "fgh24-gh3fw",
+      "user_image": "50f47297-161f-4204-9c33-fc17157edce6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47689758",
+      "user": "ay75x-cthly-zzbxx-7tyzl-fwicf-tfzwg-27ech-rqt22-ii66m-mipo4-cae",
+      "token": "2dzg",
+      "time": "2025-05-13T16:14:14.000Z",
+      "buy": false,
+      "amount_btc": 161025772,
+      "amount_token": 6851086275962258,
+      "price": 2345,
+      "bonded": true,
+      "user_username": "cth",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47689598",
+      "user": "xb5dw-dt5e2-q5sxn-crsr5-dzi3m-v7jst-e6dtq-2xefo-cs5dw-5qw3s-dae",
+      "token": "2dzg",
+      "time": "2025-05-13T16:11:43.000Z",
+      "buy": true,
+      "amount_btc": 360125212,
+      "amount_token": 15305271844205960,
+      "price": 2379,
+      "bonded": true,
+      "user_username": "SKTGGBOY.blife",
+      "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
       "decimals": 3,
       "divisibility": 8
     }
