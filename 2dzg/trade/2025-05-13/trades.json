@@ -1,5 +1,5 @@
 {
-  "count": 104,
+  "count": 108,
   "data": [
     {
       "id": "47637375",
@@ -1558,6 +1558,66 @@
       "bonded": true,
       "user_username": "axxdu-mgrui",
       "user_image": "4c47aa0d-0c26-43b8-863f-ce35a39e85ac.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47686351",
+      "user": "nyoqc-opgfv-zjr2a-4sjyu-dsmxm-5sqej-5irvs-vpvgh-3v5mw-zr3sk-rqe",
+      "token": "2dzg",
+      "time": "2025-05-13T15:28:52.000Z",
+      "buy": false,
+      "amount_btc": 426024710,
+      "amount_token": 17280946132033824,
+      "price": 2431,
+      "bonded": true,
+      "user_username": "wula",
+      "user_image": "f2e873f5-3cc7-48a8-8922-087f4bd97e40.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47686271",
+      "user": "qkjl6-rsvma-rn7gf-i2sbv-6y256-q6enf-whndh-n7ttx-e5yj3-4nwvq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T15:27:11.000Z",
+      "buy": true,
+      "amount_btc": 344681271,
+      "amount_token": 13790636609089080,
+      "price": 2524,
+      "bonded": true,
+      "user_username": "fgh24-gh3fw",
+      "user_image": "50f47297-161f-4204-9c33-fc17157edce6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47686262",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T15:27:01.000Z",
+      "buy": false,
+      "amount_btc": 103488121,
+      "amount_token": 4226090690774686,
+      "price": 2449,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47686235",
+      "user": "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T15:26:12.000Z",
+      "buy": true,
+      "amount_btc": 104529377,
+      "amount_token": 4226090690774686,
+      "price": 2472,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド",
+      "user_image": "9e7a9ae8-0c1c-4b64-98ca-6ed6bfd48d53.png",
       "decimals": 3,
       "divisibility": 8
     }
