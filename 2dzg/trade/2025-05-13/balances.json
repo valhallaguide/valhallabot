@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 137,
-    "nonSellersCount": 132,
-    "sellersCount": 5,
-    "totalBalance": 1041346984957883600
+    "totalUsers": 141,
+    "nonSellersCount": 133,
+    "sellersCount": 8,
+    "totalBalance": 1063283126950164000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -29,6 +29,10 @@
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
+    },
+    "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
+      "balance": 32248776589003548,
+      "username": "环球俱乐部-深深"
     },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 31688656604575360,
@@ -98,10 +102,6 @@
       "balance": 16625348438071460,
       "username": "peezy"
     },
-    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 16193748771903276,
-      "username": "文化社区-一诺千金"
-    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
       "username": "BigFoot"
@@ -129,6 +129,10 @@
     "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
       "balance": 12646138356400578,
       "username": "王者荣耀—锦"
+    },
+    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
+      "balance": 10816160805514204,
+      "username": "MOSES11.blife"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
@@ -209,10 +213,6 @@
     "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
       "balance": 5576672536445817,
       "username": "odinBTC生态"
-    },
-    "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
-      "balance": 5395194960041162,
-      "username": "环球俱乐部-深深"
     },
     "dmrdf-6dklr-qglld-si6zw-blnbi-lvwhj-mfryw-orkc4-nftpu-xdevv-2qe": {
       "balance": 5053328076739880,
@@ -385,6 +385,10 @@
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 469676135605741,
       "username": "gundam"
+    },
+    "wde7q-qmhnq-he62p-alg2g-mm6ep-vy3x4-duhc2-2ywkf-yxflb-eoa3j-pqe": {
+      "balance": 460148329707008,
+      "username": "比特牛-天平"
     },
     "v2j4g-ewaz7-kcg5h-intuv-4lsfp-62pxh-zjzkb-yd6ky-nkgcp-vrdln-oqe": {
       "balance": 430854725843616,
