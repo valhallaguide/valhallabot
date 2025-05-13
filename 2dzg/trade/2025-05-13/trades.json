@@ -1,5 +1,5 @@
 {
-  "count": 22,
+  "count": 24,
   "data": [
     {
       "id": "47637375",
@@ -328,6 +328,36 @@
       "bonded": true,
       "user_username": "共识Q群 784386301",
       "user_image": "dd3ce378-5117-4fac-9d94-17bedaece61c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47680668",
+      "user": "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae",
+      "token": "2dzg",
+      "time": "2025-05-13T14:10:17.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2922613164798126,
+      "price": 1706,
+      "bonded": true,
+      "user_username": "wenber爱好者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47680504",
+      "user": "wmaq6-so75m-k5bcd-p62b6-ou2nh-jupxl-sm4g4-q6fm6-fbllu-v2ntw-2ae",
+      "token": "2dzg",
+      "time": "2025-05-13T14:07:29.000Z",
+      "buy": true,
+      "amount_btc": 180000000,
+      "amount_token": 10656537394377520,
+      "price": 1697,
+      "bonded": true,
+      "user_username": "odindoj",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
