@@ -1,5 +1,5 @@
 {
-  "count": 138,
+  "count": 139,
   "data": [
     {
       "id": "47637375",
@@ -2068,6 +2068,21 @@
       "bonded": true,
       "user_username": "王者荣耀—锦",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47692063",
+      "user": "xb5dw-dt5e2-q5sxn-crsr5-dzi3m-v7jst-e6dtq-2xefo-cs5dw-5qw3s-dae",
+      "token": "2dzg",
+      "time": "2025-05-13T16:41:58.000Z",
+      "buy": false,
+      "amount_btc": 51212990,
+      "amount_token": 2305271844205959,
+      "price": 2227,
+      "bonded": true,
+      "user_username": "SKTGGBOY.blife",
+      "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
       "decimals": 3,
       "divisibility": 8
     }
