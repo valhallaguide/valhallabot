@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 133,
+    "totalUsers": 135,
+    "nonSellersCount": 130,
     "sellersCount": 5,
-    "totalBalance": 1086118237781948000
+    "totalBalance": 1035951789975349900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -89,18 +89,6 @@
     "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae": {
       "balance": 17085212212061616,
       "username": "35b35-p4w26"
-    },
-    "tlkj4-3i6ts-qjvma-cv5hv-kvebu-doddf-qtxoh-jmg5e-wviqf-cjqxe-bae": {
-      "balance": 17009624427348356,
-      "username": "first time"
-    },
-    "ydylh-5btoi-7yzfp-pdmw2-xn5nj-kslff-3kren-hvwue-xh4nq-dgefd-wae": {
-      "balance": 16880688917647132,
-      "username": "been"
-    },
-    "jfir3-apdmh-pjy5k-hz43d-uw4nk-nw47y-4jadb-5psud-3pgb4-wqw4a-yqe": {
-      "balance": 16798201879839444,
-      "username": "jfir3-apdmh"
     },
     "qa2bp-pllzs-wm3mt-svubm-cmzoc-vt3sr-oj4ap-ycqgj-vnscu-tf4lr-gqe": {
       "balance": 16716467976919456,
@@ -250,6 +238,10 @@
       "balance": 3566998352544767,
       "username": "slqyniyb_ojnmfs"
     },
+    "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae": {
+      "balance": 3444680583034866,
+      "username": "wenber爱好者"
+    },
     "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
       "balance": 3436091091189303,
       "username": "PHIMITRI.blife"
@@ -261,10 +253,6 @@
     "vebgn-vcx3a-z7xby-54ukj-uxzkf-7vqvu-7fmqk-dtdze-crlzg-am2jg-nqe": {
       "balance": 2932683320987123,
       "username": "橘子花"
-    },
-    "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae": {
-      "balance": 2922613164798126,
-      "username": "wenber爱好者"
     },
     "zbbno-hxlzc-zqcxy-stoni-dnqrl-zbfdu-qo3bt-6xkww-mz6zl-bc6gy-lqe": {
       "balance": 2911923058059148,
