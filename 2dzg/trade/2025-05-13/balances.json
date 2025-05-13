@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
+    "totalUsers": 136,
     "nonSellersCount": 133,
-    "sellersCount": 5,
-    "totalBalance": 1105106832401168300
+    "sellersCount": 3,
+    "totalBalance": 1086118237781948000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -62,10 +62,6 @@
       "balance": 21414264806545284,
       "username": "runesgang"
     },
-    "wmaq6-so75m-k5bcd-p62b6-ou2nh-jupxl-sm4g4-q6fm6-fbllu-v2ntw-2ae": {
-      "balance": 21046061928003490,
-      "username": "odindoj"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 20856632086061724,
       "username": "共识Q群 784386301"
@@ -102,6 +98,10 @@
       "balance": 16880688917647132,
       "username": "been"
     },
+    "jfir3-apdmh-pjy5k-hz43d-uw4nk-nw47y-4jadb-5psud-3pgb4-wqw4a-yqe": {
+      "balance": 16798201879839444,
+      "username": "jfir3-apdmh"
+    },
     "qa2bp-pllzs-wm3mt-svubm-cmzoc-vt3sr-oj4ap-ycqgj-vnscu-tf4lr-gqe": {
       "balance": 16716467976919456,
       "username": "qa2bp-pllzs"
@@ -133,10 +133,6 @@
     "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae": {
       "balance": 13657318987073832,
       "username": "happy one day"
-    },
-    "jfir3-apdmh-pjy5k-hz43d-uw4nk-nw47y-4jadb-5psud-3pgb4-wqw4a-yqe": {
-      "balance": 13347836138388352,
-      "username": "jfir3-apdmh"
     },
     "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
       "balance": 13220489118089764,
@@ -205,10 +201,6 @@
     "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe": {
       "balance": 6520492252794518,
       "username": "环球俱乐部-小龙王"
-    },
-    "hxzgn-wnm4z-llf5p-ibc2o-ruf75-cfarf-pn4zt-7lqxy-abzx4-4s6xn-zae": {
-      "balance": 6114130037778771,
-      "username": "hxzgn-wnm4"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
@@ -286,9 +278,17 @@
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
     },
+    "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
+      "balance": 2622969337436898,
+      "username": "msv63-6h6dg"
+    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
+    },
+    "acnyt-jzwhj-etz2t-dgcea-ttgsx-yulyx-lpnoy-466n2-ibhov-hi2sm-qae": {
+      "balance": 2098262267673968,
+      "username": "富太太66"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
