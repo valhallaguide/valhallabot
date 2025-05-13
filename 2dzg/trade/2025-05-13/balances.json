@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 121,
+    "totalUsers": 125,
+    "nonSellersCount": 123,
     "sellersCount": 2,
-    "totalBalance": 973052021764104800
+    "totalBalance": 986631172323280400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -122,6 +122,10 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
+    "wmaq6-so75m-k5bcd-p62b6-ou2nh-jupxl-sm4g4-q6fm6-fbllu-v2ntw-2ae": {
+      "balance": 10656537394377520,
+      "username": "odindoj"
+    },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
@@ -229,6 +233,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 3127089458682100,
       "username": "比特强"
+    },
+    "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae": {
+      "balance": 2922613164798126,
+      "username": "wenber爱好者"
     },
     "zbbno-hxlzc-zqcxy-stoni-dnqrl-zbfdu-qo3bt-6xkww-mz6zl-bc6gy-lqe": {
       "balance": 2911923058059148,
