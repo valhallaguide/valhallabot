@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 137,
-    "nonSellersCount": 129,
-    "sellersCount": 8,
-    "totalBalance": 1052033433488230100
+    "nonSellersCount": 128,
+    "sellersCount": 9,
+    "totalBalance": 1038376114501156400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -117,10 +117,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
       "username": "mengou2"
-    },
-    "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae": {
-      "balance": 13657318987073832,
-      "username": "happy one day"
     },
     "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
       "balance": 13220489118089764,
