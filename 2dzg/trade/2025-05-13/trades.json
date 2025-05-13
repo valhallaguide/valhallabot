@@ -1,5 +1,5 @@
 {
-  "count": 145,
+  "count": 149,
   "data": [
     {
       "id": "47637375",
@@ -2173,6 +2173,66 @@
       "bonded": true,
       "user_username": "Excha",
       "user_image": "76f7ae2e-f3bb-4461-a08b-860c94167554.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47694159",
+      "user": "y4nnz-xrrij-vibev-i7ijp-vpdjz-uomwx-oxg34-ciyww-zlydx-ce2nu-4qe",
+      "token": "2dzg",
+      "time": "2025-05-13T17:30:31.000Z",
+      "buy": false,
+      "amount_btc": 87104066,
+      "amount_token": 3957456653717725,
+      "price": 2203,
+      "bonded": true,
+      "user_username": "y4nnz-xrrij",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47694090",
+      "user": "iqpyq-lcyna-5hh35-5h2qs-j73fo-2hw3v-56afd-426dj-ulifc-torew-nqe",
+      "token": "2dzg",
+      "time": "2025-05-13T17:28:57.000Z",
+      "buy": false,
+      "amount_btc": 27528886,
+      "amount_token": 1244089655869434,
+      "price": 2221,
+      "bonded": true,
+      "user_username": "iuyhgf-tgftgv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47694032",
+      "user": "qkjl6-rsvma-rn7gf-i2sbv-6y256-q6enf-whndh-n7ttx-e5yj3-4nwvq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T17:27:34.000Z",
+      "buy": false,
+      "amount_btc": 290196997,
+      "amount_token": 12924228406553456,
+      "price": 2226,
+      "bonded": true,
+      "user_username": "fgh24-gh3fw",
+      "user_image": "50f47297-161f-4204-9c33-fc17157edce6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47693966",
+      "user": "qkjl6-rsvma-rn7gf-i2sbv-6y256-q6enf-whndh-n7ttx-e5yj3-4nwvq-jqe",
+      "token": "2dzg",
+      "time": "2025-05-13T17:26:28.000Z",
+      "buy": false,
+      "amount_btc": 298109542,
+      "amount_token": 12924228406553454,
+      "price": 2286,
+      "bonded": true,
+      "user_username": "fgh24-gh3fw",
+      "user_image": "50f47297-161f-4204-9c33-fc17157edce6.jpg",
       "decimals": 3,
       "divisibility": 8
     }
