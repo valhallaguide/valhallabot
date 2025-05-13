@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 124,
+    "totalUsers": 128,
+    "nonSellersCount": 125,
     "sellersCount": 3,
-    "totalBalance": 1013214445628809600
+    "totalBalance": 1016147128949796700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -237,6 +237,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 3127089458682100,
       "username": "比特强"
+    },
+    "vebgn-vcx3a-z7xby-54ukj-uxzkf-7vqvu-7fmqk-dtdze-crlzg-am2jg-nqe": {
+      "balance": 2932683320987123,
+      "username": "橘子花"
     },
     "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae": {
       "balance": 2922613164798126,
