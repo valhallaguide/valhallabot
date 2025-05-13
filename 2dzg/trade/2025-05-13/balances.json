@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 125,
-    "sellersCount": 3,
-    "totalBalance": 1016147128949796700
+    "totalUsers": 133,
+    "nonSellersCount": 129,
+    "sellersCount": 4,
+    "totalBalance": 1076031416789581200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -90,6 +90,14 @@
       "balance": 17085212212061616,
       "username": "35b35-p4w26"
     },
+    "tlkj4-3i6ts-qjvma-cv5hv-kvebu-doddf-qtxoh-jmg5e-wviqf-cjqxe-bae": {
+      "balance": 17009624427348356,
+      "username": "first time"
+    },
+    "ydylh-5btoi-7yzfp-pdmw2-xn5nj-kslff-3kren-hvwue-xh4nq-dgefd-wae": {
+      "balance": 16880688917647132,
+      "username": "been"
+    },
     "qa2bp-pllzs-wm3mt-svubm-cmzoc-vt3sr-oj4ap-ycqgj-vnscu-tf4lr-gqe": {
       "balance": 16716467976919456,
       "username": "qa2bp-pllzs"
@@ -122,9 +130,17 @@
       "balance": 13657318987073832,
       "username": "happy one day"
     },
+    "jfir3-apdmh-pjy5k-hz43d-uw4nk-nw47y-4jadb-5psud-3pgb4-wqw4a-yqe": {
+      "balance": 13347836138388352,
+      "username": "jfir3-apdmh"
+    },
     "jlbyr-ixrpk-o7ql6-4rpjg-j6to3-clckr-k3dvk-hp47i-mmlnu-wl5mq-zae": {
       "balance": 13220489118089764,
       "username": "jlbyr-ixrpk"
+    },
+    "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
+      "balance": 12646138356400578,
+      "username": "王者荣耀—锦"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
