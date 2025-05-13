@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 142,
+    "totalUsers": 141,
     "nonSellersCount": 133,
-    "sellersCount": 9,
-    "totalBalance": 1076607860172454700
+    "sellersCount": 8,
+    "totalBalance": 1066280956892528000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -77,10 +77,6 @@
     "n723o-hzbo6-weoxz-5qv4d-xu6c5-tnlv4-w3vbi-g7j36-pzww7-es3ot-bqe": {
       "balance": 19094339756775504,
       "username": "fcdg"
-    },
-    "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
-      "balance": 18935761014258876,
-      "username": "王者荣耀—锦"
     },
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 18677440491023164,
@@ -170,6 +166,10 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
+    "cdalv-whkyg-bnzlw-quazo-dtmja-6jzxo-vytbi-by2uk-3woji-zxy25-nae": {
+      "balance": 9467880507129440,
+      "username": "王者荣耀—锦"
+    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -242,10 +242,6 @@
       "balance": 3566998352544767,
       "username": "slqyniyb_ojnmfs"
     },
-    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
-      "balance": 3436091091189303,
-      "username": "PHIMITRI.blife"
-    },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 3127089458682100,
       "username": "比特强"
@@ -269,6 +265,10 @@
     "msv63-6h6dg-pvtp2-acxdf-ap4sg-ol4j2-5qihf-vjy42-arw6d-j65ym-bae": {
       "balance": 2622969337436898,
       "username": "msv63-6h6dg"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 2577068318391978,
+      "username": "PHIMITRI.blife"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
