@@ -1,5 +1,5 @@
 {
-  "count": 163,
+  "count": 164,
   "data": [
     {
       "id": "47701360",
@@ -2443,6 +2443,21 @@
       "bonded": true,
       "user_username": "2xwwi-x6vb3",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47711593",
+      "user": "wde7q-qmhnq-he62p-alg2g-mm6ep-vy3x4-duhc2-2ywkf-yxflb-eoa3j-pqe",
+      "token": "2dzg",
+      "time": "2025-05-14T06:16:28.000Z",
+      "buy": false,
+      "amount_btc": 9421604,
+      "amount_token": 460148329707008,
+      "price": 2056,
+      "bonded": true,
+      "user_username": "BITBULL.blife",
+      "user_image": "8a3fe7ea-55f0-42d6-911f-8ff04276a697.jpg",
       "decimals": 3,
       "divisibility": 8
     }
