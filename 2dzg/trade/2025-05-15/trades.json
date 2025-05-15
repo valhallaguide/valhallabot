@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 40,
   "data": [
     {
       "id": "47742562",
@@ -568,6 +568,36 @@
       "bonded": true,
       "user_username": "SKTGGBOY.blife",
       "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47760164",
+      "user": "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe",
+      "token": "2dzg",
+      "time": "2025-05-15T08:05:26.000Z",
+      "buy": true,
+      "amount_btc": 2550940,
+      "amount_token": 141251368277733,
+      "price": 1797,
+      "bonded": true,
+      "user_username": "共识Q群 784386301",
+      "user_image": "dd3ce378-5117-4fac-9d94-17bedaece61c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47760155",
+      "user": "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae",
+      "token": "2dzg",
+      "time": "2025-05-15T08:05:17.000Z",
+      "buy": false,
+      "amount_btc": 412598040,
+      "amount_token": 22574735926591270,
+      "price": 1796,
+      "bonded": true,
+      "user_username": "奥丁战神",
+      "user_image": "29f25b0a-e2c6-4e5b-9a8a-aa12837f2b71.jpg",
       "decimals": 3,
       "divisibility": 8
     }
