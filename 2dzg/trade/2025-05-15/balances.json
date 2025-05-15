@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
+    "totalUsers": 124,
     "nonSellersCount": 119,
-    "sellersCount": 4,
-    "totalBalance": 994092215396502000
+    "sellersCount": 5,
+    "totalBalance": 950746822300298600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -13,10 +13,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
-    },
-    "ghqtd-peuzf-3c4wb-rbhxn-esgq4-cinsl-k7kp2-crnet-klgox-dgnmp-yae": {
-      "balance": 43583274837851496,
-      "username": "jasper"
     },
     "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
       "balance": 42129509060730450,
@@ -389,6 +385,10 @@
     "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae": {
       "balance": 238986851169586,
       "username": "3bbgm-elddd"
+    },
+    "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
+      "balance": 237881741648074,
+      "username": "cola999"
     },
     "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe": {
       "balance": 237523484105680,
