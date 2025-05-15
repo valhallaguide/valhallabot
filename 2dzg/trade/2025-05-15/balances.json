@@ -3,12 +3,16 @@
     "totalUsers": 124,
     "nonSellersCount": 118,
     "sellersCount": 6,
-    "totalBalance": 949813811981085700
+    "totalBalance": 998144980358187400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 64012497141570824,
       "username": "RUNESLEO.blife"
+    },
+    "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
+      "balance": 48331168399594260,
+      "username": "To the moon."
     },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
@@ -441,10 +445,6 @@
     "pgjvu-5sm5d-u7axv-5c3ke-6qqi3-xcum4-iq6y2-h2tvy-fymwy-denei-qae": {
       "balance": 48638779767,
       "username": "pgjvu-5sm5d"
-    },
-    "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
-      "balance": 22492501,
-      "username": "To the moon."
     },
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 2776888,
