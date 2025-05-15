@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 34,
   "data": [
     {
       "id": "47742562",
@@ -478,6 +478,36 @@
       "bonded": true,
       "user_username": "fcdg",
       "user_image": "ad769034-38b8-411e-b0cb-d9860d7e997b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47752723",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-15T05:52:32.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 511574004724479,
+      "price": 1945,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47752718",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-15T05:52:27.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 512104249878705,
+      "price": 1943,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
       "decimals": 3,
       "divisibility": 8
     }
