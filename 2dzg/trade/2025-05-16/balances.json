@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
-    "nonSellersCount": 116,
+    "totalUsers": 123,
+    "nonSellersCount": 115,
     "sellersCount": 8,
-    "totalBalance": 984535224315859200
+    "totalBalance": 974116284038582900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -121,10 +121,6 @@
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
       "username": "符文堂｜法务部"
-    },
-    "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae": {
-      "balance": 10418940277276252,
-      "username": "信leo还是信我是秦始皇"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
