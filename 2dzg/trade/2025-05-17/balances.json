@@ -3,7 +3,7 @@
     "totalUsers": 121,
     "nonSellersCount": 121,
     "sellersCount": 0,
-    "totalBalance": 1083323262877773700
+    "totalBalance": 1080323262877773700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -26,13 +26,13 @@
       "balance": 42129509060730450,
       "username": "🐬共识Q群784386301"
     },
-    "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
-      "balance": 40729885494090560,
-      "username": "环球俱乐部-深深"
-    },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 40348792328841680,
       "username": "pve"
+    },
+    "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
+      "balance": 37729885494090560,
+      "username": "环球俱乐部-深深"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
