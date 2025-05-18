@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 117,
-    "nonSellersCount": 115,
-    "sellersCount": 2,
-    "totalBalance": 980620937283238800
+    "nonSellersCount": 114,
+    "sellersCount": 3,
+    "totalBalance": 980203060604954800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -341,10 +341,6 @@
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 469676135605741,
       "username": "gundam"
-    },
-    "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae": {
-      "balance": 417876678284016,
-      "username": "6ynyv-geuvc"
     },
     "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe": {
       "balance": 384943816338087,
