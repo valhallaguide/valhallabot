@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 101,
   "data": [
     {
       "id": "47924081",
@@ -1480,6 +1480,36 @@
       "amount_btc": 16564798,
       "amount_token": 1087704130331261,
       "price": 1516,
+      "bonded": true,
+      "user_username": "MKNOWN.blife",
+      "user_image": "b8f71e71-cd1a-44a6-be5e-f0b00d4114af.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47975272",
+      "user": "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae",
+      "token": "2dzg",
+      "time": "2025-05-19T18:45:21.000Z",
+      "buy": false,
+      "amount_btc": 32441478,
+      "amount_token": 2178292344957028,
+      "price": 1493,
+      "bonded": true,
+      "user_username": "PHIMITRI.blife",
+      "user_image": "17c09114-fc53-4b42-84db-595a3ee152ef.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47975251",
+      "user": "2cvzy-kd2zr-v3obu-tapzu-wtz4b-e5yl5-q7dos-dduxu-ritih-jwy5v-wae",
+      "token": "2dzg",
+      "time": "2025-05-19T18:44:48.000Z",
+      "buy": false,
+      "amount_btc": 91361215,
+      "amount_token": 6087704130331261,
+      "price": 1499,
       "bonded": true,
       "user_username": "MKNOWN.blife",
       "user_image": "b8f71e71-cd1a-44a6-be5e-f0b00d4114af.jpeg",
