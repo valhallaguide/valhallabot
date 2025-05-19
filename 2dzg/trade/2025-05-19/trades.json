@@ -1,5 +1,5 @@
 {
-  "count": 54,
+  "count": 55,
   "data": [
     {
       "id": "47924081",
@@ -808,6 +808,21 @@
       "bonded": true,
       "user_username": "MKNOWN.blife",
       "user_image": "b8f71e71-cd1a-44a6-be5e-f0b00d4114af.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47946509",
+      "user": "ain4t-tjxtc-7eh5o-zljtx-hskyx-eh5kt-eeqrr-3mpqd-rxd7v-dpi2y-dqe",
+      "token": "2dzg",
+      "time": "2025-05-19T08:27:39.000Z",
+      "buy": false,
+      "amount_btc": 27873178,
+      "amount_token": 1684558653136689,
+      "price": 1660,
+      "bonded": true,
+      "user_username": "Mr. Willem",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
