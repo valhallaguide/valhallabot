@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 120,
+    "totalUsers": 124,
+    "nonSellersCount": 121,
     "sellersCount": 3,
-    "totalBalance": 1044638691290985200
+    "totalBalance": 1052275451363831300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -169,6 +169,10 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
+    },
+    "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe": {
+      "balance": 7636760072846041,
+      "username": "FKSTEP.blife"
     },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
