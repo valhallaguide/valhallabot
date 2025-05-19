@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 96,
   "data": [
     {
       "id": "47924081",
@@ -1423,6 +1423,21 @@
       "bonded": true,
       "user_username": "MOSES11.blife",
       "user_image": "a30948f5-6264-4e8b-859f-c91b2aedad32.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47970532",
+      "user": "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe",
+      "token": "2dzg",
+      "time": "2025-05-19T16:52:52.000Z",
+      "buy": true,
+      "amount_btc": 80000000,
+      "amount_token": 5199036784398005,
+      "price": 1538,
+      "bonded": true,
+      "user_username": "7sfwt-qm2ht",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
