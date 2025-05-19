@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 117,
-    "nonSellersCount": 115,
+    "totalUsers": 119,
+    "nonSellersCount": 117,
     "sellersCount": 2,
-    "totalBalance": 984888380813442000
+    "totalBalance": 1010867360168439300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -69,6 +69,10 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
+    },
+    "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
+      "balance": 19500498968708776,
+      "username": "符文堂 | エドアルド"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
@@ -142,6 +146,10 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
+    "htsfw-sunm3-lieuo-3gmbn-sogv4-ics5w-zz3ch-ubtpb-rfxxz-q2ufn-wqe": {
+      "balance": 9748450746295300,
+      "username": "c73zx-l51mk"
+    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -165,10 +173,6 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 7434266652495019,
       "username": "7sfwt-qm2ht"
-    },
-    "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
-      "balance": 6639870381858436,
-      "username": "符文堂 | エドアルド"
     },
     "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe": {
       "balance": 6520492252794518,
@@ -237,6 +241,10 @@
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 3566998352544767,
       "username": "slqyniyb_ojnmfs"
+    },
+    "lojm4-grlph-xogru-4vig7-kqsh7-7awqw-qrpfo-eqvon-exped-ic5vh-4ae": {
+      "balance": 3369900021851678,
+      "username": "keep"
     },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 3127089458682100,
