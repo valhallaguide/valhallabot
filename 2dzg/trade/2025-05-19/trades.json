@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 48,
   "data": [
     {
       "id": "47924081",
@@ -703,6 +703,21 @@
       "bonded": true,
       "user_username": "青椒鱼",
       "user_image": "c7b1974f-d3c2-40e5-9940-dde10cf1bea2.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "47944663",
+      "user": "buiji-3h3nl-icklh-xoigf-gbjqz-gjxjj-6qpnt-jmrgi-st6qz-zqcd3-fqe",
+      "token": "2dzg",
+      "time": "2025-05-19T07:43:36.000Z",
+      "buy": true,
+      "amount_btc": 137069059,
+      "amount_token": 7636760072846041,
+      "price": 1799,
+      "bonded": true,
+      "user_username": "FKSTEP.blife",
+      "user_image": "f9ba65a6-fc10-41ef-9330-4b537969f3ad.jpg",
       "decimals": 3,
       "divisibility": 8
     }
