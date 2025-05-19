@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
+    "totalUsers": 124,
     "nonSellersCount": 120,
-    "sellersCount": 3,
-    "totalBalance": 1044638691290985200
+    "sellersCount": 4,
+    "totalBalance": 1037892913851358300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -74,10 +74,6 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
-    "sl5vf-peh5i-j7moe-js6wg-ifw33-srcev-enw2i-lzdmm-kttfq-njmm5-cqe": {
-      "balance": 20665648306789030,
-      "username": "青椒鱼"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
@@ -109,6 +105,10 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
+    },
+    "sl5vf-peh5i-j7moe-js6wg-ifw33-srcev-enw2i-lzdmm-kttfq-njmm5-cqe": {
+      "balance": 13919870867162084,
+      "username": "青椒鱼"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 13673066889855710,
