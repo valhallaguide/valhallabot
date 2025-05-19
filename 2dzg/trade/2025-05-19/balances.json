@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 124,
-    "sellersCount": 3,
-    "totalBalance": 1097323460194703200
+    "totalUsers": 125,
+    "nonSellersCount": 121,
+    "sellersCount": 4,
+    "totalBalance": 1038467316280023600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -29,10 +29,6 @@
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 40348792328841680,
       "username": "pve"
-    },
-    "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
-      "balance": 33065997787885228,
-      "username": "符文堂 | エドアルド"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -158,10 +154,6 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
-    "htsfw-sunm3-lieuo-3gmbn-sogv4-ics5w-zz3ch-ubtpb-rfxxz-q2ufn-wqe": {
-      "balance": 9748450746295300,
-      "username": "c73zx-l51mk"
-    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -169,10 +161,6 @@
     "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe": {
       "balance": 8840037040823085,
       "username": "DRAGONKNIGHT.blife"
-    },
-    "rtb2t-7z2il-5kpim-4vbsv-tbwf5-aa4dn-vtj2u-hirz6-iq2lt-wfeio-bqe": {
-      "balance": 8630640944692791,
-      "username": "HUHgulin-64ndd"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
@@ -197,10 +185,6 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
-    },
-    "2ami5-hdkub-qmpwl-nbysr-7coet-to6ei-ezje6-blmu7-5l7t4-lmeym-2qe": {
-      "balance": 5820802528416020,
-      "username": "58Z94TD4N.blife"
     },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
@@ -246,10 +230,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "hxzgn-wnm4z-llf5p-ibc2o-ruf75-cfarf-pn4zt-7lqxy-abzx4-4s6xn-zae": {
-      "balance": 4556422681942143,
-      "username": "hxzgn-wnm4"
-    },
     "4gulq-kiwda-3ds4w-limhr-ns4n7-hdob4-ylmjm-aijb2-rslfw-kryfi-zae": {
       "balance": 3925802762953350,
       "username": "wenber爱好者"
@@ -277,6 +257,10 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
+    },
+    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
+      "balance": 2178292344957028,
+      "username": "PHIMITRI.blife"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
@@ -318,6 +302,10 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
+    "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe": {
+      "balance": 1139000339107958,
+      "username": "A9天平⁸⁸⁸"
+    },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
@@ -357,10 +345,6 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
-    },
-    "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe": {
-      "balance": 583918134709297,
-      "username": "A9天平⁸⁸⁸"
     },
     "kej6w-igclr-rufct-lcrgn-trl6m-op4t5-dofpr-quvjx-anxcf-pg2a4-cqe": {
       "balance": 574402428665207,
@@ -421,6 +405,10 @@
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 237881741648074,
       "username": "cola999"
+    },
+    "p6krp-efuo4-mssvq-4l3q5-htg4u-nzg76-onr6v-j5kca-h457q-f7fn2-sae": {
+      "balance": 232796225195926,
+      "username": "UNSEDE.blife"
     },
     "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe": {
       "balance": 231643795956542,
