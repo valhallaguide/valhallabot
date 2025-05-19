@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 116,
-    "nonSellersCount": 114,
+    "totalUsers": 117,
+    "nonSellersCount": 115,
     "sellersCount": 2,
-    "totalBalance": 978248510431583600
+    "totalBalance": 984888380813442000
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -165,6 +165,10 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 7434266652495019,
       "username": "7sfwt-qm2ht"
+    },
+    "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
+      "balance": 6639870381858436,
+      "username": "符文堂 | エドアルド"
     },
     "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe": {
       "balance": 6520492252794518,
