@@ -3,7 +3,7 @@
     "totalUsers": 125,
     "nonSellersCount": 114,
     "sellersCount": 11,
-    "totalBalance": 917100350205374500
+    "totalBalance": 912003592486453800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -185,10 +185,6 @@
     "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
       "balance": 5576672536445817,
       "username": "odinBTC生态"
-    },
-    "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe": {
-      "balance": 5096757764871988,
-      "username": "RHM"
     },
     "dmrdf-6dklr-qglld-si6zw-blnbi-lvwhj-mfryw-orkc4-nftpu-xdevv-2qe": {
       "balance": 5053328076739880,
@@ -429,6 +425,10 @@
     "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae": {
       "balance": 60084502,
       "username": "gjjw3-5peer"
+    },
+    "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe": {
+      "balance": 45951238,
+      "username": "RHM"
     },
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 2776888,
