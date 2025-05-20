@@ -3,7 +3,7 @@
     "totalUsers": 119,
     "nonSellersCount": 113,
     "sellersCount": 6,
-    "totalBalance": 939254917989451500
+    "totalBalance": 939318237986240600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -182,6 +182,10 @@
       "balance": 5576672536445817,
       "username": "odinBTC生态"
     },
+    "2g3t7-t3a6y-dn3nm-xq65o-6pjjl-bnad7-piyqw-el7cs-rmyly-2eyfl-kae": {
+      "balance": 5063319989656887,
+      "username": "2g3t7-t3a6y"
+    },
     "dmrdf-6dklr-qglld-si6zw-blnbi-lvwhj-mfryw-orkc4-nftpu-xdevv-2qe": {
       "balance": 5053328076739880,
       "username": "mengou3"
@@ -189,10 +193,6 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 5000000000000000,
       "username": "isvcj-d7on7"
-    },
-    "mtq5b-jtutn-igj7q-5jjpt-36wdp-xlcq5-kfn2j-4fds6-hx3g5-slevs-yqe": {
-      "balance": 4999999992867659,
-      "username": "belief"
     },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
