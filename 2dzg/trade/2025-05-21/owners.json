@@ -168,13 +168,6 @@
     "user_image": null
   },
   {
-    "user": "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae",
-    "token": "2dzg",
-    "balance": 10970308520215552,
-    "user_username": "Katyusha",
-    "user_image": null
-  },
-  {
     "user": "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae",
     "token": "2dzg",
     "balance": 10811442120218028,
@@ -305,6 +298,13 @@
     "token": "2dzg",
     "balance": 5576672536445817,
     "user_username": "odinBTC生态",
+    "user_image": null
+  },
+  {
+    "user": "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae",
+    "token": "2dzg",
+    "balance": 5485154260107776,
+    "user_username": "Katyusha",
     "user_image": null
   },
   {
