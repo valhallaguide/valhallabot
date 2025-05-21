@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 117,
-    "nonSellersCount": 117,
-    "sellersCount": 0,
-    "totalBalance": 984006011696726400
+    "nonSellersCount": 115,
+    "sellersCount": 2,
+    "totalBalance": 949301134730903700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -29,10 +29,6 @@
     "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae": {
       "balance": 40169620056730440,
       "username": "hypocritical"
-    },
-    "sol4i-bxfw2-z4hal-2knyw-p3xnx-rawse-fjydr-nvzz5-qxhbm-cqw5q-5ae": {
-      "balance": 33604876626714850,
-      "username": "MOSES11.blife"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -277,10 +273,6 @@
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 1102789061938730,
       "username": "很好吃"
-    },
-    "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe": {
-      "balance": 1100000339107958,
-      "username": "😎🧐🤪⁸⁸⁸"
     },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 1017998422685502,
