@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 61,
   "data": [
     {
       "id": "48103461",
@@ -898,6 +898,21 @@
       "bonded": true,
       "user_username": "SKTGGBOY.blife",
       "user_image": "3502e24e-864c-4af0-a014-513f48db8023.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48150662",
+      "user": "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe",
+      "token": "2dzg",
+      "time": "2025-05-22T19:59:56.000Z",
+      "buy": false,
+      "amount_btc": 80492284,
+      "amount_token": 6520492252794518,
+      "price": 1233,
+      "bonded": true,
+      "user_username": "小龙王",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
