@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 117,
-    "nonSellersCount": 117,
-    "sellersCount": 0,
-    "totalBalance": 948552466108269000
+    "nonSellersCount": 115,
+    "sellersCount": 2,
+    "totalBalance": 942104968890060500
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -158,10 +158,6 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
-    "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe": {
-      "balance": 5741566461213396,
-      "username": "散修`、"
-    },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
@@ -297,10 +293,6 @@
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
-    },
-    "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
-      "balance": 705930756995048,
-      "username": "mengou2"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
