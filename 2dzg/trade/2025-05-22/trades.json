@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 59,
   "data": [
     {
       "id": "48103461",
@@ -868,6 +868,21 @@
       "bonded": true,
       "user_username": "gqoep-skb3q",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48149632",
+      "user": "vymep-2v733-24rfi-cfoer-62lwt-2zr7x-wl7vr-a3gcv-caxzk-txvcx-jae",
+      "token": "2dzg",
+      "time": "2025-05-22T19:07:42.000Z",
+      "buy": false,
+      "amount_btc": 4383036,
+      "amount_token": 348877003860349,
+      "price": 1262,
+      "bonded": true,
+      "user_username": "Jak to the moon",
+      "user_image": "263189c5-403f-43b1-bcab-8cb1bce595b6.webp",
       "decimals": 3,
       "divisibility": 8
     }
