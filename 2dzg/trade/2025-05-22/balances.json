@@ -3,7 +3,7 @@
     "totalUsers": 119,
     "nonSellersCount": 116,
     "sellersCount": 3,
-    "totalBalance": 939144299309000600
+    "totalBalance": 937970374605582600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -218,10 +218,6 @@
       "balance": 2461060189762385,
       "username": "Castle"
     },
-    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
-      "balance": 2264620256801383,
-      "username": "CKBTC POWER"
-    },
     "xioik-iru6t-xg2rr-j7rlv-lb4sm-id3yl-legcz-4voab-blswd-sf6nq-7qe": {
       "balance": 2162387838483603,
       "username": "xioik-iru6t"
@@ -277,6 +273,10 @@
     "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe": {
       "balance": 1100000339107958,
       "username": "😎🧐🤪⁸⁸⁸"
+    },
+    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
+      "balance": 1090695553383411,
+      "username": "CKBTC POWER"
     },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 1088915993180746,
