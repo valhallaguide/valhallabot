@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "data": [
     {
       "id": "48103461",
@@ -598,6 +598,21 @@
       "bonded": true,
       "user_username": "canavarca",
       "user_image": "76f7ae2e-f3bb-4461-a08b-860c94167554.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48114341",
+      "user": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+      "token": "2dzg",
+      "time": "2025-05-22T05:39:49.000Z",
+      "buy": true,
+      "amount_btc": 16553804,
+      "amount_token": 1173924703417972,
+      "price": 1404,
+      "bonded": true,
+      "user_username": "CKBTC POWER",
+      "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
       "decimals": 3,
       "divisibility": 8
     }
