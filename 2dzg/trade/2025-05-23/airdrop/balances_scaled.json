@@ -1,0 +1,492 @@
+[
+  {
+    "Principal": "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae",
+    "OriginalAmount": "64012497141570824",
+    "ScaledAmount": "7461"
+  },
+  {
+    "Principal": "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae",
+    "OriginalAmount": "48331168399594256",
+    "ScaledAmount": "5633"
+  },
+  {
+    "Principal": "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae",
+    "OriginalAmount": "48064685455070688",
+    "ScaledAmount": "5602"
+  },
+  {
+    "Principal": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
+    "OriginalAmount": "47412651021926240",
+    "ScaledAmount": "5526"
+  },
+  {
+    "Principal": "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe",
+    "OriginalAmount": "42129509060730448",
+    "ScaledAmount": "4910"
+  },
+  {
+    "Principal": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
+    "OriginalAmount": "40348792328841680",
+    "ScaledAmount": "4703"
+  },
+  {
+    "Principal": "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae",
+    "OriginalAmount": "32982291413674752",
+    "ScaledAmount": "3844"
+  },
+  {
+    "Principal": "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae",
+    "OriginalAmount": "31688656604575360",
+    "ScaledAmount": "3693"
+  },
+  {
+    "Principal": "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae",
+    "OriginalAmount": "31141537422739836",
+    "ScaledAmount": "3630"
+  },
+  {
+    "Principal": "xn2f7-ifshx-jdiyj-pynvw-l43wn-jrjid-7kldz-mvv3l-fjkgs-6g6kg-lae",
+    "OriginalAmount": "30458374628355540",
+    "ScaledAmount": "3550"
+  },
+  {
+    "Principal": "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae",
+    "OriginalAmount": "29543771459455232",
+    "ScaledAmount": "3443"
+  },
+  {
+    "Principal": "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae",
+    "OriginalAmount": "28297414120567920",
+    "ScaledAmount": "3298"
+  },
+  {
+    "Principal": "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe",
+    "OriginalAmount": "25033483488510504",
+    "ScaledAmount": "2918"
+  },
+  {
+    "Principal": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+    "OriginalAmount": "24561523333844908",
+    "ScaledAmount": "2863"
+  },
+  {
+    "Principal": "vs4uh-4gl7z-426cu-dzrxt-viecx-lbluj-aczw4-6hxsy-7345o-th7qz-pqe",
+    "OriginalAmount": "24005287959338432",
+    "ScaledAmount": "2798"
+  },
+  {
+    "Principal": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
+    "OriginalAmount": "21414264806545284",
+    "ScaledAmount": "2496"
+  },
+  {
+    "Principal": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
+    "OriginalAmount": "20800013547550012",
+    "ScaledAmount": "2424"
+  },
+  {
+    "Principal": "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe",
+    "OriginalAmount": "18948993386655640",
+    "ScaledAmount": "2208"
+  },
+  {
+    "Principal": "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe",
+    "OriginalAmount": "15976066208091220",
+    "ScaledAmount": "1862"
+  },
+  {
+    "Principal": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
+    "OriginalAmount": "14000000000000000",
+    "ScaledAmount": "1631"
+  },
+  {
+    "Principal": "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae",
+    "OriginalAmount": "13559234386723398",
+    "ScaledAmount": "1580"
+  },
+  {
+    "Principal": "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae",
+    "OriginalAmount": "10811442120218028",
+    "ScaledAmount": "1260"
+  },
+  {
+    "Principal": "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe",
+    "OriginalAmount": "10500757818513568",
+    "ScaledAmount": "1224"
+  },
+  {
+    "Principal": "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae",
+    "OriginalAmount": "10435392807283444",
+    "ScaledAmount": "1216"
+  },
+  {
+    "Principal": "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae",
+    "OriginalAmount": "10320343471240672",
+    "ScaledAmount": "1203"
+  },
+  {
+    "Principal": "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae",
+    "OriginalAmount": "10000000000000000",
+    "ScaledAmount": "1165"
+  },
+  {
+    "Principal": "5ulq3-lq3rd-s7yxd-vktct-zidli-m7mmq-irusz-nlikb-mm2dv-t5pqq-oqe",
+    "OriginalAmount": "9782222038296026",
+    "ScaledAmount": "1140"
+  },
+  {
+    "Principal": "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae",
+    "OriginalAmount": "8900402998486548",
+    "ScaledAmount": "1037"
+  },
+  {
+    "Principal": "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe",
+    "OriginalAmount": "8840037040823085",
+    "ScaledAmount": "1030"
+  },
+  {
+    "Principal": "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae",
+    "OriginalAmount": "8561394098609697",
+    "ScaledAmount": "997"
+  },
+  {
+    "Principal": "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe",
+    "OriginalAmount": "8354815757366572",
+    "ScaledAmount": "973"
+  },
+  {
+    "Principal": "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe",
+    "OriginalAmount": "7578322780940278",
+    "ScaledAmount": "883"
+  },
+  {
+    "Principal": "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe",
+    "OriginalAmount": "6044860718951457",
+    "ScaledAmount": "704"
+  },
+  {
+    "Principal": "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae",
+    "OriginalAmount": "5672992948105693",
+    "ScaledAmount": "661"
+  },
+  {
+    "Principal": "mwfxe-zoljd-vxii5-l23so-yvaje-kmgc4-u5sgs-cdyfu-goung-pclde-aqe",
+    "OriginalAmount": "5669000695023501",
+    "ScaledAmount": "660"
+  },
+  {
+    "Principal": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+    "OriginalAmount": "5648084885157792",
+    "ScaledAmount": "658"
+  },
+  {
+    "Principal": "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae",
+    "OriginalAmount": "5576672536445817",
+    "ScaledAmount": "650"
+  },
+  {
+    "Principal": "2g3t7-t3a6y-dn3nm-xq65o-6pjjl-bnad7-piyqw-el7cs-rmyly-2eyfl-kae",
+    "OriginalAmount": "5063319989656887",
+    "ScaledAmount": "590"
+  },
+  {
+    "Principal": "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe",
+    "OriginalAmount": "5000000000000000",
+    "ScaledAmount": "582"
+  },
+  {
+    "Principal": "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae",
+    "OriginalAmount": "4927293145988130",
+    "ScaledAmount": "574"
+  },
+  {
+    "Principal": "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae",
+    "OriginalAmount": "4917621246714855",
+    "ScaledAmount": "573"
+  },
+  {
+    "Principal": "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe",
+    "OriginalAmount": "4140384052505013",
+    "ScaledAmount": "482"
+  },
+  {
+    "Principal": "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe",
+    "OriginalAmount": "3719156398597797",
+    "ScaledAmount": "433"
+  },
+  {
+    "Principal": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+    "OriginalAmount": "3566998352544767",
+    "ScaledAmount": "415"
+  },
+  {
+    "Principal": "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe",
+    "OriginalAmount": "3127089458682100",
+    "ScaledAmount": "364"
+  },
+  {
+    "Principal": "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe",
+    "OriginalAmount": "2782815541180920",
+    "ScaledAmount": "324"
+  },
+  {
+    "Principal": "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe",
+    "OriginalAmount": "2461060189762385",
+    "ScaledAmount": "286"
+  },
+  {
+    "Principal": "xioik-iru6t-xg2rr-j7rlv-lb4sm-id3yl-legcz-4voab-blswd-sf6nq-7qe",
+    "OriginalAmount": "2162387838483603",
+    "ScaledAmount": "252"
+  },
+  {
+    "Principal": "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae",
+    "OriginalAmount": "2112402163277873",
+    "ScaledAmount": "246"
+  },
+  {
+    "Principal": "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae",
+    "OriginalAmount": "1991374004848860",
+    "ScaledAmount": "232"
+  },
+  {
+    "Principal": "cr422-ocahl-spzmu-a2fq6-tnpnj-egrq2-uaorx-5noct-kqt7m-jtpcz-sqe",
+    "OriginalAmount": "1811253369368316",
+    "ScaledAmount": "211"
+  },
+  {
+    "Principal": "f4fs2-rfjrz-evudh-pyzzn-a5q3u-ipggt-b3u6l-l647t-ej7qr-tsebc-uqe",
+    "OriginalAmount": "1598499549959227",
+    "ScaledAmount": "186"
+  },
+  {
+    "Principal": "f5sjn-alw4i-de4gx-7qwtd-f46kr-qvnbq-4tg5t-6x7tb-doacs-42nix-4qe",
+    "OriginalAmount": "1516160382553376",
+    "ScaledAmount": "176"
+  },
+  {
+    "Principal": "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe",
+    "OriginalAmount": "1512179612919140",
+    "ScaledAmount": "176"
+  },
+  {
+    "Principal": "nuog6-77jci-pk5d5-ejnqf-hl4sp-vcyh3-3mskc-3chas-aw7fb-7qk7o-qqe",
+    "OriginalAmount": "1387233140871303",
+    "ScaledAmount": "161"
+  },
+  {
+    "Principal": "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae",
+    "OriginalAmount": "1353461323103685",
+    "ScaledAmount": "157"
+  },
+  {
+    "Principal": "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe",
+    "OriginalAmount": "1299866761790557",
+    "ScaledAmount": "151"
+  },
+  {
+    "Principal": "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae",
+    "OriginalAmount": "1126648240528628",
+    "ScaledAmount": "131"
+  },
+  {
+    "Principal": "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae",
+    "OriginalAmount": "1102789061938730",
+    "ScaledAmount": "128"
+  },
+  {
+    "Principal": "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe",
+    "OriginalAmount": "1100000339107958",
+    "ScaledAmount": "128"
+  },
+  {
+    "Principal": "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe",
+    "OriginalAmount": "1088915993180746",
+    "ScaledAmount": "126"
+  },
+  {
+    "Principal": "m4xzo-6a6u2-tgdgc-gyjpb-6kvq6-id5co-so7gg-luwua-yzif4-kk4xa-fae",
+    "OriginalAmount": "970664829392592",
+    "ScaledAmount": "113"
+  },
+  {
+    "Principal": "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe",
+    "OriginalAmount": "967425610868444",
+    "ScaledAmount": "112"
+  },
+  {
+    "Principal": "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae",
+    "OriginalAmount": "788983440753631",
+    "ScaledAmount": "91"
+  },
+  {
+    "Principal": "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae",
+    "OriginalAmount": "765219399310963",
+    "ScaledAmount": "89"
+  },
+  {
+    "Principal": "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe",
+    "OriginalAmount": "630583363198936",
+    "ScaledAmount": "73"
+  },
+  {
+    "Principal": "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe",
+    "OriginalAmount": "615395972687099",
+    "ScaledAmount": "71"
+  },
+  {
+    "Principal": "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae",
+    "OriginalAmount": "593855400737076",
+    "ScaledAmount": "69"
+  },
+  {
+    "Principal": "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae",
+    "OriginalAmount": "551163968799962",
+    "ScaledAmount": "64"
+  },
+  {
+    "Principal": "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae",
+    "OriginalAmount": "498036436820592",
+    "ScaledAmount": "58"
+  },
+  {
+    "Principal": "fmd2s-j22hc-2c5z4-njqnj-4ndfx-gmcjh-nwzov-7dkx2-4h77h-imjwu-5qe",
+    "OriginalAmount": "496860426257151",
+    "ScaledAmount": "57"
+  },
+  {
+    "Principal": "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe",
+    "OriginalAmount": "469676135605741",
+    "ScaledAmount": "54"
+  },
+  {
+    "Principal": "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe",
+    "OriginalAmount": "384943816338087",
+    "ScaledAmount": "44"
+  },
+  {
+    "Principal": "6ow2y-2zop7-zwhpr-7tncp-agpnr-2z3s7-7onpe-mzs62-lkaqj-gg4uu-mqe",
+    "OriginalAmount": "348659653107439",
+    "ScaledAmount": "40"
+  },
+  {
+    "Principal": "yiqdy-snlnk-azibp-nhgup-g3c75-yloub-2mluu-scue2-gyjmu-jrxmc-dqe",
+    "OriginalAmount": "340245028847712",
+    "ScaledAmount": "39"
+  },
+  {
+    "Principal": "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae",
+    "OriginalAmount": "326837436264380",
+    "ScaledAmount": "38"
+  },
+  {
+    "Principal": "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe",
+    "OriginalAmount": "291137726003875",
+    "ScaledAmount": "33"
+  },
+  {
+    "Principal": "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe",
+    "OriginalAmount": "277626153946160",
+    "ScaledAmount": "32"
+  },
+  {
+    "Principal": "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae",
+    "OriginalAmount": "275909724863493",
+    "ScaledAmount": "32"
+  },
+  {
+    "Principal": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
+    "OriginalAmount": "271789288700281",
+    "ScaledAmount": "31"
+  },
+  {
+    "Principal": "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae",
+    "OriginalAmount": "238986851169586",
+    "ScaledAmount": "27"
+  },
+  {
+    "Principal": "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe",
+    "OriginalAmount": "237881741648074",
+    "ScaledAmount": "27"
+  },
+  {
+    "Principal": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+    "OriginalAmount": "231643795956542",
+    "ScaledAmount": "27"
+  },
+  {
+    "Principal": "p44ug-accwv-cfxfo-n67gb-fsiz5-x2uu7-gqcsc-c66el-vgb3r-kcutf-rae",
+    "OriginalAmount": "227651586196216",
+    "ScaledAmount": "26"
+  },
+  {
+    "Principal": "sotbo-rmkba-hxf4w-54b6w-fgfhd-6i4v4-lr4n3-dhbdo-irvhg-t6srr-3ae",
+    "OriginalAmount": "198999037426523",
+    "ScaledAmount": "23"
+  },
+  {
+    "Principal": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
+    "OriginalAmount": "189153918581828",
+    "ScaledAmount": "22"
+  },
+  {
+    "Principal": "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae",
+    "OriginalAmount": "153986621152237",
+    "ScaledAmount": "17"
+  },
+  {
+    "Principal": "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe",
+    "OriginalAmount": "70073621520772",
+    "ScaledAmount": "8"
+  },
+  {
+    "Principal": "sdgxm-5dris-d2ly5-wxm2b-34liq-r2knr-b2ovf-6lrmi-fwy2r-zychm-qqe",
+    "OriginalAmount": "66381390335884",
+    "ScaledAmount": "7"
+  },
+  {
+    "Principal": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+    "OriginalAmount": "47197564708378",
+    "ScaledAmount": "5"
+  },
+  {
+    "Principal": "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae",
+    "OriginalAmount": "34097882664381",
+    "ScaledAmount": "3"
+  },
+  {
+    "Principal": "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe",
+    "OriginalAmount": "29645850137765",
+    "ScaledAmount": "3"
+  },
+  {
+    "Principal": "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae",
+    "OriginalAmount": "12528088512181",
+    "ScaledAmount": "1"
+  },
+  {
+    "Principal": "6ynyv-geuvc-ufwf7-baz66-fsx2p-2blqk-zk2ff-bqnhq-yx3qd-vsmxv-cae",
+    "OriginalAmount": "76678284016",
+    "ScaledAmount": "0"
+  },
+  {
+    "Principal": "pgjvu-5sm5d-u7axv-5c3ke-6qqi3-xcum4-iq6y2-h2tvy-fymwy-denei-qae",
+    "OriginalAmount": "48638779767",
+    "ScaledAmount": "0"
+  },
+  {
+    "Principal": "gjjw3-5peer-p2hod-uaweq-skkrq-rqv6y-acdb2-q24jk-w3fgg-tkcyb-4ae",
+    "OriginalAmount": "60084502",
+    "ScaledAmount": "0"
+  },
+  {
+    "Principal": "wsgde-t4rux-j2jyx-cfrr7-duvm6-eerr6-774rx-zbekv-vswmi-gmyve-wqe",
+    "OriginalAmount": "45951238",
+    "ScaledAmount": "0"
+  },
+  {
+    "Principal": "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe",
+    "OriginalAmount": "2776888",
+    "ScaledAmount": "0"
+  }
+]
