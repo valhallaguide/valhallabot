@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 110,
-    "nonSellersCount": 110,
-    "sellersCount": 0,
-    "totalBalance": 890671813482135900
+    "nonSellersCount": 109,
+    "sellersCount": 1,
+    "totalBalance": 886309179405000100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -177,10 +177,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe": {
-      "balance": 4362634077135904,
-      "username": "ABCDEF`、"
     },
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 4253002673040428,
