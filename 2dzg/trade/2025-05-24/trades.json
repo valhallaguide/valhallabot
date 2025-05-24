@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 31,
   "data": [
     {
       "id": "48187484",
@@ -403,6 +403,66 @@
       "bonded": true,
       "user_username": "ABCDEF`、",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48236995",
+      "user": "fmd2s-j22hc-2c5z4-njqnj-4ndfx-gmcjh-nwzov-7dkx2-4h77h-imjwu-5qe",
+      "token": "2dzg",
+      "time": "2025-05-24T17:10:04.000Z",
+      "buy": false,
+      "amount_btc": 6467885,
+      "amount_token": 496860426257151,
+      "price": 1307,
+      "bonded": true,
+      "user_username": "Vincent",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48236969",
+      "user": "adv4p-hnym6-bgu5j-62z7a-wnt33-qntyo-ereue-kyzrr-kiyei-khdlt-3qe",
+      "token": "2dzg",
+      "time": "2025-05-24T17:09:17.000Z",
+      "buy": true,
+      "amount_btc": 33000000,
+      "amount_token": 2514123241653239,
+      "price": 1308,
+      "bonded": true,
+      "user_username": "1051714962防骗中心群",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48236945",
+      "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+      "token": "2dzg",
+      "time": "2025-05-24T17:09:04.000Z",
+      "buy": true,
+      "amount_btc": 43176917,
+      "amount_token": 3305926981590643,
+      "price": 1303,
+      "bonded": true,
+      "user_username": "金色传说",
+      "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48236927",
+      "user": "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae",
+      "token": "2dzg",
+      "time": "2025-05-24T17:08:12.000Z",
+      "buy": false,
+      "amount_btc": 73176917,
+      "amount_token": 5648084885157792,
+      "price": 1295,
+      "bonded": true,
+      "user_username": "金色传说",
+      "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
       "decimals": 3,
       "divisibility": 8
     }
