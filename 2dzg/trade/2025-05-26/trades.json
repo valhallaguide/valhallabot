@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "data": [
     {
       "id": "48280556",
@@ -193,6 +193,21 @@
       "bonded": true,
       "user_username": "CKBTC POWER",
       "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48310321",
+      "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+      "token": "2dzg",
+      "time": "2025-05-26T22:53:04.000Z",
+      "buy": false,
+      "amount_btc": 700334285,
+      "amount_token": 60402067546902190,
+      "price": 1106,
+      "bonded": true,
+      "user_username": "valhalla holder",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
