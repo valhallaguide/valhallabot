@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 106,
-    "nonSellersCount": 104,
+    "totalUsers": 107,
+    "nonSellersCount": 105,
     "sellersCount": 2,
-    "totalBalance": 870134581642100400
+    "totalBalance": 883515328820914300
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -89,6 +89,10 @@
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 13559234386723398,
       "username": "Brandon Stark"
+    },
+    "y3yhm-isvba-6o2oy-xwnph-6mth7-o6cxq-pojij-qby63-l24qd-kty4a-2ae": {
+      "balance": 13380747178813940,
+      "username": "加仓猛干三个月"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
