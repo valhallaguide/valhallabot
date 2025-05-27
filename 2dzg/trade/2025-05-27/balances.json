@@ -3,7 +3,7 @@
     "totalUsers": 106,
     "nonSellersCount": 104,
     "sellersCount": 2,
-    "totalBalance": 870134581642100400
+    "totalBalance": 868096790273865600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -134,13 +134,13 @@
       "balance": 8354815757366572,
       "username": "笑哈哈"
     },
-    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
-      "balance": 8129788795890493,
-      "username": "CKBTC POWER"
-    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
+    },
+    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
+      "balance": 6091997427655630,
+      "username": "CKBTC POWER"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
