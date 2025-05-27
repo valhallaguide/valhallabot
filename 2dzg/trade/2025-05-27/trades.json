@@ -1,5 +1,5 @@
 {
-  "count": 24,
+  "count": 25,
   "data": [
     {
       "id": "48311420",
@@ -357,6 +357,21 @@
       "price": 1150,
       "bonded": true,
       "user_username": "CindyLiliana",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48327381",
+      "user": "y3yhm-isvba-6o2oy-xwnph-6mth7-o6cxq-pojij-qby63-l24qd-kty4a-2ae",
+      "token": "2dzg",
+      "time": "2025-05-27T10:33:23.000Z",
+      "buy": false,
+      "amount_btc": 151469043,
+      "amount_token": 13380747178813940,
+      "price": 1124,
+      "bonded": true,
+      "user_username": "加仓猛干三个月",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
