@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 34,
   "data": [
     {
       "id": "48344580",
@@ -493,6 +493,21 @@
       "bonded": true,
       "user_username": "比特强",
       "user_image": "947d1b63-025b-4f3b-afb6-facf27699c47.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48379993",
+      "user": "vvpiq-lxgn6-x3q7p-amhp3-6n3j3-dmtm2-ojfc7-d3y4l-eczw2-5um43-aae",
+      "token": "2dzg",
+      "time": "2025-05-28T16:18:11.000Z",
+      "buy": true,
+      "amount_btc": 47508922,
+      "amount_token": 5181066157419833,
+      "price": 916,
+      "bonded": true,
+      "user_username": "捏鸡鸡",
+      "user_image": "940b8422-200a-4cc3-ad64-0e33f9cabcee.jpg",
       "decimals": 3,
       "divisibility": 8
     }
