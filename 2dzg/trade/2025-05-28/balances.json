@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 106,
-    "nonSellersCount": 106,
-    "sellersCount": 0,
-    "totalBalance": 888067687346754400
+    "nonSellersCount": 103,
+    "sellersCount": 3,
+    "totalBalance": 868463928323078100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -81,10 +81,6 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
-    },
-    "rqugq-rjx65-n5mhg-fbxw7-y5raf-tqyws-gywwx-mlnxn-gat2c-fvq4h-4ae": {
-      "balance": 13594931764100820,
-      "username": "如此这般"
     },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 13559234386723398,
@@ -170,10 +166,6 @@
       "balance": 5313205295256188,
       "username": "阿闯去倒悬山了"
     },
-    "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
-      "balance": 5000000000000000,
-      "username": "很好吃"
-    },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
       "username": "亏钱了，抄大底回本"
@@ -253,10 +245,6 @@
     "rmbdc-poxos-3uqp7-jrmhd-sfato-awgrv-m56jb-ccwwn-2btrq-7cv4h-jqe": {
       "balance": 1100000339107958,
       "username": "😎🧐🤪⁸⁸⁸"
-    },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 1008827259575379,
-      "username": "aimed"
     },
     "m4xzo-6a6u2-tgdgc-gyjpb-6kvq6-id5co-so7gg-luwua-yzif4-kk4xa-fae": {
       "balance": 970664829392592,
