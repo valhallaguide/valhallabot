@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "data": [
     {
       "id": "48603063",
@@ -73,6 +73,21 @@
       "bonded": true,
       "user_username": "odinfun God",
       "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48627138",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-06T10:09:32.000Z",
+      "buy": false,
+      "amount_btc": 94463330,
+      "amount_token": 10988316380878676,
+      "price": 856,
+      "bonded": true,
+      "user_username": "odinfun God",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.jpg",
       "decimals": 3,
       "divisibility": 8
     }
