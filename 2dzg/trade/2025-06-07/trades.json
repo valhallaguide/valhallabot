@@ -1,0 +1,65 @@
+{
+  "count": 4,
+  "data": [
+    {
+      "id": "48643015",
+      "user": "ykdy3-3ajv6-m5c2s-5jtmw-kvyj6-7mmli-rz4pw-qz3ts-lmcwj-ses5u-mae",
+      "token": "2dzg",
+      "time": "2025-06-06T18:59:53.000Z",
+      "buy": false,
+      "amount_btc": 9900277,
+      "amount_token": 1157399065414906,
+      "price": 858,
+      "bonded": true,
+      "user_username": "ykdy3-3ajv6",
+      "user_image": "b34e8db9-5d9b-47a5-b98b-a6a4963d3841.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48642956",
+      "user": "ykdy3-3ajv6-m5c2s-5jtmw-kvyj6-7mmli-rz4pw-qz3ts-lmcwj-ses5u-mae",
+      "token": "2dzg",
+      "time": "2025-06-06T18:58:51.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1157399065414906,
+      "price": 860,
+      "bonded": true,
+      "user_username": "ykdy3-3ajv6",
+      "user_image": "b34e8db9-5d9b-47a5-b98b-a6a4963d3841.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48629032",
+      "user": "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae",
+      "token": "2dzg",
+      "time": "2025-06-06T10:56:30.000Z",
+      "buy": true,
+      "amount_btc": 14095135,
+      "amount_token": 1634842655719110,
+      "price": 858,
+      "bonded": true,
+      "user_username": "gqoep-skb3q",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48627138",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-06T10:09:32.000Z",
+      "buy": false,
+      "amount_btc": 94463330,
+      "amount_token": 10988316380878676,
+      "price": 856,
+      "bonded": true,
+      "user_username": "odinfun God",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    }
+  ]
+}
