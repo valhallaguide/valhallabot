@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 100,
-    "nonSellersCount": 100,
-    "sellersCount": 0,
-    "totalBalance": 781181863336943900
+    "nonSellersCount": 99,
+    "sellersCount": 1,
+    "totalBalance": 758693811531919600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -45,10 +45,6 @@
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 28297414120567920,
       "username": "不能随便买"
-    },
-    "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae": {
-      "balance": 22488051805024332,
-      "username": "还能不能玩🥳"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21414264806545284,
