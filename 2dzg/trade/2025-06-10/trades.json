@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 31,
   "data": [
     {
       "id": "48787467",
@@ -418,6 +418,51 @@
       "bonded": true,
       "user_username": "Brandon Stark",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48829671",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-06-10T17:25:14.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 5468492719617595,
+      "price": 913,
+      "bonded": true,
+      "user_username": "fuvjdiz",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48829666",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-06-10T17:25:09.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 5515650692382214,
+      "price": 905,
+      "bonded": true,
+      "user_username": "fuvjdiz",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48829588",
+      "user": "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae",
+      "token": "2dzg",
+      "time": "2025-06-10T17:21:49.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 5563421623822756,
+      "price": 898,
+      "bonded": true,
+      "user_username": "slqyniyb_ojnmfs",
+      "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png",
       "decimals": 3,
       "divisibility": 8
     }
