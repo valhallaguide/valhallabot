@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 34,
   "data": [
     {
       "id": "48787467",
@@ -493,6 +493,21 @@
       "bonded": true,
       "user_username": "CKBTC POWER",
       "user_image": "5efa5027-1c5e-4e70-bdaa-d01c7f5cb4de.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48835371",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-06-10T22:20:34.000Z",
+      "buy": false,
+      "amount_btc": 99005390,
+      "amount_token": 10984143411999808,
+      "price": 898,
+      "bonded": true,
+      "user_username": "fuvjdiz",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
