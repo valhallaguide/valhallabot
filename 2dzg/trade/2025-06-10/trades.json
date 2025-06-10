@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 20,
   "data": [
     {
       "id": "48787467",
@@ -282,6 +282,21 @@
       "price": 907,
       "bonded": true,
       "user_username": "YCU",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48798331",
+      "user": "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe",
+      "token": "2dzg",
+      "time": "2025-06-10T02:49:32.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1132314309605675,
+      "price": 879,
+      "bonded": true,
+      "user_username": "d5ynk-ngy6j",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
