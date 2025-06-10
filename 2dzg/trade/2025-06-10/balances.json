@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 99,
-    "nonSellersCount": 99,
+    "totalUsers": 100,
+    "nonSellersCount": 100,
     "sellersCount": 0,
-    "totalBalance": 760534062283031000
+    "totalBalance": 831443610324159900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -17,6 +17,10 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 47412651021926240,
       "username": "valhalla.guide"
+    },
+    "sl5vf-peh5i-j7moe-js6wg-ifw33-srcev-enw2i-lzdmm-kttfq-njmm5-cqe": {
+      "balance": 45119756605484880,
+      "username": "萨满饼饼😤😤"
     },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 40348792328841680,
@@ -37,6 +41,10 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 31141537422739836,
       "username": "ddbea-3vrre"
+    },
+    "e3esj-lapvn-n4clp-6tx5h-5rkcr-f4ge7-el2dj-welsr-q5qot-kcpve-bae": {
+      "balance": 31102996730900256,
+      "username": "𝙎 ⚡️"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -149,10 +157,6 @@
     "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
       "balance": 5460738668216718,
       "username": "金色传说"
-    },
-    "sl5vf-peh5i-j7moe-js6wg-ifw33-srcev-enw2i-lzdmm-kttfq-njmm5-cqe": {
-      "balance": 5313205295256188,
-      "username": "萨满饼饼😤😤"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
