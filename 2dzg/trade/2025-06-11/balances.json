@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 104,
-    "nonSellersCount": 104,
+    "totalUsers": 105,
+    "nonSellersCount": 105,
     "sellersCount": 0,
-    "totalBalance": 814423695490325400
+    "totalBalance": 826686781314516900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -81,6 +81,10 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
+    },
+    "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
+      "balance": 12263085824191470,
+      "username": "MaxiMax"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
