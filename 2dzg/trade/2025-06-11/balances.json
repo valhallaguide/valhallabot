@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 105,
-    "nonSellersCount": 104,
+    "totalUsers": 106,
+    "nonSellersCount": 105,
     "sellersCount": 1,
-    "totalBalance": 803381685580603100
+    "totalBalance": 808510476901306800
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -169,6 +169,10 @@
     "dueh7-nxfuq-sdfc2-cas2y-2gaji-7ipaj-qvv64-wldui-elgak-635dy-3ae": {
       "balance": 5375697534305797,
       "username": "dueh7-nxfuq"
+    },
+    "gxbpa-b52j7-gxa5p-zygxu-hx776-32uem-xlu2t-7fd74-upcck-ytzat-xqe": {
+      "balance": 5128791320703669,
+      "username": "大狼狗"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
