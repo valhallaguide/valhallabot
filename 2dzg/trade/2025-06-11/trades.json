@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 44,
   "data": [
     {
       "id": "48836767",
@@ -583,6 +583,81 @@
       "bonded": true,
       "user_username": "fuvjdiz",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48872389",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-11T14:01:10.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1039693273911651,
+      "price": 957,
+      "bonded": true,
+      "user_username": "奥丁狗起飞",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48872384",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-11T14:01:02.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1041432330414678,
+      "price": 956,
+      "bonded": true,
+      "user_username": "奥丁狗起飞",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48872359",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-11T14:00:48.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1043175756049835,
+      "price": 954,
+      "bonded": true,
+      "user_username": "奥丁狗起飞",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48872344",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-11T14:00:35.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1044923565468838,
+      "price": 953,
+      "bonded": true,
+      "user_username": "奥丁狗起飞",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48872330",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-11T14:00:26.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 1046675773384883,
+      "price": 951,
+      "bonded": true,
+      "user_username": "奥丁狗起飞",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
       "decimals": 3,
       "divisibility": 8
     }
