@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 105,
-    "nonSellersCount": 104,
+    "totalUsers": 106,
+    "nonSellersCount": 105,
     "sellersCount": 1,
-    "totalBalance": 809207794791095400
+    "totalBalance": 809309815476360200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -353,6 +353,10 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
+    },
+    "64e46-kyvf4-ud5de-nyrbx-52fjy-p3g44-5ty6b-yds6h-ul6or-32ib3-tqe": {
+      "balance": 102020685264779,
+      "username": "死娃子-夺"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
