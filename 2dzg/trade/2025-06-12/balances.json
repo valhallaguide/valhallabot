@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
-    "nonSellersCount": 122,
+    "totalUsers": 123,
+    "nonSellersCount": 121,
     "sellersCount": 2,
-    "totalBalance": 1025053412821706800
+    "totalBalance": 1005837317383651500
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -66,10 +66,6 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
-    "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe": {
-      "balance": 19686858691244280,
-      "username": "fewzv-xinjl"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
@@ -106,13 +102,13 @@
       "balance": 12965228047207642,
       "username": "昌……盛……"
     },
+    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
+      "balance": 11777253869776456,
+      "username": "djcjjc善"
+    },
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 11624598264708056,
       "username": "铭文派"
-    },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 11306490616587472,
-      "username": "djcjjc善"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
