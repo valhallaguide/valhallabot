@@ -1,5 +1,5 @@
 {
-  "count": 201,
+  "count": 206,
   "data": [
     {
       "id": "48887468",
@@ -3013,6 +3013,81 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48943620",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T23:23:40.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3465156903609795,
+      "price": 1440,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48943611",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T23:23:31.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3488877860993959,
+      "price": 1430,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48943552",
+      "user": "is5tn-kzd57-fnv6f-4sp7t-b2yq4-a5oax-zzelv-soovx-4yfso-lgus5-xae",
+      "token": "2dzg",
+      "time": "2025-06-12T23:22:04.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 1402243341871738,
+      "price": 1421,
+      "bonded": true,
+      "user_username": "is5tn-kzd57",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48943537",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T23:21:45.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3522498759840732,
+      "price": 1417,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48943532",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T23:21:38.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3546812283051187,
+      "price": 1407,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
