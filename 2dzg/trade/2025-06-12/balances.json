@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 118,
-    "nonSellersCount": 114,
-    "sellersCount": 4,
-    "totalBalance": 926679227582093600
+    "totalUsers": 119,
+    "nonSellersCount": 116,
+    "sellersCount": 3,
+    "totalBalance": 941414236232718100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -55,7 +55,7 @@
       "username": "2xptf-wuzk"
     },
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 25544811647717324,
+      "balance": 26333982738150656,
       "username": "Satoshi10000"
     },
     "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae": {
@@ -154,6 +154,10 @@
       "balance": 8299790543721704,
       "username": "Fartus deus"
     },
+    "e7x2w-rq4yh-ylll5-jy3ou-zhcus-wiki3-xbdaz-2uz25-qreov-xv26y-yqe": {
+      "balance": 7826796275284645,
+      "username": "e7x2w-rq4yh"
+    },
     "c53er-7erem-bjhhl-2h2g4-nkjip-an6mp-cb6ku-fw2zd-bfods-xtgcf-3ae": {
       "balance": 7628710010892803,
       "username": "slqyniyb_ojnmfs"
@@ -202,6 +206,10 @@
       "balance": 4819832590662158,
       "username": "hjznb方圆"
     },
+    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
+      "balance": 4720855177172006,
+      "username": "btcat"
+    },
     "3eqft-mky37-xwrd4-lylaz-wxnsp-ufxhy-lolhq-vyn73-qhlah-2z6dc-2qe": {
       "balance": 4449860604934006,
       "username": "正1314"
@@ -229,6 +237,10 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
+    },
+    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
+      "balance": 2530500417340105,
+      "username": "djcjjc善"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
@@ -289,10 +301,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe": {
-      "balance": 1132314309605675,
-      "username": "d5ynk-ngy6j"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
