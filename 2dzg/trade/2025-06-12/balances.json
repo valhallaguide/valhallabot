@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
-    "nonSellersCount": 122,
+    "totalUsers": 125,
+    "nonSellersCount": 123,
     "sellersCount": 2,
-    "totalBalance": 1014318634628087000
+    "totalBalance": 1018244232638837200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -222,6 +222,10 @@
       "balance": 5460738668216718,
       "username": "金色传说"
     },
+    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
+      "balance": 5321936270183976,
+      "username": "hjznb方圆"
+    },
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 5224263287370071,
       "username": "djcjjc善"
@@ -238,10 +242,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
-      "balance": 4819832590662158,
-      "username": "hjznb方圆"
-    },
     "3eqft-mky37-xwrd4-lylaz-wxnsp-ufxhy-lolhq-vyn73-qhlah-2z6dc-2qe": {
       "balance": 4449860604934006,
       "username": "正1314"
@@ -253,6 +253,10 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
+    },
+    "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
+      "balance": 3423494331228470,
+      "username": "senl2-cmcnw"
     },
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
