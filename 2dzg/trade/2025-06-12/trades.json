@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 99,
   "data": [
     {
       "id": "48887468",
@@ -1438,6 +1438,51 @@
       "bonded": true,
       "user_username": "Fartus deus",
       "user_image": "d4bdc306-2dc0-4f69-8d70-ad4d8da05ab6.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48905752",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T06:21:52.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 4381908472814611,
+      "price": 1139,
+      "bonded": true,
+      "user_username": "🥳砖石手👍",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48905747",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-12T06:21:44.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 4415688377990419,
+      "price": 1131,
+      "bonded": true,
+      "user_username": "🥳砖石手👍",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48905717",
+      "user": "3eqft-mky37-xwrd4-lylaz-wxnsp-ufxhy-lolhq-vyn73-qhlah-2z6dc-2qe",
+      "token": "2dzg",
+      "time": "2025-06-12T06:21:20.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 4449860604934006,
+      "price": 1122,
+      "bonded": true,
+      "user_username": "正1314",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
