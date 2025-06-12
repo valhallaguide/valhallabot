@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
+    "totalUsers": 132,
     "nonSellersCount": 128,
-    "sellersCount": 3,
-    "totalBalance": 1051556266885519100
+    "sellersCount": 4,
+    "totalBalance": 1063446718378321500
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -58,6 +58,10 @@
       "balance": 26333982738150656,
       "username": "Satoshi10000"
     },
+    "h72e2-3fwa5-unjkx-yh23b-y3z6z-3uh6s-7zhsw-xcibu-mrsh6-s3jqw-jqe": {
+      "balance": 25332238812078950,
+      "username": "h72e2-3fwa5"
+    },
     "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae": {
       "balance": 22848687676541260,
       "username": "czfc"
@@ -101,10 +105,6 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
-    },
-    "h72e2-3fwa5-unjkx-yh23b-y3z6z-3uh6s-7zhsw-xcibu-mrsh6-s3jqw-jqe": {
-      "balance": 13441787319276586,
-      "username": "h72e2-3fwa5"
     },
     "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe": {
       "balance": 12965228047207642,
