@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 133,
-    "nonSellersCount": 128,
-    "sellersCount": 5,
-    "totalBalance": 1073182861074383900
+    "totalUsers": 129,
+    "nonSellersCount": 126,
+    "sellersCount": 3,
+    "totalBalance": 1042602401975938700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -53,10 +53,6 @@
     "xp2tf-wuzk6-i3two-joobo-p2dwh-syacr-almai-75kzc-zcyty-u6zva-dae": {
       "balance": 27482217416180744,
       "username": "2xptf-wuzk"
-    },
-    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 26333982738150656,
-      "username": "Satoshi10000"
     },
     "h72e2-3fwa5-unjkx-yh23b-y3z6z-3uh6s-7zhsw-xcibu-mrsh6-s3jqw-jqe": {
       "balance": 25332238812078950,
@@ -249,10 +245,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "rrfjk-v3sez-vmicm-rf52v-5yxvo-46r3w-54gbr-v6ed2-3jdcm-25byb-pqe": {
-      "balance": 4246476360294575,
-      "username": "rrfjk-v3sez"
     },
     "rj4lp-mntei-wni7c-2k43z-tljje-jt72g-gnzwy-cml3e-74ho7-ou7gj-kae": {
       "balance": 3877825522664830,
