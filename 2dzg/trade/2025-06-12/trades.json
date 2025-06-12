@@ -1,5 +1,5 @@
 {
-  "count": 37,
+  "count": 38,
   "data": [
     {
       "id": "48887468",
@@ -550,6 +550,21 @@
       "amount_btc": 50000000,
       "amount_token": 5375697534305797,
       "price": 929,
+      "bonded": true,
+      "user_username": "dueh7-nxfuq",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48890621",
+      "user": "dueh7-nxfuq-sdfc2-cas2y-2gaji-7ipaj-qvv64-wldui-elgak-635dy-3ae",
+      "token": "2dzg",
+      "time": "2025-06-12T02:14:03.000Z",
+      "buy": false,
+      "amount_btc": 51675609,
+      "amount_token": 5375697534305797,
+      "price": 961,
       "bonded": true,
       "user_username": "dueh7-nxfuq",
       "user_image": null,
