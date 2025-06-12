@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 45,
   "data": [
     {
       "id": "48887468",
@@ -598,6 +598,81 @@
       "bonded": true,
       "user_username": "slqyniyb_ojnmfs",
       "user_image": "36baa721-0110-4a05-aa80-989143c0915d.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48900110",
+      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
+      "token": "2dzg",
+      "time": "2025-06-12T05:05:12.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 978803380018926,
+      "price": 1017,
+      "bonded": true,
+      "user_username": "runepacks.rip",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48900100",
+      "user": "75b3h-h6vnq-doorz-7biop-l52fz-utb2e-gcizd-usiry-jiid4-uyptt-5qe",
+      "token": "2dzg",
+      "time": "2025-06-12T05:05:09.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 97967521722982,
+      "price": 1015,
+      "bonded": true,
+      "user_username": "京A88888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48900095",
+      "user": "fewzv-xinjl-qz4yl-mxp6b-ctydv-mtqwj-x6kzk-e2uc3-5li5d-gr5mq-lqe",
+      "token": "2dzg",
+      "time": "2025-06-12T05:05:09.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 9877748804834442,
+      "price": 1015,
+      "bonded": true,
+      "user_username": "fewzv-xinjl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48900050",
+      "user": "75b3h-h6vnq-doorz-7biop-l52fz-utb2e-gcizd-usiry-jiid4-uyptt-5qe",
+      "token": "2dzg",
+      "time": "2025-06-12T05:04:44.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 996652454083412,
+      "price": 999,
+      "bonded": true,
+      "user_username": "京A88888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48899979",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-06-12T05:04:18.000Z",
+      "buy": true,
+      "amount_btc": 200000000,
+      "amount_token": 20281657630779520,
+      "price": 997,
+      "bonded": true,
+      "user_username": "rdivhsns",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
