@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 119,
-    "nonSellersCount": 116,
+    "totalUsers": 120,
+    "nonSellersCount": 117,
     "sellersCount": 3,
-    "totalBalance": 941414236232718100
+    "totalBalance": 953038834497426200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -93,6 +93,10 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
+    },
+    "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
+      "balance": 11624598264708056,
+      "username": "铭文派"
     },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
