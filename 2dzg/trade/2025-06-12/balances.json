@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 132,
-    "nonSellersCount": 128,
+    "totalUsers": 133,
+    "nonSellersCount": 129,
     "sellersCount": 4,
-    "totalBalance": 1063446718378321500
+    "totalBalance": 1067337150367200100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -114,6 +114,10 @@
       "balance": 11624598264708056,
       "username": "铭文派"
     },
+    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
+      "balance": 11306490616587472,
+      "username": "djcjjc善"
+    },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
       "username": "isvcj-d7on7"
@@ -154,10 +158,6 @@
       "balance": 9782222038296026,
       "username": "👑King"
     },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 9447411943551944,
-      "username": "djcjjc善"
-    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -184,7 +184,7 @@
     },
     "wg2wl-m5okh-aykhi-kzgzm-jto7i-xf2ei-ugohk-tih6o-z4gea-dmjrx-mae": {
       "balance": 7854551641184070,
-      "username": "wg2wl29000"
+      "username": "ZSS29000"
     },
     "e7x2w-rq4yh-ylll5-jy3ou-zhcus-wiki3-xbdaz-2uz25-qreov-xv26y-yqe": {
       "balance": 7826796275284645,
@@ -297,6 +297,10 @@
     "75b3h-h6vnq-doorz-7biop-l52fz-utb2e-gcizd-usiry-jiid4-uyptt-5qe": {
       "balance": 2033957414267815,
       "username": "京A88888"
+    },
+    "ritd5-edxay-mqsga-joc4d-agqm3-wor3s-bhniv-g3zvc-y4yap-fpqfw-lqe": {
+      "balance": 2031353315843055,
+      "username": "ritd5-edxay"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
