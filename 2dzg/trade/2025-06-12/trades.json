@@ -1,5 +1,5 @@
 {
-  "count": 166,
+  "count": 168,
   "data": [
     {
       "id": "48887468",
@@ -2488,6 +2488,36 @@
       "bonded": true,
       "user_username": "rrfjk-v3sez",
       "user_image": "e0358a70-5dde-47fb-a468-6f211b5873a2.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48924425",
+      "user": "75b3h-h6vnq-doorz-7biop-l52fz-utb2e-gcizd-usiry-jiid4-uyptt-5qe",
+      "token": "2dzg",
+      "time": "2025-06-12T13:00:07.000Z",
+      "buy": false,
+      "amount_btc": 30662714,
+      "amount_token": 2033957414267815,
+      "price": 1512,
+      "bonded": true,
+      "user_username": "京A88888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48924415",
+      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
+      "token": "2dzg",
+      "time": "2025-06-12T12:59:55.000Z",
+      "buy": false,
+      "amount_btc": 27724209,
+      "amount_token": 1831882506912300,
+      "price": 1518,
+      "bonded": true,
+      "user_username": "runepacks.rip",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
