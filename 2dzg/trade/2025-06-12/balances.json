@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 115,
-    "nonSellersCount": 113,
+    "totalUsers": 112,
+    "nonSellersCount": 110,
     "sellersCount": 2,
-    "totalBalance": 912308156985636600
+    "totalBalance": 879882391336355200
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -26,6 +26,10 @@
       "balance": 36290934169544216,
       "username": "7sfwt-qm2ht"
     },
+    "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae": {
+      "balance": 34898704475150790,
+      "username": "sw2ea-gjnq3"
+    },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
       "username": "LLONGKING.blife"
@@ -37,10 +41,6 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 31141537422739836,
       "username": "ddbea-3vrre"
-    },
-    "sad22-jjnuh-zyr3o-zal7a-xipq2-mbj7h-eqzz3-ogk36-btocv-vpoug-3ae": {
-      "balance": 30837114298158616,
-      "username": "Holderrrrr"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -61,10 +61,6 @@
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21414264806545284,
       "username": "runesgang"
-    },
-    "yw2gr-5h33b-jwwot-2qwt5-7pgrf-yqucc-ovw5q-4uuux-jc5kw-l5s46-pae": {
-      "balance": 21037907180263070,
-      "username": "知否知否"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
@@ -121,10 +117,6 @@
     "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
       "balance": 10202621438017648,
       "username": "Fjaobehisbv"
-    },
-    "rjhxi-g3rgh-hcj62-vmdi3-bbvkv-rjhfl-z3k2o-hmogw-5vfiz-z7juz-iqe": {
-      "balance": 10200649526005400,
-      "username": "dssada"
     },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 10000000000000000,
@@ -185,10 +177,6 @@
     "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
       "balance": 5460738668216718,
       "username": "金色传说"
-    },
-    "7l4j3-7vjp5-nvtkx-7gdes-4pv7f-z4ua3-ukvkw-imb74-2wuzh-d6j4x-nqe": {
-      "balance": 5248799120005107,
-      "username": "CKBTC POWER"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
