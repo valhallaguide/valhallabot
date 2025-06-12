@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 126,
-    "nonSellersCount": 119,
+    "totalUsers": 127,
+    "nonSellersCount": 120,
     "sellersCount": 7,
-    "totalBalance": 971616523580629500
+    "totalBalance": 978782737105444900
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -189,6 +189,10 @@
     "3eqft-mky37-xwrd4-lylaz-wxnsp-ufxhy-lolhq-vyn73-qhlah-2z6dc-2qe": {
       "balance": 7353066098242074,
       "username": "正1314"
+    },
+    "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
+      "balance": 7166213524815354,
+      "username": "p4dpih-rozt"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
