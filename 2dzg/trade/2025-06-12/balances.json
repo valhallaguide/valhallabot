@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 121,
+    "totalUsers": 129,
+    "nonSellersCount": 122,
     "sellersCount": 7,
-    "totalBalance": 990356991261070100
+    "totalBalance": 996752679905415600
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -102,6 +102,10 @@
       "balance": 11777253869776456,
       "username": "djcjjc善"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 11684364656942220,
+      "username": "peezy"
+    },
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 11624598264708056,
       "username": "铭文派"
@@ -125,10 +129,6 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "JL222"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 10753638776277472,
-      "username": "peezy"
     },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
@@ -217,6 +217,10 @@
     "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae": {
       "balance": 5559774909988704,
       "username": "ASSCLOWNS"
+    },
+    "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
+      "balance": 5464962763680695,
+      "username": "kfhu"
     },
     "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
       "balance": 5460738668216718,
