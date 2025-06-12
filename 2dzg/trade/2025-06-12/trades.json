@@ -1,5 +1,5 @@
 {
-  "count": 168,
+  "count": 169,
   "data": [
     {
       "id": "48887468",
@@ -2518,6 +2518,21 @@
       "bonded": true,
       "user_username": "runepacks.rip",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48924466",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-06-12T13:00:26.000Z",
+      "buy": false,
+      "amount_btc": 336015307,
+      "amount_token": 22848687676541260,
+      "price": 1444,
+      "bonded": true,
+      "user_username": "czfc",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.png",
       "decimals": 3,
       "divisibility": 8
     }
