@@ -1,5 +1,5 @@
 {
-  "count": 198,
+  "count": 199,
   "data": [
     {
       "id": "48944894",
@@ -2968,6 +2968,21 @@
       "bonded": true,
       "user_username": "shuttle-zcd",
       "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48948258",
+      "user": "h72e2-3fwa5-unjkx-yh23b-y3z6z-3uh6s-7zhsw-xcibu-mrsh6-s3jqw-jqe",
+      "token": "2dzg",
+      "time": "2025-06-13T01:36:45.000Z",
+      "buy": false,
+      "amount_btc": 432801193,
+      "amount_token": 26003376697727750,
+      "price": 1627,
+      "bonded": true,
+      "user_username": "h72e2-3fwa5",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
