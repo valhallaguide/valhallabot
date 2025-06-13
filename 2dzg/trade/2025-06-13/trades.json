@@ -1,5 +1,5 @@
 {
-  "count": 249,
+  "count": 250,
   "data": [
     {
       "id": "48944894",
@@ -3732,6 +3732,21 @@
       "price": 1698,
       "bonded": true,
       "user_username": "Suddenly _rich",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48966583",
+      "user": "in5oq-7ec67-qutb7-2adwp-gio5r-pfmzl-ucnv6-t3p5l-zcw7z-sa6da-3ae",
+      "token": "2dzg",
+      "time": "2025-06-13T08:25:46.000Z",
+      "buy": false,
+      "amount_btc": 154784008,
+      "amount_token": 8969295811163474,
+      "price": 1717,
+      "bonded": true,
+      "user_username": "in5oq-7ec67",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
