@@ -462,13 +462,6 @@
     "user_image": null
   },
   {
-    "user": "ritd5-edxay-mqsga-joc4d-agqm3-wor3s-bhniv-g3zvc-y4yap-fpqfw-lqe",
-    "token": "2dzg",
-    "balance": 3331354981694508,
-    "user_username": "ritd5-edxay",
-    "user_image": null
-  },
-  {
     "user": "nin2o-l7peq-hsn6g-fpnoc-4jaeb-atxzn-upg4w-yqfyw-fmgi4-xkszy-xqe",
     "token": "2dzg",
     "balance": 3203592957067032,
@@ -481,6 +474,13 @@
     "balance": 2782815541180920,
     "user_username": "🪙BTC STANDARD🪙",
     "user_image": "467f072a-1f79-4c91-b08d-d52c844d0daf.jpg"
+  },
+  {
+    "user": "ritd5-edxay-mqsga-joc4d-agqm3-wor3s-bhniv-g3zvc-y4yap-fpqfw-lqe",
+    "token": "2dzg",
+    "balance": 2498516236270881,
+    "user_username": "ritd5-edxay",
+    "user_image": null
   },
   {
     "user": "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe",
