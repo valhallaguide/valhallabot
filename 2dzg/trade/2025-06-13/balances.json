@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 125,
-    "nonSellersCount": 122,
+    "totalUsers": 127,
+    "nonSellersCount": 124,
     "sellersCount": 3,
-    "totalBalance": 1048684458349398100
+    "totalBalance": 1074372613019327400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -98,6 +98,10 @@
       "balance": 14175897259428250,
       "username": "jk6p7-5rvwa华丽转身100BTC"
     },
+    "cv5ns-qqnd6-qmke7-m6aoy-ff4th-ha64r-wj7qh-hnl6p-hjzld-xv5ob-bqe": {
+      "balance": 14063556405221104,
+      "username": "asdfghjk"
+    },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
@@ -113,6 +117,10 @@
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 11684364656942220,
       "username": "peezy"
+    },
+    "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
+      "balance": 11624598264708056,
+      "username": "铭文派"
     },
     "562fk-7eqo3-sajxt-xtpsw-demlp-sonie-pr2d4-qk5yh-z3twm-fels2-rae": {
       "balance": 11574254155625280,
