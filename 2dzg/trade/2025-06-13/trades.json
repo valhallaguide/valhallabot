@@ -1,5 +1,5 @@
 {
-  "count": 266,
+  "count": 267,
   "data": [
     {
       "id": "48944894",
@@ -3988,6 +3988,21 @@
       "bonded": true,
       "user_username": "ICP｜比特狗，共识QQ群939162831",
       "user_image": "78246bb8-19bb-428f-a30f-b5f0c6c34a97.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48974770",
+      "user": "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe",
+      "token": "2dzg",
+      "time": "2025-06-13T11:52:46.000Z",
+      "buy": false,
+      "amount_btc": 31117842,
+      "amount_token": 2000000000000000,
+      "price": 1560,
+      "bonded": true,
+      "user_username": "r5m5w-x5lhb",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
