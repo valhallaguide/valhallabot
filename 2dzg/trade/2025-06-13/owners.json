@@ -343,13 +343,6 @@
     "user_image": null
   },
   {
-    "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
-    "token": "2dzg",
-    "balance": 7287084799168099,
-    "user_username": "孔夫子1000聪",
-    "user_image": null
-  },
-  {
     "user": "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae",
     "token": "2dzg",
     "balance": 7166213524815354,
@@ -368,6 +361,13 @@
     "token": "2dzg",
     "balance": 6882124415815854,
     "user_username": "一叶扁舟",
+    "user_image": null
+  },
+  {
+    "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+    "token": "2dzg",
+    "balance": 6585188096764098,
+    "user_username": "孔夫子1000聪",
     "user_image": null
   },
   {
