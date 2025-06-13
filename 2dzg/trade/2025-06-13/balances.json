@@ -3,7 +3,7 @@
     "totalUsers": 125,
     "nonSellersCount": 122,
     "sellersCount": 3,
-    "totalBalance": 1058568754988975600
+    "totalBalance": 1048684458349398100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -61,10 +61,6 @@
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21414264806545284,
       "username": "runesgang"
-    },
-    "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae": {
-      "balance": 21041305088201228,
-      "username": "396"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
@@ -125,6 +121,10 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
       "username": "isvcj-d7on7"
+    },
+    "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae": {
+      "balance": 11157008448623704,
+      "username": "396"
     },
     "vs4uh-4gl7z-426cu-dzrxt-viecx-lbluj-aczw4-6hxsy-7345o-th7qz-pqe": {
       "balance": 10830263142517732,
