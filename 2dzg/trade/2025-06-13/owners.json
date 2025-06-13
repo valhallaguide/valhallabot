@@ -140,13 +140,6 @@
     "user_image": "a7c0bf17-460b-4c88-aec5-969d9f13d23e.png"
   },
   {
-    "user": "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe",
-    "token": "2dzg",
-    "balance": 17553192566619762,
-    "user_username": "r5m5w-x5lhb",
-    "user_image": null
-  },
-  {
     "user": "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe",
     "token": "2dzg",
     "balance": 17433816854424144,
@@ -165,6 +158,13 @@
     "token": "2dzg",
     "balance": 15798109472400080,
     "user_username": "Brandon Stark",
+    "user_image": null
+  },
+  {
+    "user": "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe",
+    "token": "2dzg",
+    "balance": 15553192566619762,
+    "user_username": "r5m5w-x5lhb",
     "user_image": null
   },
   {
