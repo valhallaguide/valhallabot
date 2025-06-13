@@ -1,5 +1,5 @@
 {
-  "count": 235,
+  "count": 236,
   "data": [
     {
       "id": "48944894",
@@ -3522,6 +3522,21 @@
       "price": 1520,
       "bonded": true,
       "user_username": "昌盛……集团",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48964123",
+      "user": "wg2wl-m5okh-aykhi-kzgzm-jto7i-xf2ei-ugohk-tih6o-z4gea-dmjrx-mae",
+      "token": "2dzg",
+      "time": "2025-06-13T08:06:00.000Z",
+      "buy": true,
+      "amount_btc": 68014000,
+      "amount_token": 4429888238616160,
+      "price": 1534,
+      "bonded": true,
+      "user_username": "4.4",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
