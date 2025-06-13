@@ -1,5 +1,5 @@
 {
-  "count": 178,
+  "count": 181,
   "data": [
     {
       "id": "48944894",
@@ -2667,6 +2667,51 @@
       "price": 970,
       "bonded": true,
       "user_username": "afhvyfu",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48945461",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-13T00:39:19.000Z",
+      "buy": false,
+      "amount_btc": 106104760,
+      "amount_token": 7011672903747837,
+      "price": 1510,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48945451",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-13T00:39:14.000Z",
+      "buy": false,
+      "amount_btc": 107621920,
+      "amount_token": 7011672903747836,
+      "price": 1531,
+      "bonded": true,
+      "user_username": "孔夫子1000聪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48945427",
+      "user": "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae",
+      "token": "2dzg",
+      "time": "2025-06-13T00:38:16.000Z",
+      "buy": false,
+      "amount_btc": 86437036,
+      "amount_token": 5559774909988704,
+      "price": 1553,
+      "bonded": true,
+      "user_username": "ASSCLOWNS",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
