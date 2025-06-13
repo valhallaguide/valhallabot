@@ -1,5 +1,5 @@
 {
-  "count": 219,
+  "count": 222,
   "data": [
     {
       "id": "48944894",
@@ -3283,6 +3283,51 @@
       "bonded": true,
       "user_username": "asdfghjk",
       "user_image": "76a56a55-e7e5-4a61-8e3d-7093280c3988.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48956795",
+      "user": "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae",
+      "token": "2dzg",
+      "time": "2025-06-13T04:32:42.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3272321738530019,
+      "price": 1525,
+      "bonded": true,
+      "user_username": "396",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48956760",
+      "user": "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae",
+      "token": "2dzg",
+      "time": "2025-06-13T04:31:49.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3294688803504062,
+      "price": 1515,
+      "bonded": true,
+      "user_username": "396",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48956749",
+      "user": "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae",
+      "token": "2dzg",
+      "time": "2025-06-13T04:31:10.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3317286097543443,
+      "price": 1504,
+      "bonded": true,
+      "user_username": "396",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
