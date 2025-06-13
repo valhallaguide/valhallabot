@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
-    "nonSellersCount": 115,
+    "totalUsers": 125,
+    "nonSellersCount": 116,
     "sellersCount": 9,
-    "totalBalance": 976577622365966200
+    "totalBalance": 979876314374630100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -245,6 +245,10 @@
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
+    },
+    "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae": {
+      "balance": 3298692008663910,
+      "username": "SOB社区丨crazier"
     },
     "nin2o-l7peq-hsn6g-fpnoc-4jaeb-atxzn-upg4w-yqfyw-fmgi4-xkszy-xqe": {
       "balance": 3203592957067032,
