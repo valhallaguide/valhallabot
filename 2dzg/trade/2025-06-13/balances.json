@@ -3,7 +3,7 @@
     "totalUsers": 126,
     "nonSellersCount": 116,
     "sellersCount": 10,
-    "totalBalance": 983402923033166200
+    "totalBalance": 982621406793333100
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -98,13 +98,13 @@
       "balance": 14000000000000000,
       "username": "ICBin ∞"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 12465880896775468,
-      "username": "peezy"
-    },
     "wg2wl-m5okh-aykhi-kzgzm-jto7i-xf2ei-ugohk-tih6o-z4gea-dmjrx-mae": {
       "balance": 12284439879800230,
       "username": "404"
+    },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 11684364656942220,
+      "username": "peezy"
     },
     "562fk-7eqo3-sajxt-xtpsw-demlp-sonie-pr2d4-qk5yh-z3twm-fels2-rae": {
       "balance": 11574254155625280,
