@@ -1,5 +1,5 @@
 {
-  "count": 223,
+  "count": 224,
   "data": [
     {
       "id": "48944894",
@@ -3343,6 +3343,21 @@
       "bonded": true,
       "user_username": "Fartus deus",
       "user_image": "d4bdc306-2dc0-4f69-8d70-ad4d8da05ab6.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "48957939",
+      "user": "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe",
+      "token": "2dzg",
+      "time": "2025-06-13T05:05:08.000Z",
+      "buy": false,
+      "amount_btc": 34795559,
+      "amount_token": 2336675858594013,
+      "price": 1492,
+      "bonded": true,
+      "user_username": "OJBK-ojbk",
+      "user_image": "0e60c6d2-47cf-4031-8032-b6d5a79328fe.webp",
       "decimals": 3,
       "divisibility": 8
     }
