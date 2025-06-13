@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 131,
-    "nonSellersCount": 124,
-    "sellersCount": 7,
-    "totalBalance": 1012844401337227100
+    "totalUsers": 129,
+    "nonSellersCount": 123,
+    "sellersCount": 6,
+    "totalBalance": 1007284626427238400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -96,7 +96,7 @@
     },
     "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe": {
       "balance": 12965228047207642,
-      "username": "昌…盛……集团"
+      "username": "昌盛……集团"
     },
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 11777253869776456,
@@ -221,10 +221,6 @@
     "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
       "balance": 5576672536445817,
       "username": "odinBTC生态"
-    },
-    "nwlwh-uhwj5-zjaep-llbax-v3ssh-b4iws-dpuza-x5uki-ybblz-xpmhs-4ae": {
-      "balance": 5559774909988704,
-      "username": "ASSCLOWNS"
     },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
