@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 128,
-    "nonSellersCount": 121,
+    "totalUsers": 129,
+    "nonSellersCount": 122,
     "sellersCount": 7,
-    "totalBalance": 1054277524519357000
+    "totalBalance": 1057668458782388700
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -90,6 +90,10 @@
       "balance": 17433816854424144,
       "username": "Fjaobehisbv"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 16903594914603276,
+      "username": "peezy"
+    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
       "username": "BigFoot"
@@ -101,10 +105,6 @@
     "jk6p7-5rvwa-rxwtv-r6jrv-vg4s3-hya6i-rgxuf-xt3j6-pn733-gbykc-lae": {
       "balance": 14175897259428250,
       "username": "华丽转身100BTC"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 14120717574197892,
-      "username": "peezy"
     },
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
@@ -361,6 +361,10 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
+    },
+    "kx3yl-neaxg-zvfp2-tpyzn-whuhd-onlrk-sp7mf-p3mfo-msi4g-xsihl-eae": {
+      "balance": 608056922626164,
+      "username": "TRAMP2025.blife"
     },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
