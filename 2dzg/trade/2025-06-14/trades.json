@@ -1,5 +1,5 @@
 {
-  "count": 139,
+  "count": 141,
   "data": [
     {
       "id": "48987500",
@@ -2080,6 +2080,36 @@
       "amount_btc": 50000000,
       "amount_token": 2950328430674509,
       "price": 1691,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054501",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:53:25.000Z",
+      "buy": false,
+      "amount_btc": 96762343,
+      "amount_token": 5844243492637106,
+      "price": 1653,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054496",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:53:19.000Z",
+      "buy": false,
+      "amount_btc": 97999801,
+      "amount_token": 5844243492637105,
+      "price": 1674,
       "bonded": true,
       "user_username": "挖掘价值币👀",
       "user_image": null,
