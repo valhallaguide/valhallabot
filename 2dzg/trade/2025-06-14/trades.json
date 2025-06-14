@@ -1,5 +1,5 @@
 {
-  "count": 118,
+  "count": 119,
   "data": [
     {
       "id": "48987500",
@@ -1768,6 +1768,21 @@
       "bonded": true,
       "user_username": "runepacks.rip",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49044615",
+      "user": "b2uhr-moqrf-6b2c3-f26us-zf2pi-pwykn-eh4ix-i22hk-c52zh-lp2gn-xae",
+      "token": "2dzg",
+      "time": "2025-06-14T16:15:58.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3102383567499738,
+      "price": 1608,
+      "bonded": true,
+      "user_username": "秦始皇喜欢舔",
+      "user_image": "f2f9cbe3-fca5-4131-bce6-16f0ec3abb33.jpg",
       "decimals": 3,
       "divisibility": 8
     }
