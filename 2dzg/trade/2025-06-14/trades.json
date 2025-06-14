@@ -1,5 +1,5 @@
 {
-  "count": 136,
+  "count": 139,
   "data": [
     {
       "id": "48987500",
@@ -2038,6 +2038,51 @@
       "bonded": true,
       "user_username": "TRAMP2025.blife",
       "user_image": "64116a3c-88f4-4661-9169-436861e831ce.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054166",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:36:38.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 587027274858387,
+      "price": 1696,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054161",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:36:32.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 587783735871483,
+      "price": 1693,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054151",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:36:09.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2950328430674509,
+      "price": 1691,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
