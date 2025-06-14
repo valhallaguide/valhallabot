@@ -1,5 +1,5 @@
 {
-  "count": 129,
+  "count": 131,
   "data": [
     {
       "id": "48987500",
@@ -1933,6 +1933,36 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49051551",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-06-14T19:04:05.000Z",
+      "buy": true,
+      "amount_btc": 71613948,
+      "amount_token": 4313999247131432,
+      "price": 1659,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49051481",
+      "user": "kx3yl-neaxg-zvfp2-tpyzn-whuhd-onlrk-sp7mf-p3mfo-msi4g-xsihl-eae",
+      "token": "2dzg",
+      "time": "2025-06-14T19:02:48.000Z",
+      "buy": true,
+      "amount_btc": 30825865,
+      "amount_token": 1869390306666722,
+      "price": 1644,
+      "bonded": true,
+      "user_username": "TRAMP2025.blife",
+      "user_image": "64116a3c-88f4-4661-9169-436861e831ce.gif",
       "decimals": 3,
       "divisibility": 8
     }
