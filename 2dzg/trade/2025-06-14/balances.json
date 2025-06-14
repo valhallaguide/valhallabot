@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 123,
-    "nonSellersCount": 123,
-    "sellersCount": 0,
-    "totalBalance": 1080286855023202400
+    "nonSellersCount": 115,
+    "sellersCount": 8,
+    "totalBalance": 998771432658735400
   },
   "data": {
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
@@ -29,10 +29,6 @@
     "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae": {
       "balance": 34898704475150790,
       "username": "sw2ea-gjnq3"
-    },
-    "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
-      "balance": 33290934169544216,
-      "username": "7sfwt-qm2ht"
     },
     "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae": {
       "balance": 32982291413674750,
@@ -98,10 +94,6 @@
       "balance": 15798109472400080,
       "username": "Brandon Stark"
     },
-    "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
-      "balance": 15553192566619762,
-      "username": "r5m5w-x5lhb"
-    },
     "jk6p7-5rvwa-rxwtv-r6jrv-vg4s3-hya6i-rgxuf-xt3j6-pn733-gbykc-lae": {
       "balance": 14175897259428250,
       "username": "jk6p7-5rvwa华丽转身100BTC"
@@ -113,14 +105,6 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 14000000000000000,
       "username": "ICBin ∞"
-    },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 12710171323984184,
-      "username": "djcjjc善"
-    },
-    "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae": {
-      "balance": 12286575489866080,
-      "username": "czfc"
     },
     "wg2wl-m5okh-aykhi-kzgzm-jto7i-xf2ei-ugohk-tih6o-z4gea-dmjrx-mae": {
       "balance": 12284439879800230,
@@ -262,10 +246,6 @@
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
     },
-    "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe": {
-      "balance": 3326514627366617,
-      "username": "OJBK-ojbk"
-    },
     "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae": {
       "balance": 3298692008663910,
       "username": "SOB社区丨crazier"
@@ -277,10 +257,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "ritd5-edxay-mqsga-joc4d-agqm3-wor3s-bhniv-g3zvc-y4yap-fpqfw-lqe": {
-      "balance": 2498516236270881,
-      "username": "ritd5-edxay"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
@@ -330,10 +306,6 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
-    "lo5fj-hc7ap-57feg-cebxk-fm6te-whqxy-usght-hfctu-4omb3-ibw7z-sae": {
-      "balance": 1182074811332265,
-      "username": "PHIMITRI.blife"
-    },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
@@ -361,10 +333,6 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 705930756995048,
       "username": "mengou2"
-    },
-    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
-      "balance": 667443139483111,
-      "username": "avofv-w34hm"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
