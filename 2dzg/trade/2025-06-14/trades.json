@@ -1,5 +1,5 @@
 {
-  "count": 132,
+  "count": 136,
   "data": [
     {
       "id": "48987500",
@@ -1978,6 +1978,66 @@
       "bonded": true,
       "user_username": "No_name",
       "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054117",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:35:15.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2969461302241190,
+      "price": 1680,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054107",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:34:51.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2988780988778638,
+      "price": 1669,
+      "bonded": true,
+      "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054082",
+      "user": "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:34:09.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 3008289930951122,
+      "price": 1659,
+      "bonded": true,
+      "user_username": "odinBTC生态",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49054009",
+      "user": "kx3yl-neaxg-zvfp2-tpyzn-whuhd-onlrk-sp7mf-p3mfo-msi4g-xsihl-eae",
+      "token": "2dzg",
+      "time": "2025-06-14T20:30:45.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 1208817778440935,
+      "price": 1648,
+      "bonded": true,
+      "user_username": "TRAMP2025.blife",
+      "user_image": "64116a3c-88f4-4661-9169-436861e831ce.gif",
       "decimals": 3,
       "divisibility": 8
     }
