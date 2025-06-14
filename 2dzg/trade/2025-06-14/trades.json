@@ -1,5 +1,5 @@
 {
-  "count": 141,
+  "count": 142,
   "data": [
     {
       "id": "48987500",
@@ -2112,6 +2112,21 @@
       "price": 1674,
       "bonded": true,
       "user_username": "挖掘价值币👀",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49057964",
+      "user": "zl2h5-otrgx-rn3ki-oqxyn-ugcz4-opvi7-ha76i-aza7j-hob45-jn5fh-6ae",
+      "token": "2dzg",
+      "time": "2025-06-14T22:41:18.000Z",
+      "buy": false,
+      "amount_btc": 63895027,
+      "amount_token": 3900000000000000,
+      "price": 1639,
+      "bonded": true,
+      "user_username": "zl2h5-otrgx",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
