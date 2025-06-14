@@ -1,5 +1,5 @@
 {
-  "count": 119,
+  "count": 120,
   "data": [
     {
       "id": "48987500",
@@ -1783,6 +1783,21 @@
       "bonded": true,
       "user_username": "秦始皇喜欢舔",
       "user_image": "f2f9cbe3-fca5-4131-bce6-16f0ec3abb33.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49045709",
+      "user": "w2dfq-qcqps-oe25p-74zeg-uvxpp-lfmcf-375zm-hbwcy-vadsc-btnc6-nae",
+      "token": "2dzg",
+      "time": "2025-06-14T16:30:08.000Z",
+      "buy": true,
+      "amount_btc": 81924301,
+      "amount_token": 5039157933641683,
+      "price": 1626,
+      "bonded": true,
+      "user_username": "No_name",
+      "user_image": "54698430-0975-4343-a8e5-6ce2e4395afd.jpg",
       "decimals": 3,
       "divisibility": 8
     }
