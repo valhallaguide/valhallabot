@@ -763,13 +763,6 @@
     "user_image": null
   },
   {
-    "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
-    "token": "2dzg",
-    "balance": 922930603377912,
-    "user_username": "avofv-w34hm",
-    "user_image": null
-  },
-  {
     "user": "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae",
     "token": "2dzg",
     "balance": 788983440753631,
@@ -838,6 +831,13 @@
     "balance": 498036436820592,
     "user_username": "Bad Moon Rising",
     "user_image": "e0d3e61a-0071-45d0-b2a7-e5d970daac93.webp"
+  },
+  {
+    "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
+    "token": "2dzg",
+    "balance": 436002511880941,
+    "user_username": "avofv-w34hm",
+    "user_image": null
   },
   {
     "user": "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe",
