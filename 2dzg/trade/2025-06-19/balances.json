@@ -3,7 +3,7 @@
     "totalUsers": 146,
     "nonSellersCount": 142,
     "sellersCount": 4,
-    "totalBalance": 1128491534348470100
+    "totalBalance": 1136538556246974600
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -114,6 +114,10 @@
       "balance": 14175897259428250,
       "username": "华丽转身100BTC"
     },
+    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
+      "balance": 14152911259928470,
+      "username": "Matchless hero"
+    },
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "SU HONG QIAO"
@@ -210,9 +214,9 @@
       "balance": 7174405690706108,
       "username": "love.ll"
     },
-    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
-      "balance": 6725766530480494,
-      "username": "Matchless hero"
+    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
+      "balance": 6892869398078755,
+      "username": "aimed"
     },
     "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe": {
       "balance": 6705544245038663,
@@ -229,10 +233,6 @@
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 6373388682150171,
       "username": "kbb43-ai2fj"
-    },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 6272992229022390,
-      "username": "aimed"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
