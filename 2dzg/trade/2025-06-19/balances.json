@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 147,
-    "nonSellersCount": 143,
+    "totalUsers": 146,
+    "nonSellersCount": 142,
     "sellersCount": 4,
-    "totalBalance": 1127386927770457900
+    "totalBalance": 1128491534348470100
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -38,6 +38,10 @@
       "balance": 29816728496367330,
       "username": "7sfwt-qm2ht"
     },
+    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
+      "balance": 29597013458314744,
+      "username": "qq+群784386301"
+    },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
@@ -53,10 +57,6 @@
     "xp2tf-wuzk6-i3two-joobo-p2dwh-syacr-almai-75kzc-zcyty-u6zva-dae": {
       "balance": 27482217416180744,
       "username": "2xptf-wuzk"
-    },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 24224920450645276,
-      "username": "qq+群784386301"
     },
     "63efu-77j2p-h4632-vpsad-4fs3a-vb3kb-jo5gp-huf26-vcfic-joikv-fqe": {
       "balance": 21976241144645304,
@@ -285,10 +285,6 @@
     "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
       "balance": 4326102624379301,
       "username": "senl2-cmcnw"
-    },
-    "gawnf-mnepy-3slsa-ghmv4-sm53a-enlbt-sdswq-4ji5g-qowmi-35orn-wae": {
-      "balance": 4267486429657271,
-      "username": "顺子奥利给"
     },
     "d65lx-4xswb-fxd5h-the4a-outtk-gim7j-42mdl-hd767-kgtb5-v5izr-jae": {
       "balance": 3910961061195121,
