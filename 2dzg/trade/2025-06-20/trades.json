@@ -1,5 +1,5 @@
 {
-  "count": 65,
+  "count": 64,
   "data": [
     {
       "id": "49668717",
@@ -957,21 +957,6 @@
       "price": 1696,
       "bonded": true,
       "user_username": "叉子fork",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "49788724",
-      "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
-      "token": "2dzg",
-      "time": "2025-06-20T14:36:30.000Z",
-      "buy": true,
-      "amount_btc": 300000000,
-      "amount_token": 17268578497394752,
-      "price": 1761,
-      "bonded": true,
-      "user_username": "初心社区—💍",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
