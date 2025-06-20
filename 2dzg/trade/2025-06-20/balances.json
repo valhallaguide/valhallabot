@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 135,
-    "nonSellersCount": 131,
+    "totalUsers": 134,
+    "nonSellersCount": 130,
     "sellersCount": 4,
-    "totalBalance": 1131406830539808100
+    "totalBalance": 1114680655846825300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -97,10 +97,6 @@
     "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
       "balance": 16801258640987138,
       "username": "Matchless hero"
-    },
-    "4uqef-u3ata-k2miw-7qppj-n74s3-ek3ll-mbqpz-ewu2r-dckan-qrokk-jae": {
-      "balance": 16726174692982882,
-      "username": "叉子fork"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
