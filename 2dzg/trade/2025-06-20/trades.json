@@ -1,5 +1,5 @@
 {
-  "count": 70,
+  "count": 71,
   "data": [
     {
       "id": "49668717",
@@ -1048,6 +1048,21 @@
       "bonded": true,
       "user_username": "金色传说",
       "user_image": "ec9b1792-0bf7-49ee-81de-4623912fa354.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49802677",
+      "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
+      "token": "2dzg",
+      "time": "2025-06-20T16:40:31.000Z",
+      "buy": false,
+      "amount_btc": 36044266,
+      "amount_token": 2100000000000000,
+      "price": 1721,
+      "bonded": true,
+      "user_username": "ICBin ∞",
+      "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png",
       "decimals": 3,
       "divisibility": 8
     }
