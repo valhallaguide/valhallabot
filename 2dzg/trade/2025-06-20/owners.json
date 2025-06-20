@@ -301,13 +301,6 @@
     "user_image": null
   },
   {
-    "user": "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae",
-    "token": "2dzg",
-    "balance": 8584962467396939,
-    "user_username": "odinBTC生态",
-    "user_image": null
-  },
-  {
     "user": "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae",
     "token": "2dzg",
     "balance": 8561394098609697,
@@ -550,6 +543,13 @@
     "token": "2dzg",
     "balance": 2147309924364344,
     "user_username": "jvdd5-of3by",
+    "user_image": null
+  },
+  {
+    "user": "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae",
+    "token": "2dzg",
+    "balance": 2146240616849235,
+    "user_username": "odinBTC生态",
     "user_image": null
   },
   {
