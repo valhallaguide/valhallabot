@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 136,
-    "nonSellersCount": 130,
+    "totalUsers": 135,
+    "nonSellersCount": 129,
     "sellersCount": 6,
-    "totalBalance": 1114680655846825300
+    "totalBalance": 1109219917178608600
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -237,10 +237,6 @@
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
-    },
-    "a2k3o-hwlzz-uc2mc-nhuz5-pibi6-qfomv-d7rbd-sh2h3-f67ow-p3z7t-oae": {
-      "balance": 5460738668216718,
-      "username": "金色传说"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
