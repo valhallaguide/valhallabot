@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 129,
     "sellersCount": 5,
-    "totalBalance": 1113735567848786700
+    "totalBalance": 1109219917178608600
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -98,10 +98,6 @@
       "balance": 16801258640987138,
       "username": "Matchless hero"
     },
-    "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
-      "balance": 16365787468765996,
-      "username": "169"
-    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
       "username": "BigFoot"
@@ -121,6 +117,10 @@
     "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae": {
       "balance": 13344487855375580,
       "username": "dnfuuuwyrlyhhr"
+    },
+    "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
+      "balance": 11850136798587748,
+      "username": "169"
     },
     "562fk-7eqo3-sajxt-xtpsw-demlp-sonie-pr2d4-qk5yh-z3twm-fels2-rae": {
       "balance": 11574254155625280,
