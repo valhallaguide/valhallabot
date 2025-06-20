@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 139,
-    "nonSellersCount": 139,
-    "sellersCount": 0,
-    "totalBalance": 1189936621396659500
+    "nonSellersCount": 136,
+    "sellersCount": 3,
+    "totalBalance": 1167765490010522000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -146,10 +146,6 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
-    "rtb2t-7z2il-5kpim-4vbsv-tbwf5-aa4dn-vtj2u-hirz6-iq2lt-wfeio-bqe": {
-      "balance": 10757198469039032,
-      "username": "hirz6-iq2lt"
-    },
     "aytcp-2wg7n-xrtfb-qhhrh-hl73m-soxt5-n26ak-agm4i-s3qd4-hptfu-2qe": {
       "balance": 10582090641028578,
       "username": "xiaoxiao666"
@@ -161,10 +157,6 @@
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
       "username": "soonbob"
-    },
-    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
-      "balance": 10413932917098732,
-      "username": "btcat"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
@@ -385,10 +377,6 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
-    },
-    "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
-      "balance": 1000000000000000,
-      "username": "ICBin ∞"
     },
     "eh6e3-g3nmc-oj4z3-7thpd-z3rt7-fepah-c3q4j-lox2k-scoph-cmr6n-vae": {
       "balance": 995719995016520,
