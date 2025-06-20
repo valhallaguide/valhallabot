@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 139,
+    "totalUsers": 138,
     "nonSellersCount": 134,
-    "sellersCount": 5,
-    "totalBalance": 1145499467074177300
+    "sellersCount": 4,
+    "totalBalance": 1143970575110619400
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -246,10 +246,6 @@
       "balance": 5460738668216718,
       "username": "金色传说"
     },
-    "2vwwt-ab27q-4smn3-3aamu-sy2i2-xykpb-cf572-sz6so-zju44-mdiwl-xqe": {
-      "balance": 5439853024753063,
-      "username": "2vwwt-ab27q"
-    },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
       "username": "很好吃"
@@ -273,6 +269,10 @@
     "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
       "balance": 4326102624379301,
       "username": "senl2-cmcnw"
+    },
+    "d65lx-4xswb-fxd5h-the4a-outtk-gim7j-42mdl-hd767-kgtb5-v5izr-jae": {
+      "balance": 3910961061195121,
+      "username": "BTC生态助推者"
     },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
