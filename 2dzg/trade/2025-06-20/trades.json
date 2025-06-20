@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "data": [
     {
       "id": "49668717",
@@ -1107,6 +1107,21 @@
       "price": 1746,
       "bonded": true,
       "user_username": "odinBTC生态",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49831530",
+      "user": "tyzsx-o3v75-fyezp-3ozuj-h7jbb-ndnfs-m2sev-vq4hp-4mswv-mf2ip-sqe",
+      "token": "2dzg",
+      "time": "2025-06-20T23:44:11.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 8465489939653408,
+      "price": 1779,
+      "bonded": true,
+      "user_username": "奥丁猿QQ群：942050428",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
