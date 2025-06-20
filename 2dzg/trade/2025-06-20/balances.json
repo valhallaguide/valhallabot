@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 138,
-    "nonSellersCount": 133,
+    "totalUsers": 137,
+    "nonSellersCount": 132,
     "sellersCount": 5,
-    "totalBalance": 1140059614049424300
+    "totalBalance": 1134820627167057300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -58,13 +58,13 @@
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
     },
-    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
-      "balance": 28846398329615896,
-      "username": "v6ltb-cuvgf"
-    },
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 28297414120567920,
       "username": "不能随便买"
+    },
+    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
+      "balance": 23846398298418536,
+      "username": "v6ltb-cuvgf"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
@@ -441,10 +441,6 @@
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
-    },
-    "3bbgm-elddd-wpux6-smkwe-eolve-foufq-tghwx-ur5v3-ueti3-uuu6z-gae": {
-      "balance": 238986851169586,
-      "username": "3bbgm-elddd"
     },
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 237881741648074,
