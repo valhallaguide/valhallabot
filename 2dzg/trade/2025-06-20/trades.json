@@ -1,5 +1,5 @@
 {
-  "count": 65,
+  "count": 67,
   "data": [
     {
       "id": "49668717",
@@ -970,6 +970,36 @@
       "amount_btc": 300000000,
       "amount_token": 17268578497394752,
       "price": 1761,
+      "bonded": true,
+      "user_username": "初心社区—💍",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49795605",
+      "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
+      "token": "2dzg",
+      "time": "2025-06-20T15:49:49.000Z",
+      "buy": false,
+      "amount_btc": 7563496,
+      "amount_token": 431700000000000,
+      "price": 1759,
+      "bonded": true,
+      "user_username": "初心社区—💍",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49795725",
+      "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
+      "token": "2dzg",
+      "time": "2025-06-20T15:50:48.000Z",
+      "buy": false,
+      "amount_btc": 17492591,
+      "amount_token": 1000000000000000,
+      "price": 1756,
       "bonded": true,
       "user_username": "初心社区—💍",
       "user_image": null,
