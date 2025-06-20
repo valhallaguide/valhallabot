@@ -1,5 +1,5 @@
 {
-  "count": 63,
+  "count": 64,
   "data": [
     {
       "id": "49668717",
@@ -942,6 +942,21 @@
       "price": 1759,
       "bonded": true,
       "user_username": "@四个菜",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49774226",
+      "user": "4uqef-u3ata-k2miw-7qppj-n74s3-ek3ll-mbqpz-ewu2r-dckan-qrokk-jae",
+      "token": "2dzg",
+      "time": "2025-06-20T12:32:05.000Z",
+      "buy": false,
+      "amount_btc": 287495521,
+      "amount_token": 16726174692982882,
+      "price": 1696,
+      "bonded": true,
+      "user_username": "叉子fork",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
