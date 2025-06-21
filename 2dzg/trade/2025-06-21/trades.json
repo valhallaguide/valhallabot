@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 39,
   "data": [
     {
       "id": "49832532",
@@ -565,6 +565,21 @@
       "amount_btc": 150000000,
       "amount_token": 8356510348272706,
       "price": 1802,
+      "bonded": true,
+      "user_username": "p4dpih-rozt",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49876404",
+      "user": "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae",
+      "token": "2dzg",
+      "time": "2025-06-21T06:20:38.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 8202937991286822,
+      "price": 1836,
       "bonded": true,
       "user_username": "p4dpih-rozt",
       "user_image": null,
