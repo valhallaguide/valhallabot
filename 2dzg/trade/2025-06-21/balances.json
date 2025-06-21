@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 136,
-    "nonSellersCount": 136,
-    "sellersCount": 0,
-    "totalBalance": 1160466696317313800
+    "nonSellersCount": 131,
+    "sellersCount": 5,
+    "totalBalance": 1124764478633353500
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -61,10 +61,6 @@
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 28297414120567920,
       "username": "不能随便买"
-    },
-    "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe": {
-      "balance": 24427273469186056,
-      "username": "Jdjdj"
     },
     "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
       "balance": 23846398298418536,
@@ -246,10 +242,6 @@
       "balance": 5464962763680695,
       "username": "kfhu"
     },
-    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
-      "balance": 5206966458549366,
-      "username": "btcat"
-    },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
       "username": "很好吃"
@@ -290,10 +282,6 @@
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
     },
-    "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe": {
-      "balance": 3352772122519332,
-      "username": "liujuanhal"
-    },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 3205628928433114,
       "username": "GKR13"
@@ -321,10 +309,6 @@
     "jvdd5-of3by-afxzt-gkhmr-2xhcq-pntxr-7r7fd-hkjmw-dy2nw-wfyfh-fae": {
       "balance": 2147309924364344,
       "username": "jvdd5-of3by"
-    },
-    "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
-      "balance": 2146240616849235,
-      "username": "odinBTC生态"
     },
     "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae": {
       "balance": 2112402163277873,
@@ -413,10 +397,6 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
-    },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 568965016856217,
-      "username": "只赚10U就跑"
     },
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
