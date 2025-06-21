@@ -3,7 +3,7 @@
     "totalUsers": 137,
     "nonSellersCount": 132,
     "sellersCount": 5,
-    "totalBalance": 1144302863340161400
+    "totalBalance": 1141566517706515500
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -230,10 +230,6 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
-    "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
-      "balance": 5941974562079045,
-      "username": "GKR13"
-    },
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
       "username": "奥丁王子"
@@ -289,6 +285,10 @@
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
+    },
+    "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
+      "balance": 3205628928433114,
+      "username": "GKR13"
     },
     "dueh7-nxfuq-sdfc2-cas2y-2gaji-7ipaj-qvv64-wldui-elgak-635dy-3ae": {
       "balance": 3008527791322695,
