@@ -3,7 +3,7 @@
     "totalUsers": 134,
     "nonSellersCount": 127,
     "sellersCount": 7,
-    "totalBalance": 1093278406266177200
+    "totalBalance": 1092650874300562400
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -198,10 +198,6 @@
       "balance": 7174405690706108,
       "username": "love.ll"
     },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 6920401319890767,
-      "username": "aimed"
-    },
     "fvl6j-7gxnk-ndgpy-3vpes-h3f6h-4io5c-7yytn-l6bvg-lrtkh-6gan4-3ae": {
       "balance": 6437263246174355,
       "username": "至坚者"
@@ -213,6 +209,10 @@
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 6373388682150171,
       "username": "kbb43-ai2fj"
+    },
+    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
+      "balance": 6292869354276116,
+      "username": "aimed"
     },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
