@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 35,
   "data": [
     {
       "id": "49832532",
@@ -475,6 +475,51 @@
       "amount_btc": 20000000,
       "amount_token": 1115793690814777,
       "price": 1785,
+      "bonded": true,
+      "user_username": "努力回本",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49850915",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-21T03:09:52.000Z",
+      "buy": false,
+      "amount_btc": 28710882,
+      "amount_token": 1606867290145642,
+      "price": 1792,
+      "bonded": true,
+      "user_username": "d77hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49850715",
+      "user": "5t2it-m42p3-sydnl-5xw7c-xqisc-mov66-hppjy-r52c7-d77hm-7enj7-yae",
+      "token": "2dzg",
+      "time": "2025-06-21T03:07:54.000Z",
+      "buy": true,
+      "amount_btc": 29000000,
+      "amount_token": 1606867290145642,
+      "price": 1798,
+      "bonded": true,
+      "user_username": "d77hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "49850687",
+      "user": "kbagv-kbukt-mrqp5-a5jsk-bemgc-ketlk-wrxlb-tgha7-uukxu-yucog-sqe",
+      "token": "2dzg",
+      "time": "2025-06-21T03:07:26.000Z",
+      "buy": true,
+      "amount_btc": 30530668,
+      "amount_token": 1697950066454742,
+      "price": 1792,
       "bonded": true,
       "user_username": "努力回本",
       "user_image": null,
