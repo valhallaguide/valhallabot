@@ -3,7 +3,7 @@
     "totalUsers": 133,
     "nonSellersCount": 130,
     "sellersCount": 3,
-    "totalBalance": 1087752091839964200
+    "totalBalance": 1097033643847665500
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -58,6 +58,10 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
+    "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
+      "balance": 25220401520584270,
+      "username": "p4dpih-rozt"
+    },
     "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
       "balance": 23846398298418536,
       "username": "v6ltb-cuvgf"
@@ -89,10 +93,6 @@
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 17530758647686050,
       "username": "Brandon Stark"
-    },
-    "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
-      "balance": 16513488431969124,
-      "username": "p4dpih-rozt"
     },
     "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
       "balance": 16365787468765996,
@@ -350,6 +350,10 @@
       "balance": 1215161684048323,
       "username": "2mwmm-rbrc3"
     },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 1143603935942444,
+      "username": "kulourunes"
+    },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
@@ -397,10 +401,6 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
-    },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 568965016856217,
-      "username": "kulourunes"
     },
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
