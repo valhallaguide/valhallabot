@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 31,
   "data": [
     {
       "id": "49997581",
@@ -462,51 +462,6 @@
       "price": 1770,
       "bonded": true,
       "user_username": "共识QQ群864023378",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "50140677",
-      "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
-      "token": "2dzg",
-      "time": "2025-06-22T13:03:38.000Z",
-      "buy": true,
-      "amount_btc": 50000000,
-      "amount_token": 2751366574525583,
-      "price": 1813,
-      "bonded": true,
-      "user_username": "共识QQ群864023378",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "50140569",
-      "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
-      "token": "2dzg",
-      "time": "2025-06-22T13:03:20.000Z",
-      "buy": true,
-      "amount_btc": 50000000,
-      "amount_token": 2768304456247269,
-      "price": 1802,
-      "bonded": true,
-      "user_username": "共识QQ群864023378",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "50140261",
-      "user": "bb4m6-tff3w-dzaeb-55vqp-2sdfy-udi2l-2yfma-kuhm5-5snk5-fmgg7-6qe",
-      "token": "2dzg",
-      "time": "2025-06-22T13:01:29.000Z",
-      "buy": true,
-      "amount_btc": 97586864,
-      "amount_token": 5452414258761189,
-      "price": 1791,
-      "bonded": true,
-      "user_username": "peep0",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
