@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 134,
-    "nonSellersCount": 134,
-    "sellersCount": 0,
-    "totalBalance": 1146797490680445200
+    "nonSellersCount": 131,
+    "sellersCount": 3,
+    "totalBalance": 1104553350480951300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -49,10 +49,6 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 29816728496367330,
       "username": "7sfwt-qm2ht"
-    },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 29567167659505236,
-      "username": "qq+群784386301"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -202,10 +198,6 @@
       "balance": 7174405690706108,
       "username": "love.ll"
     },
-    "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe": {
-      "balance": 6990341326417158,
-      "username": "共识QQ群864023378"
-    },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 6920401319890767,
       "username": "aimed"
@@ -233,10 +225,6 @@
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
       "username": "奥丁王子"
-    },
-    "smnje-mizrd-2v2m3-y5l52-kwsrq-sl3x4-qdkrc-4d3nj-jjeto-ujg44-4ae": {
-      "balance": 5686631213571630,
-      "username": "hhf2025"
     },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
