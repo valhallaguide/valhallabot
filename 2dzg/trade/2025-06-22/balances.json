@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 124,
+    "totalUsers": 128,
+    "nonSellersCount": 125,
     "sellersCount": 3,
-    "totalBalance": 1087748331392297500
+    "totalBalance": 1088744051387314000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -341,6 +341,10 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
+    },
+    "eh6e3-g3nmc-oj4z3-7thpd-z3rt7-fepah-c3q4j-lox2k-scoph-cmr6n-vae": {
+      "balance": 995719995016520,
+      "username": "Redrabbit"
     },
     "m4xzo-6a6u2-tgdgc-gyjpb-6kvq6-id5co-so7gg-luwua-yzif4-kk4xa-fae": {
       "balance": 970664829392592,
