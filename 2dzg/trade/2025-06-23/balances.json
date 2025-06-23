@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 124,
-    "nonSellersCount": 124,
+    "totalUsers": 123,
+    "nonSellersCount": 123,
     "sellersCount": 0,
-    "totalBalance": 1122398914910479500
+    "totalBalance": 1112384301979030500
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -218,10 +218,6 @@
       "balance": 5778133199100447,
       "username": "奥丁王子"
     },
-    "smnje-mizrd-2v2m3-y5l52-kwsrq-sl3x4-qdkrc-4d3nj-jjeto-ujg44-4ae": {
-      "balance": 5686631213571630,
-      "username": "hhf2025"
-    },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
@@ -233,10 +229,6 @@
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
-    },
-    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
-      "balance": 5206966458549366,
-      "username": "btcat"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
@@ -294,6 +286,10 @@
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
     },
+    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
+      "balance": 2329276863522044,
+      "username": "avofv-w34hm"
+    },
     "xioik-iru6t-xg2rr-j7rlv-lb4sm-id3yl-legcz-4voab-blswd-sf6nq-7qe": {
       "balance": 2162387838483603,
       "username": "xioik-iru6t"
@@ -317,10 +313,6 @@
     "ryo4x-h5arg-tzgue-iind5-4mpc6-yqldi-tu7nn-2bgij-uw3hi-nndls-eae": {
       "balance": 1952597874816107,
       "username": "VKLOM"
-    },
-    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
-      "balance": 1727918276796221,
-      "username": "avofv-w34hm"
     },
     "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae": {
       "balance": 1649796372382567,
@@ -405,6 +397,10 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
+    },
+    "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
+      "balance": 277626153946160,
+      "username": "喊爹就拉盘"
     },
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
