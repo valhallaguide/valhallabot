@@ -1,5 +1,5 @@
 {
-  "count": 21,
+  "count": 22,
   "data": [
     {
       "id": "50202990",
@@ -313,6 +313,21 @@
       "bonded": true,
       "user_username": "btcat",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50250884",
+      "user": "63efu-77j2p-h4632-vpsad-4fs3a-vb3kb-jo5gp-huf26-vcfic-joikv-fqe",
+      "token": "2dzg",
+      "time": "2025-06-23T05:03:35.000Z",
+      "buy": false,
+      "amount_btc": 161060297,
+      "amount_token": 10000000000000000,
+      "price": 1601,
+      "bonded": true,
+      "user_username": "北极熊建设群+298417085",
+      "user_image": "12b9f6d2-019d-4af2-928e-8c533b802375.jpg",
       "decimals": 3,
       "divisibility": 8
     }
