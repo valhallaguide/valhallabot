@@ -3,7 +3,7 @@
     "totalUsers": 123,
     "nonSellersCount": 122,
     "sellersCount": 1,
-    "totalBalance": 1078212205595550100
+    "totalBalance": 1083503250916064400
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -134,6 +134,10 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
+    "aytcp-2wg7n-xrtfb-qhhrh-hl73m-soxt5-n26ak-agm4i-s3qd4-hptfu-2qe": {
+      "balance": 10582090641028578,
+      "username": "xiaoxiao666"
+    },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
@@ -225,10 +229,6 @@
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
-    },
-    "aytcp-2wg7n-xrtfb-qhhrh-hl73m-soxt5-n26ak-agm4i-s3qd4-hptfu-2qe": {
-      "balance": 5291045320514289,
-      "username": "xiaoxiao666"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
