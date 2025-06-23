@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "data": [
     {
       "id": "50202990",
@@ -223,6 +223,21 @@
       "bonded": true,
       "user_username": "Matchless hero",
       "user_image": "b6594746-f301-4295-8e9d-597348d29d1a.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50224926",
+      "user": "tyzsx-o3v75-fyezp-3ozuj-h7jbb-ndnfs-m2sev-vq4hp-4mswv-mf2ip-sqe",
+      "token": "2dzg",
+      "time": "2025-06-23T02:16:33.000Z",
+      "buy": false,
+      "amount_btc": 146127518,
+      "amount_token": 8465489939653408,
+      "price": 1718,
+      "bonded": true,
+      "user_username": "奥丁猿QQ群：942050428",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
