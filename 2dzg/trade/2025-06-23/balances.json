@@ -3,7 +3,7 @@
     "totalUsers": 126,
     "nonSellersCount": 126,
     "sellersCount": 0,
-    "totalBalance": 1136135759148168100
+    "totalBalance": 1135557277089172200
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -186,10 +186,6 @@
       "balance": 7578322780940278,
       "username": "mu2728"
     },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 7498883378886717,
-      "username": "aimed"
-    },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 7492139156224905,
       "username": "比特强"
@@ -197,6 +193,10 @@
     "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe": {
       "balance": 7174405690706108,
       "username": "love.ll"
+    },
+    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
+      "balance": 6920401319890767,
+      "username": "aimed"
     },
     "fvl6j-7gxnk-ndgpy-3vpes-h3f6h-4io5c-7yytn-l6bvg-lrtkh-6gan4-3ae": {
       "balance": 6437263246174355,
