@@ -3,7 +3,7 @@
     "totalUsers": 125,
     "nonSellersCount": 121,
     "sellersCount": 4,
-    "totalBalance": 1066522681475823900
+    "totalBalance": 1058737297120139000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -42,10 +42,6 @@
       "balance": 31688656604575360,
       "username": "MR _DOGINAL XXXX"
     },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 31141537422739836,
-      "username": "ddbea-3vrre"
-    },
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 29816728496367330,
       "username": "7sfwt-qm2ht"
@@ -65,6 +61,10 @@
     "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
       "balance": 26801350273198572,
       "username": "v6ltb-cuvgf"
+    },
+    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
+      "balance": 23356153067054876,
+      "username": "ddbea-3vrre"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
