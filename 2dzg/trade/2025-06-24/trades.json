@@ -1,5 +1,5 @@
 {
-  "count": 31,
+  "count": 30,
   "data": [
     {
       "id": "50394899",
@@ -445,21 +445,6 @@
       "amount_btc": 20000000,
       "amount_token": 1200753328965365,
       "price": 1659,
-      "bonded": true,
-      "user_username": "金昌鑫涌",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "50434865",
-      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
-      "token": "2dzg",
-      "time": "2025-06-24T04:45:26.000Z",
-      "buy": false,
-      "amount_btc": 49887638,
-      "amount_token": 3000000000000000,
-      "price": 1665,
       "bonded": true,
       "user_username": "金昌鑫涌",
       "user_image": null,
