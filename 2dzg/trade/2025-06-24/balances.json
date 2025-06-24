@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 126,
-    "nonSellersCount": 123,
-    "sellersCount": 3,
-    "totalBalance": 1076160679548197600
+    "nonSellersCount": 122,
+    "sellersCount": 4,
+    "totalBalance": 1065858500745442300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -141,10 +141,6 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
-    },
-    "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe": {
-      "balance": 10302178802755378,
-      "username": "金昌鑫涌"
     },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 10000000000000000,
