@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 127,
-    "nonSellersCount": 122,
+    "totalUsers": 126,
+    "nonSellersCount": 121,
     "sellersCount": 5,
-    "totalBalance": 1071790272059043500
+    "totalBalance": 1065925927048944600
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -209,10 +209,6 @@
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 5941974562079045,
       "username": "oex"
-    },
-    "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
-      "balance": 5864345010098865,
-      "username": "865502046路飞社区QQ"
     },
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
