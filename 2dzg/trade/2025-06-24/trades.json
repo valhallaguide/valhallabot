@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 30,
   "data": [
     {
       "id": "50394899",
@@ -400,6 +400,51 @@
       "amount_btc": 60000000,
       "amount_token": 3648802283773421,
       "price": 1642,
+      "bonded": true,
+      "user_username": "金昌鑫涌",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50434432",
+      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
+      "token": "2dzg",
+      "time": "2025-06-24T04:43:01.000Z",
+      "buy": true,
+      "amount_btc": 60000000,
+      "amount_token": 3574346166422422,
+      "price": 1676,
+      "bonded": true,
+      "user_username": "金昌鑫涌",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50434211",
+      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
+      "token": "2dzg",
+      "time": "2025-06-24T04:41:43.000Z",
+      "buy": true,
+      "amount_btc": 21000000,
+      "amount_token": 1257492132227938,
+      "price": 1663,
+      "bonded": true,
+      "user_username": "金昌鑫涌",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50434068",
+      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
+      "token": "2dzg",
+      "time": "2025-06-24T04:40:38.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 1200753328965365,
+      "price": 1659,
       "bonded": true,
       "user_username": "金昌鑫涌",
       "user_image": null,
