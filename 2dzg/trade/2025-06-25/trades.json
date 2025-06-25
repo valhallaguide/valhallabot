@@ -1,5 +1,5 @@
 {
-  "count": 37,
+  "count": 38,
   "data": [
     {
       "id": "50570472",
@@ -553,6 +553,21 @@
       "bonded": true,
       "user_username": "MARS坚定持有者",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50656121",
+      "user": "63efu-77j2p-h4632-vpsad-4fs3a-vb3kb-jo5gp-huf26-vcfic-joikv-fqe",
+      "token": "2dzg",
+      "time": "2025-06-25T09:01:45.000Z",
+      "buy": false,
+      "amount_btc": 457512871,
+      "amount_token": 32661621953964304,
+      "price": 1363,
+      "bonded": true,
+      "user_username": "Laurence",
+      "user_image": "12b9f6d2-019d-4af2-928e-8c533b802375.jpg",
       "decimals": 3,
       "divisibility": 8
     }
