@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 42,
   "data": [
     {
       "id": "50570472",
@@ -628,21 +628,6 @@
       "bonded": true,
       "user_username": "金昌盛",
       "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "50708974",
-      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
-      "token": "2dzg",
-      "time": "2025-06-25T14:25:20.000Z",
-      "buy": false,
-      "amount_btc": 50344607,
-      "amount_token": 3635567108335320,
-      "price": 1386,
-      "bonded": true,
-      "user_username": "ABCDEF`、",
-      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
       "decimals": 3,
       "divisibility": 8
     }
