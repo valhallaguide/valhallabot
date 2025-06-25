@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 120,
+    "totalUsers": 122,
+    "nonSellersCount": 119,
     "sellersCount": 3,
-    "totalBalance": 1026846242227567700
+    "totalBalance": 1009315483579881900
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -89,10 +89,6 @@
     "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe": {
       "balance": 17586740616757204,
       "username": "happy today"
-    },
-    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
-      "balance": 17530758647686050,
-      "username": "Brandon Stark"
     },
     "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
       "balance": 16365787468765996,
