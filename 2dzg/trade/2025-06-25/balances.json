@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 123,
-    "nonSellersCount": 123,
-    "sellersCount": 0,
-    "totalBalance": 1078325653967771300
+    "nonSellersCount": 120,
+    "sellersCount": 3,
+    "totalBalance": 1026846242227567700
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -62,10 +62,6 @@
       "balance": 26801350273198572,
       "username": "v6ltb-cuvgf"
     },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 23356153067054876,
-      "username": "ddbea-3vrre"
-    },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
@@ -98,10 +94,6 @@
       "balance": 17530758647686050,
       "username": "Brandon Stark"
     },
-    "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
-      "balance": 16908364248183664,
-      "username": "7sfwt-qm2ht"
-    },
     "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
       "balance": 16365787468765996,
       "username": "169"
@@ -125,10 +117,6 @@
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
       "username": "isvcj-d7on7"
-    },
-    "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
-      "balance": 11214894424964822,
-      "username": "r5m5w-x5lhb"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
