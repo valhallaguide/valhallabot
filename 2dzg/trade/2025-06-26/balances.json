@@ -3,7 +3,7 @@
     "totalUsers": 120,
     "nonSellersCount": 116,
     "sellersCount": 4,
-    "totalBalance": 995213903173749600
+    "totalBalance": 990213903169558900
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -54,13 +54,13 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
-    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
-      "balance": 26801350273198572,
-      "username": "v4ltb-cuvgf"
-    },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 23356153067054876,
       "username": "ddbea-3vrre"
+    },
+    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
+      "balance": 21801350269008004,
+      "username": "v4ltb-cuvgf"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
