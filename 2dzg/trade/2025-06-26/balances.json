@@ -3,7 +3,7 @@
     "totalUsers": 120,
     "nonSellersCount": 117,
     "sellersCount": 3,
-    "totalBalance": 994293299715350700
+    "totalBalance": 996429064857798000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -226,6 +226,10 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
+    "ygugc-ix7ws-22zms-i64kh-sjszn-y4rbz-6jrgq-y65rh-eyrto-zfu4q-rqe": {
+      "balance": 4748419816637382,
+      "username": "NeoLiang"
+    },
     "hptwt-23r6d-dihnz-tsxw2-tevnk-33oka-qah7k-qzuun-lhz4t-a3c5e-dae": {
       "balance": 4494552357301141,
       "username": "99不88"
@@ -253,10 +257,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "ygugc-ix7ws-22zms-i64kh-sjszn-y4rbz-6jrgq-y65rh-eyrto-zfu4q-rqe": {
-      "balance": 2612654674190016,
-      "username": "NeoLiang"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
