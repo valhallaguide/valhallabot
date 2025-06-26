@@ -1,5 +1,5 @@
 {
-  "count": 21,
+  "count": 22,
   "data": [
     {
       "id": "50708974",
@@ -313,6 +313,21 @@
       "bonded": true,
       "user_username": "keep up to be in the world",
       "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50773407",
+      "user": "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe",
+      "token": "2dzg",
+      "time": "2025-06-26T02:41:27.000Z",
+      "buy": false,
+      "amount_btc": 119031173,
+      "amount_token": 8698562286557368,
+      "price": 1363,
+      "bonded": true,
+      "user_username": "wanted",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
