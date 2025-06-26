@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 21,
   "data": [
     {
       "id": "50708974",
@@ -283,6 +283,36 @@
       "bonded": true,
       "user_username": "Brandon Stark",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50767351",
+      "user": "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe",
+      "token": "2dzg",
+      "time": "2025-06-26T01:41:49.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 717930153997382,
+      "price": 1386,
+      "bonded": true,
+      "user_username": "keep up to be in the world",
+      "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50767341",
+      "user": "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe",
+      "token": "2dzg",
+      "time": "2025-06-26T01:41:37.000Z",
+      "buy": false,
+      "amount_btc": 9616820,
+      "amount_token": 697391607719469,
+      "price": 1384,
+      "bonded": true,
+      "user_username": "keep up to be in the world",
+      "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
       "decimals": 3,
       "divisibility": 8
     }
