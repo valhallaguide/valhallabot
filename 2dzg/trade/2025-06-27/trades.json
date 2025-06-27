@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 9,
   "data": [
     {
       "id": "50897414",
@@ -103,6 +103,36 @@
       "bonded": true,
       "user_username": "keep up to be in the world",
       "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50979954",
+      "user": "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae",
+      "token": "2dzg",
+      "time": "2025-06-27T07:33:18.000Z",
+      "buy": true,
+      "amount_btc": 70000000,
+      "amount_token": 5141078250397049,
+      "price": 1361,
+      "bonded": true,
+      "user_username": "169",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "50979611",
+      "user": "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe",
+      "token": "2dzg",
+      "time": "2025-06-27T07:30:46.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 7433187515074261,
+      "price": 1348,
+      "bonded": true,
+      "user_username": "Lkjgfddtgvfscchff",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
