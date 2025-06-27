@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 121,
-    "nonSellersCount": 118,
+    "totalUsers": 124,
+    "nonSellersCount": 121,
     "sellersCount": 3,
-    "totalBalance": 991223678712779400
+    "totalBalance": 1008826102423949800
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -122,6 +122,10 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
+    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
+      "balance": 10780305194659240,
+      "username": "如来神鞭"
+    },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
@@ -214,6 +218,10 @@
       "balance": 5669000695023501,
       "username": "Bruce."
     },
+    "ygugc-ix7ws-22zms-i64kh-sjszn-y4rbz-6jrgq-y65rh-eyrto-zfu4q-rqe": {
+      "balance": 5478730517904042,
+      "username": "NeoLiang"
+    },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
@@ -234,10 +242,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "ygugc-ix7ws-22zms-i64kh-sjszn-y4rbz-6jrgq-y65rh-eyrto-zfu4q-rqe": {
-      "balance": 4748419816637382,
-      "username": "NeoLiang"
-    },
     "hptwt-23r6d-dihnz-tsxw2-tevnk-33oka-qah7k-qzuun-lhz4t-a3c5e-dae": {
       "balance": 4494552357301141,
       "username": "99不88"
@@ -245,6 +249,10 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
+    },
+    "cqgyz-2gljx-6hbft-uudmr-njozm-cg2kk-7dnn5-2gbqk-fcc6n-lylki-eqe": {
+      "balance": 3543768096622534,
+      "username": "Arya-gdr3"
     },
     "o3vh4-h5j3t-thetv-ssu55-x5prp-us4ud-4isej-4g5el-qasts-5ssrh-vqe": {
       "balance": 3466601017237191,
@@ -265,6 +273,10 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
+    },
+    "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
+      "balance": 2548039718622032,
+      "username": "brd7t-hdxjk"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
