@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 19,
   "data": [
     {
       "id": "50897414",
@@ -265,6 +265,21 @@
       "amount_btc": 13688963,
       "amount_token": 972590068583156,
       "price": 1401,
+      "bonded": true,
+      "user_username": "brd7t-hdxjk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51056767",
+      "user": "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae",
+      "token": "2dzg",
+      "time": "2025-06-27T15:17:36.000Z",
+      "buy": false,
+      "amount_btc": 49956344,
+      "amount_token": 3520629787205188,
+      "price": 1421,
       "bonded": true,
       "user_username": "brd7t-hdxjk",
       "user_image": null,
