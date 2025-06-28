@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 123,
+    "totalUsers": 125,
+    "nonSellersCount": 125,
     "sellersCount": 0,
-    "totalBalance": 1037584636153372500
+    "totalBalance": 1055798128863106000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -126,6 +126,10 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
+    "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe": {
+      "balance": 10780305194659240,
+      "username": "如来神鞭"
+    },
     "2uyhw-sh45v-yd723-3sf7i-c4ng2-ujmwn-ncgps-mv7vo-5ecc7-aecbu-sae": {
       "balance": 10538006874958690,
       "username": "BTC社区-去中心化"
@@ -185,6 +189,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 7492139156224905,
       "username": "比特强"
+    },
+    "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
+      "balance": 7433187515074261,
+      "username": "Gbkih"
     },
     "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe": {
       "balance": 7174405690706108,
