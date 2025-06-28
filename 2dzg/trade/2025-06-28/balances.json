@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 123,
-    "nonSellersCount": 123,
+    "totalUsers": 122,
+    "nonSellersCount": 122,
     "sellersCount": 0,
-    "totalBalance": 1037584636153372500
+    "totalBalance": 1028589960007738100
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -149,10 +149,6 @@
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 10000000000000000,
       "username": "bit-dog"
-    },
-    "iyzuc-hfqud-yo4fl-7mr6a-engxz-7zxd7-fuudo-m3rhp-n5czp-ul73r-nae": {
-      "balance": 8994676145634454,
-      "username": "Yoo7"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
