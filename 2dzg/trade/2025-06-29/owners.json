@@ -42,13 +42,6 @@
     "user_image": null
   },
   {
-    "user": "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe",
-    "token": "2dzg",
-    "balance": 33988012691345772,
-    "user_username": "Valhalla社区",
-    "user_image": null
-  },
-  {
     "user": "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae",
     "token": "2dzg",
     "balance": 33754560492349652,
@@ -129,7 +122,7 @@
     "user": "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe",
     "token": "2dzg",
     "balance": 21020636763451340,
-    "user_username": "fggggf",
+    "user_username": "Odin.fun.sol共识群：1054956144",
     "user_image": null
   },
   {
@@ -340,6 +333,13 @@
     "token": "2dzg",
     "balance": 6000904744564155,
     "user_username": "fkvlh善",
+    "user_image": null
+  },
+  {
+    "user": "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe",
+    "token": "2dzg",
+    "balance": 6000000000000000,
+    "user_username": "Valhalla社区",
     "user_image": null
   },
   {
