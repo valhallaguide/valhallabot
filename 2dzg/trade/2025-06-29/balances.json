@@ -3,7 +3,7 @@
     "totalUsers": 121,
     "nonSellersCount": 121,
     "sellersCount": 0,
-    "totalBalance": 999869016476118900
+    "totalBalance": 1021712529409454000
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -29,6 +29,10 @@
     "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae": {
       "balance": 34898704475150790,
       "username": "sw2ea-gjnq3"
+    },
+    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
+      "balance": 33988012691345772,
+      "username": "Valhalla社区"
     },
     "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
       "balance": 33754560492349652,
@@ -105,10 +109,6 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
-    },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 12144499758010572,
-      "username": "Valhalla社区"
     },
     "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
       "balance": 11811596360194460,
