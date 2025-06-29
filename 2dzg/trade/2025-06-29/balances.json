@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 121,
-    "nonSellersCount": 121,
-    "sellersCount": 0,
-    "totalBalance": 993724516718108300
+    "nonSellersCount": 120,
+    "sellersCount": 1,
+    "totalBalance": 987724516718108300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -197,10 +197,6 @@
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 6000904744564155,
       "username": "fkvlh善"
-    },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 6000000000000000,
-      "username": "Valhalla社区"
     },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 5941974562079045,
