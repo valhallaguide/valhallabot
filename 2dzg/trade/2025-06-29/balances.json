@@ -3,7 +3,7 @@
     "totalUsers": 121,
     "nonSellersCount": 121,
     "sellersCount": 0,
-    "totalBalance": 1021712529409454000
+    "totalBalance": 993724516718108300
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -29,10 +29,6 @@
     "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae": {
       "balance": 34898704475150790,
       "username": "sw2ea-gjnq3"
-    },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 33988012691345772,
-      "username": "Valhalla社区"
     },
     "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
       "balance": 33754560492349652,
@@ -80,7 +76,7 @@
     },
     "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe": {
       "balance": 21020636763451340,
-      "username": "fggggf"
+      "username": "Odin.fun.sol共识群：1054956144"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
@@ -201,6 +197,10 @@
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 6000904744564155,
       "username": "fkvlh善"
+    },
+    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
+      "balance": 6000000000000000,
+      "username": "Valhalla社区"
     },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 5941974562079045,
