@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 119,
-    "nonSellersCount": 119,
-    "sellersCount": 0,
-    "totalBalance": 958931167088754600
+    "nonSellersCount": 117,
+    "sellersCount": 2,
+    "totalBalance": 950129816819746600
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -190,10 +190,6 @@
       "balance": 6000904744564155,
       "username": "fkvlh善"
     },
-    "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
-      "balance": 6000000000000000,
-      "username": "Valhalla社区"
-    },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 5941974562079045,
       "username": "oex"
@@ -253,10 +249,6 @@
     "dueh7-nxfuq-sdfc2-cas2y-2gaji-7ipaj-qvv64-wldui-elgak-635dy-3ae": {
       "balance": 3008527791322695,
       "username": "你是我的谁"
-    },
-    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
-      "balance": 2801350269008003,
-      "username": "v1ltb-cuvgf"
     },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
