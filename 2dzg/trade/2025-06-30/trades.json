@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 18,
   "data": [
     {
       "id": "51397709",
@@ -250,6 +250,21 @@
       "amount_btc": 20329291,
       "amount_token": 1707373480660347,
       "price": 1186,
+      "bonded": true,
+      "user_username": "符文堂 | エドアルド a",
+      "user_image": "9b7923b8-e5f0-4813-8362-74a459778736.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51523138",
+      "user": "v3oqf-gy7pw-ifjth-7wxtu-ss7gz-nu64x-gt6mq-4nxwy-6dhre-4tzrr-jqe",
+      "token": "2dzg",
+      "time": "2025-06-30T12:35:05.000Z",
+      "buy": false,
+      "amount_btc": 20126602,
+      "amount_token": 1707373480660347,
+      "price": 1182,
       "bonded": true,
       "user_username": "符文堂 | エドアルド a",
       "user_image": "9b7923b8-e5f0-4813-8362-74a459778736.png",
