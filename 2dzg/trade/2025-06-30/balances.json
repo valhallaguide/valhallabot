@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 118,
-    "nonSellersCount": 114,
+    "totalUsers": 119,
+    "nonSellersCount": 115,
     "sellersCount": 4,
-    "totalBalance": 932164094727715200
+    "totalBalance": 942702101602673900
   },
   "data": {
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -117,6 +117,10 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "JL222"
+    },
+    "2uyhw-sh45v-yd723-3sf7i-c4ng2-ujmwn-ncgps-mv7vo-5ecc7-aecbu-sae": {
+      "balance": 10538006874958690,
+      "username": "BTC社区-去中心化"
     },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
