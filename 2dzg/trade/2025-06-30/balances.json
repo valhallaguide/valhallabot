@@ -3,16 +3,16 @@
     "totalUsers": 118,
     "nonSellersCount": 114,
     "sellersCount": 4,
-    "totalBalance": 936205469468126800
+    "totalBalance": 932164094727715200
   },
   "data": {
-    "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
-      "balance": 51454025762337960,
-      "username": "valhalla.guide"
-    },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
       "username": "To the moon."
+    },
+    "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
+      "balance": 47412651021926240,
+      "username": "valhalla.guide"
     },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 47000000000000000,
