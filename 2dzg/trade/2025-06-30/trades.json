@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "data": [
     {
       "id": "51397709",
@@ -178,6 +178,21 @@
       "bonded": true,
       "user_username": "oex",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51442857",
+      "user": "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe",
+      "token": "2dzg",
+      "time": "2025-06-30T04:30:29.000Z",
+      "buy": false,
+      "amount_btc": 8995140,
+      "amount_token": 742870327496787,
+      "price": 1216,
+      "bonded": true,
+      "user_username": "keep up to be in the world",
+      "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
       "decimals": 3,
       "divisibility": 8
     }
