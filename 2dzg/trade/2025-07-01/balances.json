@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 158,
-    "nonSellersCount": 128,
+    "totalUsers": 159,
+    "nonSellersCount": 129,
     "sellersCount": 30,
-    "totalBalance": 1122488748870961400
+    "totalBalance": 1137175077112314200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -150,6 +150,10 @@
       "balance": 10435392807283444,
       "username": "soonbob"
     },
+    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
+      "balance": 10342501741103020,
+      "username": "Valhalla社区q群:784386301"
+    },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
@@ -249,6 +253,10 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
+    },
+    "5qgvt-q3nkh-2suic-7f6de-akz4x-rzs4j-b4lns-avi47-bnmmk-zdbmf-jae": {
+      "balance": 4416095433057950,
+      "username": "5qgvt-q3nkh"
     },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
@@ -453,10 +461,6 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
-    },
-    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
-      "balance": 72268932808056,
-      "username": "Valhalla社区q群:784386301"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
