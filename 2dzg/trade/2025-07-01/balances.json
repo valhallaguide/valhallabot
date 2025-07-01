@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 170,
-    "nonSellersCount": 133,
-    "sellersCount": 37,
-    "totalBalance": 1143914736041856400
+    "totalUsers": 169,
+    "nonSellersCount": 134,
+    "sellersCount": 35,
+    "totalBalance": 1149756809074679800
   },
   "data": {
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
@@ -274,6 +274,14 @@
       "balance": 3993171588739776,
       "username": "NeoYao"
     },
+    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
+      "balance": 3810453102220035,
+      "username": "Mak"
+    },
+    "qalzv-ji5ji-v2srp-ujt2u-b4gds-v6mg6-tgljm-d3cnh-k6vet-zcnlg-tae": {
+      "balance": 3784078150276849,
+      "username": "Odin.Fun必将爆发"
+    },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
@@ -337,10 +345,6 @@
     "ryo4x-h5arg-tzgue-iind5-4mpc6-yqldi-tu7nn-2bgij-uw3hi-nndls-eae": {
       "balance": 1952597874816107,
       "username": "VKLOM"
-    },
-    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
-      "balance": 1752458219673448,
-      "username": "Mak"
     },
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
