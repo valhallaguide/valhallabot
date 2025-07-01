@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 120,
-    "nonSellersCount": 120,
-    "sellersCount": 0,
-    "totalBalance": 958510256516071400
+    "nonSellersCount": 117,
+    "sellersCount": 3,
+    "totalBalance": 940988243683669800
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -93,10 +93,6 @@
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "suhhong"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 13808155223865388,
-      "username": "peezy"
     },
     "ummtz-6c2dd-wl3hr-7tkbd-7ovvx-2s3lu-tqstt-rpl7v-55yg5-55mt4-aae": {
       "balance": 13344487988733688,
@@ -250,10 +246,6 @@
       "balance": 3008527791322695,
       "username": "你是我的谁"
     },
-    "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
-      "balance": 2970987281039523,
-      "username": "oe333"
-    },
     "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
       "balance": 2801350269008003,
       "username": "v1ltb-cuvgf"
@@ -341,10 +333,6 @@
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
-    },
-    "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe": {
-      "balance": 742870327496788,
-      "username": "keep up to be in the world"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 705930756995048,
