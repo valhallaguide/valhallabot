@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 153,
-    "nonSellersCount": 136,
+    "totalUsers": 154,
+    "nonSellersCount": 137,
     "sellersCount": 17,
-    "totalBalance": 1209853548855302700
+    "totalBalance": 1225570260456275000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -129,6 +129,10 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
+    },
+    "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
+      "balance": 11840965278146128,
+      "username": "BC1PXX.blife"
     },
     "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
       "balance": 11811596360194460,
@@ -266,13 +270,17 @@
       "balance": 4494552357301141,
       "username": "99不88"
     },
+    "zl2h5-otrgx-rn3ki-oqxyn-ugcz4-opvi7-ha76i-aza7j-hob45-jn5fh-6ae": {
+      "balance": 3992489331396333,
+      "username": "老韮菜拼团"
+    },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
     },
     "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
       "balance": 3707289153680104,
-      "username": "路飞启航"
+      "username": "益生元"
     },
     "o3vh4-h5j3t-thetv-ssu55-x5prp-us4ud-4isej-4g5el-qasts-5ssrh-vqe": {
       "balance": 3466601017237191,
@@ -477,10 +485,6 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
-    },
-    "zl2h5-otrgx-rn3ki-oqxyn-ugcz4-opvi7-ha76i-aza7j-hob45-jn5fh-6ae": {
-      "balance": 116743008570587,
-      "username": "老韮菜拼团"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
