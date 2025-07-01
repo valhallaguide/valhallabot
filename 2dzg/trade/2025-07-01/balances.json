@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 158,
+    "totalUsers": 157,
     "nonSellersCount": 139,
-    "sellersCount": 19,
-    "totalBalance": 1225712571884153000
+    "sellersCount": 18,
+    "totalBalance": 1228436059019673000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -12,7 +12,7 @@
     },
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
       "balance": 61725459282896860,
-      "username": "QQ784386301"
+      "username": "ex224-qnaa7"
     },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
@@ -154,10 +154,6 @@
       "balance": 10666477712416208,
       "username": "profile"
     },
-    "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
-      "balance": 10642745845769104,
-      "username": "mark .james"
-    },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
@@ -206,6 +202,10 @@
       "balance": 7400990061146891,
       "username": "大波浪"
     },
+    "cx5xa-uwggk-xcplp-jwic3-xv4px-c4fry-hxprk-5teeu-g2xks-f22ex-gqe": {
+      "balance": 7265954981219501,
+      "username": "dp_chjdv"
+    },
     "i453a-fj6le-iym23-qo7t3-dlx5u-ggvxe-e4yya-d2ecq-xovu7-wawdb-cqe": {
       "balance": 7174464966845094,
       "username": "BFLCSS886788"
@@ -213,6 +213,10 @@
     "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe": {
       "balance": 7174405690706108,
       "username": "love.ll"
+    },
+    "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
+      "balance": 6940927347557354,
+      "username": "mark .james"
     },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 6619453115080067,
@@ -401,10 +405,6 @@
     "uhenm-r4bjv-sbzon-v3etv-quxzz-u74wx-bzlru-nhnwo-kjjq6-chr6v-nae": {
       "balance": 888296108894688,
       "username": "百大社区一兰州团队"
-    },
-    "bzywq-weogq-wguky-bxear-54b54-33dlw-ausst-sb7xb-s5n3n-3wkey-dae": {
-      "balance": 840649347487740,
-      "username": "bzywq-weogq"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
