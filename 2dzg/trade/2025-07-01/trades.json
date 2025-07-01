@@ -1,5 +1,5 @@
 {
-  "count": 296,
+  "count": 298,
   "data": [
     {
       "id": "51581122",
@@ -4438,6 +4438,36 @@
       "bonded": true,
       "user_username": "赚千万u",
       "user_image": "6b721e95-8b2b-4cca-b96f-a1dcda829a7f.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51640179",
+      "user": "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae",
+      "token": "2dzg",
+      "time": "2025-07-01T07:07:03.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 11840965278146128,
+      "price": 2564,
+      "bonded": true,
+      "user_username": "BC1PXX.blife",
+      "user_image": "9d1edfa9-8ced-478b-90d3-7f29a2d8b6f5.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51640052",
+      "user": "zl2h5-otrgx-rn3ki-oqxyn-ugcz4-opvi7-ha76i-aza7j-hob45-jn5fh-6ae",
+      "token": "2dzg",
+      "time": "2025-07-01T07:06:02.000Z",
+      "buy": true,
+      "amount_btc": 96000000,
+      "amount_token": 3875746322825746,
+      "price": 2478,
+      "bonded": true,
+      "user_username": "老韮菜拼团",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
