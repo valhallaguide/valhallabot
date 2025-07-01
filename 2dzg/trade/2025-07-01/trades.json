@@ -1,5 +1,5 @@
 {
-  "count": 610,
+  "count": 613,
   "data": [
     {
       "id": "51581122",
@@ -9147,6 +9147,51 @@
       "price": 3582,
       "bonded": true,
       "user_username": "xiaoxiao666",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51661980",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:29:24.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4124188563319721,
+      "price": 3641,
+      "bonded": true,
+      "user_username": "wyfh-mjhfg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51661959",
+      "user": "q3ufw-4wbkl-ehavt-i6iet-7fcpg-n22pi-jmxpp-ckztz-7ezpu-y2h6n-kqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:28:58.000Z",
+      "buy": true,
+      "amount_btc": 40000000,
+      "amount_token": 1108580001203580,
+      "price": 3596,
+      "bonded": true,
+      "user_username": "q3ufw-4wbkl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51661916",
+      "user": "q3ufw-4wbkl-ehavt-i6iet-7fcpg-n22pi-jmxpp-ckztz-7ezpu-y2h6n-kqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:28:09.000Z",
+      "buy": true,
+      "amount_btc": 4000000,
+      "amount_token": 111063295802148,
+      "price": 3584,
+      "bonded": true,
+      "user_username": "q3ufw-4wbkl",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
