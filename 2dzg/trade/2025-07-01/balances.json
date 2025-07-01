@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 173,
-    "nonSellersCount": 139,
-    "sellersCount": 34,
-    "totalBalance": 1220876001969734400
+    "totalUsers": 168,
+    "nonSellersCount": 136,
+    "sellersCount": 32,
+    "totalBalance": 1210755260942434600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -114,10 +114,6 @@
       "balance": 13347229975583084,
       "username": "至坚者"
     },
-    "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe": {
-      "balance": 12491368838035974,
-      "username": "华夏幸福"
-    },
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
@@ -153,6 +149,10 @@
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
       "username": "soonbob"
+    },
+    "qveej-x372m-dxwxo-tx2k5-xmurs-tehsf-hzej5-he3op-4ctjh-eklr2-dae": {
+      "balance": 10327584158762172,
+      "username": "HOZ Hero"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
@@ -278,10 +278,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "3tba7-fz547-xrfug-nwxw5-ec2mv-f26wy-jhljj-7lmt6-rm7a5-hrzjh-mae": {
-      "balance": 4771239299626571,
-      "username": "ajhgh"
-    },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
@@ -350,10 +346,6 @@
       "balance": 1952597874816107,
       "username": "VKLOM"
     },
-    "2ns5k-wguf4-6fulp-dkhu5-c4zya-rnegn-skcbr-bubkd-wwovc-6v3hj-xqe": {
-      "balance": 1920143912061013,
-      "username": "vvv095"
-    },
     "aumb4-fvafo-ufwza-qbezx-6ccm2-uwjxn-grffv-jrw6z-xb2du-uvhgt-vae": {
       "balance": 1801176516503881,
       "username": "tou hou mo"
@@ -373,10 +365,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "qveej-x372m-dxwxo-tx2k5-xmurs-tehsf-hzej5-he3op-4ctjh-eklr2-dae": {
-      "balance": 1265573136338379,
-      "username": "HOZ Hero"
     },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 1233638287372094,
