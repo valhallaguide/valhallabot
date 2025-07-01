@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 161,
+    "totalUsers": 160,
     "nonSellersCount": 128,
-    "sellersCount": 33,
-    "totalBalance": 1143287878990079900
+    "sellersCount": 32,
+    "totalBalance": 1138569783773374500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -238,10 +238,6 @@
       "balance": 5000000000000000,
       "username": "很好吃"
     },
-    "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae": {
-      "balance": 4965484489195475,
-      "username": "dthfssg"
-    },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
       "username": "亏钱了，抄大底回本"
@@ -425,6 +421,10 @@
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
+    },
+    "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae": {
+      "balance": 247389272490148,
+      "username": "dthfssg"
     },
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 237881741648074,
