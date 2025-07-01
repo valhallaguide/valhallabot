@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 156,
-    "nonSellersCount": 125,
-    "sellersCount": 31,
-    "totalBalance": 1092385651156610300
+    "nonSellersCount": 126,
+    "sellersCount": 30,
+    "totalBalance": 1104256440207704200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -77,6 +77,10 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
+    },
+    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
+      "balance": 19279078997416748,
+      "username": "hgfc-ndkf"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
@@ -173,10 +177,6 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
-    },
-    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
-      "balance": 8262531615195702,
-      "username": "hgfc-ndkf"
     },
     "mw52s-32im4-uly26-lp5f4-hra2z-mflkz-usrrr-cymin-lohcu-3zurc-eqe": {
       "balance": 8078944896975298,
@@ -349,6 +349,10 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
+    },
+    "c2dkm-6vyhq-ckzta-oku5j-rqdy3-z276h-uqddz-eet2t-ew47w-vp5hl-oqe": {
+      "balance": 854241668872776,
+      "username": "八卦镜"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
