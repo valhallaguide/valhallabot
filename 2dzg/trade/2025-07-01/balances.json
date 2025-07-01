@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 176,
+    "totalUsers": 174,
     "nonSellersCount": 140,
-    "sellersCount": 36,
-    "totalBalance": 1242099471617685800
+    "sellersCount": 34,
+    "totalBalance": 1233431521753157600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -58,10 +58,6 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
-    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
-      "balance": 25340213902657732,
-      "username": "风险资本"
-    },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 23356153067054876,
       "username": "ddbea-3vrre"
@@ -85,6 +81,10 @@
     "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae": {
       "balance": 21041305088201228,
       "username": "396"
+    },
+    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
+      "balance": 21000000018764120,
+      "username": "风险资本"
     },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
@@ -206,10 +206,6 @@
       "balance": 7578322780940278,
       "username": "mu2728"
     },
-    "ono6l-igjvk-e4g6w-7xxvy-yjwss-m23ac-ggy5b-x54ak-4h25e-gkzil-zae": {
-      "balance": 7538770928514782,
-      "username": "Uahwshwgwh"
-    },
     "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
       "balance": 7400990061146891,
       "username": "大波浪"
@@ -290,6 +286,10 @@
       "balance": 4771239299626571,
       "username": "ajhgh"
     },
+    "ono6l-igjvk-e4g6w-7xxvy-yjwss-m23ac-ggy5b-x54ak-4h25e-gkzil-zae": {
+      "balance": 4311249241351902,
+      "username": "Uahwshwgwh"
+    },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
@@ -321,10 +321,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "44n64-teglg-a3kft-p6pl2-ncnq3-pklwk-2ktmg-danv6-3fgxl-uuhoo-yae": {
-      "balance": 2220885759181379,
-      "username": "44n64-teglg"
     },
     "xioik-iru6t-xg2rr-j7rlv-lb4sm-id3yl-legcz-4voab-blswd-sf6nq-7qe": {
       "balance": 2162387838483603,
@@ -389,6 +385,10 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
+    },
+    "44n64-teglg-a3kft-p6pl2-ncnq3-pklwk-2ktmg-danv6-3fgxl-uuhoo-yae": {
+      "balance": 1120671465709549,
+      "username": "44n64-teglg"
     },
     "2mwmm-rbrc3-jhkvh-wmmrx-ynsco-5k2eh-5e5ex-vxge3-jsw4k-vzaum-5ae": {
       "balance": 1115161684048323,
