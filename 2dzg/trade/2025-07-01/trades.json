@@ -1,5 +1,5 @@
 {
-  "count": 528,
+  "count": 531,
   "data": [
     {
       "id": "51581122",
@@ -7918,6 +7918,51 @@
       "bonded": true,
       "user_username": "i am the balancing point",
       "user_image": "47f4fd3f-79f4-4187-91f4-47eccb499519.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51655525",
+      "user": "67lnr-ahbgb-eayer-s4vyv-tw3ye-fbyhu-6s4k4-2h4dh-d6s6q-sl3td-gae",
+      "token": "2dzg",
+      "time": "2025-07-01T08:34:53.000Z",
+      "buy": false,
+      "amount_btc": 213370117,
+      "amount_token": 4980980910827600,
+      "price": 4268,
+      "bonded": true,
+      "user_username": "67lnr-ahbgb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51655507",
+      "user": "v4tqb-h4zsi-iuzy4-k2wac-eygx5-6bhk7-q7ygc-n6clg-p5frp-uribd-uqe",
+      "token": "2dzg",
+      "time": "2025-07-01T08:34:44.000Z",
+      "buy": false,
+      "amount_btc": 293870494,
+      "amount_token": 6723605496571882,
+      "price": 4341,
+      "bonded": true,
+      "user_username": "Firefoxx",
+      "user_image": "ae5e6f7b-26df-4490-95b1-a5d120f629fd.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51655318",
+      "user": "hptwt-23r6d-dihnz-tsxw2-tevnk-33oka-qah7k-qzuun-lhz4t-a3c5e-dae",
+      "token": "2dzg",
+      "time": "2025-07-01T08:33:01.000Z",
+      "buy": true,
+      "amount_btc": 8840571,
+      "amount_token": 198005621579948,
+      "price": 4444,
+      "bonded": true,
+      "user_username": "99不88",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
