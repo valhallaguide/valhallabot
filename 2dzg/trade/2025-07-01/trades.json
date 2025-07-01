@@ -1,5 +1,5 @@
 {
-  "count": 666,
+  "count": 669,
   "data": [
     {
       "id": "51581122",
@@ -9985,6 +9985,51 @@
       "amount_btc": 500000,
       "amount_token": 12834652219360,
       "price": 3876,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51672008",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:19:03.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12587345788145,
+      "price": 3952,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51671577",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:15:55.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12587836365469,
+      "price": 3952,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51671545",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:15:39.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12588326971487,
+      "price": 3952,
       "bonded": true,
       "user_username": "BOB一起共识VALHALLA,Q群784386301",
       "user_image": null,
