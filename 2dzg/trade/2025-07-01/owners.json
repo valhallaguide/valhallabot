@@ -182,13 +182,6 @@
     "user_image": null
   },
   {
-    "user": "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe",
-    "token": "2dzg",
-    "balance": 15361868490728528,
-    "user_username": "wanted",
-    "user_image": null
-  },
-  {
     "user": "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae",
     "token": "2dzg",
     "balance": 15130797123315630,
@@ -221,6 +214,13 @@
     "token": "2dzg",
     "balance": 13347229975583084,
     "user_username": "至坚者",
+    "user_image": null
+  },
+  {
+    "user": "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe",
+    "token": "2dzg",
+    "balance": 12909183041755428,
+    "user_username": "wanted",
     "user_image": null
   },
   {
