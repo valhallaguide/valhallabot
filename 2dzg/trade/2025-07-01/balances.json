@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 155,
-    "nonSellersCount": 124,
+    "totalUsers": 156,
+    "nonSellersCount": 125,
     "sellersCount": 31,
-    "totalBalance": 1092691063311677600
+    "totalBalance": 1098352385595790200
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -225,6 +225,10 @@
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
+    },
+    "aeacz-3keeh-pdysr-blb4p-fl4kd-cmlxw-3uvd2-6w2nn-o3nu3-twtkr-yqe": {
+      "balance": 5661322284112660,
+      "username": "aeacz-3keeh"
     },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
