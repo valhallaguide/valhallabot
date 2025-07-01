@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 170,
-    "nonSellersCount": 143,
-    "sellersCount": 27,
-    "totalBalance": 1287556316670830300
+    "totalUsers": 171,
+    "nonSellersCount": 141,
+    "sellersCount": 30,
+    "totalBalance": 1264539904874998500
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -86,10 +86,6 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
-    "v4tqb-h4zsi-iuzy4-k2wac-eygx5-6bhk7-q7ygc-n6clg-p5frp-uribd-uqe": {
-      "balance": 19120866167956640,
-      "username": "Firefoxx"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
@@ -166,10 +162,6 @@
       "balance": 10500757818513568,
       "username": "6y2r4-ux2vg"
     },
-    "fxbfb-6fi4e-wnxoo-62xab-fzy3j-lurmg-piqii-tjyu3-osknv-pujtq-lqe": {
-      "balance": 10460460170092374,
-      "username": "旭日朝升"
-    },
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
       "username": "soonbob"
@@ -210,6 +202,10 @@
       "balance": 8354815757366572,
       "username": "笑哈哈"
     },
+    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
+      "balance": 8262531615195702,
+      "username": "hgfc-ndkf"
+    },
     "mw52s-32im4-uly26-lp5f4-hra2z-mflkz-usrrr-cymin-lohcu-3zurc-eqe": {
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
@@ -249,6 +245,10 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
+    },
+    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
+      "balance": 5971689762540623,
+      "username": "益生元"
     },
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
@@ -298,10 +298,6 @@
       "balance": 4494552357301141,
       "username": "99不88"
     },
-    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
-      "balance": 4202705818281402,
-      "username": "益生元"
-    },
     "zl2h5-otrgx-rn3ki-oqxyn-ugcz4-opvi7-ha76i-aza7j-hob45-jn5fh-6ae": {
       "balance": 3992489331396333,
       "username": "老韮菜拼团"
@@ -317,10 +313,6 @@
     "5tlpg-ez3ou-73oln-wqh65-m7aty-32a34-qrbrb-ll6kk-wexb2-xvz33-lae": {
       "balance": 3609568925171524,
       "username": "TP_gighc"
-    },
-    "o3vh4-h5j3t-thetv-ssu55-x5prp-us4ud-4isej-4g5el-qasts-5ssrh-vqe": {
-      "balance": 3466601017237191,
-      "username": "ThxRunes⚡️"
     },
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
