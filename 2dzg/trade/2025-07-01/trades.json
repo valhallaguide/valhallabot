@@ -1,5 +1,5 @@
 {
-  "count": 684,
+  "count": 688,
   "data": [
     {
       "id": "51581122",
@@ -10257,6 +10257,66 @@
       "price": 3886,
       "bonded": true,
       "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676735",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:47:43.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12923327985808,
+      "price": 3849,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676635",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:46:52.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12923838326011,
+      "price": 3849,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676617",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:46:44.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12924348696460,
+      "price": 3849,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676521",
+      "user": "ta4jw-tumww-2xdt6-jrvbq-rtvon-2ygne-jyjt3-iciui-bqnbg-j5hs6-sqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:46:00.000Z",
+      "buy": false,
+      "amount_btc": 123305084,
+      "amount_token": 3203750336328497,
+      "price": 3849,
+      "bonded": true,
+      "user_username": "CX—能能 _____________QQ群97639703",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
