@@ -1,5 +1,5 @@
 {
-  "count": 694,
+  "count": 698,
   "data": [
     {
       "id": "51581122",
@@ -10407,6 +10407,66 @@
       "price": 3725,
       "bonded": true,
       "user_username": "cpwrt-aelww",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51684051",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T12:27:57.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 13495924796888,
+      "price": 3686,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51683996",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T12:27:25.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 13496469416068,
+      "price": 3686,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51683985",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T12:27:19.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 13497014068232,
+      "price": 3686,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51683765",
+      "user": "q3ufw-4wbkl-ehavt-i6iet-7fcpg-n22pi-jmxpp-ckztz-7ezpu-y2h6n-kqe",
+      "token": "2dzg",
+      "time": "2025-07-01T12:25:24.000Z",
+      "buy": false,
+      "amount_btc": 85220605,
+      "amount_token": 2315656525931445,
+      "price": 3685,
+      "bonded": true,
+      "user_username": "q3ufw-4wbkl",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
