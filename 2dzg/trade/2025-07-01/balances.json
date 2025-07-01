@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 155,
-    "nonSellersCount": 137,
-    "sellersCount": 18,
-    "totalBalance": 1188578092594797600
+    "nonSellersCount": 136,
+    "sellersCount": 19,
+    "totalBalance": 1195518517079525000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -42,6 +42,10 @@
       "balance": 33129446099040796,
       "username": "valhalla holder"
     },
+    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
+      "balance": 32221620210004812,
+      "username": "jilkufyrjy.rybjbnb"
+    },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 31688656604575360,
       "username": "MR _DOGINAL XXXX"
@@ -53,10 +57,6 @@
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 28297414120567920,
       "username": "不能随便买"
-    },
-    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
-      "balance": 26016383739368950,
-      "username": "jilkufyrjy.rybjbnb"
     },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 23356153067054876,
@@ -178,6 +178,10 @@
       "balance": 8354815757366572,
       "username": "笑哈哈"
     },
+    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
+      "balance": 8169208018709767,
+      "username": "fkvlh善"
+    },
     "mw52s-32im4-uly26-lp5f4-hra2z-mflkz-usrrr-cymin-lohcu-3zurc-eqe": {
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
@@ -201,10 +205,6 @@
     "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe": {
       "balance": 7174405690706108,
       "username": "love.ll"
-    },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 7037531800524791,
-      "username": "fkvlh善"
     },
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 6940927347557354,
@@ -429,10 +429,6 @@
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
       "username": "Bad Moon Rising"
-    },
-    "az6il-s4m7f-sbr2o-acr2q-h7rkc-7cmfj-elrf3-4zknx-c74ru-fwcqu-fqe": {
-      "balance": 396488204093297,
-      "username": "az6il-s4m7f"
     },
     "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe": {
       "balance": 384943816338087,
