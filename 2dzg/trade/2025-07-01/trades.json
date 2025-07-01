@@ -1,5 +1,5 @@
 {
-  "count": 738,
+  "count": 739,
   "data": [
     {
       "id": "51581122",
@@ -11068,6 +11068,21 @@
       "bonded": true,
       "user_username": "八卦镜",
       "user_image": "b5740adf-a9aa-4d03-bfc9-aa3aa90652cc.jfif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51701685",
+      "user": "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae",
+      "token": "2dzg",
+      "time": "2025-07-01T14:45:41.000Z",
+      "buy": true,
+      "amount_btc": 397910030,
+      "amount_token": 11016547382221044,
+      "price": 3651,
+      "bonded": true,
+      "user_username": "hgfc-ndkf",
+      "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg",
       "decimals": 3,
       "divisibility": 8
     }
