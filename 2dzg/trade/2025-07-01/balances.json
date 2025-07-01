@@ -3,7 +3,7 @@
     "totalUsers": 154,
     "nonSellersCount": 124,
     "sellersCount": 30,
-    "totalBalance": 1092691063311677600
+    "totalBalance": 1092396677753712800
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -230,6 +230,10 @@
       "balance": 5464962763680695,
       "username": "kfhu"
     },
+    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
+      "balance": 5416796441612496,
+      "username": "Mak"
+    },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
       "username": "很好吃"
@@ -250,10 +254,6 @@
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
     },
-    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
-      "balance": 3541897755069795,
-      "username": "Mak"
-    },
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
@@ -273,10 +273,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
-      "balance": 2241553177315527,
-      "username": "Valhalla社区q群:784386301"
     },
     "l4g72-o7tok-2jsdg-fmi2y-jlepz-cykj5-saelg-4p4z5-4txh3-xgd4e-nqe": {
       "balance": 2203577406995307,
@@ -441,6 +437,10 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
+    },
+    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
+      "balance": 72268932808056,
+      "username": "Valhalla社区q群:784386301"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
