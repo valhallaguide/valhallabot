@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 119,
-    "nonSellersCount": 115,
+    "totalUsers": 122,
+    "nonSellersCount": 118,
     "sellersCount": 4,
-    "totalBalance": 1015489225150432800
+    "totalBalance": 1073520786268116100
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -33,6 +33,10 @@
     "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae": {
       "balance": 33754560492349652,
       "username": "p4dpih-rozt"
+    },
+    "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
+      "balance": 33129446099040796,
+      "username": "valhalla holder"
     },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 31688656604575360,
@@ -98,9 +102,17 @@
       "balance": 14041435746041820,
       "username": "suhhong"
     },
+    "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
+      "balance": 12490059088141554,
+      "username": "uj2ot-rsdjv"
+    },
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
+    },
+    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
+      "balance": 12187127069717384,
+      "username": "x3snx-wrugd"
     },
     "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
       "balance": 11811596360194460,
@@ -382,6 +394,10 @@
       "balance": 231643795956542,
       "username": "RWA"
     },
+    "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe": {
+      "balance": 224928860783543,
+      "username": "mei6g-cngyr"
+    },
     "sotbo-rmkba-hxf4w-54b6w-fgfhd-6i4v4-lr4n3-dhbdo-irvhg-t6srr-3ae": {
       "balance": 198999037426523,
       "username": "发财日记..."
@@ -445,10 +461,6 @@
     "ozjul-snw22-6nrqh-ueu6v-6yfgx-5shbn-xbrep-uzpdj-4vvvu-f3xmu-wqe": {
       "balance": 2,
       "username": "八方来财·因果"
-    },
-    "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
-      "balance": 1,
-      "username": "uj2ot-rsdjv"
     },
     "qa2bp-pllzs-wm3mt-svubm-cmzoc-vt3sr-oj4ap-ycqgj-vnscu-tf4lr-gqe": {
       "balance": 1,
