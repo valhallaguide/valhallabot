@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 167,
-    "nonSellersCount": 136,
-    "sellersCount": 31,
-    "totalBalance": 1214891442298261200
+    "nonSellersCount": 133,
+    "sellersCount": 34,
+    "totalBalance": 1177293409249293300
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -62,10 +62,6 @@
       "balance": 23356153067054876,
       "username": "ddbea-3vrre"
     },
-    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
-      "balance": 23327833264574270,
-      "username": "v1ltb-cuvgf"
-    },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
@@ -105,10 +101,6 @@
     "ep43e-c6go5-wo33n-f3lvy-7fhwn-c2pip-tq2rt-lwvt5-5qywt-eopwm-mqe": {
       "balance": 14490293014325164,
       "username": "3w27axru"
-    },
-    "qveej-x372m-dxwxo-tx2k5-xmurs-tehsf-hzej5-he3op-4ctjh-eklr2-dae": {
-      "balance": 14205897265462824,
-      "username": "HOZ Hero"
     },
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
@@ -493,10 +485,6 @@
     "sdgxm-5dris-d2ly5-wxm2b-34liq-r2knr-b2ovf-6lrmi-fwy2r-zychm-qqe": {
       "balance": 66381390335884,
       "username": "blucelee88"
-    },
-    "kej6w-igclr-rufct-lcrgn-trl6m-op4t5-dofpr-quvjx-anxcf-pg2a4-cqe": {
-      "balance": 64302518931535,
-      "username": "kej6-wricg"
     },
     "yntvx-lg33w-6yh4h-ndxkr-ayw3x-vu7jy-xmdjd-ephbz-yoqs5-rn74y-4ae": {
       "balance": 34097882664381,
