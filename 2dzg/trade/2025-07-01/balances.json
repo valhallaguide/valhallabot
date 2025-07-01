@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 156,
-    "nonSellersCount": 138,
-    "sellersCount": 18,
-    "totalBalance": 1225530472739410700
+    "totalUsers": 158,
+    "nonSellersCount": 139,
+    "sellersCount": 19,
+    "totalBalance": 1225712571884153000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -174,10 +174,6 @@
       "balance": 10000000000000000,
       "username": "bit-dog"
     },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 9991940814764976,
-      "username": "fkvlh善"
-    },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
       "username": "WEN DOG"
@@ -193,6 +189,10 @@
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 8354815757366572,
       "username": "笑哈哈"
+    },
+    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
+      "balance": 8169208018709767,
+      "username": "fkvlh善"
     },
     "mw52s-32im4-uly26-lp5f4-hra2z-mflkz-usrrr-cymin-lohcu-3zurc-eqe": {
       "balance": 8078944896975298,
@@ -333,6 +333,10 @@
     "wnttj-hh7fs-jxuqe-55njo-x2mys-ptifq-m3633-2jggr-fruv3-6cp4u-yae": {
       "balance": 2010579822033143,
       "username": "zimuzu"
+    },
+    "utpsu-5pniq-rgwcb-6tulb-aq6kw-7zqaj-566gv-p6fk4-oe4q4-zjmyr-vae": {
+      "balance": 2004831940797429,
+      "username": "Don’t sell pls"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
