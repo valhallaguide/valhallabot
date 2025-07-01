@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 173,
-    "nonSellersCount": 138,
-    "sellersCount": 35,
-    "totalBalance": 1221032925714556400
+    "nonSellersCount": 139,
+    "sellersCount": 34,
+    "totalBalance": 1220876001969734400
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -326,10 +326,6 @@
       "balance": 2162387838483603,
       "username": "xioik-iru6t"
     },
-    "stz7p-h4axr-vm7eu-4ciut-am2yq-qoxcw-7qbrz-ua5yl-ylu4n-pwcdi-sqe": {
-      "balance": 2151826594289443,
-      "username": "飞天茅台"
-    },
     "jvdd5-of3by-afxzt-gkhmr-2xhcq-pntxr-7r7fd-hkjmw-dy2nw-wfyfh-fae": {
       "balance": 2147309924364344,
       "username": "jvdd5-of3by"
@@ -378,6 +374,10 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
+    "qveej-x372m-dxwxo-tx2k5-xmurs-tehsf-hzej5-he3op-4ctjh-eklr2-dae": {
+      "balance": 1265573136338379,
+      "username": "HOZ Hero"
+    },
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 1233638287372094,
       "username": "Brandon Stark"
@@ -409,6 +409,10 @@
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
+    },
+    "rnj2z-hybx7-w35sj-tr6ms-qzax4-tmlgm-ysc63-2eg6h-exe54-ezecg-uae": {
+      "balance": 729329713129040,
+      "username": "jinshuitu1319"
     },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 705930756995048,
