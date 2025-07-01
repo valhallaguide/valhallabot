@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 168,
-    "nonSellersCount": 135,
-    "sellersCount": 33,
-    "totalBalance": 1155821455945553700
+    "nonSellersCount": 134,
+    "sellersCount": 34,
+    "totalBalance": 1149756809074679800
   },
   "data": {
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
@@ -186,10 +186,6 @@
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
     },
-    "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe": {
-      "balance": 7752731830099652,
-      "username": "jnyzyqw-12"
-    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
@@ -266,6 +262,10 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
+    "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe": {
+      "balance": 4198964234194374,
+      "username": "jnyzyqw-12"
+    },
     "gbf74-e3i3u-midw3-5gbk4-2klqr-cbr5l-r4qdg-ojy7i-wm7rf-dnkyb-aae": {
       "balance": 4171951058902090,
       "username": "华尔街"
@@ -297,10 +297,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae": {
-      "balance": 2510879274968309,
-      "username": "弗兰克的话"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
