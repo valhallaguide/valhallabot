@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 167,
+    "totalUsers": 168,
     "nonSellersCount": 132,
-    "sellersCount": 35,
-    "totalBalance": 1137578936682552200
+    "sellersCount": 36,
+    "totalBalance": 1140478708580641900
   },
   "data": {
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
@@ -262,6 +262,10 @@
       "balance": 4198964234194374,
       "username": "jnyzyqw-12"
     },
+    "gbf74-e3i3u-midw3-5gbk4-2klqr-cbr5l-r4qdg-ojy7i-wm7rf-dnkyb-aae": {
+      "balance": 4171951058902090,
+      "username": "华尔街"
+    },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
@@ -330,9 +334,9 @@
       "balance": 1952597874816107,
       "username": "VKLOM"
     },
-    "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae": {
-      "balance": 1706140919225747,
-      "username": "SOB社区丨crazier"
+    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
+      "balance": 1752458219673448,
+      "username": "Mak"
     },
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
@@ -341,10 +345,6 @@
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
       "username": "t.ey t.ey"
-    },
-    "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
-      "balance": 1318496461260260,
-      "username": "Mak"
     },
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
