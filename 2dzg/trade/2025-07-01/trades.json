@@ -1,5 +1,5 @@
 {
-  "count": 641,
+  "count": 646,
   "data": [
     {
       "id": "51581122",
@@ -9613,6 +9613,81 @@
       "bonded": true,
       "user_username": "gvbnjsxccf",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51665261",
+      "user": "qalzv-ji5ji-v2srp-ujt2u-b4gds-v6mg6-tgljm-d3cnh-k6vet-zcnlg-tae",
+      "token": "2dzg",
+      "time": "2025-07-01T10:05:02.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 3784078150276849,
+      "price": 3967,
+      "bonded": true,
+      "user_username": "Odin.Fun必将爆发",
+      "user_image": "7b6dbe99-abe3-4f61-a7fc-f3a8a39c8f75.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51665250",
+      "user": "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae",
+      "token": "2dzg",
+      "time": "2025-07-01T10:05:00.000Z",
+      "buy": true,
+      "amount_btc": 32608401,
+      "amount_token": 828592604913783,
+      "price": 3920,
+      "bonded": true,
+      "user_username": "Mak",
+      "user_image": "0b929ba9-1814-47d3-99d4-f8fea1aade8d.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51665162",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-01T10:04:22.000Z",
+      "buy": false,
+      "amount_btc": 151339115,
+      "amount_token": 3865925111732511,
+      "price": 3910,
+      "bonded": true,
+      "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51665121",
+      "user": "sjff4-atgmt-rxc2j-6iqky-pxjxa-iq3q5-55oo6-oa3kr-abjqj-psg4k-zae",
+      "token": "2dzg",
+      "time": "2025-07-01T10:04:02.000Z",
+      "buy": false,
+      "amount_btc": 303426635,
+      "amount_token": 7612161184006602,
+      "price": 3958,
+      "bonded": true,
+      "user_username": "4h3bxx-d2p1x",
+      "user_image": "a76fccaa-1f9d-40c0-805f-560d5200be4c.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51664944",
+      "user": "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae",
+      "token": "2dzg",
+      "time": "2025-07-01T10:01:01.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1229402277632804,
+      "price": 4054,
+      "bonded": true,
+      "user_username": "Mak",
+      "user_image": "0b929ba9-1814-47d3-99d4-f8fea1aade8d.jpg",
       "decimals": 3,
       "divisibility": 8
     }
