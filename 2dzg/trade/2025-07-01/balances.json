@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 169,
-    "nonSellersCount": 139,
-    "sellersCount": 30,
-    "totalBalance": 1262220507993986300
+    "totalUsers": 170,
+    "nonSellersCount": 138,
+    "sellersCount": 32,
+    "totalBalance": 1240787717154280000
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -66,10 +66,6 @@
       "balance": 23327833264574270,
       "username": "v1ltb-cuvgf"
     },
-    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
-      "balance": 23300845292042720,
-      "username": "风险资本"
-    },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
@@ -98,6 +94,10 @@
       "balance": 17586740616757204,
       "username": "happy today"
     },
+    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
+      "balance": 17382688551718574,
+      "username": "风险资本"
+    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
       "username": "BigFoot"
@@ -105,10 +105,6 @@
     "qhm2k-oz3bc-uem7s-65bml-3l2iv-pobtw-siux3-kkrkd-umalg-ww5fs-zqe": {
       "balance": 15615015689773520,
       "username": "Valhalla社区qq:784386301"
-    },
-    "vf3pc-p5uiz-2pby6-6yq52-oat4y-jrad4-pjfpq-dfa3u-m2ans-hrbmn-tqe": {
-      "balance": 15514634099382056,
-      "username": "vf3pc-p5uiz"
     },
     "ep43e-c6go5-wo33n-f3lvy-7fhwn-c2pip-tq2rt-lwvt5-5qywt-eopwm-mqe": {
       "balance": 14490293014325164,
