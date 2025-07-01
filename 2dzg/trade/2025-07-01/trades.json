@@ -1,5 +1,5 @@
 {
-  "count": 821,
+  "count": 824,
   "data": [
     {
       "id": "51581122",
@@ -12312,6 +12312,51 @@
       "price": 2767,
       "bonded": true,
       "user_username": "Oh Fuck",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722655",
+      "user": "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae",
+      "token": "2dzg",
+      "time": "2025-07-01T17:48:40.000Z",
+      "buy": true,
+      "amount_btc": 140000000,
+      "amount_token": 4718095216705327,
+      "price": 2972,
+      "bonded": true,
+      "user_username": "dthfssg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722580",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T17:47:53.000Z",
+      "buy": false,
+      "amount_btc": 486864536,
+      "amount_token": 16288918414253492,
+      "price": 2931,
+      "bonded": true,
+      "user_username": "wyfo-yxhse",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722574",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T17:47:47.000Z",
+      "buy": true,
+      "amount_btc": 960370120,
+      "amount_token": 32577836828506988,
+      "price": 3077,
+      "bonded": true,
+      "user_username": "wyfo-yxhse",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
