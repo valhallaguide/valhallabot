@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 168,
-    "nonSellersCount": 135,
-    "sellersCount": 33,
-    "totalBalance": 1155821455945553700
+    "totalUsers": 167,
+    "nonSellersCount": 133,
+    "sellersCount": 34,
+    "totalBalance": 1147911331921586200
   },
   "data": {
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
@@ -122,6 +122,10 @@
       "balance": 11574254155625280,
       "username": "562fk-7eqo3"
     },
+    "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe": {
+      "balance": 11553329793549426,
+      "username": "jnyzyqw-12"
+    },
     "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
       "balance": 11270718086109196,
       "username": "isvcj-d7on7"
@@ -186,17 +190,9 @@
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
     },
-    "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe": {
-      "balance": 7752731830099652,
-      "username": "jnyzyqw-12"
-    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
-    },
-    "ono6l-igjvk-e4g6w-7xxvy-yjwss-m23ac-ggy5b-x54ak-4h25e-gkzil-zae": {
-      "balance": 7538770928514782,
-      "username": "Uahwshwgwh"
     },
     "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
       "balance": 7400990061146891,
@@ -265,10 +261,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "gbf74-e3i3u-midw3-5gbk4-2klqr-cbr5l-r4qdg-ojy7i-wm7rf-dnkyb-aae": {
-      "balance": 4171951058902090,
-      "username": "华尔街"
     },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
