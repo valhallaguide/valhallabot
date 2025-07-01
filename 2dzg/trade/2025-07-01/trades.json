@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 306,
   "data": [
     {
       "id": "51581122",
@@ -4528,6 +4528,66 @@
       "bonded": true,
       "user_username": "TP_gighc",
       "user_image": "e659bd97-2aef-4bc0-ad5e-11145d4efa5b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51643842",
+      "user": "3tba7-fz547-xrfug-nwxw5-ec2mv-f26wy-jhljj-7lmt6-rm7a5-hrzjh-mae",
+      "token": "2dzg",
+      "time": "2025-07-01T07:20:06.000Z",
+      "buy": true,
+      "amount_btc": 140077835,
+      "amount_token": 4771239299626571,
+      "price": 2942,
+      "bonded": true,
+      "user_username": "ajhgh",
+      "user_image": "62f482f6-4be3-4a92-9e12-52f6d4963212.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51643456",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T07:18:09.000Z",
+      "buy": true,
+      "amount_btc": 238539065,
+      "amount_token": 8290534286367081,
+      "price": 2899,
+      "bonded": true,
+      "user_username": "wyfh-mjhfg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51643115",
+      "user": "j7c54-sbnbm-rvbft-a4xoy-h2ip6-exz4j-xn2po-efksc-yqk6a-3dzgb-4ae",
+      "token": "2dzg",
+      "time": "2025-07-01T07:16:44.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1764796310914268,
+      "price": 2826,
+      "bonded": true,
+      "user_username": "清华学园",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51642882",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-01T07:16:29.000Z",
+      "buy": true,
+      "amount_btc": 130000000,
+      "amount_token": 4633372082047945,
+      "price": 2811,
+      "bonded": true,
+      "user_username": "ln2s4-ka7p2",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
