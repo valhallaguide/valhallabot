@@ -1,5 +1,5 @@
 {
-  "count": 558,
+  "count": 561,
   "data": [
     {
       "id": "51581122",
@@ -8368,6 +8368,51 @@
       "bonded": true,
       "user_username": "先赚一个亿",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51657538",
+      "user": "rnj2z-hybx7-w35sj-tr6ms-qzax4-tmlgm-ysc63-2eg6h-exe54-ezecg-uae",
+      "token": "2dzg",
+      "time": "2025-07-01T08:49:27.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 257868249125870,
+      "price": 3860,
+      "bonded": true,
+      "user_username": "jinshuitu1319",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51657435",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-01T08:49:00.000Z",
+      "buy": false,
+      "amount_btc": 48113324,
+      "amount_token": 1251179696826399,
+      "price": 3856,
+      "bonded": true,
+      "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51656872",
+      "user": "qveej-x372m-dxwxo-tx2k5-xmurs-tehsf-hzej5-he3op-4ctjh-eklr2-dae",
+      "token": "2dzg",
+      "time": "2025-07-01T08:45:32.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 3878313106700653,
+      "price": 3872,
+      "bonded": true,
+      "user_username": "HOZ Hero",
+      "user_image": "f889a1a0-0bb0-48bb-90cd-ba9846ca2396.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
