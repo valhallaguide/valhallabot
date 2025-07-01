@@ -1,5 +1,5 @@
 {
-  "count": 613,
+  "count": 617,
   "data": [
     {
       "id": "51581122",
@@ -9192,6 +9192,66 @@
       "price": 3584,
       "bonded": true,
       "user_username": "q3ufw-4wbkl",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662559",
+      "user": "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:39:42.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 272916582165500,
+      "price": 3647,
+      "bonded": true,
+      "user_username": "jh2pb-wqscg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662452",
+      "user": "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:37:26.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 136543244203326,
+      "price": 3644,
+      "bonded": true,
+      "user_username": "jh2pb-wqscg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662425",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:36:13.000Z",
+      "buy": false,
+      "amount_btc": 5273692,
+      "amount_token": 145466657234846,
+      "price": 3642,
+      "bonded": true,
+      "user_username": "wyfh-mjhfg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662419",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:36:09.000Z",
+      "buy": true,
+      "amount_btc": 8292885,
+      "amount_token": 226492888076838,
+      "price": 3644,
+      "bonded": true,
+      "user_username": "wyfh-mjhfg",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
