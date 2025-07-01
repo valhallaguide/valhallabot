@@ -1,5 +1,5 @@
 {
-  "count": 617,
+  "count": 622,
   "data": [
     {
       "id": "51581122",
@@ -9253,6 +9253,81 @@
       "bonded": true,
       "user_username": "wyfh-mjhfg",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51663014",
+      "user": "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:45:01.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 28171085367086,
+      "price": 3532,
+      "bonded": true,
+      "user_username": "SOB社区丨crazier",
+      "user_image": "b3d07e20-1c03-48a3-9167-ab4ce83b395e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662999",
+      "user": "2sv25-7wbak-x2qyw-dbhnj-jcxfw-zqe3z-lqujv-wobkd-rsbqb-jv3ku-mae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:44:47.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 28173461476094,
+      "price": 3531,
+      "bonded": true,
+      "user_username": "SOB社区丨crazier",
+      "user_image": "b3d07e20-1c03-48a3-9167-ab4ce83b395e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662854",
+      "user": "jbyam-hditb-mwpn3-e474q-kcjhs-rvsck-5vdbz-zuji4-k7uwj-zlynx-xae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:43:15.000Z",
+      "buy": false,
+      "amount_btc": 10876395,
+      "amount_token": 309383270454943,
+      "price": 3531,
+      "bonded": true,
+      "user_username": "jbyam-hditb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662785",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-01T09:42:28.000Z",
+      "buy": false,
+      "amount_btc": 58655655,
+      "amount_token": 1663571224223689,
+      "price": 3534,
+      "bonded": true,
+      "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51662764",
+      "user": "hok32-7rvkh-s4nbn-helr7-4nbye-tsvck-k3dvf-aayap-bgmc6-uhpqp-4ae",
+      "token": "2dzg",
+      "time": "2025-07-01T09:42:16.000Z",
+      "buy": false,
+      "amount_btc": 313115829,
+      "amount_token": 8742534127597401,
+      "price": 3552,
+      "bonded": true,
+      "user_username": "i am the balancing point",
+      "user_image": "47f4fd3f-79f4-4187-91f4-47eccb499519.png",
       "decimals": 3,
       "divisibility": 8
     }
