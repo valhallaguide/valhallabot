@@ -1,5 +1,5 @@
 {
-  "count": 824,
+  "count": 828,
   "data": [
     {
       "id": "51581122",
@@ -12358,6 +12358,66 @@
       "bonded": true,
       "user_username": "wyfo-yxhse",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722912",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T17:54:57.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1648208946492653,
+      "price": 3025,
+      "bonded": true,
+      "user_username": "BTC1P",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722843",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T17:52:01.000Z",
+      "buy": false,
+      "amount_btc": 9900265,
+      "amount_token": 330279255051208,
+      "price": 3011,
+      "bonded": true,
+      "user_username": "BTC1P",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722816",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T17:51:35.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 330279255051208,
+      "price": 3014,
+      "bonded": true,
+      "user_username": "BTC1P",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51722788",
+      "user": "k4dva-dmsed-lsybz-yoldf-6ioxe-z54xh-nvlq2-vtv4s-2vbym-m2lem-5qe",
+      "token": "2dzg",
+      "time": "2025-07-01T17:51:11.000Z",
+      "buy": true,
+      "amount_btc": 132051880,
+      "amount_token": 4391544970162533,
+      "price": 3011,
+      "bonded": true,
+      "user_username": "财神玩家qq392399691",
+      "user_image": "257fbfa7-616e-44e3-ac59-f000f43ad89c.png",
       "decimals": 3,
       "divisibility": 8
     }
