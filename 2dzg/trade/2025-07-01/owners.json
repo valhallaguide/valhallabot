@@ -49,13 +49,6 @@
     "user_image": null
   },
   {
-    "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
-    "token": "2dzg",
-    "balance": 33129446099040796,
-    "user_username": "valhalla holder",
-    "user_image": null
-  },
-  {
     "user": "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae",
     "token": "2dzg",
     "balance": 31688656604575360,
@@ -175,24 +168,10 @@
     "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
   },
   {
-    "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
-    "token": "2dzg",
-    "balance": 12490059088141554,
-    "user_username": "uj2ot-rsdjv",
-    "user_image": null
-  },
-  {
     "user": "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe",
     "token": "2dzg",
     "balance": 12220667844433944,
     "user_username": "7sfwt-qm2ht",
-    "user_image": null
-  },
-  {
-    "user": "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe",
-    "token": "2dzg",
-    "balance": 12187127069717384,
-    "user_username": "x3snx-wrugd",
     "user_image": null
   },
   {
@@ -707,13 +686,6 @@
     "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg"
   },
   {
-    "user": "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe",
-    "token": "2dzg",
-    "balance": 224928860783543,
-    "user_username": "mei6g-cngyr",
-    "user_image": null
-  },
-  {
     "user": "sotbo-rmkba-hxf4w-54b6w-fgfhd-6i4v4-lr4n3-dhbdo-irvhg-t6srr-3ae",
     "token": "2dzg",
     "balance": 198999037426523,
@@ -823,6 +795,13 @@
     "token": "2dzg",
     "balance": 2,
     "user_username": "八方来财·因果",
+    "user_image": null
+  },
+  {
+    "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
+    "token": "2dzg",
+    "balance": 1,
+    "user_username": "uj2ot-rsdjv",
     "user_image": null
   },
   {
