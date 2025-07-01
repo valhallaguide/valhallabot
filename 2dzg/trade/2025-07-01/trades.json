@@ -1,5 +1,5 @@
 {
-  "count": 682,
+  "count": 684,
   "data": [
     {
       "id": "51581122",
@@ -10227,6 +10227,36 @@
       "price": 3886,
       "bonded": true,
       "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676369",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:45:17.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12798962112368,
+      "price": 3887,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51676336",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-01T11:44:55.000Z",
+      "buy": true,
+      "amount_btc": 500000,
+      "amount_token": 12799465105983,
+      "price": 3886,
+      "bonded": true,
+      "user_username": "BOB一起共识VALHALLA,Q群784386301",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
