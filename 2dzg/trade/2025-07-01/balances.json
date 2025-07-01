@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 162,
-    "nonSellersCount": 138,
-    "sellersCount": 24,
-    "totalBalance": 1163538234929449500
+    "totalUsers": 155,
+    "nonSellersCount": 137,
+    "sellersCount": 18,
+    "totalBalance": 1188578092594797600
   },
   "data": {
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
@@ -11,7 +11,7 @@
       "username": "valhalla.guide"
     },
     "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
-      "balance": 48857974196305060,
+      "balance": 61725459282896860,
       "username": "ex224-qnaa7"
     },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
@@ -54,6 +54,10 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
+    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
+      "balance": 26016383739368950,
+      "username": "jilkufyrjy.rybjbnb"
+    },
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 23356153067054876,
       "username": "ddbea-3vrre"
@@ -82,10 +86,6 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
-    "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
-      "balance": 19813318478009144,
-      "username": "jilkufyrjy.rybjbnb"
-    },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
@@ -113,6 +113,10 @@
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "suhhong"
+    },
+    "fvl6j-7gxnk-ndgpy-3vpes-h3f6h-4io5c-7yytn-l6bvg-lrtkh-6gan4-3ae": {
+      "balance": 13347229975583084,
+      "username": "至坚者"
     },
     "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe": {
       "balance": 12491368838035974,
@@ -178,14 +182,6 @@
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
     },
-    "fvl6j-7gxnk-ndgpy-3vpes-h3f6h-4io5c-7yytn-l6bvg-lrtkh-6gan4-3ae": {
-      "balance": 7956426355048013,
-      "username": "至坚者"
-    },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 7819453144434196,
-      "username": "aimed"
-    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
       "username": "mu2728"
@@ -213,6 +209,10 @@
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 6940927347557354,
       "username": "mark .james"
+    },
+    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
+      "balance": 6619453115080067,
+      "username": "aimed"
     },
     "pahtp-nwxzh-5ns2n-jeobh-5pfkx-wy52r-de3np-y2mgz-l2igm-nkerx-nqe": {
       "balance": 6392569673230623,
@@ -269,6 +269,10 @@
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
+    },
+    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
+      "balance": 3707289153680104,
+      "username": "路飞启航"
     },
     "o3vh4-h5j3t-thetv-ssu55-x5prp-us4ud-4isej-4g5el-qasts-5ssrh-vqe": {
       "balance": 3466601017237191,
@@ -370,10 +374,6 @@
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
     },
-    "2swwg-jnuyi-ceyjn-lemuc-v3eo5-gfll6-mqt7p-wytv3-4fsrk-frd4m-fqe": {
-      "balance": 1126189728330970,
-      "username": "2swwg-jnuyi"
-    },
     "2mwmm-rbrc3-jhkvh-wmmrx-ynsco-5k2eh-5e5ex-vxge3-jsw4k-vzaum-5ae": {
       "balance": 1115161684048323,
       "username": "2mwmm-rbrc3"
@@ -393,10 +393,6 @@
     "uhenm-r4bjv-sbzon-v3etv-quxzz-u74wx-bzlru-nhnwo-kjjq6-chr6v-nae": {
       "balance": 888296108894688,
       "username": "百大社区一兰州团队"
-    },
-    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
-      "balance": 802595699132983,
-      "username": "路飞启航"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
