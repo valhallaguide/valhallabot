@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 48,
   "data": [
     {
       "id": "51581122",
@@ -688,6 +688,36 @@
       "bonded": true,
       "user_username": "比特强",
       "user_image": "947d1b63-025b-4f3b-afb6-facf27699c47.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51629819",
+      "user": "ozn6k-uyxdz-6t4gi-u2gwb-akf7r-miix5-5lpzi-ucvaa-tyg3l-k3hjk-7ae",
+      "token": "2dzg",
+      "time": "2025-07-01T05:59:04.000Z",
+      "buy": false,
+      "amount_btc": 99404257,
+      "amount_token": 7054348201203862,
+      "price": 1405,
+      "bonded": true,
+      "user_username": "mi5e8-i6gei",
+      "user_image": "bb5af3fe-3fb0-4c41-a9e4-06efb929bef2.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51629494",
+      "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
+      "token": "2dzg",
+      "time": "2025-07-01T05:56:58.000Z",
+      "buy": false,
+      "amount_btc": 51714089,
+      "amount_token": 3628329585129684,
+      "price": 1426,
+      "bonded": true,
+      "user_username": "statue-Asd",
+      "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
       "decimals": 3,
       "divisibility": 8
     }
