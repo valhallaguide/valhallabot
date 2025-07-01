@@ -1,5 +1,5 @@
 {
-  "count": 752,
+  "count": 757,
   "data": [
     {
       "id": "51581122",
@@ -11278,6 +11278,81 @@
       "bonded": true,
       "user_username": "5qgvt-q3nkh",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51717891",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T16:45:47.000Z",
+      "buy": true,
+      "amount_btc": 53983671,
+      "amount_token": 1338753960557205,
+      "price": 4020,
+      "bonded": true,
+      "user_username": "Valhalla社区q群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51717885",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T16:45:38.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1244878700402631,
+      "price": 4003,
+      "bonded": true,
+      "user_username": "Valhalla社区q群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51717874",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-01T16:45:36.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1249635200376830,
+      "price": 3988,
+      "bonded": true,
+      "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51717869",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T16:45:31.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1254419027152914,
+      "price": 3973,
+      "bonded": true,
+      "user_username": "Valhalla社区q群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51717863",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-01T16:45:26.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1259230390514259,
+      "price": 3958,
+      "bonded": true,
+      "user_username": "Valhalla社区q群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
