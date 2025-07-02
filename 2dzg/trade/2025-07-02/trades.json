@@ -1,5 +1,5 @@
 {
-  "count": 1802,
+  "count": 1803,
   "data": [
     {
       "id": "51735978",
@@ -27028,6 +27028,21 @@
       "bonded": true,
       "user_username": "B0B共识VALHALLA,Q群784386301",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51798480",
+      "user": "sjff4-atgmt-rxc2j-6iqky-pxjxa-iq3q5-55oo6-oa3kr-abjqj-psg4k-zae",
+      "token": "2dzg",
+      "time": "2025-07-02T09:17:13.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 1790566088449375,
+      "price": 8363,
+      "bonded": true,
+      "user_username": "4h3bxx-d2p1x",
+      "user_image": "a76fccaa-1f9d-40c0-805f-560d5200be4c.png",
       "decimals": 3,
       "divisibility": 8
     }
