@@ -1,5 +1,5 @@
 {
-  "count": 1793,
+  "count": 1794,
   "data": [
     {
       "id": "51735978",
@@ -26892,6 +26892,21 @@
       "price": 8153,
       "bonded": true,
       "user_username": "奥丁传奇人物",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51796781",
+      "user": "2swwg-jnuyi-ceyjn-lemuc-v3eo5-gfll6-mqt7p-wytv3-4fsrk-frd4m-fqe",
+      "token": "2dzg",
+      "time": "2025-07-02T08:56:15.000Z",
+      "buy": true,
+      "amount_btc": 18436752,
+      "amount_token": 224902162349843,
+      "price": 8160,
+      "bonded": true,
+      "user_username": "2swwg-jnuyi",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
