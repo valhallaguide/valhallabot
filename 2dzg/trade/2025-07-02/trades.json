@@ -1,5 +1,5 @@
 {
-  "count": 1884,
+  "count": 1888,
   "data": [
     {
       "id": "51735978",
@@ -28258,6 +28258,66 @@
       "bonded": true,
       "user_username": "brd7t-hdxjk",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51830634",
+      "user": "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe",
+      "token": "2dzg",
+      "time": "2025-07-02T14:10:23.000Z",
+      "buy": false,
+      "amount_btc": 878667699,
+      "amount_token": 10974430894833648,
+      "price": 7883,
+      "bonded": true,
+      "user_username": "LetsGOoo",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51830564",
+      "user": "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae",
+      "token": "2dzg",
+      "time": "2025-07-02T14:09:21.000Z",
+      "buy": false,
+      "amount_btc": 246572905,
+      "amount_token": 3000000000000000,
+      "price": 8213,
+      "bonded": true,
+      "user_username": "jilkufyrjy.rybjbnb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51830529",
+      "user": "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae",
+      "token": "2dzg",
+      "time": "2025-07-02T14:08:54.000Z",
+      "buy": false,
+      "amount_btc": 37040166,
+      "amount_token": 447723672919361,
+      "price": 8307,
+      "bonded": true,
+      "user_username": "brd7t-hdxjk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51830478",
+      "user": "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae",
+      "token": "2dzg",
+      "time": "2025-07-02T14:07:50.000Z",
+      "buy": false,
+      "amount_btc": 236759311,
+      "amount_token": 2843956046638022,
+      "price": 8321,
+      "bonded": true,
+      "user_username": "bobCOIN",
+      "user_image": "9754b99c-2fc7-411b-a6a1-842f702e435e.jpg",
       "decimals": 3,
       "divisibility": 8
     }
