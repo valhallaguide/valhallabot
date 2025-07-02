@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 169,
-    "nonSellersCount": 136,
+    "totalUsers": 168,
+    "nonSellersCount": 135,
     "sellersCount": 33,
-    "totalBalance": 1201995163805361400
+    "totalBalance": 1204591936840336100
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -162,6 +162,10 @@
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
     },
+    "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
+      "balance": 10166184009577678,
+      "username": "oe333"
+    },
     "t6puy-uugih-hrixj-iauuu-fnrkg-nuebk-qspjr-4drfn-mrzoz-vue6q-yae": {
       "balance": 10000000000000000,
       "username": "bit-dog"
@@ -266,10 +270,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe": {
-      "balance": 4598423693563567,
-      "username": "jsurg-smamr"
-    },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
@@ -285,10 +285,6 @@
     "uvtrg-rv5xc-qgfwd-mogac-kuh5q-uza4k-bayss-slol5-pey3k-pagcy-bae": {
       "balance": 3333530888839647,
       "username": "uvtrg-rv5xc"
-    },
-    "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
-      "balance": 2970987281039523,
-      "username": "oe333"
     },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
