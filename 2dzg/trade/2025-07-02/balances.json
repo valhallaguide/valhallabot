@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 191,
-    "nonSellersCount": 144,
-    "sellersCount": 47,
-    "totalBalance": 1210960067339378200
+    "totalUsers": 200,
+    "nonSellersCount": 152,
+    "sellersCount": 48,
+    "totalBalance": 1228649979149085400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -54,6 +54,10 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
+    "qnq6i-3kytj-7t26i-pc3rv-vfptu-xyd22-myu6q-5rujr-jxla6-ig5t5-hae": {
+      "balance": 25262902835671788,
+      "username": "WBNB大群QQ.873122156"
+    },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
@@ -82,10 +86,6 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
-    "qnq6i-3kytj-7t26i-pc3rv-vfptu-xyd22-myu6q-5rujr-jxla6-ig5t5-hae": {
-      "balance": 18389539430158010,
-      "username": "WBNB大群QQ.873122156"
-    },
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 17405231357358748,
       "username": "peezy"
@@ -102,10 +102,6 @@
       "balance": 14490293014325164,
       "username": "3w27axru"
     },
-    "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae": {
-      "balance": 14333687480919956,
-      "username": "dthfssg"
-    },
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "suhhong"
@@ -118,13 +114,13 @@
       "balance": 13347229975583084,
       "username": "至坚者"
     },
+    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
+      "balance": 12319183479352480,
+      "username": "龙腾大国"
+    },
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
-    },
-    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
-      "balance": 11933328718261842,
-      "username": "龙腾大国"
     },
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 11840965278146128,
@@ -178,6 +174,14 @@
       "balance": 8840037040823085,
       "username": "DRAGONKNIGHT.blife"
     },
+    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
+      "balance": 8715068908876272,
+      "username": "芭菲特"
+    },
+    "y6xfv-2xoa4-auvhv-lhwcb-5qty6-3t4yn-x6c7y-hkbzb-j734m-mjtag-cqe": {
+      "balance": 8705990032356761,
+      "username": "大展宏图"
+    },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 8561394098609697,
       "username": "Elon_mAsk"
@@ -205,6 +209,10 @@
     "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
       "balance": 7400990061146891,
       "username": "大波浪"
+    },
+    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
+      "balance": 7289761053366775,
+      "username": "Brandon Stark"
     },
     "i453a-fj6le-iym23-qo7t3-dlx5u-ggvxe-e4yya-d2ecq-xovu7-wawdb-cqe": {
       "balance": 7174464966845094,
@@ -242,10 +250,6 @@
       "balance": 5778133199100447,
       "username": "奥丁王子"
     },
-    "mk2zy-smtdj-nfnlj-4a4xl-7wdd5-rexu6-q22pr-snidb-s4wrv-5gs6h-3qe": {
-      "balance": 5694475207755456,
-      "username": "Htsxt-aks🇨🇳"
-    },
     "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae": {
       "balance": 5687912093276045,
       "username": "bobCOIN"
@@ -253,10 +257,6 @@
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
-    },
-    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
-      "balance": 5481523282484917,
-      "username": "芭菲特"
     },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
@@ -269,10 +269,6 @@
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
       "username": "很好吃"
-    },
-    "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
-      "balance": 4959512335638449,
-      "username": "Brandon Stark"
     },
     "pyqml-vhe6e-q6l64-4ianv-xbf3u-co6tg-s6ign-v3t6d-ixz43-mg5ah-2ae": {
       "balance": 4927293145988130,
@@ -290,6 +286,10 @@
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
     },
+    "p5cmx-5d4xp-ybxoj-3rdjt-by626-ck3kq-cvcd2-zf7bp-7fl4t-ym2by-fae": {
+      "balance": 3548538627086521,
+      "username": "p5cmx-5d4xp"
+    },
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
@@ -298,9 +298,21 @@
       "balance": 3333530888839647,
       "username": "uvtrg-rv5xc"
     },
+    "wmj3f-mz3ew-eadqg-dwpkv-5wvki-bm6gq-5gyfx-tafi6-2jyed-o7yfd-zae": {
+      "balance": 3275670242387853,
+      "username": "wmj3f-mz3ew"
+    },
+    "qmu4q-kce7a-kbxbo-yerur-atxc3-3gvhe-vlmuv-t6eay-3hbg3-b24ly-gae": {
+      "balance": 2832898611744487,
+      "username": "qmu4q-kce7a"
+    },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
+    },
+    "rvwyi-cu4zl-2awow-bsmrk-57zu5-xxyw5-nn3r6-iusjb-e7ugk-riehy-sqe": {
+      "balance": 2748487933058976,
+      "username": "Leonidas$DOG"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
@@ -333,6 +345,10 @@
     "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
       "balance": 2146240616849235,
       "username": "odinBTC生态"
+    },
+    "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
+      "balance": 2146072217179325,
+      "username": "海外胡子社区141319"
     },
     "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae": {
       "balance": 2112402163277873,
@@ -370,9 +386,9 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
-    "k4mqg-xra54-7qn37-4ofqe-nuw7j-pbxcf-yn2b3-vpkj5-t6dtn-eg63w-xqe": {
-      "balance": 1287709561921525,
-      "username": "k4mqg-xra54"
+    "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
+      "balance": 1180091938418305,
+      "username": "Fartus deus"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
@@ -406,10 +422,6 @@
       "balance": 937342173860696,
       "username": "W-X24"
     },
-    "s2yzr-4wyrh-53oer-ldfac-mhvny-yfvzk-xxjer-x6n3n-dq4ut-hixrq-nqe": {
-      "balance": 915416778975125,
-      "username": "Defi_奥丁"
-    },
     "c2dkm-6vyhq-ckzta-oku5j-rqdy3-z276h-uqddz-eet2t-ew47w-vp5hl-oqe": {
       "balance": 854241668872776,
       "username": "八卦镜"
@@ -418,6 +430,14 @@
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
     },
+    "y5lcp-hfrzt-q5etq-jvkpw-2h4gv-s6uc3-h5ctx-4f4qx-y4dqv-aaz6u-eqe": {
+      "balance": 785130242423948,
+      "username": "wo68lcp-hfrzt"
+    },
+    "bb2tb-hk2ud-5223h-aefo3-4mmw7-326ql-xgevr-e4vn5-mq3rv-7kyex-qqe": {
+      "balance": 773665699240890,
+      "username": "bb2tb-hk2ud"
+    },
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
@@ -425,6 +445,10 @@
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 705930756995048,
       "username": "mengou2"
+    },
+    "uio3x-ksrga-c6mlv-t6ngr-vcvoc-rl4d7-azilh-f654q-we2xx-yvgr5-eae": {
+      "balance": 703237867485321,
+      "username": "H.K. Club-yun"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
@@ -482,6 +506,14 @@
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
     },
+    "r2xkz-3bpmj-hblos-ohfgu-6aexk-wk5wv-4miim-mfsx7-h7l3n-nuoev-qae": {
+      "balance": 274609034100622,
+      "username": "BOsHS"
+    },
+    "54nfj-vpkqf-xopdc-52ilv-pl63d-mmnhx-vorx5-t6e32-uvc7i-cy3em-3qe": {
+      "balance": 238634517092238,
+      "username": "奥丁小财神"
+    },
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 237881741648074,
       "username": "cola999"
@@ -502,10 +534,6 @@
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
     },
-    "is5tn-kzd57-fnv6f-4sp7t-b2yq4-a5oax-zzelv-soovx-4yfso-lgus5-xae": {
-      "balance": 187876004421007,
-      "username": "is5tn-kzd57"
-    },
     "hdrdg-hb4xc-kmnkf-5osey-b5yzd-nmz6f-pjs7f-6slkb-xmqpp-2t6tf-yqe": {
       "balance": 161734586366839,
       "username": "GEESE"
@@ -521,6 +549,10 @@
     "6ehae-qpmis-gvl5c-j7liu-5twje-zwy7q-mjqp3-rpnic-jlp5c-og4rg-sae": {
       "balance": 93276508879229,
       "username": "6ehae-qpmis"
+    },
+    "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
+      "balance": 73037370399980,
+      "username": "kzfro-twshm"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
