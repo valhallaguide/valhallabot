@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 205,
+    "totalUsers": 206,
     "nonSellersCount": 138,
-    "sellersCount": 67,
-    "totalBalance": 1044749728478647600
+    "sellersCount": 68,
+    "totalBalance": 1056095716618509000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -49,6 +49,10 @@
     "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
       "balance": 21948861789667296,
       "username": "LetsGOoo"
+    },
+    "vt2gd-ak3gc-gud4k-qg77y-lndvs-h23jr-oe5fn-irwti-pa3gc-zikzm-yae": {
+      "balance": 21761943435099500,
+      "username": "哈没事"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
@@ -141,10 +145,6 @@
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 10435392807283444,
       "username": "soonbob"
-    },
-    "vt2gd-ak3gc-gud4k-qg77y-lndvs-h23jr-oe5fn-irwti-pa3gc-zikzm-yae": {
-      "balance": 10415955295237864,
-      "username": "哈没事"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
