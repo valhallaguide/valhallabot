@@ -140,6 +140,13 @@
     "user_image": "363baf9d-57e7-4e79-8b39-24859f6748d0.jpeg"
   },
   {
+    "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+    "token": "2dzg",
+    "balance": 21000000000000000,
+    "user_username": "valhalla holder",
+    "user_image": null
+  },
+  {
     "user": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
     "token": "2dzg",
     "balance": 20800013547550012,
@@ -333,13 +340,6 @@
     "token": "2dzg",
     "balance": 10500757818513568,
     "user_username": "6y2r4-ux2vg",
-    "user_image": null
-  },
-  {
-    "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
-    "token": "2dzg",
-    "balance": 10500000000000000,
-    "user_username": "valhalla holder",
     "user_image": null
   },
   {
