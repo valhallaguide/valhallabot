@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 213,
-    "nonSellersCount": 143,
-    "sellersCount": 70,
-    "totalBalance": 1026328728878708100
+    "nonSellersCount": 142,
+    "sellersCount": 71,
+    "totalBalance": 1027152337957823600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -58,6 +58,10 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
+    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
+      "balance": 20712159439939624,
+      "username": "龙腾大国"
+    },
     "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
       "balance": 19279078997416748,
       "username": "hgfc-ndkf"
@@ -69,10 +73,6 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
-    },
-    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
-      "balance": 18773388676775604,
-      "username": "龙腾大国"
     },
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 17405231357358748,
@@ -361,10 +361,6 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
-    },
-    "2mwmm-rbrc3-jhkvh-wmmrx-ynsco-5k2eh-5e5ex-vxge3-jsw4k-vzaum-5ae": {
-      "balance": 1115161684048323,
-      "username": "2mwmm-rbrc3"
     },
     "m4xzo-6a6u2-tgdgc-gyjpb-6kvq6-id5co-so7gg-luwua-yzif4-kk4xa-fae": {
       "balance": 970664829392592,
