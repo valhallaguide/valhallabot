@@ -1,5 +1,5 @@
 {
-  "count": 1747,
+  "count": 1749,
   "data": [
     {
       "id": "51735978",
@@ -26203,6 +26203,36 @@
       "bonded": true,
       "user_username": "ajhgh",
       "user_image": "62f482f6-4be3-4a92-9e12-52f6d4963212.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51792266",
+      "user": "2u66t-q5syb-veqqh-vmgs5-gb5r7-n63yk-eavjj-dhn7v-tjipp-ws3g6-wqe",
+      "token": "2dzg",
+      "time": "2025-07-02T07:58:53.000Z",
+      "buy": false,
+      "amount_btc": 136492469,
+      "amount_token": 1620601100797871,
+      "price": 8438,
+      "bonded": true,
+      "user_username": "2u66t-q5syb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51792237",
+      "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+      "token": "2dzg",
+      "time": "2025-07-02T07:58:19.000Z",
+      "buy": false,
+      "amount_btc": 905085188,
+      "amount_token": 10500000000000000,
+      "price": 8490,
+      "bonded": true,
+      "user_username": "valhalla holder",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
