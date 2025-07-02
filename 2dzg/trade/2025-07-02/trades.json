@@ -1,5 +1,5 @@
 {
-  "count": 2044,
+  "count": 2047,
   "data": [
     {
       "id": "51735978",
@@ -30657,6 +30657,51 @@
       "price": 7815,
       "bonded": true,
       "user_username": "idhdidf-de4f4",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51866692",
+      "user": "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe",
+      "token": "2dzg",
+      "time": "2025-07-02T22:05:10.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 646024849794719,
+      "price": 7710,
+      "bonded": true,
+      "user_username": "crab",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51866591",
+      "user": "3rafo-efmdq-2sfwg-yfrr3-53g3c-7vr4n-lhvmq-2d4gg-zy2td-naon6-uae",
+      "token": "2dzg",
+      "time": "2025-07-02T22:02:31.000Z",
+      "buy": false,
+      "amount_btc": 158472088,
+      "amount_token": 2062820702736485,
+      "price": 7691,
+      "bonded": true,
+      "user_username": "idhdidf-de4f4",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51866557",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-02T22:01:41.000Z",
+      "buy": false,
+      "amount_btc": 178111984,
+      "amount_token": 2300000000000000,
+      "price": 7750,
+      "bonded": true,
+      "user_username": "友谊社区",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
