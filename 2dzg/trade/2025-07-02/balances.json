@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 170,
-    "nonSellersCount": 137,
-    "sellersCount": 33,
-    "totalBalance": 1232209614095099000
+    "totalUsers": 164,
+    "nonSellersCount": 135,
+    "sellersCount": 29,
+    "totalBalance": 1204194692438168000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -90,10 +90,6 @@
       "balance": 16946660889489180,
       "username": "peezy"
     },
-    "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae": {
-      "balance": 16267329533995092,
-      "username": "wangbaoze"
-    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 15976066208091220,
       "username": "BigFoot"
@@ -137,10 +133,6 @@
     "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
       "balance": 11811596360194460,
       "username": "r5m5w-x5lhb"
-    },
-    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
-      "balance": 11747592122935112,
-      "username": "龙腾大国"
     },
     "h36o4-3hx4g-447el-qbnjm-swrbg-lbsa5-wgxzv-cekpu-ar6dk-giqeq-jqe": {
       "balance": 11644986120133864,
