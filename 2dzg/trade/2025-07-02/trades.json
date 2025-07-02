@@ -1,5 +1,5 @@
 {
-  "count": 2042,
+  "count": 2043,
   "data": [
     {
       "id": "51735978",
@@ -30628,6 +30628,21 @@
       "bonded": true,
       "user_username": "JUANCHO",
       "user_image": "fd6988f0-aa4f-4442-a5c2-87cb13b809b7.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51858952",
+      "user": "23qal-vsxhm-4sq2r-dqx3b-7ofdv-wgffq-yj5ju-dwzek-mdx4c-lz4io-iae",
+      "token": "2dzg",
+      "time": "2025-07-02T18:50:24.000Z",
+      "buy": true,
+      "amount_btc": 200000000,
+      "amount_token": 2559381559889790,
+      "price": 7811,
+      "bonded": true,
+      "user_username": "挂在山顶吹冷风",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
