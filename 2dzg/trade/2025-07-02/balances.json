@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 191,
-    "nonSellersCount": 144,
-    "sellersCount": 47,
-    "totalBalance": 1210960067339378200
+    "totalUsers": 180,
+    "nonSellersCount": 139,
+    "sellersCount": 41,
+    "totalBalance": 1183295786470572500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -82,12 +82,8 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
-    "qnq6i-3kytj-7t26i-pc3rv-vfptu-xyd22-myu6q-5rujr-jxla6-ig5t5-hae": {
-      "balance": 18389539430158010,
-      "username": "WBNB大群QQ.873122156"
-    },
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 17405231357358748,
+      "balance": 16946660889489180,
       "username": "peezy"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
@@ -254,10 +250,6 @@
       "balance": 5672992948105693,
       "username": "biainihigh"
     },
-    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
-      "balance": 5481523282484917,
-      "username": "芭菲特"
-    },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
@@ -309,10 +301,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "7qqvd-klw2n-3uxyz-qrus2-cku3t-qhold-ls2ij-ykihe-65yet-3h4pr-rqe": {
-      "balance": 2351317998244231,
-      "username": "potatos"
     },
     "cq3lp-qczbk-brylt-rlatr-k4ow5-hnff7-xqnco-huupv-vpsbx-mgvg4-5ae": {
       "balance": 2318204363768671,
@@ -405,10 +393,6 @@
     "kns6u-cfpyr-ghzyd-6mru5-ek436-vyhej-sggj2-ywrhe-ygy6t-rsjem-cqe": {
       "balance": 937342173860696,
       "username": "W-X24"
-    },
-    "s2yzr-4wyrh-53oer-ldfac-mhvny-yfvzk-xxjer-x6n3n-dq4ut-hixrq-nqe": {
-      "balance": 915416778975125,
-      "username": "Defi_奥丁"
     },
     "c2dkm-6vyhq-ckzta-oku5j-rqdy3-z276h-uqddz-eet2t-ew47w-vp5hl-oqe": {
       "balance": 854241668872776,
@@ -506,9 +490,9 @@
       "balance": 187876004421007,
       "username": "is5tn-kzd57"
     },
-    "hdrdg-hb4xc-kmnkf-5osey-b5yzd-nmz6f-pjs7f-6slkb-xmqpp-2t6tf-yqe": {
-      "balance": 161734586366839,
-      "username": "GEESE"
+    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
+      "balance": 187098184171500,
+      "username": "芭菲特"
     },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
@@ -517,10 +501,6 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
-    },
-    "6ehae-qpmis-gvl5c-j7liu-5twje-zwy7q-mjqp3-rpnic-jlp5c-og4rg-sae": {
-      "balance": 93276508879229,
-      "username": "6ehae-qpmis"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
