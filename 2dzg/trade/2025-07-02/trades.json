@@ -1,5 +1,5 @@
 {
-  "count": 1862,
+  "count": 1866,
   "data": [
     {
       "id": "51735978",
@@ -27928,6 +27928,66 @@
       "bonded": true,
       "user_username": "链聚星辰社区.群1043994298",
       "user_image": "70f1f412-ec1b-48eb-ad37-9defceefaaaf.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51820651",
+      "user": "az6il-s4m7f-sbr2o-acr2q-h7rkc-7cmfj-elrf3-4zknx-c74ru-fwcqu-fqe",
+      "token": "2dzg",
+      "time": "2025-07-02T12:44:04.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 585229806946129,
+      "price": 8510,
+      "bonded": true,
+      "user_username": "az6il-s4m7f",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51820646",
+      "user": "67lnr-ahbgb-eayer-s4vyv-tw3ye-fbyhu-6s4k4-2h4dh-d6s6q-sl3td-gae",
+      "token": "2dzg",
+      "time": "2025-07-02T12:44:03.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 586549788085255,
+      "price": 8491,
+      "bonded": true,
+      "user_username": "67lnr-ahbgb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51820475",
+      "user": "pqjad-gdwyu-nez7a-czr4o-haowy-sspfj-lnzoz-73dfu-jz4iq-7gev6-sqe",
+      "token": "2dzg",
+      "time": "2025-07-02T12:42:16.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 587874242327567,
+      "price": 8472,
+      "bonded": true,
+      "user_username": "H.K.Club",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51820340",
+      "user": "vt2gd-ak3gc-gud4k-qg77y-lndvs-h23jr-oe5fn-irwti-pa3gc-zikzm-yae",
+      "token": "2dzg",
+      "time": "2025-07-02T12:41:33.000Z",
+      "buy": true,
+      "amount_btc": 943351144,
+      "amount_token": 11345988139861636,
+      "price": 8452,
+      "bonded": true,
+      "user_username": "哈没事",
+      "user_image": "1e211e80-90ba-4619-9073-8cfdf890a8dd.png",
       "decimals": 3,
       "divisibility": 8
     }
