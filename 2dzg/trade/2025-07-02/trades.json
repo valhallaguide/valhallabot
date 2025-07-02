@@ -1,5 +1,5 @@
 {
-  "count": 1860,
+  "count": 1862,
   "data": [
     {
       "id": "51735978",
@@ -27898,6 +27898,36 @@
       "bonded": true,
       "user_username": "jnyzyqw-12",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51819290",
+      "user": "cqgyz-2gljx-6hbft-uudmr-njozm-cg2kk-7dnn5-2gbqk-fcc6n-lylki-eqe",
+      "token": "2dzg",
+      "time": "2025-07-02T12:33:37.000Z",
+      "buy": false,
+      "amount_btc": 98910978,
+      "amount_token": 1224921259224549,
+      "price": 8096,
+      "bonded": true,
+      "user_username": "ainfd-Fdthfr",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51819243",
+      "user": "iggl2-4ndix-nh34s-t7s5j-6egcp-6kbtn-47fgi-oli4r-wgmao-hudjj-kae",
+      "token": "2dzg",
+      "time": "2025-07-02T12:33:06.000Z",
+      "buy": false,
+      "amount_btc": 20188127,
+      "amount_token": 249320581255581,
+      "price": 8134,
+      "bonded": true,
+      "user_username": "链聚星辰社区.群1043994298",
+      "user_image": "70f1f412-ec1b-48eb-ad37-9defceefaaaf.png",
       "decimals": 3,
       "divisibility": 8
     }
