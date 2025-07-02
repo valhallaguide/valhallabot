@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 218,
-    "nonSellersCount": 146,
+    "totalUsers": 217,
+    "nonSellersCount": 145,
     "sellersCount": 72,
-    "totalBalance": 1047227389821817000
+    "totalBalance": 1042705092928179100
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -238,10 +238,6 @@
       "balance": 4917621246714855,
       "username": "Moby Dick"
     },
-    "7v6df-fau3m-eprtn-jdukf-l2wvj-iy75w-p63ft-mdtdb-m3coc-64m32-aqe": {
-      "balance": 4374782712684697,
-      "username": "粉红豹🐆"
-    },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
@@ -462,10 +458,6 @@
       "balance": 296436794711072,
       "username": "刘二狗"
     },
-    "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe": {
-      "balance": 295028359715010,
-      "username": "keep up to be in the world"
-    },
     "6ehae-qpmis-gvl5c-j7liu-5twje-zwy7q-mjqp3-rpnic-jlp5c-og4rg-sae": {
       "balance": 281310873996779,
       "username": "6ehae-qpmis"
@@ -521,6 +513,10 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
+    },
+    "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe": {
+      "balance": 147514178762043,
+      "username": "keep up to be in the world"
     },
     "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
       "balance": 73037370399980,
