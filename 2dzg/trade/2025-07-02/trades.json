@@ -1,5 +1,5 @@
 {
-  "count": 1746,
+  "count": 1747,
   "data": [
     {
       "id": "51735978",
@@ -26188,6 +26188,21 @@
       "bonded": true,
       "user_username": "BTC社区-去中心化",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51791840",
+      "user": "3tba7-fz547-xrfug-nwxw5-ec2mv-f26wy-jhljj-7lmt6-rm7a5-hrzjh-mae",
+      "token": "2dzg",
+      "time": "2025-07-02T07:51:38.000Z",
+      "buy": false,
+      "amount_btc": 78412436,
+      "amount_token": 890000000000000,
+      "price": 8839,
+      "bonded": true,
+      "user_username": "ajhgh",
+      "user_image": "62f482f6-4be3-4a92-9e12-52f6d4963212.png",
       "decimals": 3,
       "divisibility": 8
     }
