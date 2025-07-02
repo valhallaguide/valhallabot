@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 167,
-    "nonSellersCount": 167,
-    "sellersCount": 0,
-    "totalBalance": 1375222935054185500
+    "totalUsers": 166,
+    "nonSellersCount": 133,
+    "sellersCount": 33,
+    "totalBalance": 1176855723922772000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -74,17 +74,9 @@
       "balance": 21041305088201228,
       "username": "396"
     },
-    "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
-      "balance": 21000000000000000,
-      "username": "valhalla holder"
-    },
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
-    },
-    "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe": {
-      "balance": 20020636763451340,
-      "username": "ODINSOL共识群：725310450"
     },
     "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
       "balance": 19279078997416748,
@@ -106,10 +98,6 @@
       "balance": 15914104299488502,
       "username": "tcoqj-ya2wx"
     },
-    "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
-      "balance": 15130797123315630,
-      "username": "74ecf-lae"
-    },
     "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
       "balance": 14547307336178016,
       "username": "vh46v-g7bhd"
@@ -126,10 +114,6 @@
       "balance": 14041435746041820,
       "username": "suhhong"
     },
-    "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
-      "balance": 13942462819817454,
-      "username": "uj2ot-rsdjv"
-    },
     "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe": {
       "balance": 13480316923565306,
       "username": "jnyzyqw-12"
@@ -138,21 +122,9 @@
       "balance": 13347229975583084,
       "username": "至坚者"
     },
-    "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe": {
-      "balance": 12982232795031256,
-      "username": "2ufc＿w1fc盛"
-    },
-    "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe": {
-      "balance": 12515292253950348,
-      "username": "wanted"
-    },
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 12220667844433944,
       "username": "7sfwt-qm2ht"
-    },
-    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
-      "balance": 12135777377240184,
-      "username": "友谊社区"
     },
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 11840965278146128,
@@ -173,10 +145,6 @@
     "aovmm-dichc-yrwv7-d3gvk-gj4uz-5e2mb-d7jap-szvqd-subgo-6mmpz-sqe": {
       "balance": 10666477712416208,
       "username": "profile"
-    },
-    "isvcj-d7on7-hhbiz-ch3mu-g74gh-xih3c-z4o66-hetow-jfecv-wxny5-gqe": {
-      "balance": 10564875652780344,
-      "username": "isvcj-d7on7"
     },
     "6y2r4-ux2vg-cxy6v-t2g2f-j63qz-kfqmu-jv4be-n6klz-5beou-cwu3i-mqe": {
       "balance": 10500757818513568,
@@ -218,17 +186,9 @@
       "balance": 8354815757366572,
       "username": "笑哈哈"
     },
-    "v6ltb-cuvgf-4iz7e-eqbh2-xy43y-ppdvb-yddz2-pgbcl-5ydje-ochox-eqe": {
-      "balance": 8327833264574270,
-      "username": "v1ltb-cuvgf"
-    },
     "mw52s-32im4-uly26-lp5f4-hra2z-mflkz-usrrr-cymin-lohcu-3zurc-eqe": {
       "balance": 8078944896975298,
       "username": "mw52s-32im4"
-    },
-    "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
-      "balance": 7783680334434497,
-      "username": "mark .james"
     },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7578322780940278,
@@ -249,10 +209,6 @@
     "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
       "balance": 6982582052969655,
       "username": "Mak"
-    },
-    "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe": {
-      "balance": 6848173288587911,
-      "username": "jduv~xjgs"
     },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 6619453115080067,
@@ -282,21 +238,9 @@
       "balance": 5672992948105693,
       "username": "biainihigh"
     },
-    "ono6l-igjvk-e4g6w-7xxvy-yjwss-m23ac-ggy5b-x54ak-4h25e-gkzil-zae": {
-      "balance": 5654078196386087,
-      "username": "Uahwshwgwh"
-    },
-    "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
-      "balance": 5523829697831286,
-      "username": "mq46r-6lr5"
-    },
     "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe": {
       "balance": 5464962763680695,
       "username": "kfhu"
-    },
-    "hptwt-23r6d-dihnz-tsxw2-tevnk-33oka-qah7k-qzuun-lhz4t-a3c5e-dae": {
-      "balance": 5446547772880106,
-      "username": "99不88"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
@@ -312,27 +256,11 @@
     },
     "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe": {
       "balance": 4598423693563567,
-      "username": "Torroee"
-    },
-    "k4dva-dmsed-lsybz-yoldf-6ioxe-z54xh-nvlq2-vtv4s-2vbym-m2lem-5qe": {
-      "balance": 4391544970162533,
-      "username": "财神玩家qq392399691"
-    },
-    "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
-      "balance": 4348557820553164,
-      "username": "比特强"
-    },
-    "r5xsu-gdydc-njtkb-hpv63-3lanj-372an-adww5-bmkul-cxw23-7lv6l-rqe": {
-      "balance": 4326603349141509,
-      "username": "YUYUCHEN"
+      "username": "jsurg-smamr"
     },
     "g6m3i-l7kmv-pr4id-ms7lw-gyhkz-b7pp4-b4ear-qeezr-3xgep-dzh3k-xae": {
       "balance": 3993171588739776,
       "username": "NeoYao"
-    },
-    "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae": {
-      "balance": 3898487817861006,
-      "username": "弗兰克的话"
     },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
@@ -346,25 +274,9 @@
       "balance": 3333530888839647,
       "username": "uvtrg-rv5xc"
     },
-    "ta4jw-tumww-2xdt6-jrvbq-rtvon-2ygne-jyjt3-iciui-bqnbg-j5hs6-sqe": {
-      "balance": 3203750336328497,
-      "username": "CX—能能 _____________QQ群97639703"
-    },
-    "2u66t-q5syb-veqqh-vmgs5-gb5r7-n63yk-eavjj-dhn7v-tjipp-ws3g6-wqe": {
-      "balance": 3018857014939627,
-      "username": "2u66t-q5syb"
-    },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 2970987281039523,
       "username": "oe333"
-    },
-    "vuihq-ma37v-ay457-5n3vt-b3enh-zx6sj-plhrd-y4ynm-ckfyw-fp24l-eqe": {
-      "balance": 2828498583283168,
-      "username": "奥丁传奇人物"
-    },
-    "aytcp-2wg7n-xrtfb-qhhrh-hl73m-soxt5-n26ak-agm4i-s3qd4-hptfu-2qe": {
-      "balance": 2791045320514289,
-      "username": "xiaoxiao666"
     },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
@@ -374,17 +286,9 @@
       "balance": 2696728013907374,
       "username": "rtb2t-7z2il"
     },
-    "ll7ls-ptzsw-6zgmb-5h7np-bn6bp-papbo-sf2ry-64s7r-qzd5u-df5e3-3qe": {
-      "balance": 2594577044724285,
-      "username": "信仰很贵"
-    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe": {
-      "balance": 2365199552391013,
-      "username": "statue-Asd"
     },
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
@@ -418,10 +322,6 @@
       "balance": 2075340734362481,
       "username": "crab"
     },
-    "yq6tm-s4e2s-3b5gz-44gle-izdfv-mb33d-qlrtk-t2wzu-gem6d-766ms-xqe": {
-      "balance": 2018948293094943,
-      "username": "先赚一个亿"
-    },
     "wnttj-hh7fs-jxuqe-55njo-x2mys-ptifq-m3633-2jggr-fruv3-6cp4u-yae": {
       "balance": 2010579822033143,
       "username": "zimuzu"
@@ -437,10 +337,6 @@
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
       "username": "vu2to-6rlzb"
-    },
-    "dut6k-6q5s4-kdmdd-wtsnl-x5hl6-k57gg-2z53m-vcqxb-cyemc-qrk3e-zqe": {
-      "balance": 1448645349621816,
-      "username": "5z6bi-gatdf-omr25-vvgw4"
     },
     "dsehk-pslnd-hzeg5-xayr6-duueh-pi4qu-mkjkf-4ests-l6deg-myvie-mae": {
       "balance": 1441511903522750,
@@ -458,10 +354,6 @@
       "balance": 1233638287372094,
       "username": "Brandon Stark"
     },
-    "5tlpg-ez3ou-73oln-wqh65-m7aty-32a34-qrbrb-ll6kk-wexb2-xvz33-lae": {
-      "balance": 1135311071807091,
-      "username": "TP_gighc"
-    },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
@@ -473,10 +365,6 @@
     "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
       "balance": 1013001502243129,
       "username": "brd7t-hdxjk"
-    },
-    "me6kn-3vw4q-27sga-f4ncf-q5rr2-toofi-x5t5v-t2ylu-bqpet-jmlcz-rqe": {
-      "balance": 1000000000000000,
-      "username": "mememe."
     },
     "rnj2z-hybx7-w35sj-tr6ms-qzax4-tmlgm-ysc63-2eg6h-exe54-ezecg-uae": {
       "balance": 987197962254910,
@@ -526,10 +414,6 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
-    "hoqp5-zp6l4-23s2a-wxdz4-ugebw-qlrxx-ysade-hdupo-h3a36-j37ua-tqe": {
-      "balance": 506816819192734,
-      "username": "hoqp5-zp6l4"
-    },
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
       "username": "Bad Moon Rising"
@@ -553,10 +437,6 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
-    },
-    "bzywq-weogq-wguky-bxear-54b54-33dlw-ausst-sb7xb-s5n3n-3wkey-dae": {
-      "balance": 300649347487740,
-      "username": "bzywq-weogq"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
@@ -590,10 +470,6 @@
       "balance": 182244084793314,
       "username": "duuh-xuy"
     },
-    "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe": {
-      "balance": 172153885353986,
-      "username": "都努力一点吧"
-    },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
       "username": "DuckBro"
@@ -601,10 +477,6 @@
     "ho4ry-gpvx3-bgwqy-ijrai-vakwa-rfbvf-gjuyd-yzzpf-jetgl-6ob36-xae": {
       "balance": 153986621152237,
       "username": "Dex是未来"
-    },
-    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
-      "balance": 141347170566383,
-      "username": "wyfo-yxhse"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
@@ -633,14 +505,6 @@
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 10648345281,
       "username": "奥丁社区～格局"
-    },
-    "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe": {
-      "balance": 36391067,
-      "username": "valhalla共识QQ群784386301"
-    },
-    "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
-      "balance": 7717435,
-      "username": "BTC1P"
     },
     "dkmvk-blgsz-d367f-64mhl-zf6dv-zy25i-vwhdu-r3qpk-lwunj-osg4m-nqe": {
       "balance": 99999,
