@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 217,
-    "nonSellersCount": 147,
-    "sellersCount": 70,
-    "totalBalance": 1049800005233967500
+    "nonSellersCount": 146,
+    "sellersCount": 71,
+    "totalBalance": 1046745451365071000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -42,6 +42,10 @@
       "balance": 28297414120567920,
       "username": "不能随便买"
     },
+    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
+      "balance": 21948861789667296,
+      "username": "LetsGOoo"
+    },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
@@ -69,10 +73,6 @@
     "ejnx2-xpxrm-sg7cg-yoizb-uz6di-ireu5-ym2rb-ayp52-eqbdu-pvl4z-oae": {
       "balance": 19179490951272910,
       "username": "ejnx2-xpxrm"
-    },
-    "bjwd2-hgwqn-ge7ez-ary7k-xswbc-gpbbh-jp26n-wmxa6-n43fw-g5z4b-nqe": {
-      "balance": 19031725896023176,
-      "username": "LetsGOoo"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
@@ -205,10 +205,6 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
-    },
-    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
-      "balance": 5971689762540623,
-      "username": "益生元"
     },
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
