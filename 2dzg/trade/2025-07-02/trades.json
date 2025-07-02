@@ -1,5 +1,5 @@
 {
-  "count": 1977,
+  "count": 1981,
   "data": [
     {
       "id": "51735978",
@@ -29652,6 +29652,66 @@
       "price": 7758,
       "bonded": true,
       "user_username": "华夏幸福",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51854811",
+      "user": "vf3pc-p5uiz-2pby6-6yq52-oat4y-jrad4-pjfpq-dfa3u-m2ans-hrbmn-tqe",
+      "token": "2dzg",
+      "time": "2025-07-02T17:43:21.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 3740838490683456,
+      "price": 8035,
+      "bonded": true,
+      "user_username": "vf3pc-p5uiz",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51854800",
+      "user": "vf3pc-p5uiz-2pby6-6yq52-oat4y-jrad4-pjfpq-dfa3u-m2ans-hrbmn-tqe",
+      "token": "2dzg",
+      "time": "2025-07-02T17:43:15.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 3793585981828317,
+      "price": 7923,
+      "bonded": true,
+      "user_username": "vf3pc-p5uiz",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51854657",
+      "user": "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe",
+      "token": "2dzg",
+      "time": "2025-07-02T17:41:54.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 637465397987820,
+      "price": 7813,
+      "bonded": true,
+      "user_username": "hxm888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51854594",
+      "user": "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe",
+      "token": "2dzg",
+      "time": "2025-07-02T17:41:09.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 1279443255082171,
+      "price": 7795,
+      "bonded": true,
+      "user_username": "jnyzyqw-12",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
