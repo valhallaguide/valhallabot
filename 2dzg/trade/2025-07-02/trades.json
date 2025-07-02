@@ -1,5 +1,5 @@
 {
-  "count": 2039,
+  "count": 2042,
   "data": [
     {
       "id": "51735978",
@@ -30583,6 +30583,51 @@
       "bonded": true,
       "user_username": "gpydf12",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51858357",
+      "user": "3rafo-efmdq-2sfwg-yfrr3-53g3c-7vr4n-lhvmq-2d4gg-zy2td-naon6-uae",
+      "token": "2dzg",
+      "time": "2025-07-02T18:35:16.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 1935452797696982,
+      "price": 7738,
+      "bonded": true,
+      "user_username": "idhdidf-de4f4",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51858329",
+      "user": "bb2tb-hk2ud-5223h-aefo3-4mmw7-326ql-xgevr-e4vn5-mq3rv-7kyex-qqe",
+      "token": "2dzg",
+      "time": "2025-07-02T18:35:04.000Z",
+      "buy": false,
+      "amount_btc": 18473716,
+      "amount_token": 241516444515868,
+      "price": 7684,
+      "bonded": true,
+      "user_username": "bb2tb-hk2ud",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51858222",
+      "user": "z3td5-vysw5-vllko-manvm-qyu7l-bekza-rqmu5-boyxq-engel-iuvwf-rae",
+      "token": "2dzg",
+      "time": "2025-07-02T18:31:42.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 388398333693627,
+      "price": 7690,
+      "bonded": true,
+      "user_username": "JUANCHO",
+      "user_image": "fd6988f0-aa4f-4442-a5c2-87cb13b809b7.png",
       "decimals": 3,
       "divisibility": 8
     }
