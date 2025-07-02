@@ -1,5 +1,5 @@
 {
-  "count": 1751,
+  "count": 1754,
   "data": [
     {
       "id": "51735978",
@@ -26262,6 +26262,51 @@
       "price": 8514,
       "bonded": true,
       "user_username": "m22hq-vvbv3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51793131",
+      "user": "kvv4f-myyb5-yc6i2-4tviu-ali2d-u33vr-52joe-ftfg6-e6fdx-3l4xy-2ae",
+      "token": "2dzg",
+      "time": "2025-07-02T08:09:37.000Z",
+      "buy": true,
+      "amount_btc": 235861600,
+      "amount_token": 2667295042471187,
+      "price": 8844,
+      "bonded": true,
+      "user_username": "Snowflower",
+      "user_image": "d3824efd-3644-4622-bb21-4411e542a2e8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51792938",
+      "user": "stz7p-h4axr-vm7eu-4ciut-am2yq-qoxcw-7qbrz-ua5yl-ylu4n-pwcdi-sqe",
+      "token": "2dzg",
+      "time": "2025-07-02T08:07:26.000Z",
+      "buy": true,
+      "amount_btc": 462126359,
+      "amount_token": 5307239382645988,
+      "price": 8752,
+      "bonded": true,
+      "user_username": "飞天茅台",
+      "user_image": "b0335f93-227e-43cd-ab9a-00b27430cd43.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51792774",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-02T08:05:42.000Z",
+      "buy": true,
+      "amount_btc": 1200000,
+      "amount_token": 13923088168537,
+      "price": 8575,
+      "bonded": true,
+      "user_username": "友谊社区",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
