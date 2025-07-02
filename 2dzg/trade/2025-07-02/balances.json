@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 177,
-    "nonSellersCount": 136,
+    "totalUsers": 180,
+    "nonSellersCount": 139,
     "sellersCount": 41,
-    "totalBalance": 1190260149018876400
+    "totalBalance": 1183295786470572500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -93,10 +93,6 @@
     "tcoqj-ya2wx-aymju-4kccm-egd67-ephun-dsl6w-rkexx-rancn-bm53c-yae": {
       "balance": 15914104299488502,
       "username": "tcoqj-ya2wx"
-    },
-    "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
-      "balance": 14547307336178016,
-      "username": "vh46v-g7bhd"
     },
     "ep43e-c6go5-wo33n-f3lvy-7fhwn-c2pip-tq2rt-lwvt5-5qywt-eopwm-mqe": {
       "balance": 14490293014325164,
@@ -242,6 +238,10 @@
       "balance": 5778133199100447,
       "username": "奥丁王子"
     },
+    "mk2zy-smtdj-nfnlj-4a4xl-7wdd5-rexu6-q22pr-snidb-s4wrv-5gs6h-3qe": {
+      "balance": 5694475207755456,
+      "username": "Htsxt-aks🇨🇳"
+    },
     "ifx2s-ndxc2-bc7od-2xgzq-s75ij-syl4i-mqiof-kfcic-uzrjb-zytqp-cae": {
       "balance": 5687912093276045,
       "username": "bobCOIN"
@@ -358,6 +358,10 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
+    "k4mqg-xra54-7qn37-4ofqe-nuw7j-pbxcf-yn2b3-vpkj5-t6dtn-eg63w-xqe": {
+      "balance": 1287709561921525,
+      "username": "k4mqg-xra54"
+    },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
@@ -386,9 +390,9 @@
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
     },
-    "k4mqg-xra54-7qn37-4ofqe-nuw7j-pbxcf-yn2b3-vpkj5-t6dtn-eg63w-xqe": {
-      "balance": 908888818473377,
-      "username": "k4mqg-xra54"
+    "kns6u-cfpyr-ghzyd-6mru5-ek436-vyhej-sggj2-ywrhe-ygy6t-rsjem-cqe": {
+      "balance": 937342173860696,
+      "username": "W-X24"
     },
     "c2dkm-6vyhq-ckzta-oku5j-rqdy3-z276h-uqddz-eet2t-ew47w-vp5hl-oqe": {
       "balance": 854241668872776,
@@ -414,6 +418,10 @@
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
     },
+    "wc3j5-qfqik-yidir-jexjo-2lqhn-l6ecr-jq567-nstrx-h7fj5-ji7pg-7ae": {
+      "balance": 598334668306959,
+      "username": "duuh-xuy"
+    },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
@@ -433,10 +441,6 @@
     "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae": {
       "balance": 409459826368826,
       "username": "jh2pb-wqscg"
-    },
-    "wc3j5-qfqik-yidir-jexjo-2lqhn-l6ecr-jq567-nstrx-h7fj5-ji7pg-7ae": {
-      "balance": 401002194089810,
-      "username": "duuh-xuy"
     },
     "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe": {
       "balance": 384943816338087,
@@ -481,6 +485,14 @@
     "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe": {
       "balance": 189153918581828,
       "username": "BLUEKUSH.blife"
+    },
+    "is5tn-kzd57-fnv6f-4sp7t-b2yq4-a5oax-zzelv-soovx-4yfso-lgus5-xae": {
+      "balance": 187876004421007,
+      "username": "is5tn-kzd57"
+    },
+    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
+      "balance": 187098184171500,
+      "username": "芭菲特"
     },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
