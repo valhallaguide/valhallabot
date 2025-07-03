@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 192,
-    "nonSellersCount": 136,
+    "totalUsers": 191,
+    "nonSellersCount": 135,
     "sellersCount": 56,
-    "totalBalance": 1046598605178571600
+    "totalBalance": 1038417728592358300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -98,10 +98,6 @@
       "balance": 14849188028208616,
       "username": "oe333"
     },
-    "ep43e-c6go5-wo33n-f3lvy-7fhwn-c2pip-tq2rt-lwvt5-5qywt-eopwm-mqe": {
-      "balance": 14490293014325164,
-      "username": "3w27axru"
-    },
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "suhhong"
@@ -165,6 +161,10 @@
     "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
       "balance": 8715068908876272,
       "username": "芭菲特"
+    },
+    "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe": {
+      "balance": 8544371905494648,
+      "username": "守望者-美姐战队-钢铁侠"
     },
     "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae": {
       "balance": 8460350998725689,
@@ -277,10 +277,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe": {
-      "balance": 2234955477382918,
-      "username": "守望者-美姐战队-钢铁侠"
     },
     "2c62g-644tt-vmaf5-25hj5-uczex-ywvwf-uol6l-5g2oq-7db76-cuesm-wae": {
       "balance": 2214510348417087,
