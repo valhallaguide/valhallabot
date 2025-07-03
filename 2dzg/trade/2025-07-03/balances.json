@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 190,
-    "nonSellersCount": 132,
+    "totalUsers": 192,
+    "nonSellersCount": 134,
     "sellersCount": 58,
-    "totalBalance": 999159049604687700
+    "totalBalance": 1005502675357423900
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -242,6 +242,10 @@
       "balance": 3719156398597797,
       "username": "5xs5j-umojd"
     },
+    "r7rq7-ka3se-6qgxg-iwfvs-wjpcg-xc2u5-6r5lz-q3rhd-yful2-m3fxf-2qe": {
+      "balance": 3671529760771208,
+      "username": "r7rq7-ka3se"
+    },
     "25mnr-ayjd6-whg3y-pfwkb-enhg5-crsva-pfe2w-obx75-p5r6l-svjsw-cqe": {
       "balance": 3617859212928067,
       "username": "25mnr-ayjd6"
@@ -261,6 +265,10 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
+    },
+    "6rrwo-jsrgp-zjqxg-icrit-4pwwo-3pmzv-xypn4-nywmf-uzdev-ne56m-rqe": {
+      "balance": 2672095991964957,
+      "username": "6rrwo-jsrgp"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
