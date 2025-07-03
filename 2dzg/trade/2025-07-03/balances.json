@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 194,
-    "nonSellersCount": 131,
+    "totalUsers": 195,
+    "nonSellersCount": 132,
     "sellersCount": 63,
-    "totalBalance": 991145867468887200
+    "totalBalance": 991258453319781000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -457,6 +457,10 @@
     "jbyam-hditb-mwpn3-e474q-kcjhs-rvsck-5vdbz-zuji4-k7uwj-zlynx-xae": {
       "balance": 129120975569730,
       "username": "jbyam-hditb"
+    },
+    "izbfa-g3zvu-is4dy-vdl5c-2tgfk-vum7l-oc57v-tq2zc-mnve5-2tr2j-pqe": {
+      "balance": 112585850893876,
+      "username": "看谁跑的快"
     },
     "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
       "balance": 73037370399980,
