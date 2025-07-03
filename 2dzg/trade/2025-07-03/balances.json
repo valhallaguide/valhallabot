@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 195,
-    "nonSellersCount": 134,
-    "sellersCount": 61,
-    "totalBalance": 1006360148727665300
+    "nonSellersCount": 133,
+    "sellersCount": 62,
+    "totalBalance": 1004356701398427400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -290,10 +290,6 @@
       "balance": 2112402163277873,
       "username": "mengou1"
     },
-    "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae": {
-      "balance": 2091744699051867,
-      "username": "Japan招募中"
-    },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
@@ -450,6 +446,10 @@
       "balance": 198999037426523,
       "username": "发财日记..."
     },
+    "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae": {
+      "balance": 190559465837904,
+      "username": "Japan招募中"
+    },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
       "username": "DuckBro"
@@ -465,10 +465,6 @@
     "jbyam-hditb-mwpn3-e474q-kcjhs-rvsck-5vdbz-zuji4-k7uwj-zlynx-xae": {
       "balance": 129120975569730,
       "username": "jbyam-hditb"
-    },
-    "wd552-2ioz4-qrvei-4plxx-2sp4a-vexgp-pwscx-ibkcs-omwa2-eayx6-aae": {
-      "balance": 102262096023919,
-      "username": "笨蛋学生啊刘"
     },
     "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
       "balance": 73037370399980,
