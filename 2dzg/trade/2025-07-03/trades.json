@@ -1,5 +1,5 @@
 {
-  "count": 1705,
+  "count": 1707,
   "data": [
     {
       "id": "51879158",
@@ -25573,6 +25573,36 @@
       "bonded": true,
       "user_username": "瓦尔哈拉瓦尔",
       "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51982361",
+      "user": "stz7p-h4axr-vm7eu-4ciut-am2yq-qoxcw-7qbrz-ua5yl-ylu4n-pwcdi-sqe",
+      "token": "2dzg",
+      "time": "2025-07-03T15:28:42.000Z",
+      "buy": false,
+      "amount_btc": 203455591,
+      "amount_token": 3682371243920371,
+      "price": 5515,
+      "bonded": true,
+      "user_username": "飞天茅台",
+      "user_image": "b0335f93-227e-43cd-ab9a-00b27430cd43.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51982017",
+      "user": "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae",
+      "token": "2dzg",
+      "time": "2025-07-03T15:26:51.000Z",
+      "buy": false,
+      "amount_btc": 81549118,
+      "amount_token": 1461942076127457,
+      "price": 5590,
+      "bonded": true,
+      "user_username": "dthfssg",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
