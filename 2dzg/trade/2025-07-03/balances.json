@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 202,
-    "nonSellersCount": 138,
-    "sellersCount": 64,
-    "totalBalance": 1034188876636866600
+    "totalUsers": 198,
+    "nonSellersCount": 137,
+    "sellersCount": 61,
+    "totalBalance": 1030272587236461400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -230,10 +230,6 @@
       "balance": 4326603349141509,
       "username": "YUYUCHEN"
     },
-    "yg3ir-iutzw-mrfxt-yw6yr-psj2f-4i4t7-g72ys-n57h7-pqxef-mxbs6-gqe": {
-      "balance": 4167976498494871,
-      "username": "yg3ir-iutzw"
-    },
     "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe": {
       "balance": 3874824891562944,
       "username": "华夏幸福"
@@ -310,9 +306,9 @@
       "balance": 1952597874816107,
       "username": "VKLOM"
     },
-    "ozn6k-uyxdz-6t4gi-u2gwb-akf7r-miix5-5lpzi-ucvaa-tyg3l-k3hjk-7ae": {
-      "balance": 1658431159672858,
-      "username": "odin.fun..."
+    "yg3ir-iutzw-mrfxt-yw6yr-psj2f-4i4t7-g72ys-n57h7-pqxef-mxbs6-gqe": {
+      "balance": 1825661053411161,
+      "username": "yg3ir-iutzw"
     },
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
@@ -358,13 +354,13 @@
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
     },
+    "ozn6k-uyxdz-6t4gi-u2gwb-akf7r-miix5-5lpzi-ucvaa-tyg3l-k3hjk-7ae": {
+      "balance": 861182659443495,
+      "username": "odin.fun..."
+    },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
-    },
-    "miljx-dmvgy-su2jf-6udot-4zvfg-sop3h-fcwww-3vdhx-risns-zluyg-lae": {
-      "balance": 776725455092237,
-      "username": "奥丁传奇"
     },
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
