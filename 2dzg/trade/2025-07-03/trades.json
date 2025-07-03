@@ -1,5 +1,5 @@
 {
-  "count": 1693,
+  "count": 1698,
   "data": [
     {
       "id": "51879158",
@@ -25393,6 +25393,81 @@
       "bonded": true,
       "user_username": "Japan招募中",
       "user_image": "a9866595-c1f1-4336-819f-bc8b4ca8d549.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975721",
+      "user": "mqtsg-eypl5-jpzew-7z6be-dzppl-mmziz-36ctx-nkcnw-5ctwh-r3saq-dae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:33:11.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 179244718390307,
+      "price": 5552,
+      "bonded": true,
+      "user_username": "qsdftfghyjnvfvnhgngf",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975694",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:33:02.000Z",
+      "buy": false,
+      "amount_btc": 16020696,
+      "amount_token": 290000000000000,
+      "price": 5549,
+      "bonded": true,
+      "user_username": "友谊社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975479",
+      "user": "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:31:29.000Z",
+      "buy": true,
+      "amount_btc": 470000000,
+      "amount_token": 8538732925778961,
+      "price": 5554,
+      "bonded": true,
+      "user_username": "芭菲特",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975454",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:31:23.000Z",
+      "buy": false,
+      "amount_btc": 26887005,
+      "amount_token": 500000000000000,
+      "price": 5399,
+      "bonded": true,
+      "user_username": "友谊社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975396",
+      "user": "ud4fs-dmapw-ufuxm-tgszv-jmhed-tc432-p3smc-bo4c5-md4wf-26qms-3qe",
+      "token": "2dzg",
+      "time": "2025-07-03T14:31:00.000Z",
+      "buy": true,
+      "amount_btc": 16000000,
+      "amount_token": 294474524823202,
+      "price": 5408,
+      "bonded": true,
+      "user_username": "ud4fs-dmapw",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
