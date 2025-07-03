@@ -1,5 +1,5 @@
 {
-  "count": 1325,
+  "count": 1326,
   "data": [
     {
       "id": "51879158",
@@ -19873,6 +19873,21 @@
       "bonded": true,
       "user_username": "CX——能能",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51914259",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-03T05:25:18.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 785222466860747,
+      "price": 6343,
+      "bonded": true,
+      "user_username": "瓦尔哈拉进群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
