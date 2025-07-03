@@ -1,5 +1,5 @@
 {
-  "count": 1275,
+  "count": 1278,
   "data": [
     {
       "id": "51879158",
@@ -19123,6 +19123,51 @@
       "bonded": true,
       "user_username": "比特币是一种信仰",
       "user_image": "99b7d9be-ae57-411b-add2-9e3acea598b9.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51887449",
+      "user": "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe",
+      "token": "2dzg",
+      "time": "2025-07-03T01:35:00.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 731154679208566,
+      "price": 6812,
+      "bonded": true,
+      "user_username": "宝宝没大饼",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51887277",
+      "user": "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe",
+      "token": "2dzg",
+      "time": "2025-07-03T01:33:15.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 4425674943932114,
+      "price": 6795,
+      "bonded": true,
+      "user_username": "守望者-美姐战队-钢铁侠",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51887151",
+      "user": "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae",
+      "token": "2dzg",
+      "time": "2025-07-03T01:32:27.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 2238021963036554,
+      "price": 6694,
+      "bonded": true,
+      "user_username": "海外胡子社区141319",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
