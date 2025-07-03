@@ -1,5 +1,5 @@
 {
-  "count": 1751,
+  "count": 1753,
   "data": [
     {
       "id": "51879158",
@@ -26263,6 +26263,36 @@
       "bonded": true,
       "user_username": "八卦镜",
       "user_image": "b5740adf-a9aa-4d03-bfc9-aa3aa90652cc.jfif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51997302",
+      "user": "jk6p7-5rvwa-rxwtv-r6jrv-vg4s3-hya6i-rgxuf-xt3j6-pn733-gbykc-lae",
+      "token": "2dzg",
+      "time": "2025-07-03T17:19:08.000Z",
+      "buy": true,
+      "amount_btc": 116170099,
+      "amount_token": 1979653899231963,
+      "price": 5860,
+      "bonded": true,
+      "user_username": "华丽转身100BTC",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51997225",
+      "user": "arj7p-osqgu-wymy2-6urrh-qxvyj-a2dx2-u2o42-qjpqu-7frol-3smaz-2qe",
+      "token": "2dzg",
+      "time": "2025-07-03T17:17:07.000Z",
+      "buy": false,
+      "amount_btc": 307902631,
+      "amount_token": 5266973864022740,
+      "price": 5816,
+      "bonded": true,
+      "user_username": "DOGCAT",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
