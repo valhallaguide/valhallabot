@@ -91,18 +91,18 @@
     "user_image": null
   },
   {
-    "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
-    "token": "2dzg",
-    "balance": 27000000000000000,
-    "user_username": "Rodarmora",
-    "user_image": null
-  },
-  {
     "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
     "token": "2dzg",
     "balance": 24991250190543800,
     "user_username": "瓦尔哈拉进群:784386301",
     "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg"
+  },
+  {
+    "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
+    "token": "2dzg",
+    "balance": 24768135633041090,
+    "user_username": "Rodarmora",
+    "user_image": null
   },
   {
     "user": "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae",
@@ -424,13 +424,6 @@
     "token": "2dzg",
     "balance": 7174405690706108,
     "user_username": "love.ll",
-    "user_image": null
-  },
-  {
-    "user": "zzqyq-5z2kg-zh5yl-2km2o-nrlad-3eodj-ddrnl-vrwu6-qqt6a-s4guo-uae",
-    "token": "2dzg",
-    "balance": 6684015901994514,
-    "user_username": "so don't know",
     "user_image": null
   },
   {
@@ -1216,13 +1209,6 @@
     "balance": 118940870824037,
     "user_username": "cola999",
     "user_image": "c782d3f7-d3ac-44b3-81d3-d3b43bda8649.png"
-  },
-  {
-    "user": "2mwmm-rbrc3-jhkvh-wmmrx-ynsco-5k2eh-5e5ex-vxge3-jsw4k-vzaum-5ae",
-    "token": "2dzg",
-    "balance": 115161684048323,
-    "user_username": "2mwmm-rbrc3",
-    "user_image": null
   },
   {
     "user": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
