@@ -1,5 +1,5 @@
 {
-  "count": 1371,
+  "count": 1376,
   "data": [
     {
       "id": "51879158",
@@ -20563,6 +20563,81 @@
       "bonded": true,
       "user_username": "BFLCSS886788",
       "user_image": "e145af6a-f593-4e45-8f16-5c40b4f0eeeb.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51922922",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-03T06:50:21.000Z",
+      "buy": true,
+      "amount_btc": 482100000,
+      "amount_token": 9736242312640368,
+      "price": 5001,
+      "bonded": true,
+      "user_username": "友谊社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51922910",
+      "user": "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe",
+      "token": "2dzg",
+      "time": "2025-07-03T06:50:10.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 410315081966645,
+      "price": 4852,
+      "bonded": true,
+      "user_username": "九紫大运",
+      "user_image": "fe43580c-722b-48cc-8ab1-25ae25a33fa6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51922849",
+      "user": "r5xsu-gdydc-njtkb-hpv63-3lanj-372an-adww5-bmkul-cxw23-7lv6l-rqe",
+      "token": "2dzg",
+      "time": "2025-07-03T06:49:11.000Z",
+      "buy": false,
+      "amount_btc": 36452581,
+      "amount_token": 754988127964033,
+      "price": 4846,
+      "bonded": true,
+      "user_username": "YUYUCHEN",
+      "user_image": "9dfb2792-0eb0-4490-bd39-03033ec74a63.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51922654",
+      "user": "zzqyq-5z2kg-zh5yl-2km2o-nrlad-3eodj-ddrnl-vrwu6-qqt6a-s4guo-uae",
+      "token": "2dzg",
+      "time": "2025-07-03T06:47:38.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 204875834921014,
+      "price": 4858,
+      "bonded": true,
+      "user_username": "so don't know",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51922477",
+      "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+      "token": "2dzg",
+      "time": "2025-07-03T06:46:02.000Z",
+      "buy": false,
+      "amount_btc": 482020588,
+      "amount_token": 9827408547215632,
+      "price": 4854,
+      "bonded": true,
+      "user_username": "友谊社区",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
