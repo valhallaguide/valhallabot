@@ -1,5 +1,5 @@
 {
-  "count": 1339,
+  "count": 1342,
   "data": [
     {
       "id": "51879158",
@@ -20082,6 +20082,51 @@
       "price": 6385,
       "bonded": true,
       "user_username": "都努力一点吧",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51917721",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T05:54:10.000Z",
+      "buy": true,
+      "amount_btc": 10198443,
+      "amount_token": 170297561209839,
+      "price": 5960,
+      "bonded": true,
+      "user_username": "都努力一点吧",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51917647",
+      "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
+      "token": "2dzg",
+      "time": "2025-07-03T05:52:42.000Z",
+      "buy": false,
+      "amount_btc": 118924305,
+      "amount_token": 2000000000000000,
+      "price": 5957,
+      "bonded": true,
+      "user_username": "Rodarmora",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51917558",
+      "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
+      "token": "2dzg",
+      "time": "2025-07-03T05:51:30.000Z",
+      "buy": false,
+      "amount_btc": 119688419,
+      "amount_token": 2000000000000000,
+      "price": 5995,
+      "bonded": true,
+      "user_username": "Rodarmora",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
