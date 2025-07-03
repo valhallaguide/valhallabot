@@ -1,5 +1,5 @@
 {
-  "count": 1415,
+  "count": 1418,
   "data": [
     {
       "id": "51879158",
@@ -21222,6 +21222,51 @@
       "price": 4707,
       "bonded": true,
       "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51943423",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-03T10:14:27.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1020353013335220,
+      "price": 4883,
+      "bonded": true,
+      "user_username": "mq46r-6lr5",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51943318",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-03T10:13:41.000Z",
+      "buy": true,
+      "amount_btc": 675741823,
+      "amount_token": 14135468163560512,
+      "price": 4867,
+      "bonded": true,
+      "user_username": "瓦尔哈拉进群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51943312",
+      "user": "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae",
+      "token": "2dzg",
+      "time": "2025-07-03T10:13:40.000Z",
+      "buy": false,
+      "amount_btc": 183637332,
+      "amount_token": 3945244704037730,
+      "price": 4648,
+      "bonded": true,
+      "user_username": "396",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
