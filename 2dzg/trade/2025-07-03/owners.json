@@ -7,6 +7,13 @@
     "user_image": "81d0ea96-fe36-4bd4-86b0-c1dccb002430.jpg"
   },
   {
+    "user": "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae",
+    "token": "2dzg",
+    "balance": 57272173802332270,
+    "user_username": "wangbaoze",
+    "user_image": null
+  },
+  {
     "user": "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae",
     "token": "2dzg",
     "balance": 48331168399594260,
@@ -33,13 +40,6 @@
     "balance": 43394015836299420,
     "user_username": "valhalla.guide",
     "user_image": "ad088bf8-2fa8-4fca-a1d2-fdd2eab136c3.png"
-  },
-  {
-    "user": "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae",
-    "token": "2dzg",
-    "balance": 40606120935080024,
-    "user_username": "wangbaoze",
-    "user_image": null
   },
   {
     "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
@@ -654,7 +654,7 @@
     "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
     "token": "2dzg",
     "balance": 2942674449624072,
-    "user_username": "狗东西一键砸盘千万别上",
+    "user_username": "https://odin.fun/",
     "user_image": null
   },
   {
@@ -788,13 +788,6 @@
     "token": "2dzg",
     "balance": 1441511903522750,
     "user_username": "g6mvy-f1h3rj",
-    "user_image": null
-  },
-  {
-    "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
-    "token": "2dzg",
-    "balance": 1409521522452919,
-    "user_username": "blifef3",
     "user_image": null
   },
   {
