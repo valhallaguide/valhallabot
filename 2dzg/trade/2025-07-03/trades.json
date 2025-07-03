@@ -1,5 +1,5 @@
 {
-  "count": 1403,
+  "count": 1406,
   "data": [
     {
       "id": "51879158",
@@ -21042,6 +21042,51 @@
       "price": 5036,
       "bonded": true,
       "user_username": "友谊社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51931864",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T08:17:50.000Z",
+      "buy": true,
+      "amount_btc": 13329805,
+      "amount_token": 266227550947311,
+      "price": 4983,
+      "bonded": true,
+      "user_username": "都努力一点吧",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51931852",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T08:17:45.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 199870470695589,
+      "price": 4979,
+      "bonded": true,
+      "user_username": "都努力一点吧",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51931821",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T08:17:31.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 199996624628463,
+      "price": 4976,
+      "bonded": true,
+      "user_username": "都努力一点吧",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
