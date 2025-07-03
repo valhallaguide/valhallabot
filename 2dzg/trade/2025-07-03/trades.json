@@ -1,5 +1,5 @@
 {
-  "count": 1273,
+  "count": 1275,
   "data": [
     {
       "id": "51879158",
@@ -19093,6 +19093,36 @@
       "bonded": true,
       "user_username": "友谊社区",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51886803",
+      "user": "jzsm5-smpom-kyyzd-kmsqx-e3joj-d6rjc-tuq7h-wjhdm-zjh6k-r4qsn-hqe",
+      "token": "2dzg",
+      "time": "2025-07-03T01:28:34.000Z",
+      "buy": false,
+      "amount_btc": 11556717,
+      "amount_token": 174773806034164,
+      "price": 6643,
+      "bonded": true,
+      "user_username": "比特币是一种信仰",
+      "user_image": "99b7d9be-ae57-411b-add2-9e3acea598b9.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51886788",
+      "user": "jzsm5-smpom-kyyzd-kmsqx-e3joj-d6rjc-tuq7h-wjhdm-zjh6k-r4qsn-hqe",
+      "token": "2dzg",
+      "time": "2025-07-03T01:28:22.000Z",
+      "buy": true,
+      "amount_btc": 11673144,
+      "amount_token": 174773806034164,
+      "price": 6647,
+      "bonded": true,
+      "user_username": "比特币是一种信仰",
+      "user_image": "99b7d9be-ae57-411b-add2-9e3acea598b9.png",
       "decimals": 3,
       "divisibility": 8
     }
