@@ -1,5 +1,5 @@
 {
-  "count": 1665,
+  "count": 1670,
   "data": [
     {
       "id": "51879158",
@@ -24973,6 +24973,81 @@
       "bonded": true,
       "user_username": "瓦尔哈拉瓦尔",
       "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51971296",
+      "user": "sqiqd-e76cx-3bvg3-fg4r5-ov7kf-3vmiz-vzdu2-2er4m-ch5cw-ap4k4-lqe",
+      "token": "2dzg",
+      "time": "2025-07-03T13:59:54.000Z",
+      "buy": false,
+      "amount_btc": 54762814,
+      "amount_token": 1257995594867110,
+      "price": 4366,
+      "bonded": true,
+      "user_username": "33社区-……",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51971290",
+      "user": "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae",
+      "token": "2dzg",
+      "time": "2025-07-03T13:59:53.000Z",
+      "buy": true,
+      "amount_btc": 11000000,
+      "amount_token": 249769015642202,
+      "price": 4383,
+      "bonded": true,
+      "user_username": "瓦尔哈拉社区qq 784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51970966",
+      "user": "miljx-dmvgy-su2jf-6udot-4zvfg-sop3h-fcwww-3vdhx-risns-zluyg-lae",
+      "token": "2dzg",
+      "time": "2025-07-03T13:57:23.000Z",
+      "buy": false,
+      "amount_btc": 53919929,
+      "amount_token": 1234783103297383,
+      "price": 4379,
+      "bonded": true,
+      "user_username": "奥丁传奇",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51970887",
+      "user": "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae",
+      "token": "2dzg",
+      "time": "2025-07-03T13:56:32.000Z",
+      "buy": true,
+      "amount_btc": 330000000,
+      "amount_token": 7558183148681490,
+      "price": 4397,
+      "bonded": true,
+      "user_username": "瓦尔哈拉社区qq 784386301",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51970818",
+      "user": "stz7p-h4axr-vm7eu-4ciut-am2yq-qoxcw-7qbrz-ua5yl-ylu4n-pwcdi-sqe",
+      "token": "2dzg",
+      "time": "2025-07-03T13:56:00.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1161298250552620,
+      "price": 4291,
+      "bonded": true,
+      "user_username": "飞天茅台",
+      "user_image": "b0335f93-227e-43cd-ab9a-00b27430cd43.jpg",
       "decimals": 3,
       "divisibility": 8
     }
