@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 196,
-    "nonSellersCount": 135,
-    "sellersCount": 61,
-    "totalBalance": 1006539393446055600
+    "totalUsers": 193,
+    "nonSellersCount": 133,
+    "sellersCount": 60,
+    "totalBalance": 1007906869964915100
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -182,6 +182,10 @@
       "balance": 7174405690706108,
       "username": "love.ll"
     },
+    "uvtrg-rv5xc-qgfwd-mogac-kuh5q-uza4k-bayss-slol5-pey3k-pagcy-bae": {
+      "balance": 6895014202775036,
+      "username": "uvtrg-rv5xc"
+    },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 6619453115080067,
       "username": "aimed"
@@ -250,10 +254,6 @@
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
     },
-    "uvtrg-rv5xc-qgfwd-mogac-kuh5q-uza4k-bayss-slol5-pey3k-pagcy-bae": {
-      "balance": 3333530888839647,
-      "username": "uvtrg-rv5xc"
-    },
     "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
       "balance": 3113267001768151,
       "username": "Fartus deus"
@@ -289,10 +289,6 @@
     "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae": {
       "balance": 2112402163277873,
       "username": "mengou1"
-    },
-    "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae": {
-      "balance": 2091744699051867,
-      "username": "Japan招募中"
     },
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
@@ -469,10 +465,6 @@
     "jbyam-hditb-mwpn3-e474q-kcjhs-rvsck-5vdbz-zuji4-k7uwj-zlynx-xae": {
       "balance": 129120975569730,
       "username": "jbyam-hditb"
-    },
-    "wd552-2ioz4-qrvei-4plxx-2sp4a-vexgp-pwscx-ibkcs-omwa2-eayx6-aae": {
-      "balance": 102262096023919,
-      "username": "笨蛋学生啊刘"
     },
     "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
       "balance": 73037370399980,
