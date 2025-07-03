@@ -1,5 +1,5 @@
 {
-  "count": 1364,
+  "count": 1367,
   "data": [
     {
       "id": "51879158",
@@ -20458,6 +20458,51 @@
       "bonded": true,
       "user_username": "Hgcf",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51919749",
+      "user": "ffhjy-oa5qz-3l7hl-357fn-4tmuj-kt5bw-rclzu-ihj53-anybb-ctj46-qqe",
+      "token": "2dzg",
+      "time": "2025-07-03T06:14:41.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 973236420381389,
+      "price": 5119,
+      "bonded": true,
+      "user_username": "YYJ万人团队",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51919710",
+      "user": "cq3lp-qczbk-brylt-rlatr-k4ow5-hnff7-xqnco-huupv-vpsbx-mgvg4-5ae",
+      "token": "2dzg",
+      "time": "2025-07-03T06:14:01.000Z",
+      "buy": false,
+      "amount_btc": 114771307,
+      "amount_token": 2251966155747244,
+      "price": 5103,
+      "bonded": true,
+      "user_username": "gpydf12",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51919641",
+      "user": "buqkv-66fs7-mpwib-s7fbi-copxx-iusv4-hzsot-gorcx-xb6yl-6uqbv-aae",
+      "token": "2dzg",
+      "time": "2025-07-03T06:13:06.000Z",
+      "buy": false,
+      "amount_btc": 149391405,
+      "amount_token": 2907469931207681,
+      "price": 5140,
+      "bonded": true,
+      "user_username": "Lewis Hamilton",
+      "user_image": "49cbc682-1a65-44b4-bff7-e47ceb7e0676.png",
       "decimals": 3,
       "divisibility": 8
     }
