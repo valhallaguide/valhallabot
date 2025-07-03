@@ -434,13 +434,6 @@
     "user_image": "78246bb8-19bb-428f-a30f-b5f0c6c34a97.jpg"
   },
   {
-    "user": "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe",
-    "token": "2dzg",
-    "balance": 6373388682150171,
-    "user_username": "kbb43-ai2fj",
-    "user_image": null
-  },
-  {
     "user": "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe",
     "token": "2dzg",
     "balance": 6348173288587911,
@@ -648,6 +641,13 @@
     "token": "2dzg",
     "balance": 3199267581404875,
     "user_username": "https://odin.fun/",
+    "user_image": null
+  },
+  {
+    "user": "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe",
+    "token": "2dzg",
+    "balance": 3186694341075086,
+    "user_username": "kbb43-ai2fj",
     "user_image": null
   },
   {
