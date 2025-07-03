@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 202,
-    "nonSellersCount": 140,
+    "totalUsers": 201,
+    "nonSellersCount": 139,
     "sellersCount": 62,
-    "totalBalance": 1049453455011571700
+    "totalBalance": 1046487344854980100
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -146,10 +146,6 @@
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
     },
-    "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe": {
-      "balance": 10124957859385408,
-      "username": "宝宝没大饼"
-    },
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 9991940814764976,
       "username": "fkvlh善"
@@ -157,6 +153,10 @@
     "fylwq-fx3c2-lzqe7-fkmcu-nxh3q-3v4k6-27pbj-beby5-ic3u4-6qtlv-5qe": {
       "balance": 9459148195722928,
       "username": "@gmail.com"
+    },
+    "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe": {
+      "balance": 9393803180176842,
+      "username": "宝宝没大饼"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
@@ -289,10 +289,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe": {
-      "balance": 2234955477382918,
-      "username": "守望者-美姐战队-钢铁侠"
     },
     "2c62g-644tt-vmaf5-25hj5-uczex-ywvwf-uol6l-5g2oq-7db76-cuesm-wae": {
       "balance": 2214510348417087,
