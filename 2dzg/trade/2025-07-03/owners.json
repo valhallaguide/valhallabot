@@ -707,13 +707,6 @@
     "user_image": null
   },
   {
-    "user": "cq3lp-qczbk-brylt-rlatr-k4ow5-hnff7-xqnco-huupv-vpsbx-mgvg4-5ae",
-    "token": "2dzg",
-    "balance": 2251966155747244,
-    "user_username": "gpydf12",
-    "user_image": null
-  },
-  {
     "user": "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe",
     "token": "2dzg",
     "balance": 2234955477382918,
@@ -978,6 +971,13 @@
     "balance": 694259886760185,
     "user_username": "keep up to be in the world",
     "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg"
+  },
+  {
+    "user": "cq3lp-qczbk-brylt-rlatr-k4ow5-hnff7-xqnco-huupv-vpsbx-mgvg4-5ae",
+    "token": "2dzg",
+    "balance": 654285742446218,
+    "user_username": "gpydf12",
+    "user_image": null
   },
   {
     "user": "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe",
