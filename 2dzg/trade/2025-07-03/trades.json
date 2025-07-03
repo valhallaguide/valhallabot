@@ -1,5 +1,5 @@
 {
-  "count": 1312,
+  "count": 1313,
   "data": [
     {
       "id": "51879158",
@@ -19675,6 +19675,21 @@
       "amount_btc": 199126798,
       "amount_token": 3000000000000000,
       "price": 6637,
+      "bonded": true,
+      "user_username": "Rodarmora",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51901795",
+      "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
+      "token": "2dzg",
+      "time": "2025-07-03T03:31:42.000Z",
+      "buy": true,
+      "amount_btc": 200000000,
+      "amount_token": 3043659490164078,
+      "price": 6571,
       "bonded": true,
       "user_username": "Rodarmora",
       "user_image": null,
