@@ -1,5 +1,5 @@
 {
-  "count": 1477,
+  "count": 1480,
   "data": [
     {
       "id": "51879158",
@@ -22153,6 +22153,51 @@
       "bonded": true,
       "user_username": "6rrwo-jsrgp",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51959569",
+      "user": "6rrwo-jsrgp-zjqxg-icrit-4pwwo-3pmzv-xypn4-nywmf-uzdev-ne56m-rqe",
+      "token": "2dzg",
+      "time": "2025-07-03T12:45:18.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 17607319660429,
+      "price": 5651,
+      "bonded": true,
+      "user_username": "6rrwo-jsrgp",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51959142",
+      "user": "6rrwo-jsrgp-zjqxg-icrit-4pwwo-3pmzv-xypn4-nywmf-uzdev-ne56m-rqe",
+      "token": "2dzg",
+      "time": "2025-07-03T12:42:10.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 176136346105861,
+      "price": 5650,
+      "bonded": true,
+      "user_username": "6rrwo-jsrgp",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51959046",
+      "user": "ngdjt-qhgys-hfqic-nkpid-vvzmo-oaxlw-eg5r6-qslf2-4keg6-jty3m-lae",
+      "token": "2dzg",
+      "time": "2025-07-03T12:41:55.000Z",
+      "buy": false,
+      "amount_btc": 167143328,
+      "amount_token": 2959049937678274,
+      "price": 5647,
+      "bonded": true,
+      "user_username": "一夜看尽长安花",
+      "user_image": "55173e60-f053-45db-b5bb-09f878509983.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
