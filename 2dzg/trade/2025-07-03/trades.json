@@ -1,5 +1,5 @@
 {
-  "count": 1317,
+  "count": 1320,
   "data": [
     {
       "id": "51879158",
@@ -19753,6 +19753,51 @@
       "bonded": true,
       "user_username": "友谊社区",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51905514",
+      "user": "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae",
+      "token": "2dzg",
+      "time": "2025-07-03T04:04:03.000Z",
+      "buy": false,
+      "amount_btc": 164529220,
+      "amount_token": 2651989551456496,
+      "price": 6208,
+      "bonded": true,
+      "user_username": "大禹治水",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51905483",
+      "user": "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae",
+      "token": "2dzg",
+      "time": "2025-07-03T04:03:52.000Z",
+      "buy": false,
+      "amount_btc": 327891162,
+      "amount_token": 5217696403641722,
+      "price": 6262,
+      "bonded": true,
+      "user_username": "soonbob",
+      "user_image": "164c44e0-87fe-4af3-bdb2-b39f5ca0370e.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51905069",
+      "user": "rux7h-mtiqe-q3fqj-ecplr-7eglw-va7sq-trdjd-7b25a-ntxdl-hlwfi-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T04:00:37.000Z",
+      "buy": false,
+      "amount_btc": 159107161,
+      "amount_token": 2500000000000000,
+      "price": 6369,
+      "bonded": true,
+      "user_username": "one more",
+      "user_image": "7e9e2c88-bcef-47e0-b1cb-e1f4340bcf04.png",
       "decimals": 3,
       "divisibility": 8
     }
