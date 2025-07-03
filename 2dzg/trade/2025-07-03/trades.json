@@ -1,5 +1,5 @@
 {
-  "count": 1376,
+  "count": 1377,
   "data": [
     {
       "id": "51879158",
@@ -20638,6 +20638,21 @@
       "bonded": true,
       "user_username": "友谊社区",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51924216",
+      "user": "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae",
+      "token": "2dzg",
+      "time": "2025-07-03T07:05:06.000Z",
+      "buy": false,
+      "amount_btc": 132667672,
+      "amount_token": 2676852151679423,
+      "price": 4960,
+      "bonded": true,
+      "user_username": "KKO",
+      "user_image": "1e6d3852-c6cc-47df-bf88-944751f0e30f.jpg",
       "decimals": 3,
       "divisibility": 8
     }
