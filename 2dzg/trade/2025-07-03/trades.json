@@ -1,5 +1,5 @@
 {
-  "count": 1689,
+  "count": 1693,
   "data": [
     {
       "id": "51879158",
@@ -25333,6 +25333,66 @@
       "bonded": true,
       "user_username": "blifef3",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975200",
+      "user": "ud4fs-dmapw-ufuxm-tgszv-jmhed-tc432-p3smc-bo4c5-md4wf-26qms-3qe",
+      "token": "2dzg",
+      "time": "2025-07-03T14:29:40.000Z",
+      "buy": true,
+      "amount_btc": 55000000,
+      "amount_token": 1014447893414731,
+      "price": 5403,
+      "bonded": true,
+      "user_username": "ud4fs-dmapw",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51975004",
+      "user": "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:27:37.000Z",
+      "buy": false,
+      "amount_btc": 105716701,
+      "amount_token": 1966466517903212,
+      "price": 5385,
+      "bonded": true,
+      "user_username": "大禹治水",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51974881",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-03T14:25:47.000Z",
+      "buy": false,
+      "amount_btc": 53372110,
+      "amount_token": 987975552252410,
+      "price": 5420,
+      "bonded": true,
+      "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51974844",
+      "user": "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae",
+      "token": "2dzg",
+      "time": "2025-07-03T14:25:22.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 916246746134300,
+      "price": 5438,
+      "bonded": true,
+      "user_username": "Japan招募中",
+      "user_image": "a9866595-c1f1-4336-819f-bc8b4ca8d549.png",
       "decimals": 3,
       "divisibility": 8
     }
