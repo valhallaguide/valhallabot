@@ -1,5 +1,5 @@
 {
-  "count": 1330,
+  "count": 1331,
   "data": [
     {
       "id": "51879158",
@@ -19948,6 +19948,21 @@
       "bonded": true,
       "user_username": "瓦尔哈拉进群:784386301",
       "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51916990",
+      "user": "bjkye-3jnn6-cgvu5-xpep4-tptam-dwwkl-w6433-gowtu-o6lip-szoqj-2ae",
+      "token": "2dzg",
+      "time": "2025-07-03T05:45:17.000Z",
+      "buy": false,
+      "amount_btc": 51607759,
+      "amount_token": 811795123205168,
+      "price": 6380,
+      "bonded": true,
+      "user_username": "Rodarmora",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
