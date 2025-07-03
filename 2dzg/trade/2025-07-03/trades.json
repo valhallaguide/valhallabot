@@ -1,5 +1,5 @@
 {
-  "count": 1418,
+  "count": 1420,
   "data": [
     {
       "id": "51879158",
@@ -21267,6 +21267,36 @@
       "price": 4648,
       "bonded": true,
       "user_username": "396",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51944338",
+      "user": "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae",
+      "token": "2dzg",
+      "time": "2025-07-03T10:28:03.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 3047311510535464,
+      "price": 4922,
+      "bonded": true,
+      "user_username": "海外胡子社区141319",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51944243",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T10:26:50.000Z",
+      "buy": false,
+      "amount_btc": 32675032,
+      "amount_token": 673131313349305,
+      "price": 4873,
+      "bonded": true,
+      "user_username": "都努力一点吧",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
