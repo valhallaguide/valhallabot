@@ -1,5 +1,5 @@
 {
-  "count": 1670,
+  "count": 1671,
   "data": [
     {
       "id": "51879158",
@@ -25048,6 +25048,21 @@
       "bonded": true,
       "user_username": "飞天茅台",
       "user_image": "b0335f93-227e-43cd-ab9a-00b27430cd43.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51971675",
+      "user": "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe",
+      "token": "2dzg",
+      "time": "2025-07-03T14:02:53.000Z",
+      "buy": false,
+      "amount_btc": 137751296,
+      "amount_token": 3186694341075085,
+      "price": 4322,
+      "bonded": true,
+      "user_username": "kbb43-ai2fj",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
