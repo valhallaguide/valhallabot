@@ -504,13 +504,6 @@
     "user_image": null
   },
   {
-    "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
-    "token": "2dzg",
-    "balance": 5504372465694477,
-    "user_username": "友谊社区",
-    "user_image": null
-  },
-  {
     "user": "kf3hu-erp5z-pxq45-lv5e3-5veoc-4lifk-k3fby-mmkh5-sge6n-vplkq-rqe",
     "token": "2dzg",
     "balance": 5464962763680695,
@@ -537,6 +530,13 @@
     "balance": 5065766050740836,
     "user_username": "Mak",
     "user_image": "0b929ba9-1814-47d3-99d4-f8fea1aade8d.jpg"
+  },
+  {
+    "user": "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae",
+    "token": "2dzg",
+    "balance": 5004372465694477,
+    "user_username": "友谊社区",
+    "user_image": null
   },
   {
     "user": "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae",
