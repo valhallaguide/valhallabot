@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 199,
+    "totalUsers": 200,
     "nonSellersCount": 139,
-    "sellersCount": 60,
-    "totalBalance": 1054553095726617300
+    "sellersCount": 61,
+    "totalBalance": 1056271338257696500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -202,6 +202,10 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
+    "y6xfv-2xoa4-auvhv-lhwcb-5qty6-3t4yn-x6c7y-hkbzb-j734m-mjtag-cqe": {
+      "balance": 5817870445871904,
+      "username": "瓦尔哈拉进群784386301"
+    },
     "gfsc7-26bou-nlt27-k3rrq-co57o-ba2db-ddmqg-m66rk-rh2bi-dw7h3-gae": {
       "balance": 5778133199100447,
       "username": "奥丁王子"
@@ -241,10 +245,6 @@
     "yg3ir-iutzw-mrfxt-yw6yr-psj2f-4i4t7-g72ys-n57h7-pqxef-mxbs6-gqe": {
       "balance": 4167976498494871,
       "username": "yg3ir-iutzw"
-    },
-    "y6xfv-2xoa4-auvhv-lhwcb-5qty6-3t4yn-x6c7y-hkbzb-j734m-mjtag-cqe": {
-      "balance": 4099627914792572,
-      "username": "瓦尔哈拉进群784386301"
     },
     "23qal-vsxhm-4sq2r-dqx3b-7ofdv-wgffq-yj5ju-dwzek-mdx4c-lz4io-iae": {
       "balance": 4009786707364906,
