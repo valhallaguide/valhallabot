@@ -1,5 +1,5 @@
 {
-  "count": 1412,
+  "count": 1414,
   "data": [
     {
       "id": "51879158",
@@ -21178,6 +21178,36 @@
       "bonded": true,
       "user_username": "crab",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51941198",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-03T09:48:32.000Z",
+      "buy": false,
+      "amount_btc": 285992289,
+      "amount_token": 6052640414250964,
+      "price": 4704,
+      "bonded": true,
+      "user_username": "瓦尔哈拉进群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "51941166",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-03T09:48:21.000Z",
+      "buy": false,
+      "amount_btc": 389749534,
+      "amount_token": 8070187219001286,
+      "price": 4793,
+      "bonded": true,
+      "user_username": "瓦尔哈拉进群:784386301",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
