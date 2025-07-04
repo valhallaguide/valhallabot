@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 182,
-    "nonSellersCount": 158,
+    "totalUsers": 183,
+    "nonSellersCount": 159,
     "sellersCount": 24,
-    "totalBalance": 1199297159707930400
+    "totalBalance": 1203855058836067300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -269,6 +269,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
+    },
+    "qpja5-vcjjw-rs5fq-2wud3-uurpe-kfa76-nccsr-gzvgf-a36xo-3yu5n-xqe": {
+      "balance": 4557899128136704,
+      "username": "NorVault"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 4280697049304849,
