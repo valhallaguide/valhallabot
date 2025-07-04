@@ -1,5 +1,5 @@
 {
-  "count": 639,
+  "count": 642,
   "data": [
     {
       "id": "52012408",
@@ -9583,6 +9583,51 @@
       "bonded": true,
       "user_username": "odin.fun...",
       "user_image": "bb5af3fe-3fb0-4c41-a9e4-06efb929bef2.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52073666",
+      "user": "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae",
+      "token": "2dzg",
+      "time": "2025-07-04T10:49:18.000Z",
+      "buy": true,
+      "amount_btc": 125598171,
+      "amount_token": 2735055532956722,
+      "price": 4589,
+      "bonded": true,
+      "user_username": "木已成舟",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52073655",
+      "user": "u7w4t-4jeta-uv3ra-kw5lx-zjhh6-zxp2a-hgne3-q2eeu-6nf2n-ijomr-xqe",
+      "token": "2dzg",
+      "time": "2025-07-04T10:49:09.000Z",
+      "buy": true,
+      "amount_btc": 32232130,
+      "amount_token": 705810759515287,
+      "price": 4549,
+      "bonded": true,
+      "user_username": "SO WHAT",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52073650",
+      "user": "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae",
+      "token": "2dzg",
+      "time": "2025-07-04T10:49:05.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1098079310782533,
+      "price": 4538,
+      "bonded": true,
+      "user_username": "木已成舟",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
