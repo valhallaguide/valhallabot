@@ -1,5 +1,5 @@
 {
-  "count": 594,
+  "count": 596,
   "data": [
     {
       "id": "52012408",
@@ -8907,6 +8907,36 @@
       "price": 5384,
       "bonded": true,
       "user_username": "G-利国社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52038367",
+      "user": "kns6u-cfpyr-ghzyd-6mru5-ek436-vyhej-sggj2-ywrhe-ygy6t-rsjem-cqe",
+      "token": "2dzg",
+      "time": "2025-07-04T04:06:41.000Z",
+      "buy": false,
+      "amount_btc": 17954008,
+      "amount_token": 337649587668211,
+      "price": 5341,
+      "bonded": true,
+      "user_username": "W-X24",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52038262",
+      "user": "kns6u-cfpyr-ghzyd-6mru5-ek436-vyhej-sggj2-ywrhe-ygy6t-rsjem-cqe",
+      "token": "2dzg",
+      "time": "2025-07-04T04:05:58.000Z",
+      "buy": false,
+      "amount_btc": 14032216,
+      "amount_token": 263627484166282,
+      "price": 5347,
+      "bonded": true,
+      "user_username": "W-X24",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
