@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 179,
+    "totalUsers": 180,
     "nonSellersCount": 157,
-    "sellersCount": 22,
-    "totalBalance": 1172144329357119700
+    "sellersCount": 23,
+    "totalBalance": 1171859819655473200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -422,10 +422,6 @@
       "balance": 886562281307094,
       "username": "直通车"
     },
-    "ud4fs-dmapw-ufuxm-tgszv-jmhed-tc432-p3smc-bo4c5-md4wf-26qms-3qe": {
-      "balance": 832596207356514,
-      "username": "ud4fs-dmapw"
-    },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
@@ -473,6 +469,10 @@
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
       "username": "WIZARDS."
+    },
+    "ud4fs-dmapw-ufuxm-tgszv-jmhed-tc432-p3smc-bo4c5-md4wf-26qms-3qe": {
+      "balance": 548086505709856,
+      "username": "ud4fs-dmapw"
     },
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
