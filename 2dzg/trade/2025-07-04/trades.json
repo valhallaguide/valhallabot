@@ -1,5 +1,5 @@
 {
-  "count": 621,
+  "count": 622,
   "data": [
     {
       "id": "52012408",
@@ -9313,6 +9313,21 @@
       "bonded": true,
       "user_username": "八卦镜",
       "user_image": "b5740adf-a9aa-4d03-bfc9-aa3aa90652cc.jfif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52069146",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-04T10:02:52.000Z",
+      "buy": false,
+      "amount_btc": 49836414,
+      "amount_token": 1114233473983836,
+      "price": 4487,
+      "bonded": true,
+      "user_username": "https://odin.fun/",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
