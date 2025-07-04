@@ -1,5 +1,5 @@
 {
-  "count": 632,
+  "count": 634,
   "data": [
     {
       "id": "52012408",
@@ -9477,6 +9477,36 @@
       "price": 4411,
       "bonded": true,
       "user_username": "https://odin.fun/",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52071007",
+      "user": "sitom-kzstn-zy7ih-2apdv-cfuzi-hxw4g-u2whq-hhu2d-qmb5b-k2bu2-4ae",
+      "token": "2dzg",
+      "time": "2025-07-04T10:19:31.000Z",
+      "buy": false,
+      "amount_btc": 60659596,
+      "amount_token": 1345123739710426,
+      "price": 4522,
+      "bonded": true,
+      "user_username": "mtyjg",
+      "user_image": "249d0bca-2865-4d78-859d-6cb1ce04daaa.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52070876",
+      "user": "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe",
+      "token": "2dzg",
+      "time": "2025-07-04T10:17:57.000Z",
+      "buy": false,
+      "amount_btc": 433987964,
+      "amount_token": 9456725802446176,
+      "price": 4541,
+      "bonded": true,
+      "user_username": "wanted",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
