@@ -231,13 +231,6 @@
     "user_image": "9d1edfa9-8ced-478b-90d3-7f29a2d8b6f5.png"
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 12205230235194436,
-    "user_username": "fdddjjddse",
-    "user_image": null
-  },
-  {
     "user": "3jmi7-2m4yx-tmzte-ohmcp-xi5ov-mhhob-xgfnq-gk3bo-yie7y-vtr6t-xae",
     "token": "2dzg",
     "balance": 11835734112113192,
@@ -445,6 +438,13 @@
     "token": "2dzg",
     "balance": 6288796713652934,
     "user_username": "Brandon Stark",
+    "user_image": null
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 6102615117597218,
+    "user_username": "fdddjjddse",
     "user_image": null
   },
   {
@@ -656,13 +656,6 @@
     "balance": 2782815541180920,
     "user_username": "🪙BTC STANDARD🪙",
     "user_image": "467f072a-1f79-4c91-b08d-d52c844d0daf.jpg"
-  },
-  {
-    "user": "xztkh-g7exk-6wsx7-m6sjp-gfyem-zwgr7-7xcmz-mhakz-e3mzd-ym7af-4qe",
-    "token": "2dzg",
-    "balance": 2643359288624093,
-    "user_username": "jnyzyqw-12",
-    "user_image": null
   },
   {
     "user": "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae",
@@ -1125,13 +1118,6 @@
     "balance": 184838067802871,
     "user_username": "gundam",
     "user_image": "870cd947-baca-4fe1-98ab-6d308324f9ba.png"
-  },
-  {
-    "user": "mqtsg-eypl5-jpzew-7z6be-dzppl-mmziz-36ctx-nkcnw-5ctwh-r3saq-dae",
-    "token": "2dzg",
-    "balance": 179244718390307,
-    "user_username": "qsdftfghyjnvfvnhgngf",
-    "user_image": null
   },
   {
     "user": "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe",
