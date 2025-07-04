@@ -658,13 +658,6 @@
     "user_image": "9dfb2792-0eb0-4490-bd39-03033ec74a63.jpg"
   },
   {
-    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
-    "token": "2dzg",
-    "balance": 2228466947967673,
-    "user_username": "https://odin.fun/",
-    "user_image": null
-  },
-  {
     "user": "2c62g-644tt-vmaf5-25hj5-uczex-ywvwf-uol6l-5g2oq-7db76-cuesm-wae",
     "token": "2dzg",
     "balance": 2214510348417087,
@@ -823,6 +816,13 @@
     "token": "2dzg",
     "balance": 1124293153924199,
     "user_username": "BTC社区-去中心化",
+    "user_image": null
+  },
+  {
+    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+    "token": "2dzg",
+    "balance": 1114233473983837,
+    "user_username": "https://odin.fun/",
     "user_image": null
   },
   {
