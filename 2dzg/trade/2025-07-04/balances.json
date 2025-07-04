@@ -3,7 +3,7 @@
     "totalUsers": 192,
     "nonSellersCount": 167,
     "sellersCount": 25,
-    "totalBalance": 1245110946040864500
+    "totalBalance": 1243465507798129200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -238,10 +238,6 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
-    "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe": {
-      "balance": 5989599511537100,
-      "username": "crab"
-    },
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 5926758449041064,
       "username": "mark .james"
@@ -281,6 +277,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
+    },
+    "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe": {
+      "balance": 4344161268802026,
+      "username": "crab"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 4280697049304849,
