@@ -1,5 +1,5 @@
 {
-  "count": 622,
+  "count": 625,
   "data": [
     {
       "id": "52012408",
@@ -9327,6 +9327,51 @@
       "price": 4487,
       "bonded": true,
       "user_username": "https://odin.fun/",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52070035",
+      "user": "ogqnm-77koc-bezrj-rbifx-uvw3a-sr7wd-wnhen-yhjjk-2oxyo-4mxum-wae",
+      "token": "2dzg",
+      "time": "2025-07-04T10:10:19.000Z",
+      "buy": false,
+      "amount_btc": 313487221,
+      "amount_token": 7086575098230746,
+      "price": 4395,
+      "bonded": true,
+      "user_username": "天涯心",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52069973",
+      "user": "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae",
+      "token": "2dzg",
+      "time": "2025-07-04T10:09:43.000Z",
+      "buy": true,
+      "amount_btc": 448192260,
+      "amount_token": 10078692151596200,
+      "price": 4496,
+      "bonded": true,
+      "user_username": "wangbaoze",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52069548",
+      "user": "fylwq-fx3c2-lzqe7-fkmcu-nxh3q-3v4k6-27pbj-beby5-ic3u4-6qtlv-5qe",
+      "token": "2dzg",
+      "time": "2025-07-04T10:07:01.000Z",
+      "buy": false,
+      "amount_btc": 416019590,
+      "amount_token": 9459148195722928,
+      "price": 4354,
+      "bonded": true,
+      "user_username": "@gmail.com",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
