@@ -1,5 +1,5 @@
 {
-  "count": 936,
+  "count": 937,
   "data": [
     {
       "id": "52012408",
@@ -14037,6 +14037,21 @@
       "price": 4947,
       "bonded": true,
       "user_username": "Valhalla Liquidity Fund",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52112954",
+      "user": "ud4fs-dmapw-ufuxm-tgszv-jmhed-tc432-p3smc-bo4c5-md4wf-26qms-3qe",
+      "token": "2dzg",
+      "time": "2025-07-04T20:05:24.000Z",
+      "buy": false,
+      "amount_btc": 40918121,
+      "amount_token": 832596207356514,
+      "price": 4932,
+      "bonded": true,
+      "user_username": "ud4fs-dmapw",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
