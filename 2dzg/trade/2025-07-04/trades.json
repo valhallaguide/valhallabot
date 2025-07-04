@@ -1,5 +1,5 @@
 {
-  "count": 672,
+  "count": 671,
   "data": [
     {
       "id": "52012408",
@@ -10062,21 +10062,6 @@
       "price": 4997,
       "bonded": true,
       "user_username": "hum3f-qcwvx",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "52096681",
-      "user": "qpja5-vcjjw-rs5fq-2wud3-uurpe-kfa76-nccsr-gzvgf-a36xo-3yu5n-xqe",
-      "token": "2dzg",
-      "time": "2025-07-04T14:37:48.000Z",
-      "buy": true,
-      "amount_btc": 231100329,
-      "amount_token": 4557899128136704,
-      "price": 5084,
-      "bonded": true,
-      "user_username": "NorVault",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
