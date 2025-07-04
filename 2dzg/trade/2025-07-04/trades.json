@@ -1,5 +1,5 @@
 {
-  "count": 908,
+  "count": 907,
   "data": [
     {
       "id": "52012408",
@@ -13602,21 +13602,6 @@
       "price": 4885,
       "bonded": true,
       "user_username": "看谁跑的快",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "52111139",
-      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-      "token": "2dzg",
-      "time": "2025-07-04T18:16:15.000Z",
-      "buy": false,
-      "amount_btc": 507354,
-      "amount_token": 10300000000000,
-      "price": 4950,
-      "bonded": true,
-      "user_username": "fsefxdsj",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
