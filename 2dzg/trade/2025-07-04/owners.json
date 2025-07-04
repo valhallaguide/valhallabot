@@ -763,13 +763,6 @@
     "user_image": null
   },
   {
-    "user": "dsehk-pslnd-hzeg5-xayr6-duueh-pi4qu-mkjkf-4ests-l6deg-myvie-mae",
-    "token": "2dzg",
-    "balance": 1441511903522750,
-    "user_username": "g6mvy-f1h3rj",
-    "user_image": null
-  },
-  {
     "user": "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae",
     "token": "2dzg",
     "balance": 1353461323103685,
@@ -1167,6 +1160,13 @@
     "balance": 12528088512181,
     "user_username": "BC-OG Bitcoin logo",
     "user_image": "2f691694-a99c-4c11-9242-21505b2b9a29.jpg"
+  },
+  {
+    "user": "dsehk-pslnd-hzeg5-xayr6-duueh-pi4qu-mkjkf-4ests-l6deg-myvie-mae",
+    "token": "2dzg",
+    "balance": 11511903522750,
+    "user_username": "g6mvy-f1h3rj",
+    "user_image": null
   },
   {
     "user": "gudmu-h7aur-57wjp-3tlic-l2drh-pqwkw-hcxsp-66cny-kjehz-p73dh-eae",
