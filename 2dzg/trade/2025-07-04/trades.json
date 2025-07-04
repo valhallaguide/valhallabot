@@ -1,5 +1,5 @@
 {
-  "count": 673,
+  "count": 677,
   "data": [
     {
       "id": "52012408",
@@ -10092,6 +10092,66 @@
       "price": 5136,
       "bonded": true,
       "user_username": "咚巴拉",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52097745",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-04T14:49:53.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 5419813755956546,
+      "price": 5561,
+      "bonded": true,
+      "user_username": "fsefxdsj",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52097738",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-04T14:49:43.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 5527533576033883,
+      "price": 5453,
+      "bonded": true,
+      "user_username": "fsefxdsj",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52097705",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-04T14:49:31.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 5638466578443294,
+      "price": 5347,
+      "bonded": true,
+      "user_username": "fsefxdsj",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52097693",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-04T14:49:17.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 5752741961330328,
+      "price": 5241,
+      "bonded": true,
+      "user_username": "fsefxdsj",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
