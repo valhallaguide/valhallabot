@@ -3,7 +3,7 @@
     "totalUsers": 180,
     "nonSellersCount": 168,
     "sellersCount": 12,
-    "totalBalance": 1264936850835427300
+    "totalBalance": 1269118488839815200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -162,6 +162,10 @@
       "balance": 10500000000000000,
       "username": "valhalla holder"
     },
+    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
+      "balance": 10434243667028564,
+      "username": "8866551"
+    },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
@@ -241,10 +245,6 @@
     "4c775-yv665-qeg5u-fu2l3-nb2hp-t23iy-pxd2i-3fcsu-rwqsq-taxrf-tae": {
       "balance": 6288796713652934,
       "username": "Brandon Stark"
-    },
-    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
-      "balance": 6252605662640465,
-      "username": "8866551"
     },
     "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe": {
       "balance": 6235321898610457,
