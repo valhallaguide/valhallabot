@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 177,
-    "nonSellersCount": 170,
+    "totalUsers": 176,
+    "nonSellersCount": 169,
     "sellersCount": 7,
-    "totalBalance": 1278859512232104400
+    "totalBalance": 1276744353031456000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -330,10 +330,6 @@
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
     },
-    "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
-      "balance": 2710941636422009,
-      "username": "brd7t-hdxjk"
-    },
     "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae": {
       "balance": 2616065171869265,
       "username": "比特牛QQ群1002836241"
@@ -394,6 +390,10 @@
       "balance": 1820015505968054,
       "username": "blifef3"
     },
+    "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
+      "balance": 1780630361679336,
+      "username": "brd7t-hdxjk"
+    },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 1729442026467025,
       "username": "笑哈哈"
@@ -425,10 +425,6 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
-    },
-    "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe": {
-      "balance": 1184847925905892,
-      "username": "cjxydr"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
