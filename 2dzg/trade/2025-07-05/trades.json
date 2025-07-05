@@ -1,5 +1,5 @@
 {
-  "count": 447,
+  "count": 452,
   "data": [
     {
       "id": "52122195",
@@ -6703,6 +6703,81 @@
       "bonded": true,
       "user_username": "hubnji",
       "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52162180",
+      "user": "buqkv-66fs7-mpwib-s7fbi-copxx-iusv4-hzsot-gorcx-xb6yl-6uqbv-aae",
+      "token": "2dzg",
+      "time": "2025-07-05T08:05:00.000Z",
+      "buy": false,
+      "amount_btc": 145754154,
+      "amount_token": 3581842554410428,
+      "price": 4066,
+      "bonded": true,
+      "user_username": "Lewis Hamilton",
+      "user_image": "49cbc682-1a65-44b4-bff7-e47ceb7e0676.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52162127",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-05T08:04:37.000Z",
+      "buy": false,
+      "amount_btc": 331601556,
+      "amount_token": 8000000000000000,
+      "price": 4112,
+      "bonded": true,
+      "user_username": "hubnji",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52162008",
+      "user": "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae",
+      "token": "2dzg",
+      "time": "2025-07-05T08:03:19.000Z",
+      "buy": true,
+      "amount_btc": 39392590,
+      "amount_token": 930311274742673,
+      "price": 4219,
+      "bonded": true,
+      "user_username": "brd7t-hdxjk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52161855",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-05T08:01:38.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1184847925905892,
+      "price": 4206,
+      "bonded": true,
+      "user_username": "cjxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52161733",
+      "user": "buqkv-66fs7-mpwib-s7fbi-copxx-iusv4-hzsot-gorcx-xb6yl-6uqbv-aae",
+      "token": "2dzg",
+      "time": "2025-07-05T08:00:33.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 3581842554410428,
+      "price": 4190,
+      "bonded": true,
+      "user_username": "Lewis Hamilton",
+      "user_image": "49cbc682-1a65-44b4-bff7-e47ceb7e0676.png",
       "decimals": 3,
       "divisibility": 8
     }
