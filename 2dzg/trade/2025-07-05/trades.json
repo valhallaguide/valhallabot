@@ -1,5 +1,5 @@
 {
-  "count": 497,
+  "count": 498,
   "data": [
     {
       "id": "52122195",
@@ -7453,6 +7453,21 @@
       "bonded": true,
       "user_username": "son Goku - sama",
       "user_image": "7ebf42e4-7360-4c07-8f07-229883e363aa.JPG",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52194884",
+      "user": "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae",
+      "token": "2dzg",
+      "time": "2025-07-05T13:20:29.000Z",
+      "buy": false,
+      "amount_btc": 510256694,
+      "amount_token": 12638592857951336,
+      "price": 3978,
+      "bonded": true,
+      "user_username": "wangbaoze",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
