@@ -49,13 +49,6 @@
     "user_image": null
   },
   {
-    "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
-    "token": "2dzg",
-    "balance": 35297892324067416,
-    "user_username": "价值币导航",
-    "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg"
-  },
-  {
     "user": "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae",
     "token": "2dzg",
     "balance": 34898704475150790,
@@ -89,6 +82,13 @@
     "balance": 28297414120567920,
     "user_username": "不能随便买",
     "user_image": "41cd1253-94a6-4487-9622-57d6b7febaec.jpg"
+  },
+  {
+    "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+    "token": "2dzg",
+    "balance": 28000000000000000,
+    "user_username": "价值币导航",
+    "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg"
   },
   {
     "user": "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae",
@@ -791,13 +791,6 @@
     "user_image": null
   },
   {
-    "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
-    "token": "2dzg",
-    "balance": 1184847925905892,
-    "user_username": "cjxydr",
-    "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg"
-  },
-  {
     "user": "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae",
     "token": "2dzg",
     "balance": 1126648240528628,
@@ -957,6 +950,13 @@
     "balance": 551163968799962,
     "user_username": "WIZARDS.",
     "user_image": "832ab530-5740-4af6-a945-643478da2313.jpg"
+  },
+  {
+    "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+    "token": "2dzg",
+    "balance": 504052432695846,
+    "user_username": "cjxydr",
+    "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg"
   },
   {
     "user": "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae",
