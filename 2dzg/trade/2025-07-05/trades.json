@@ -1,5 +1,5 @@
 {
-  "count": 475,
+  "count": 476,
   "data": [
     {
       "id": "52122195",
@@ -7123,6 +7123,21 @@
       "bonded": true,
       "user_username": "比特牛QQ群1002836241",
       "user_image": "3c68032b-a73f-40bd-bbcc-4a2ed005f814.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52175146",
+      "user": "4ze2r-q7upz-7hrlu-gzyjm-gmwtq-a7sm4-bdutf-n6par-r5ti3-5qheq-dqe",
+      "token": "2dzg",
+      "time": "2025-07-05T09:59:21.000Z",
+      "buy": true,
+      "amount_btc": 298579045,
+      "amount_token": 7309961830063448,
+      "price": 4110,
+      "bonded": true,
+      "user_username": "奥丁之歌永不过时",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
