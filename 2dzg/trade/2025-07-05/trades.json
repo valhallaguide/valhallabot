@@ -1,5 +1,5 @@
 {
-  "count": 603,
+  "count": 604,
   "data": [
     {
       "id": "52122195",
@@ -9043,6 +9043,21 @@
       "bonded": true,
       "user_username": "宝宝没大饼",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52224361",
+      "user": "vt2gd-ak3gc-gud4k-qg77y-lndvs-h23jr-oe5fn-irwti-pa3gc-zikzm-yae",
+      "token": "2dzg",
+      "time": "2025-07-05T22:52:52.000Z",
+      "buy": false,
+      "amount_btc": 395635083,
+      "amount_token": 10880971717549748,
+      "price": 3593,
+      "bonded": true,
+      "user_username": "哈没事",
+      "user_image": "1e211e80-90ba-4619-9073-8cfdf890a8dd.png",
       "decimals": 3,
       "divisibility": 8
     }
