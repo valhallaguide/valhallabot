@@ -392,13 +392,6 @@
     "user_image": null
   },
   {
-    "user": "hok32-7rvkh-s4nbn-helr7-4nbye-tsvck-k3dvf-aayap-bgmc6-uhpqp-4ae",
-    "token": "2dzg",
-    "balance": 7896957204861352,
-    "user_username": "i am the balancing point",
-    "user_image": "47f4fd3f-79f4-4187-91f4-47eccb499519.png"
-  },
-  {
     "user": "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe",
     "token": "2dzg",
     "balance": 7874375669324299,
@@ -616,6 +609,13 @@
     "user_image": null
   },
   {
+    "user": "hok32-7rvkh-s4nbn-helr7-4nbye-tsvck-k3dvf-aayap-bgmc6-uhpqp-4ae",
+    "token": "2dzg",
+    "balance": 3948478602430676,
+    "user_username": "i am the balancing point",
+    "user_image": "47f4fd3f-79f4-4187-91f4-47eccb499519.png"
+  },
+  {
     "user": "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe",
     "token": "2dzg",
     "balance": 3874824891562944,
@@ -775,13 +775,6 @@
     "balance": 1683779501082183,
     "user_username": "TP_gighc",
     "user_image": "e659bd97-2aef-4bc0-ad5e-11145d4efa5b.jpg"
-  },
-  {
-    "user": "wg7sb-wyeuk-rcjhs-hesaf-ggwfr-lmvjg-5pk7r-fugl3-mrmbu-aaj5x-bqe",
-    "token": "2dzg",
-    "balance": 1523520007675049,
-    "user_username": "God Thief BoB",
-    "user_image": null
   },
   {
     "user": "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe",
