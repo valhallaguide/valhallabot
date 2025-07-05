@@ -1,5 +1,5 @@
 {
-  "count": 513,
+  "count": 514,
   "data": [
     {
       "id": "52122195",
@@ -7693,6 +7693,21 @@
       "bonded": true,
       "user_username": "God Thief BoB",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52204268",
+      "user": "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe",
+      "token": "2dzg",
+      "time": "2025-07-05T14:15:57.000Z",
+      "buy": true,
+      "amount_btc": 294565279,
+      "amount_token": 8510093040253641,
+      "price": 3487,
+      "bonded": true,
+      "user_username": "e5s55-bijuk",
+      "user_image": "451cab97-e444-4660-aa41-e1e61cb9070f.jpg",
       "decimals": 3,
       "divisibility": 8
     }
