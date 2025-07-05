@@ -1,5 +1,5 @@
 {
-  "count": 511,
+  "count": 513,
   "data": [
     {
       "id": "52122195",
@@ -7663,6 +7663,36 @@
       "bonded": true,
       "user_username": "cjxydr",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52203994",
+      "user": "qpghi-m3re3-psx4u-cy43u-bvwuq-ray5r-5ce4r-tuky5-3lmmo-d3hu5-dae",
+      "token": "2dzg",
+      "time": "2025-07-05T14:12:12.000Z",
+      "buy": true,
+      "amount_btc": 443141170,
+      "amount_token": 13216670710827032,
+      "price": 3400,
+      "bonded": true,
+      "user_username": "qpghi-m3re3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52203306",
+      "user": "wg7sb-wyeuk-rcjhs-hesaf-ggwfr-lmvjg-5pk7r-fugl3-mrmbu-aaj5x-bqe",
+      "token": "2dzg",
+      "time": "2025-07-05T14:10:48.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1523520007675049,
+      "price": 3272,
+      "bonded": true,
+      "user_username": "God Thief BoB",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
