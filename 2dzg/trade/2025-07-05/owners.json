@@ -287,13 +287,6 @@
     "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg"
   },
   {
-    "user": "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe",
-    "token": "2dzg",
-    "balance": 10505325194788360,
-    "user_username": "宝宝没大饼",
-    "user_image": null
-  },
-  {
     "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
     "token": "2dzg",
     "balance": 10500000000000000,
@@ -494,6 +487,13 @@
     "token": "2dzg",
     "balance": 5446547772880106,
     "user_username": "99不88",
+    "user_image": null
+  },
+  {
+    "user": "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe",
+    "token": "2dzg",
+    "balance": 5358261153070710,
+    "user_username": "宝宝没大饼",
     "user_image": null
   },
   {
