@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 180,
-    "nonSellersCount": 170,
+    "totalUsers": 181,
+    "nonSellersCount": 171,
     "sellersCount": 10,
-    "totalBalance": 1300607870594259700
+    "totalBalance": 1301574601271100000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -418,6 +418,10 @@
       "balance": 1496777059560702,
       "username": "Bob.life"
     },
+    "q424k-visvi-smzvn-dx7ya-467c7-xcs7y-bgs35-r56gt-ptkr7-ktk2o-wqe": {
+      "balance": 1369561192396558,
+      "username": "直通车"
+    },
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
       "username": "t.ey t.ey"
@@ -474,10 +478,6 @@
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
     },
-    "q424k-visvi-smzvn-dx7ya-467c7-xcs7y-bgs35-r56gt-ptkr7-ktk2o-wqe": {
-      "balance": 886562281307094,
-      "username": "直通车"
-    },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
@@ -525,6 +525,10 @@
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
       "username": "Bad Moon Rising"
+    },
+    "lqic6-and44-t7uof-gux67-zjspr-ako2c-vdpcm-w4k6a-gu4f6-3tmzc-iae": {
+      "balance": 483731765750810,
+      "username": "锦鲤社区16"
     },
     "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae": {
       "balance": 409459826368826,
