@@ -1,5 +1,5 @@
 {
-  "count": 507,
+  "count": 508,
   "data": [
     {
       "id": "52122195",
@@ -7602,6 +7602,21 @@
       "price": 3446,
       "bonded": true,
       "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52199893",
+      "user": "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae",
+      "token": "2dzg",
+      "time": "2025-07-05T13:54:26.000Z",
+      "buy": false,
+      "amount_btc": 359331402,
+      "amount_token": 11044571548294336,
+      "price": 3218,
+      "bonded": true,
+      "user_username": "芭菲特",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
