@@ -1,5 +1,5 @@
 {
-  "count": 432,
+  "count": 431,
   "data": [
     {
       "id": "52122195",
@@ -6463,21 +6463,6 @@
       "bonded": true,
       "user_username": "status-ASd",
       "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "52123919",
-      "user": "ogqnm-77koc-bezrj-rbifx-uvw3a-sr7wd-wnhen-yhjjk-2oxyo-4mxum-wae",
-      "token": "2dzg",
-      "time": "2025-07-05T00:34:56.000Z",
-      "buy": false,
-      "amount_btc": 188981066,
-      "amount_token": 3825749482719170,
-      "price": 4932,
-      "bonded": true,
-      "user_username": "天涯心",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
