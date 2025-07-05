@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
+    "totalUsers": 179,
     "nonSellersCount": 171,
-    "sellersCount": 7,
-    "totalBalance": 1295389700137860900
+    "sellersCount": 8,
+    "totalBalance": 1297527420695012000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -234,6 +234,10 @@
       "balance": 6288796713652934,
       "username": "Brandon Stark"
     },
+    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
+      "balance": 6252605662640465,
+      "username": "8866551"
+    },
     "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe": {
       "balance": 6235321898610457,
       "username": "ibaofule"
@@ -281,10 +285,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
-      "balance": 4876622307728063,
-      "username": "8866551"
     },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
@@ -342,6 +342,10 @@
       "balance": 2616065171869265,
       "username": "比特牛QQ群1002836241"
     },
+    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
+      "balance": 2581752708206758,
+      "username": "blifef3"
+    },
     "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
       "balance": 2463950858934622,
       "username": "KKO"
@@ -393,10 +397,6 @@
     "rnj2z-hybx7-w35sj-tr6ms-qzax4-tmlgm-ysc63-2eg6h-exe54-ezecg-uae": {
       "balance": 1949326792605364,
       "username": "wg7y9-js1t3c"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 1820015505968054,
-      "username": "blifef3"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 1729442026467025,
