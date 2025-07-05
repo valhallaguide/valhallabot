@@ -1,5 +1,5 @@
 {
-  "count": 473,
+  "count": 475,
   "data": [
     {
       "id": "52122195",
@@ -7093,6 +7093,36 @@
       "bonded": true,
       "user_username": "Activity",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52174805",
+      "user": "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae",
+      "token": "2dzg",
+      "time": "2025-07-05T09:54:50.000Z",
+      "buy": true,
+      "amount_btc": 142582743,
+      "amount_token": 3550139648551007,
+      "price": 4018,
+      "bonded": true,
+      "user_username": "Zhuu",
+      "user_image": "9d1edfa9-8ced-478b-90d3-7f29a2d8b6f5.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52174396",
+      "user": "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae",
+      "token": "2dzg",
+      "time": "2025-07-05T09:51:25.000Z",
+      "buy": true,
+      "amount_btc": 155873095,
+      "amount_token": 3925997022270941,
+      "price": 3974,
+      "bonded": true,
+      "user_username": "比特牛QQ群1002836241",
+      "user_image": "3c68032b-a73f-40bd-bbcc-4a2ed005f814.jpg",
       "decimals": 3,
       "divisibility": 8
     }
