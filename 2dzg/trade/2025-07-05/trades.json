@@ -1,5 +1,5 @@
 {
-  "count": 465,
+  "count": 468,
   "data": [
     {
       "id": "52122195",
@@ -6973,6 +6973,51 @@
       "bonded": true,
       "user_username": "我愛奧丁",
       "user_image": "b195369b-b818-4f41-a8db-c3c941b09fd5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52168093",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-05T08:50:15.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 504052432695846,
+      "price": 3951,
+      "bonded": true,
+      "user_username": "cjxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52167833",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-05T08:46:35.000Z",
+      "buy": false,
+      "amount_btc": 46592672,
+      "amount_token": 1184847925905892,
+      "price": 3944,
+      "bonded": true,
+      "user_username": "cjxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52167804",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-05T08:46:17.000Z",
+      "buy": false,
+      "amount_btc": 290774344,
+      "amount_token": 7297892324067415,
+      "price": 3959,
+      "bonded": true,
+      "user_username": "价值币导航",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
