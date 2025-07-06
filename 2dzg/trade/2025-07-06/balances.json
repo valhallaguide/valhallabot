@@ -3,7 +3,7 @@
     "totalUsers": 181,
     "nonSellersCount": 171,
     "sellersCount": 10,
-    "totalBalance": 1328764063043340500
+    "totalBalance": 1326430788585522200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -82,10 +82,6 @@
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
     },
-    "gsnd4-fabxv-vawel-3fna4-exr4o-o4fih-pyolx-khflg-ynckf-z5rjt-qae": {
-      "balance": 19433442351055348,
-      "username": "BYCBYC"
-    },
     "ejnx2-xpxrm-sg7cg-yoizb-uz6di-ireu5-ym2rb-ayp52-eqbdu-pvl4z-oae": {
       "balance": 19179490951272910,
       "username": "ejnx2-xpxrm"
@@ -97,6 +93,10 @@
     "hum3f-qcwvx-2lk7b-hi7tq-mztof-s3mv4-kxdbn-3kyfu-tg2aa-idpgh-aqe": {
       "balance": 17467335327181656,
       "username": "hum3f-qcwvx"
+    },
+    "gsnd4-fabxv-vawel-3fna4-exr4o-o4fih-pyolx-khflg-ynckf-z5rjt-qae": {
+      "balance": 17100167893237142,
+      "username": "BYCBYC"
     },
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 16430458254470496,
