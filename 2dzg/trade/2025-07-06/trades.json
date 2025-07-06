@@ -1,5 +1,5 @@
 {
-  "count": 275,
+  "count": 276,
   "data": [
     {
       "id": "52227414",
@@ -4122,6 +4122,21 @@
       "price": 3638,
       "bonded": true,
       "user_username": "世界的比特币·💲",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52258965",
+      "user": "fvl6j-7gxnk-ndgpy-3vpes-h3f6h-4io5c-7yytn-l6bvg-lrtkh-6gan4-3ae",
+      "token": "2dzg",
+      "time": "2025-07-06T06:24:22.000Z",
+      "buy": false,
+      "amount_btc": 239160184,
+      "amount_token": 6673614987791542,
+      "price": 3565,
+      "bonded": true,
+      "user_username": "至坚者",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
