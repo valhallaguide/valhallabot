@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
+    "totalUsers": 177,
     "nonSellersCount": 168,
-    "sellersCount": 10,
-    "totalBalance": 1304749860679199700
+    "sellersCount": 9,
+    "totalBalance": 1312094470339150600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -141,6 +141,10 @@
     "r5m5w-x5lhb-dk5de-m367b-m7mkv-ut6yl-ynu6b-5frsi-furnr-k53mz-qqe": {
       "balance": 11811596360194460,
       "username": "r5m5w-x5lhb"
+    },
+    "lbu3r-o5osq-ko4hq-gkx2g-ijylv-omzf7-mcovz-tntpv-wq3ez-dwen4-tae": {
+      "balance": 11639977684248664,
+      "username": "lbu3r-o5osq"
     },
     "562fk-7eqo3-sajxt-xtpsw-demlp-sonie-pr2d4-qk5yh-z3twm-fels2-rae": {
       "balance": 11574254155625280,
@@ -297,10 +301,6 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
-    },
-    "izt7g-gzbas-5jqve-vmaqf-3cxma-76dcv-eyey3-rzlo7-5pgnm-26c25-qae": {
-      "balance": 4295368024297738,
-      "username": "izt7g-gzbas"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 4280697049304849,
