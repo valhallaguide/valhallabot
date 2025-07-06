@@ -119,13 +119,6 @@
     "user_image": "a7c0bf17-460b-4c88-aec5-969d9f13d23e.png"
   },
   {
-    "user": "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae",
-    "token": "2dzg",
-    "balance": 21506865719163044,
-    "user_username": "169",
-    "user_image": null
-  },
-  {
     "user": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
     "token": "2dzg",
     "balance": 21414264806545284,
@@ -166,6 +159,13 @@
     "balance": 18000000000000000,
     "user_username": "价值投资",
     "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg"
+  },
+  {
+    "user": "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae",
+    "token": "2dzg",
+    "balance": 17506865719163044,
+    "user_username": "169",
+    "user_image": null
   },
   {
     "user": "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae",
@@ -704,13 +704,6 @@
     "token": "2dzg",
     "balance": 2146240616849235,
     "user_username": "odinBTC生态",
-    "user_image": null
-  },
-  {
-    "user": "ta4jw-tumww-2xdt6-jrvbq-rtvon-2ygne-jyjt3-iciui-bqnbg-j5hs6-sqe",
-    "token": "2dzg",
-    "balance": 2141984769041837,
-    "user_username": "CX——能能",
     "user_image": null
   },
   {
