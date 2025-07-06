@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
-    "nonSellersCount": 168,
+    "totalUsers": 177,
+    "nonSellersCount": 167,
     "sellersCount": 10,
-    "totalBalance": 1286985589494392000
+    "totalBalance": 1276551345827363300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -161,10 +161,6 @@
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 10500000000000000,
       "username": "valhalla holder"
-    },
-    "ln2s4-ka7p2-5krup-cj63s-qxs4x-yi4bh-avzqi-nhhsf-6t7ki-k7h6h-iae": {
-      "balance": 10434243667028564,
-      "username": "8866551"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
