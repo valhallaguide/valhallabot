@@ -1,5 +1,5 @@
 {
-  "count": 332,
+  "count": 334,
   "data": [
     {
       "id": "52227414",
@@ -4977,6 +4977,36 @@
       "price": 3292,
       "bonded": true,
       "user_username": "Mark1314",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52334404",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-06T23:28:22.000Z",
+      "buy": true,
+      "amount_btc": 844046807,
+      "amount_token": 24569618249026320,
+      "price": 3546,
+      "bonded": true,
+      "user_username": "Odindog _Liquidity _Fund",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52334360",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-06T23:27:58.000Z",
+      "buy": true,
+      "amount_btc": 6746911,
+      "amount_token": 203825952634877,
+      "price": 3294,
+      "bonded": true,
+      "user_username": "都努力一点吧",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
