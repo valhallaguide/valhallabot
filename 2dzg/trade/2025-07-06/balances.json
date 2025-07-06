@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 181,
+    "totalUsers": 180,
     "nonSellersCount": 172,
-    "sellersCount": 9,
-    "totalBalance": 1328800466235514000
+    "sellersCount": 8,
+    "totalBalance": 1329590358785511400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -346,6 +346,10 @@
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
     },
+    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
+      "balance": 3159570199989257,
+      "username": "blifef3"
+    },
     "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
       "balance": 3113267001768151,
       "username": "Fartus deus"
@@ -369,10 +373,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 2369677649991943,
-      "username": "blifef3"
     },
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
