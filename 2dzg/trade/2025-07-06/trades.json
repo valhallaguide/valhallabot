@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 331,
   "data": [
     {
       "id": "52227414",
@@ -4948,6 +4948,21 @@
       "bonded": true,
       "user_username": "CX——能能",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52325607",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-07-06T21:29:52.000Z",
+      "buy": true,
+      "amount_btc": 21736817,
+      "amount_token": 669984277503350,
+      "price": 3231,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
