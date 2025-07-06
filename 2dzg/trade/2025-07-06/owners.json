@@ -980,13 +980,6 @@
     "user_image": "bdee022b-3204-4ea1-bcff-553752ab1806.jpg"
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 590800000000000,
-    "user_username": "Odindog _Liquidity _Fund",
-    "user_image": null
-  },
-  {
     "user": "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae",
     "token": "2dzg",
     "balance": 551163968799962,
@@ -1020,6 +1013,13 @@
     "balance": 388398333693627,
     "user_username": "JUANCHO",
     "user_image": "fd6988f0-aa4f-4442-a5c2-87cb13b809b7.png"
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 386000000000000,
+    "user_username": "Odindog _Liquidity _Fund",
+    "user_image": null
   },
   {
     "user": "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe",
