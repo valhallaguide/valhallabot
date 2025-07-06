@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 304,
   "data": [
     {
       "id": "52227414",
@@ -4543,6 +4543,21 @@
       "bonded": true,
       "user_username": "西部社区88",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52300383",
+      "user": "rux7h-mtiqe-q3fqj-ecplr-7eglw-va7sq-trdjd-7b25a-ntxdl-hlwfi-zqe",
+      "token": "2dzg",
+      "time": "2025-07-06T14:07:09.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 8745202874150559,
+      "price": 3458,
+      "bonded": true,
+      "user_username": "one more",
+      "user_image": "7e9e2c88-bcef-47e0-b1cb-e1f4340bcf04.png",
       "decimals": 3,
       "divisibility": 8
     }
