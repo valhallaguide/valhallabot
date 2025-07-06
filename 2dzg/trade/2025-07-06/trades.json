@@ -1,5 +1,5 @@
 {
-  "count": 292,
+  "count": 295,
   "data": [
     {
       "id": "52227414",
@@ -4377,6 +4377,51 @@
       "price": 3452,
       "bonded": true,
       "user_username": "昆龙社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52287626",
+      "user": "wg7sb-wyeuk-rcjhs-hesaf-ggwfr-lmvjg-5pk7r-fugl3-mrmbu-aaj5x-bqe",
+      "token": "2dzg",
+      "time": "2025-07-06T11:12:23.000Z",
+      "buy": false,
+      "amount_btc": 52009233,
+      "amount_token": 1464649117739072,
+      "price": 3560,
+      "bonded": true,
+      "user_username": "God Thief BoB",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52287531",
+      "user": "lbu3r-o5osq-ko4hq-gkx2g-ijylv-omzf7-mcovz-tntpv-wq3ez-dwen4-tae",
+      "token": "2dzg",
+      "time": "2025-07-06T11:11:59.000Z",
+      "buy": true,
+      "amount_btc": 411074868,
+      "amount_token": 11639977684248664,
+      "price": 3576,
+      "bonded": true,
+      "user_username": "lbu3r-o5osq",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52287385",
+      "user": "izt7g-gzbas-5jqve-vmaqf-3cxma-76dcv-eyey3-rzlo7-5pgnm-26c25-qae",
+      "token": "2dzg",
+      "time": "2025-07-06T11:10:57.000Z",
+      "buy": false,
+      "amount_btc": 148506649,
+      "amount_token": 4295368024297738,
+      "price": 3452,
+      "bonded": true,
+      "user_username": "izt7g-gzbas",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
