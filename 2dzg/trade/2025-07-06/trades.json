@@ -1,5 +1,5 @@
 {
-  "count": 328,
+  "count": 330,
   "data": [
     {
       "id": "52227414",
@@ -4917,6 +4917,36 @@
       "price": 3283,
       "bonded": true,
       "user_username": "mw52s-32im4",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52324588",
+      "user": "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae",
+      "token": "2dzg",
+      "time": "2025-07-06T21:03:50.000Z",
+      "buy": false,
+      "amount_btc": 129105601,
+      "amount_token": 4000000000000000,
+      "price": 3224,
+      "bonded": true,
+      "user_username": "169",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52324469",
+      "user": "ta4jw-tumww-2xdt6-jrvbq-rtvon-2ygne-jyjt3-iciui-bqnbg-j5hs6-sqe",
+      "token": "2dzg",
+      "time": "2025-07-06T21:00:36.000Z",
+      "buy": false,
+      "amount_btc": 69758897,
+      "amount_token": 2141984769041837,
+      "price": 3262,
+      "bonded": true,
+      "user_username": "CX——能能",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
