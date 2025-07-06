@@ -1,5 +1,5 @@
 {
-  "count": 276,
+  "count": 279,
   "data": [
     {
       "id": "52227414",
@@ -4137,6 +4137,51 @@
       "price": 3565,
       "bonded": true,
       "user_username": "至坚者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52260657",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-06T06:44:47.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 293694885057762,
+      "price": 3389,
+      "bonded": true,
+      "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52260639",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-06T06:44:26.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 293950940193873,
+      "price": 3386,
+      "bonded": true,
+      "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52260585",
+      "user": "hum3f-qcwvx-2lk7b-hi7tq-mztof-s3mv4-kxdbn-3kyfu-tg2aa-idpgh-aqe",
+      "token": "2dzg",
+      "time": "2025-07-06T06:43:48.000Z",
+      "buy": false,
+      "amount_btc": 603617125,
+      "amount_token": 17467335327181656,
+      "price": 3383,
+      "bonded": true,
+      "user_username": "hum3f-qcwvx",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
