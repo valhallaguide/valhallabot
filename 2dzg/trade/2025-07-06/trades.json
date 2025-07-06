@@ -1,5 +1,5 @@
 {
-  "count": 270,
+  "count": 271,
   "data": [
     {
       "id": "52227414",
@@ -4048,6 +4048,21 @@
       "bonded": true,
       "user_username": "Odindog _Liquidity _Fund",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52241436",
+      "user": "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe",
+      "token": "2dzg",
+      "time": "2025-07-06T03:58:12.000Z",
+      "buy": false,
+      "amount_btc": 434259587,
+      "amount_token": 11261529698145836,
+      "price": 3807,
+      "bonded": true,
+      "user_username": "happy today",
+      "user_image": "b4fa61b8-768a-4685-a45f-830c70795b26.jpg",
       "decimals": 3,
       "divisibility": 8
     }
