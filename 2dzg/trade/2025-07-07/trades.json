@@ -1,5 +1,5 @@
 {
-  "count": 244,
+  "count": 245,
   "data": [
     {
       "id": "52338803",
@@ -3658,6 +3658,21 @@
       "bonded": true,
       "user_username": "ts pmo icl sybau",
       "user_image": "8432dabd-0afe-4a59-9bd7-85963fcd4100.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52347213",
+      "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
+      "token": "2dzg",
+      "time": "2025-07-07T02:10:36.000Z",
+      "buy": true,
+      "amount_btc": 400000000,
+      "amount_token": 12210188226592156,
+      "price": 3318,
+      "bonded": true,
+      "user_username": "uj2ot-rsdjv",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
