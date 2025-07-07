@@ -1,5 +1,5 @@
 {
-  "count": 391,
+  "count": 392,
   "data": [
     {
       "id": "52338803",
@@ -5862,6 +5862,21 @@
       "price": 2981,
       "bonded": true,
       "user_username": "dthfssg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52423085",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-07T14:30:36.000Z",
+      "buy": true,
+      "amount_btc": 84543541,
+      "amount_token": 2809209569473260,
+      "price": 3007,
+      "bonded": true,
+      "user_username": "Valahalla Liquidity Fund",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
