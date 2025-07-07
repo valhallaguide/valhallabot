@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
+    "totalUsers": 177,
     "nonSellersCount": 170,
-    "sellersCount": 8,
-    "totalBalance": 1369229181026676000
+    "sellersCount": 7,
+    "totalBalance": 1372923920443207200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -214,6 +214,10 @@
       "balance": 8345883311477768,
       "username": "DIESEL✅"
     },
+    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
+      "balance": 7874375669324299,
+      "username": "aimed"
+    },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 7565398561657815,
       "username": "74ecf-lae"
@@ -321,10 +325,6 @@
     "llv4u-e2uvd-mx5uo-7govs-iamcg-dmbyd-65gkp-wb5pn-bm4g3-w43ym-hae": {
       "balance": 4225794615381548,
       "username": "九紫离火🔥100BTC"
-    },
-    "xtoz4-6fpjm-h2tst-ejwqa-j7lrx-cp2wn-af3kg-g6jjo-e6ofx-e47rk-6ae": {
-      "balance": 4179636252793022,
-      "username": "Salamanca"
     },
     "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
       "balance": 4094290576041904,
