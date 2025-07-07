@@ -133,18 +133,18 @@
     "user_image": null
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 21080000000000000,
-    "user_username": "孤独的交易者",
-    "user_image": null
-  },
-  {
     "user": "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe",
     "token": "2dzg",
     "balance": 20800013547550012,
     "user_username": "UnknownPlayer ∞",
     "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 20799556856792132,
+    "user_username": "孤独的交易者",
+    "user_image": null
   },
   {
     "user": "ejnx2-xpxrm-sg7cg-yoizb-uz6di-ireu5-ym2rb-ayp52-eqbdu-pvl4z-oae",
@@ -369,20 +369,6 @@
     "balance": 8840037040823085,
     "user_username": "DRAGONKNIGHT.blife",
     "user_image": null
-  },
-  {
-    "user": "qawbj-evhol-ahynv-v2bbf-ylfgp-uw5dw-nbf4t-gx6m7-tsnws-kpego-fqe",
-    "token": "2dzg",
-    "balance": 8742295030754192,
-    "user_username": "qawbj-evhol",
-    "user_image": null
-  },
-  {
-    "user": "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae",
-    "token": "2dzg",
-    "balance": 8603247132006026,
-    "user_username": "marjames",
-    "user_image": "fd9d8813-efae-4402-9cfa-a84112de9a98.jpg"
   },
   {
     "user": "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae",
@@ -1131,13 +1117,6 @@
     "token": "2dzg",
     "balance": 34097882664381,
     "user_username": "yntvx-lg33w",
-    "user_image": null
-  },
-  {
-    "user": "aya25-rhzy4-gdzs2-lpyz7-5sm7r-sr7gr-7dihq-6hvhb-mlfd2-fuuuh-uae",
-    "token": "2dzg",
-    "balance": 29052029897860,
-    "user_username": "aya25-rhzy4",
     "user_image": null
   },
   {
