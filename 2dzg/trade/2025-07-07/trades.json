@@ -1,5 +1,5 @@
 {
-  "count": 423,
+  "count": 426,
   "data": [
     {
       "id": "52338803",
@@ -6342,6 +6342,51 @@
       "price": 3633,
       "bonded": true,
       "user_username": "258258",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52598398",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-07T22:08:31.000Z",
+      "buy": false,
+      "amount_btc": 16833478,
+      "amount_token": 468202881012518,
+      "price": 3610,
+      "bonded": true,
+      "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52595542",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-07T22:07:37.000Z",
+      "buy": false,
+      "amount_btc": 22485323,
+      "amount_token": 624270508016690,
+      "price": 3616,
+      "bonded": true,
+      "user_username": "blifef3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52594531",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-07-07T22:07:22.000Z",
+      "buy": false,
+      "amount_btc": 30052989,
+      "amount_token": 832360677355587,
+      "price": 3623,
+      "bonded": true,
+      "user_username": "blifef3",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
