@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 179,
-    "nonSellersCount": 169,
+    "totalUsers": 177,
+    "nonSellersCount": 167,
     "sellersCount": 10,
-    "totalBalance": 1302825658224592400
+    "totalBalance": 1297550082500204000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -298,10 +298,6 @@
       "balance": 4439759641210467,
       "username": "hfrdcbyed"
     },
-    "lnasr-apwql-bub3x-j37k7-ttogb-uc3fa-6hkfr-uu3cj-rlvlb-6uuey-zae": {
-      "balance": 4412483508632582,
-      "username": "-zae"
-    },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 4280697049304849,
       "username": "Elon_mAsk"
@@ -477,10 +473,6 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
-    },
-    "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
-      "balance": 863092215755769,
-      "username": "齐天大圣"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
