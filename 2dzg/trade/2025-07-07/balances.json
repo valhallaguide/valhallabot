@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
+    "totalUsers": 177,
     "nonSellersCount": 166,
-    "sellersCount": 12,
-    "totalBalance": 1297852450846037200
+    "sellersCount": 11,
+    "totalBalance": 1304319414999729000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -121,6 +121,10 @@
     "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
       "balance": 12795809702036142,
       "username": "x3snx-wrugd"
+    },
+    "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
+      "balance": 12343727830603258,
+      "username": "jdjnsbb"
     },
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 12210188226592156,
@@ -257,10 +261,6 @@
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
-    },
-    "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
-      "balance": 5876763676911672,
-      "username": "海外胡子社区141319"
     },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
