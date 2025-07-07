@@ -1,5 +1,5 @@
 {
-  "count": 279,
+  "count": 280,
   "data": [
     {
       "id": "52338803",
@@ -4183,6 +4183,21 @@
       "bonded": true,
       "user_username": "VituETH",
       "user_image": "39c0248c-8611-4639-9f7d-4b22e9924d50.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52355587",
+      "user": "aya25-rhzy4-gdzs2-lpyz7-5sm7r-sr7gr-7dihq-6hvhb-mlfd2-fuuuh-uae",
+      "token": "2dzg",
+      "time": "2025-07-07T03:40:34.000Z",
+      "buy": false,
+      "amount_btc": 1017780,
+      "amount_token": 29052029897860,
+      "price": 3520,
+      "bonded": true,
+      "user_username": "aya25-rhzy4",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
