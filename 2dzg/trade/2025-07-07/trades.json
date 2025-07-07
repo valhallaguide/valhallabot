@@ -1,5 +1,5 @@
 {
-  "count": 333,
+  "count": 335,
   "data": [
     {
       "id": "52338803",
@@ -4993,6 +4993,36 @@
       "bonded": true,
       "user_username": "Bitcoin.zk",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52396778",
+      "user": "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:59:49.000Z",
+      "buy": false,
+      "amount_btc": 66609307,
+      "amount_token": 1968593917331074,
+      "price": 3390,
+      "bonded": true,
+      "user_username": "aimed",
+      "user_image": "28e8ea45-d301-4262-91cb-bc1d95328b6c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52396478",
+      "user": "xtoz4-6fpjm-h2tst-ejwqa-j7lrx-cp2wn-af3kg-g6jjo-e6ofx-e47rk-6ae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:55:58.000Z",
+      "buy": true,
+      "amount_btc": 142349267,
+      "amount_token": 4179636252793022,
+      "price": 3411,
+      "bonded": true,
+      "user_username": "Salamanca",
+      "user_image": "7ebf42e4-7360-4c07-8f07-229883e363aa.JPG",
       "decimals": 3,
       "divisibility": 8
     }
