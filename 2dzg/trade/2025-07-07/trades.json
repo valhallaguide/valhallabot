@@ -1,5 +1,5 @@
 {
-  "count": 327,
+  "count": 332,
   "data": [
     {
       "id": "52338803",
@@ -4903,6 +4903,81 @@
       "bonded": true,
       "user_username": "PEREZ",
       "user_image": "49cbc682-1a65-44b4-bff7-e47ceb7e0676.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52395588",
+      "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:50:13.000Z",
+      "buy": false,
+      "amount_btc": 11660619,
+      "amount_token": 352808124145417,
+      "price": 3319,
+      "bonded": true,
+      "user_username": "avofv-w34hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52395576",
+      "user": "hzroe-wg7og-xkktj-icgop-mso5i-tpcjq-ncbyv-x2z36-tnzdv-akrhc-hqe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:50:08.000Z",
+      "buy": true,
+      "amount_btc": 1064072997,
+      "amount_token": 33524113481348084,
+      "price": 3323,
+      "bonded": true,
+      "user_username": "ERicbolie",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52395555",
+      "user": "hzroe-wg7og-xkktj-icgop-mso5i-tpcjq-ncbyv-x2z36-tnzdv-akrhc-hqe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:50:03.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 10093954108706236,
+      "price": 3001,
+      "bonded": true,
+      "user_username": "ERicbolie",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52395364",
+      "user": "upx5h-f7jqq-fzhhx-q6n42-qq6us-3uurl-4kf6f-c7d3n-3ihr6-kg4in-gqe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:48:38.000Z",
+      "buy": false,
+      "amount_btc": 305072450,
+      "amount_token": 10364217289527020,
+      "price": 2913,
+      "bonded": true,
+      "user_username": "昆龙社区",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52395299",
+      "user": "2j7gr-7jaqs-zdsnn-ixp3p-4h56q-haj4i-czy6i-gmney-6icl4-vbbus-tqe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:48:17.000Z",
+      "buy": true,
+      "amount_btc": 336183589,
+      "amount_token": 11323607681508716,
+      "price": 3003,
+      "bonded": true,
+      "user_username": "2j7gr-7jaqs",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
