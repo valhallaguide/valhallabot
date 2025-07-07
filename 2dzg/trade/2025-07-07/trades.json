@@ -1,5 +1,5 @@
 {
-  "count": 417,
+  "count": 420,
   "data": [
     {
       "id": "52338803",
@@ -6253,6 +6253,51 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52451123",
+      "user": "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe",
+      "token": "2dzg",
+      "time": "2025-07-07T20:13:20.000Z",
+      "buy": true,
+      "amount_btc": 3000000,
+      "amount_token": 82817818885272,
+      "price": 3604,
+      "bonded": true,
+      "user_username": "mei6g-cngyr",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52451117",
+      "user": "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae",
+      "token": "2dzg",
+      "time": "2025-07-07T20:13:11.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 8398505466578864,
+      "price": 3603,
+      "bonded": true,
+      "user_username": "rbgoc-yn3kv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52451103",
+      "user": "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae",
+      "token": "2dzg",
+      "time": "2025-07-07T20:12:49.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 8635865906134175,
+      "price": 3505,
+      "bonded": true,
+      "user_username": "rbgoc-yn3kv",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
