@@ -1,5 +1,5 @@
 {
-  "count": 313,
+  "count": 314,
   "data": [
     {
       "id": "52338803",
@@ -4693,6 +4693,21 @@
       "bonded": true,
       "user_username": "凤凰山",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52392033",
+      "user": "ztboj-unmq2-56rl2-al3pp-igjpr-i56ax-nwjlm-hm2fj-uyo3x-pg4at-4qe",
+      "token": "2dzg",
+      "time": "2025-07-07T09:28:01.000Z",
+      "buy": false,
+      "amount_btc": 17141360,
+      "amount_token": 555451502424239,
+      "price": 3098,
+      "bonded": true,
+      "user_username": "VituETH",
+      "user_image": "39c0248c-8611-4639-9f7d-4b22e9924d50.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
