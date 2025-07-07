@@ -1,5 +1,5 @@
 {
-  "count": 314,
+  "count": 318,
   "data": [
     {
       "id": "52338803",
@@ -4708,6 +4708,66 @@
       "bonded": true,
       "user_username": "VituETH",
       "user_image": "39c0248c-8611-4639-9f7d-4b22e9924d50.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52392943",
+      "user": "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:35:02.000Z",
+      "buy": false,
+      "amount_btc": 46477161,
+      "amount_token": 1700000000000000,
+      "price": 2741,
+      "bonded": true,
+      "user_username": "木已成舟",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52392680",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:32:55.000Z",
+      "buy": false,
+      "amount_btc": 272614806,
+      "amount_token": 9809427393219214,
+      "price": 2754,
+      "bonded": true,
+      "user_username": "ihdgy-hugn",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52392265",
+      "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:30:28.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 351459601027457,
+      "price": 2832,
+      "bonded": true,
+      "user_username": "avofv-w34hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52392254",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-07T09:30:22.000Z",
+      "buy": false,
+      "amount_btc": 925042288,
+      "amount_token": 31396674083767064,
+      "price": 2829,
+      "bonded": true,
+      "user_username": "ihdgy-hugn",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
