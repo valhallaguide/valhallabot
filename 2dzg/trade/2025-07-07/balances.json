@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 173,
-    "nonSellersCount": 163,
+    "totalUsers": 174,
+    "nonSellersCount": 164,
     "sellersCount": 10,
-    "totalBalance": 1306054542004930800
+    "totalBalance": 1308200782621780000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -373,6 +373,10 @@
     "xioik-iru6t-xg2rr-j7rlv-lb4sm-id3yl-legcz-4voab-blswd-sf6nq-7qe": {
       "balance": 2162387838483603,
       "username": "xioik-iru6t"
+    },
+    "qb7fw-tn5ni-5u2su-i4keb-ssj5w-rtk3l-vowx2-rt5sc-va2ge-gvuby-xae": {
+      "balance": 2146240616849235,
+      "username": "odinBTC生态"
     },
     "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae": {
       "balance": 2112402163277873,
