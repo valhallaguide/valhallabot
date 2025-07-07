@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 176,
-    "nonSellersCount": 168,
+    "totalUsers": 177,
+    "nonSellersCount": 169,
     "sellersCount": 8,
-    "totalBalance": 1360585126385213700
+    "totalBalance": 1343482131819382500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -21,10 +21,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 46158795974674860,
       "username": "RUNESLEO.blife"
-    },
-    "hzroe-wg7og-xkktj-icgop-mso5i-tpcjq-ncbyv-x2z36-tnzdv-akrhc-hqe": {
-      "balance": 43618067590054320,
-      "username": "Bulala"
     },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43394015836299420,
@@ -102,6 +98,10 @@
       "balance": 15914104299488502,
       "username": "tcoqj-ya2wx"
     },
+    "6ejru-626kh-vg4hj-armsh-wjqud-hsdyd-4e6xh-gxgzf-7mjuh-flqj6-fae": {
+      "balance": 15113972539972320,
+      "username": "6ejru-626kh"
+    },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 14849188028208616,
       "username": "oe333"
@@ -149,6 +149,10 @@
     "562fk-7eqo3-sajxt-xtpsw-demlp-sonie-pr2d4-qk5yh-z3twm-fels2-rae": {
       "balance": 11574254155625280,
       "username": "562fk-7eqo3"
+    },
+    "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe": {
+      "balance": 11532714423504594,
+      "username": "宝宝没大饼"
     },
     "23qal-vsxhm-4sq2r-dqx3b-7ofdv-wgffq-yj5ju-dwzek-mdx4c-lz4io-iae": {
       "balance": 11520684662922292,
@@ -282,13 +286,13 @@
       "balance": 5446547772880106,
       "username": "99不88"
     },
-    "r4x4c-khtwz-tj3kh-ndlto-kycfa-3yl3g-pszph-jgfqh-bkuax-73bfn-vqe": {
-      "balance": 5252662597394180,
-      "username": "宝宝没大饼"
-    },
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 5217696403641722,
       "username": "soonbob"
+    },
+    "rkzja-doyfl-uz6vg-thh3z-qm56i-d5xv7-mcan2-63bss-apd54-v2arc-hae": {
+      "balance": 5121048658140731,
+      "username": "NO.1"
     },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
