@@ -1,5 +1,5 @@
 {
-  "count": 387,
+  "count": 390,
   "data": [
     {
       "id": "52338803",
@@ -5802,6 +5802,51 @@
       "price": 2864,
       "bonded": true,
       "user_username": "守望者~SATOSHI Liquidity Fund",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52421771",
+      "user": "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe",
+      "token": "2dzg",
+      "time": "2025-07-07T14:13:24.000Z",
+      "buy": false,
+      "amount_btc": 161607630,
+      "amount_token": 5429974466842985,
+      "price": 2966,
+      "bonded": true,
+      "user_username": "波德萨尔阿戈拉",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52421543",
+      "user": "xsjpp-tgngn-4om7d-pmciz-g6o5j-ssx4d-tkcj6-loo2g-3h7zu-5ws76-wqe",
+      "token": "2dzg",
+      "time": "2025-07-07T14:11:01.000Z",
+      "buy": false,
+      "amount_btc": 198208025,
+      "amount_token": 6540476787763519,
+      "price": 3015,
+      "bonded": true,
+      "user_username": "xsjpp44wqe35",
+      "user_image": "9112701d-ba10-4862-ac67-41b445a7fde4.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52421497",
+      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
+      "token": "2dzg",
+      "time": "2025-07-07T14:10:19.000Z",
+      "buy": true,
+      "amount_btc": 10174791,
+      "amount_token": 329282255173635,
+      "price": 3076,
+      "bonded": true,
+      "user_username": "都努力一点吧",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
