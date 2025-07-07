@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 177,
-    "nonSellersCount": 169,
+    "totalUsers": 178,
+    "nonSellersCount": 170,
     "sellersCount": 8,
-    "totalBalance": 1341705592683833000
+    "totalBalance": 1352340961230784500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -177,6 +177,10 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "JL222"
+    },
+    "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe": {
+      "balance": 10635368546951516,
+      "username": "BTCISBTC"
     },
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 10500000000000000,
