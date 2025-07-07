@@ -1,5 +1,5 @@
 {
-  "count": 245,
+  "count": 248,
   "data": [
     {
       "id": "52338803",
@@ -3672,6 +3672,51 @@
       "price": 3318,
       "bonded": true,
       "user_username": "uj2ot-rsdjv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52348167",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-07T02:25:04.000Z",
+      "buy": true,
+      "amount_btc": 274468590,
+      "amount_token": 8380480944441757,
+      "price": 3298,
+      "bonded": true,
+      "user_username": "Odindog _Liquidity _Fund",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52348115",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-07T02:24:09.000Z",
+      "buy": true,
+      "amount_btc": 98576009,
+      "amount_token": 3060597251274157,
+      "price": 3218,
+      "bonded": true,
+      "user_username": "Odindog _Liquidity _Fund",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52348035",
+      "user": "ogqnm-77koc-bezrj-rbifx-uvw3a-sr7wd-wnhen-yhjjk-2oxyo-4mxum-wae",
+      "token": "2dzg",
+      "time": "2025-07-07T02:22:54.000Z",
+      "buy": false,
+      "amount_btc": 436018026,
+      "amount_token": 13467551578340560,
+      "price": 3190,
+      "bonded": true,
+      "user_username": "天涯心",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
