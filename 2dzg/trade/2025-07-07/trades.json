@@ -1,5 +1,5 @@
 {
-  "count": 250,
+  "count": 252,
   "data": [
     {
       "id": "52338803",
@@ -3748,6 +3748,36 @@
       "bonded": true,
       "user_username": "cjxydr",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52349020",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-07T02:32:02.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4619085818948953,
+      "price": 3252,
+      "bonded": true,
+      "user_username": "孤独的交易者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52348887",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-07T02:30:57.000Z",
+      "buy": true,
+      "amount_btc": 8010074,
+      "amount_token": 248416582036005,
+      "price": 3209,
+      "bonded": true,
+      "user_username": "孤独的交易者",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
