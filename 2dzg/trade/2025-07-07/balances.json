@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
-    "nonSellersCount": 166,
+    "totalUsers": 177,
+    "nonSellersCount": 165,
     "sellersCount": 12,
-    "totalBalance": 1310369596042458400
+    "totalBalance": 1309822392723470300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -82,6 +82,10 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
+    "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
+      "balance": 18672115946353160,
+      "username": "大飞哥141319"
+    },
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 16430458254470496,
       "username": "Zhuu"
@@ -121,10 +125,6 @@
     "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
       "balance": 12795809702036142,
       "username": "x3snx-wrugd"
-    },
-    "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
-      "balance": 12343727830603258,
-      "username": "大飞哥141319"
     },
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 12210188226592156,
@@ -241,10 +241,6 @@
     "uvtrg-rv5xc-qgfwd-mogac-kuh5q-uza4k-bayss-slol5-pey3k-pagcy-bae": {
       "balance": 6895014202775036,
       "username": "uvtrg-rv5xc"
-    },
-    "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae": {
-      "balance": 6875591434737968,
-      "username": "意图韩国"
     },
     "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae": {
       "balance": 6542062194140206,
