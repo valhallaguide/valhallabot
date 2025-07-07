@@ -1,5 +1,5 @@
 {
-  "count": 301,
+  "count": 304,
   "data": [
     {
       "id": "52338803",
@@ -4513,6 +4513,51 @@
       "bonded": true,
       "user_username": "凤凰山",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52385700",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-07T08:48:08.000Z",
+      "buy": false,
+      "amount_btc": 51278133,
+      "amount_token": 1598462815596970,
+      "price": 3216,
+      "bonded": true,
+      "user_username": "cjxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52385064",
+      "user": "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae",
+      "token": "2dzg",
+      "time": "2025-07-07T08:45:42.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1542955354312896,
+      "price": 3231,
+      "bonded": true,
+      "user_username": "niftg-jskdh",
+      "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52385026",
+      "user": "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae",
+      "token": "2dzg",
+      "time": "2025-07-07T08:45:31.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 309451513621047,
+      "price": 3216,
+      "bonded": true,
+      "user_username": "niftg-jskdh",
+      "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg",
       "decimals": 3,
       "divisibility": 8
     }
