@@ -1,5 +1,5 @@
 {
-  "count": 278,
+  "count": 279,
   "data": [
     {
       "id": "52338803",
@@ -4168,6 +4168,21 @@
       "bonded": true,
       "user_username": "孤独的交易者",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52354635",
+      "user": "ztboj-unmq2-56rl2-al3pp-igjpr-i56ax-nwjlm-hm2fj-uyo3x-pg4at-4qe",
+      "token": "2dzg",
+      "time": "2025-07-07T03:30:44.000Z",
+      "buy": true,
+      "amount_btc": 19639398,
+      "amount_token": 555451502424239,
+      "price": 3521,
+      "bonded": true,
+      "user_username": "VituETH",
+      "user_image": "39c0248c-8611-4639-9f7d-4b22e9924d50.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
