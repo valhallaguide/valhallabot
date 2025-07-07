@@ -1,5 +1,5 @@
 {
-  "count": 285,
+  "count": 286,
   "data": [
     {
       "id": "52338803",
@@ -4273,6 +4273,21 @@
       "bonded": true,
       "user_username": "九紫大运",
       "user_image": "fe43580c-722b-48cc-8ab1-25ae25a33fa6.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52378540",
+      "user": "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae",
+      "token": "2dzg",
+      "time": "2025-07-07T07:49:55.000Z",
+      "buy": false,
+      "amount_btc": 46440637,
+      "amount_token": 1355470818211004,
+      "price": 3436,
+      "bonded": true,
+      "user_username": "brd7t-hdxjk",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
