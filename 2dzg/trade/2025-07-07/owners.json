@@ -140,13 +140,6 @@
     "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 20799556856792132,
-    "user_username": "孤独的交易者",
-    "user_image": null
-  },
-  {
     "user": "ejnx2-xpxrm-sg7cg-yoizb-uz6di-ireu5-ym2rb-ayp52-eqbdu-pvl4z-oae",
     "token": "2dzg",
     "balance": 19179490951272910,
@@ -180,6 +173,13 @@
     "balance": 16430458254470496,
     "user_username": "Zhuu",
     "user_image": "9d1edfa9-8ced-478b-90d3-7f29a2d8b6f5.png"
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 16308580596700872,
+    "user_username": "孤独的交易者",
+    "user_image": null
   },
   {
     "user": "tcoqj-ya2wx-aymju-4kccm-egd67-ephun-dsl6w-rkexx-rancn-bm53c-yae",
@@ -585,13 +585,6 @@
     "token": "2dzg",
     "balance": 3874824891562944,
     "user_username": "D先生",
-    "user_image": null
-  },
-  {
-    "user": "apegz-yprpq-qsgph-qxel4-inqaj-saehy-yj6m5-jbqma-ufkq5-4tk2l-uae",
-    "token": "2dzg",
-    "balance": 3813404947638726,
-    "user_username": "703",
     "user_image": null
   },
   {
