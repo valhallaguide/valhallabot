@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 178,
-    "nonSellersCount": 178,
+    "totalUsers": 176,
+    "nonSellersCount": 176,
     "sellersCount": 0,
-    "totalBalance": 1429316597795921400
+    "totalBalance": 1407973193935565600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -58,13 +58,13 @@
       "balance": 24757546172049290,
       "username": "BYCBYC"
     },
-    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
-      "balance": 24569618249026320,
-      "username": "ffffsddssss"
-    },
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
       "username": "jilkufyrjy.rybjbnb"
+    },
+    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
+      "balance": 24000000000000000,
+      "username": "ffffsddssss"
     },
     "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae": {
       "balance": 23665727973721230,
@@ -186,10 +186,6 @@
       "balance": 10811442120218028,
       "username": "JL222"
     },
-    "kufwo-gaoh7-hnoya-4fbpo-dnkz4-lsd4x-nlnvk-dagwr-ah7ny-kvdab-lae": {
-      "balance": 10671753238985548,
-      "username": "芭菲特"
-    },
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 10500000000000000,
       "username": "valhalla holder"
@@ -221,10 +217,6 @@
     "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe": {
       "balance": 8840037040823085,
       "username": "DRAGONKNIGHT.blife"
-    },
-    "rux7h-mtiqe-q3fqj-ecplr-7eglw-va7sq-trdjd-7b25a-ntxdl-hlwfi-zqe": {
-      "balance": 8745202874150559,
-      "username": "one more"
     },
     "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae": {
       "balance": 8460350998725689,
@@ -402,10 +394,6 @@
       "balance": 2264964383892099,
       "username": "YYC2"
     },
-    "5nsam-4qv4t-ctqg4-i7ed3-ifh6b-keoxw-c2m2b-b4cr6-wsoq7-zsh2o-zae": {
-      "balance": 2219921713948816,
-      "username": "mm_789"
-    },
     "2c62g-644tt-vmaf5-25hj5-uczex-ywvwf-uol6l-5g2oq-7db76-cuesm-wae": {
       "balance": 2214510348417087,
       "username": "OHY-644tt"
@@ -517,6 +505,10 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
+    },
+    "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
+      "balance": 863092215755769,
+      "username": "齐天大圣"
     },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
