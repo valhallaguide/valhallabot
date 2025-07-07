@@ -1,5 +1,5 @@
 {
-  "count": 349,
+  "count": 350,
   "data": [
     {
       "id": "52338803",
@@ -5233,6 +5233,21 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52405943",
+      "user": "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe",
+      "token": "2dzg",
+      "time": "2025-07-07T11:39:29.000Z",
+      "buy": true,
+      "amount_btc": 332315852,
+      "amount_token": 10635368546951516,
+      "price": 3159,
+      "bonded": true,
+      "user_username": "BTCISBTC",
+      "user_image": "451cab97-e444-4660-aa41-e1e61cb9070f.jpg",
       "decimals": 3,
       "divisibility": 8
     }
