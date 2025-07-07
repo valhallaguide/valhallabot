@@ -1,5 +1,5 @@
 {
-  "count": 236,
+  "count": 241,
   "data": [
     {
       "id": "52338803",
@@ -3538,6 +3538,81 @@
       "bonded": true,
       "user_username": "0x876",
       "user_image": "4f466289-02cd-4f3c-b12f-dea26877df28.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52345007",
+      "user": "lb2iz-kdp2u-sbazm-agsrb-cxg2t-ynwac-2tc3i-tybbf-xiyy4-jacti-nae",
+      "token": "2dzg",
+      "time": "2025-07-07T01:34:59.000Z",
+      "buy": false,
+      "amount_btc": 50840632,
+      "amount_token": 1536561915661749,
+      "price": 3317,
+      "bonded": true,
+      "user_username": "rkkavd-uhdgb",
+      "user_image": "a686a484-9825-47a6-b92e-7b79a498a71a.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52344982",
+      "user": "trsmg-tqos7-q7wct-nmz6s-wnbty-2ha3i-ubn5j-eb3vx-he7sh-hebjr-aae",
+      "token": "2dzg",
+      "time": "2025-07-07T01:34:26.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4508023299938704,
+      "price": 3332,
+      "bonded": true,
+      "user_username": "常山赵子龙",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52344941",
+      "user": "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe",
+      "token": "2dzg",
+      "time": "2025-07-07T01:33:57.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4568657778897388,
+      "price": 3288,
+      "bonded": true,
+      "user_username": "Betinna22",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52344926",
+      "user": "lb2iz-kdp2u-sbazm-agsrb-cxg2t-ynwac-2tc3i-tybbf-xiyy4-jacti-nae",
+      "token": "2dzg",
+      "time": "2025-07-07T01:33:50.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1536561915661749,
+      "price": 3245,
+      "bonded": true,
+      "user_username": "rkkavd-uhdgb",
+      "user_image": "a686a484-9825-47a6-b92e-7b79a498a71a.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52344893",
+      "user": "34fm3-ohtdh-gc4vs-yrur3-zkvrz-r7wjq-ut6ta-fu7h3-45lt4-zkprg-3qe",
+      "token": "2dzg",
+      "time": "2025-07-07T01:33:28.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3093941707230163,
+      "price": 3230,
+      "bonded": true,
+      "user_username": "ts pmo icl sybau",
+      "user_image": "8432dabd-0afe-4a59-9bd7-85963fcd4100.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
