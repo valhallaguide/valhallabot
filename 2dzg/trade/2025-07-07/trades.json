@@ -1,5 +1,5 @@
 {
-  "count": 335,
+  "count": 337,
   "data": [
     {
       "id": "52338803",
@@ -5020,6 +5020,36 @@
       "amount_btc": 142349267,
       "amount_token": 4179636252793022,
       "price": 3411,
+      "bonded": true,
+      "user_username": "Salamanca",
+      "user_image": "7ebf42e4-7360-4c07-8f07-229883e363aa.JPG",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52397618",
+      "user": "lodvu-o2aqs-bvzkq-uw77x-ksgtb-4vibf-cf54i-g6n4p-iow7t-wuzec-yqe",
+      "token": "2dzg",
+      "time": "2025-07-07T10:11:06.000Z",
+      "buy": false,
+      "amount_btc": 147603802,
+      "amount_token": 4464418388669089,
+      "price": 3299,
+      "bonded": true,
+      "user_username": "Bitcoin.zk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "52397557",
+      "user": "xtoz4-6fpjm-h2tst-ejwqa-j7lrx-cp2wn-af3kg-g6jjo-e6ofx-e47rk-6ae",
+      "token": "2dzg",
+      "time": "2025-07-07T10:10:21.000Z",
+      "buy": false,
+      "amount_btc": 140064681,
+      "amount_token": 4179636252793022,
+      "price": 3345,
       "bonded": true,
       "user_username": "Salamanca",
       "user_image": "7ebf42e4-7360-4c07-8f07-229883e363aa.JPG",
