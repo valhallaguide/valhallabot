@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 176,
-    "nonSellersCount": 169,
+    "totalUsers": 177,
+    "nonSellersCount": 170,
     "sellersCount": 7,
-    "totalBalance": 1368459502054538000
+    "totalBalance": 1372923920443207200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -305,6 +305,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
+    },
+    "lodvu-o2aqs-bvzkq-uw77x-ksgtb-4vibf-cf54i-g6n4p-iow7t-wuzec-yqe": {
+      "balance": 4464418388669089,
+      "username": "Bitcoin.zk"
     },
     "yob6l-svxtm-o674s-k77n4-rqvbm-7gb6h-cqq72-3qet7-c4b3w-dqcrf-yqe": {
       "balance": 4439759641210467,
