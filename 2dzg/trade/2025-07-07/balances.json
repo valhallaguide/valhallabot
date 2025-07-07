@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 176,
+    "totalUsers": 175,
     "nonSellersCount": 169,
-    "sellersCount": 7,
-    "totalBalance": 1368459502054538000
+    "sellersCount": 6,
+    "totalBalance": 1324484852196647200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -21,10 +21,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 46158795974674860,
       "username": "RUNESLEO.blife"
-    },
-    "hzroe-wg7og-xkktj-icgop-mso5i-tpcjq-ncbyv-x2z36-tnzdv-akrhc-hqe": {
-      "balance": 43618067590054320,
-      "username": "ERicbolie"
     },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43394015836299420,
@@ -154,10 +150,6 @@
       "balance": 11520684662922292,
       "username": "挂在山顶吹冷风"
     },
-    "2j7gr-7jaqs-zdsnn-ixp3p-4h56q-haj4i-czy6i-gmney-6icl4-vbbus-tqe": {
-      "balance": 11323607681508716,
-      "username": "2j7gr-7jaqs"
-    },
     "nv37b-7ukb3-crr5p-2x5cg-jm6ex-ryodq-ou7dy-5c23b-uy6m4-wx7rx-6qe": {
       "balance": 11193019074586370,
       "username": "U9联盟宁波社区0013"
@@ -177,6 +169,10 @@
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 10500000000000000,
       "username": "valhalla holder"
+    },
+    "upx5h-f7jqq-fzhhx-q6n42-qq6us-3uurl-4kf6f-c7d3n-3ihr6-kg4in-gqe": {
+      "balance": 10364217289527020,
+      "username": "昆龙社区"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
@@ -525,6 +521,10 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
+    },
+    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
+      "balance": 602808124145417,
+      "username": "avofv-w34hm"
     },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
