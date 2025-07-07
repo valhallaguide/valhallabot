@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 179,
-    "nonSellersCount": 171,
-    "sellersCount": 8,
-    "totalBalance": 1353100414421597000
+    "totalUsers": 177,
+    "nonSellersCount": 168,
+    "sellersCount": 9,
+    "totalBalance": 1309942303985508400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -86,10 +86,6 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
-    "kbagv-kbukt-mrqp5-a5jsk-bemgc-ketlk-wrxlb-tgha7-uukxu-yucog-sqe": {
-      "balance": 17408769349164960,
-      "username": "KUI"
-    },
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 16430458254470496,
       "username": "Zhuu"
@@ -97,10 +93,6 @@
     "tcoqj-ya2wx-aymju-4kccm-egd67-ephun-dsl6w-rkexx-rancn-bm53c-yae": {
       "balance": 15914104299488502,
       "username": "tcoqj-ya2wx"
-    },
-    "6ejru-626kh-vg4hj-armsh-wjqud-hsdyd-4e6xh-gxgzf-7mjuh-flqj6-fae": {
-      "balance": 15113972539972320,
-      "username": "6ejru-626kh"
     },
     "3al6b-neuak-golts-hmfbm-s6rwn-66h7u-x2fkq-wjlaf-pvo7a-r6eey-wqe": {
       "balance": 14849188028208616,
@@ -177,10 +169,6 @@
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
       "username": "JL222"
-    },
-    "e5s55-bijuk-aopqs-hjghk-uddq5-knw5u-cduai-7ffzo-siqri-7sxjj-jqe": {
-      "balance": 10635368546951516,
-      "username": "BTCISBTC"
     },
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 10500000000000000,
