@@ -3,7 +3,7 @@
     "totalUsers": 183,
     "nonSellersCount": 166,
     "sellersCount": 17,
-    "totalBalance": 1302796124995598000
+    "totalBalance": 1303632563329368600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -26,13 +26,13 @@
       "balance": 43394015836299420,
       "username": "valhalla.guide"
     },
+    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
+      "balance": 37002105743147224,
+      "username": "peezy"
+    },
     "bqvap-oxsmt-lzee6-7c6m2-cudxh-dtvpy-qldi4-4kod7-depp4-aleca-2qe": {
       "balance": 35864597103555730,
       "username": "Kuromi"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 35618120532717424,
-      "username": "peezy"
     },
     "sw2ea-gjnq3-46w4a-4l4lz-xypnr-vyrfx-qq7ne-3lhac-kvtua-qkw7z-7ae": {
       "balance": 34898704475150790,
@@ -98,13 +98,13 @@
       "balance": 14849188028208616,
       "username": "oe333"
     },
-    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
-      "balance": 14761605264139564,
-      "username": "hgfc-ndkf"
-    },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 14476066208091220,
       "username": "BigFoot"
+    },
+    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
+      "balance": 14214058387480224,
+      "username": "hgfc-ndkf"
     },
     "mwhrm-2ky3u-iclin-uqt6q-rifue-claxq-4cu43-r5y63-5e6no-ectrt-xqe": {
       "balance": 14061801947934024,
