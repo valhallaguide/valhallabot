@@ -1,5 +1,5 @@
 {
-  "count": 328,
+  "count": 329,
   "data": [
     {
       "id": "52944934",
@@ -4917,6 +4917,21 @@
       "price": 3652,
       "bonded": true,
       "user_username": "valhalla holder",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53072530",
+      "user": "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe",
+      "token": "2dzg",
+      "time": "2025-07-08T03:52:31.000Z",
+      "buy": false,
+      "amount_btc": 157325943,
+      "amount_token": 4360444149069263,
+      "price": 3599,
+      "bonded": true,
+      "user_username": "fmkqwikom",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
