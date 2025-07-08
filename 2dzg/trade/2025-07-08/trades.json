@@ -1,5 +1,5 @@
 {
-  "count": 553,
+  "count": 555,
   "data": [
     {
       "id": "52944934",
@@ -8293,6 +8293,36 @@
       "bonded": true,
       "user_username": "STACKS.blife",
       "user_image": "936267b7-fd48-44d4-ba21-acd604def98a.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53869842",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T14:04:33.000Z",
+      "buy": true,
+      "amount_btc": 84100875,
+      "amount_token": 2263248204062645,
+      "price": 3711,
+      "bonded": true,
+      "user_username": "梭哈致富",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53869556",
+      "user": "ee7co-zsckv-ouwv7-nk644-byqis-vjxoe-r3i6n-pmijk-2ghgk-v3on6-mae",
+      "token": "2dzg",
+      "time": "2025-07-08T14:02:56.000Z",
+      "buy": true,
+      "amount_btc": 290000000,
+      "amount_token": 7937331865799698,
+      "price": 3683,
+      "bonded": true,
+      "user_username": "ee7co-zsckv",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
