@@ -1,5 +1,5 @@
 {
-  "count": 304,
+  "count": 308,
   "data": [
     {
       "id": "52944934",
@@ -4558,6 +4558,66 @@
       "bonded": true,
       "user_username": "Odin's",
       "user_image": "55f7aa5e-a545-4e8f-bd91-a3ef95da8ae8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53056064",
+      "user": "adsic-vqjaz-e4ics-qv7um-a5hsi-fdxvv-wwrd5-ebtbu-no7w5-x3qv4-qae",
+      "token": "2dzg",
+      "time": "2025-07-08T02:33:40.000Z",
+      "buy": false,
+      "amount_btc": 209185830,
+      "amount_token": 6601293736980970,
+      "price": 3152,
+      "bonded": true,
+      "user_username": "BOBO进监狱",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53055973",
+      "user": "3b2bg-tg2jd-pbm73-o4rse-b6ppg-vftly-fr2ul-ipduq-4lwzj-7pmup-pqe",
+      "token": "2dzg",
+      "time": "2025-07-08T02:33:20.000Z",
+      "buy": false,
+      "amount_btc": 59633837,
+      "amount_token": 1857223118895197,
+      "price": 3217,
+      "bonded": true,
+      "user_username": "gjbcxr8",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53055396",
+      "user": "adsic-vqjaz-e4ics-qv7um-a5hsi-fdxvv-wwrd5-ebtbu-no7w5-x3qv4-qae",
+      "token": "2dzg",
+      "time": "2025-07-08T02:30:43.000Z",
+      "buy": true,
+      "amount_btc": 212513021,
+      "amount_token": 6601293736980970,
+      "price": 3236,
+      "bonded": true,
+      "user_username": "BOBO进监狱",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53055345",
+      "user": "3b2bg-tg2jd-pbm73-o4rse-b6ppg-vftly-fr2ul-ipduq-4lwzj-7pmup-pqe",
+      "token": "2dzg",
+      "time": "2025-07-08T02:30:31.000Z",
+      "buy": true,
+      "amount_btc": 59004997,
+      "amount_token": 1857223118895197,
+      "price": 3170,
+      "bonded": true,
+      "user_username": "gjbcxr8",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
