@@ -1,5 +1,5 @@
 {
-  "count": 470,
+  "count": 474,
   "data": [
     {
       "id": "52944934",
@@ -7048,6 +7048,66 @@
       "bonded": true,
       "user_username": "GOB1",
       "user_image": "8ef3eb77-7e7e-46e1-8511-44722a06dd00.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53192907",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T07:55:02.000Z",
+      "buy": false,
+      "amount_btc": 501099,
+      "amount_token": 14600000000000,
+      "price": 3449,
+      "bonded": true,
+      "user_username": "归零币不要买",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53192897",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T07:55:00.000Z",
+      "buy": false,
+      "amount_btc": 501123,
+      "amount_token": 14600000000000,
+      "price": 3449,
+      "bonded": true,
+      "user_username": "归零币不要买",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53192891",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T07:55:00.000Z",
+      "buy": false,
+      "amount_btc": 501146,
+      "amount_token": 14600000000000,
+      "price": 3449,
+      "bonded": true,
+      "user_username": "归零币不要买",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53192885",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T07:54:59.000Z",
+      "buy": false,
+      "amount_btc": 501169,
+      "amount_token": 14600000000000,
+      "price": 3449,
+      "bonded": true,
+      "user_username": "归零币不要买",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
