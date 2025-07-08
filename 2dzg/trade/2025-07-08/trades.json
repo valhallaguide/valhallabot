@@ -1,5 +1,5 @@
 {
-  "count": 590,
+  "count": 591,
   "data": [
     {
       "id": "52944934",
@@ -8847,6 +8847,21 @@
       "price": 3189,
       "bonded": true,
       "user_username": "潘特拉夫",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54235830",
+      "user": "47nmm-kdjpe-raigu-gr5rt-a27kt-n3h4k-hpfsn-hooo4-s7txo-ptrt4-gqe",
+      "token": "2dzg",
+      "time": "2025-07-08T21:07:33.000Z",
+      "buy": true,
+      "amount_btc": 455511031,
+      "amount_token": 13903732162667192,
+      "price": 3331,
+      "bonded": true,
+      "user_username": "47nmm-kdjpe",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
