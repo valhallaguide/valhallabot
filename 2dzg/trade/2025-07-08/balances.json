@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 176,
-    "nonSellersCount": 176,
-    "sellersCount": 0,
-    "totalBalance": 1468494775109153000
+    "totalUsers": 175,
+    "nonSellersCount": 167,
+    "sellersCount": 8,
+    "totalBalance": 1350404933371032300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -46,10 +46,6 @@
       "balance": 29543771459455230,
       "username": "GARBAGE gets 10M | Peaceful"
     },
-    "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae": {
-      "balance": 29299224028519960,
-      "username": "niftg-jskdh"
-    },
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 29201097061116196,
       "username": "MR _DOGINAL XXXX"
@@ -61,14 +57,6 @@
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
       "username": "jilkufyrjy.rybjbnb"
-    },
-    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
-      "balance": 24254019602477720,
-      "username": "Valahalla Liquidity Fund"
-    },
-    "gsnd4-fabxv-vawel-3fna4-exr4o-o4fih-pyolx-khflg-ynckf-z5rjt-qae": {
-      "balance": 23836983717982292,
-      "username": "BYCBYC"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
@@ -85,10 +73,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
-    },
-    "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae": {
-      "balance": 20011389202619870,
-      "username": "wangbaoze"
     },
     "ejnx2-xpxrm-sg7cg-yoizb-uz6di-ireu5-ym2rb-ayp52-eqbdu-pvl4z-oae": {
       "balance": 19179490951272910,
@@ -205,10 +189,6 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
-    },
-    "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
-      "balance": 10017754019984158,
-      "username": "木已成舟"
     },
     "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
       "balance": 9626029118077764,
@@ -366,25 +346,13 @@
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
     },
-    "ln7xc-2f5qg-eaqyl-usjbv-qgu6y-kkqcl-xauvm-wi2tb-pldns-jqtgn-5qe": {
-      "balance": 3203018891142533,
-      "username": "Mark1314"
-    },
     "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
       "balance": 3113267001768151,
       "username": "Fartus deus"
     },
-    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
-      "balance": 3109952756359678,
-      "username": "九紫大运"
-    },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 3012309091481441,
       "username": "笑哈哈"
-    },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 2952890875996613,
-      "username": "aimed"
     },
     "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
       "balance": 2933850679419034,
@@ -453,10 +421,6 @@
     "t4mwb-3ijm4-q4jip-nye35-ho3lh-kxotl-me72f-7cbpl-qfle3-qshwp-6qe": {
       "balance": 1490639402815719,
       "username": "t4mwb-3ijm4"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 1404608643037554,
-      "username": "blifef3"
     },
     "q424k-visvi-smzvn-dx7ya-467c7-xcs7y-bgs35-r56gt-ptkr7-ktk2o-wqe": {
       "balance": 1369561192396558,
