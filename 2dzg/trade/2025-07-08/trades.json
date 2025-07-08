@@ -1,5 +1,5 @@
 {
-  "count": 378,
+  "count": 380,
   "data": [
     {
       "id": "52944934",
@@ -5668,6 +5668,36 @@
       "bonded": true,
       "user_username": "奥丁传奇人物",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53181729",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-08T06:57:57.000Z",
+      "buy": true,
+      "amount_btc": 632333412,
+      "amount_token": 16585319807780748,
+      "price": 3902,
+      "bonded": true,
+      "user_username": "价值币不会被辜负",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53180871",
+      "user": "kvknx-ybtdp-byb5c-3y2tn-a43hv-2vcy5-wzxsa-3dbbs-nnuzz-axnrt-3qe",
+      "token": "2dzg",
+      "time": "2025-07-08T06:55:44.000Z",
+      "buy": false,
+      "amount_btc": 39214114,
+      "amount_token": 1066762233363472,
+      "price": 3687,
+      "bonded": true,
+      "user_username": "keep up to be in the world",
+      "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
       "decimals": 3,
       "divisibility": 8
     }
