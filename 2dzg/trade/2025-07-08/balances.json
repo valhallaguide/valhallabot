@@ -3,7 +3,7 @@
     "totalUsers": 185,
     "nonSellersCount": 177,
     "sellersCount": 8,
-    "totalBalance": 1390564281553587000
+    "totalBalance": 1398917050980913200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -85,6 +85,10 @@
     "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
       "balance": 17506865719163044,
       "username": "169"
+    },
+    "aeacz-3keeh-pdysr-blb4p-fl4kd-cmlxw-3uvd2-6w2nn-o3nu3-twtkr-yqe": {
+      "balance": 17209796840670748,
+      "username": "aeacz-3keeh"
     },
     "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae": {
       "balance": 17034371372713040,
@@ -201,10 +205,6 @@
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 9391148320309790,
       "username": "kbb43-ai2fj"
-    },
-    "aeacz-3keeh-pdysr-blb4p-fl4kd-cmlxw-3uvd2-6w2nn-o3nu3-twtkr-yqe": {
-      "balance": 8908682210021457,
-      "username": "aeacz-3keeh"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
@@ -379,7 +379,7 @@
       "username": "dthfssg"
     },
     "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe": {
-      "balance": 2689503630083843,
+      "balance": 2741158426760976,
       "username": "oase1"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
