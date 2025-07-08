@@ -98,13 +98,6 @@
     "user_image": "7d2b10d4-a4dc-48bb-a69b-dc7197bd8e5e.jpg"
   },
   {
-    "user": "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae",
-    "token": "2dzg",
-    "balance": 21974418021389972,
-    "user_username": "niftg-jskdh",
-    "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg"
-  },
-  {
     "user": "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe",
     "token": "2dzg",
     "balance": 21532285492506610,
@@ -145,6 +138,13 @@
     "balance": 18948993386655640,
     "user_username": "Einherjari",
     "user_image": "dd3ce378-5117-4fac-9d94-17bedaece61c.jpg"
+  },
+  {
+    "user": "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae",
+    "token": "2dzg",
+    "balance": 17974418021389972,
+    "user_username": "niftg-jskdh",
+    "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg"
   },
   {
     "user": "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae",
