@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 190,
-    "nonSellersCount": 177,
-    "sellersCount": 13,
-    "totalBalance": 1373303451561015300
+    "nonSellersCount": 176,
+    "sellersCount": 14,
+    "totalBalance": 1369437350508188000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -190,6 +190,10 @@
       "balance": 9752785275074714,
       "username": "47nmm-kdjpe"
     },
+    "tp7sx-g3rvv-5d5ti-y6t47-wbx52-h5hwx-mq77d-ekpya-uiiky-mk37r-gae": {
+      "balance": 9648788745755400,
+      "username": "tp自己7sx-g3rvv"
+    },
     "vh46v-g7bhd-ikzdq-hhwmj-v4zjm-7bymn-agh5a-62tzo-2k4gx-seija-kae": {
       "balance": 9626029118077764,
       "username": "vh46v-g7bhd"
@@ -205,10 +209,6 @@
     "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe": {
       "balance": 8840037040823085,
       "username": "DRAGONKNIGHT.blife"
-    },
-    "qawbj-evhol-ahynv-v2bbf-ylfgp-uw5dw-nbf4t-gx6m7-tsnws-kpego-fqe": {
-      "balance": 8742295030754192,
-      "username": "qawbj-evhol"
     },
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 8603247132006026,
@@ -309,10 +309,6 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
-    },
-    "l2623-tsu4g-ipfmp-p7hhl-i3iue-y5yvs-liona-7nlvs-u52s4-u5gpj-3qe": {
-      "balance": 4772594767828546,
-      "username": "STACKS.blife"
     },
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 4482291687111151,
