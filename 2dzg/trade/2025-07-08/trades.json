@@ -1,5 +1,5 @@
 {
-  "count": 569,
+  "count": 570,
   "data": [
     {
       "id": "52944934",
@@ -8530,6 +8530,21 @@
       "amount_btc": 247501320,
       "amount_token": 7324806007129990,
       "price": 3356,
+      "bonded": true,
+      "user_username": "niftg-jskdh",
+      "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54070176",
+      "user": "pkmxu-nkl2m-t7in3-ibru6-ko4ok-cmmxd-rnrlt-3p3hh-5oxfr-d4c5b-oae",
+      "token": "2dzg",
+      "time": "2025-07-08T17:33:28.000Z",
+      "buy": false,
+      "amount_btc": 132730752,
+      "amount_token": 4000000000000000,
+      "price": 3313,
       "bonded": true,
       "user_username": "niftg-jskdh",
       "user_image": "7e5ff744-4552-41ca-9d51-af6595df9473.jpg",
