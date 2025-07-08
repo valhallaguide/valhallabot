@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 304,
   "data": [
     {
       "id": "52944934",
@@ -4543,6 +4543,21 @@
       "bonded": true,
       "user_username": "keep up to be in the world",
       "user_image": "de94d70b-3606-45d1-b1c1-7bb0e6191874.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53039022",
+      "user": "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe",
+      "token": "2dzg",
+      "time": "2025-07-08T01:18:42.000Z",
+      "buy": true,
+      "amount_btc": 41900000,
+      "amount_token": 1325360181230481,
+      "price": 3152,
+      "bonded": true,
+      "user_username": "Odin's",
+      "user_image": "55f7aa5e-a545-4e8f-bd91-a3ef95da8ae8.jpg",
       "decimals": 3,
       "divisibility": 8
     }
