@@ -1,5 +1,5 @@
 {
-  "count": 336,
+  "count": 339,
   "data": [
     {
       "id": "52944934",
@@ -5037,6 +5037,51 @@
       "price": 3597,
       "bonded": true,
       "user_username": "dthfssg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53101592",
+      "user": "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe",
+      "token": "2dzg",
+      "time": "2025-07-08T04:55:00.000Z",
+      "buy": false,
+      "amount_btc": 90564634,
+      "amount_token": 2741158426760976,
+      "price": 3306,
+      "bonded": true,
+      "user_username": "oase1",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53099136",
+      "user": "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae",
+      "token": "2dzg",
+      "time": "2025-07-08T04:53:24.000Z",
+      "buy": false,
+      "amount_btc": 581045898,
+      "amount_token": 17034371372713040,
+      "price": 3334,
+      "bonded": true,
+      "user_username": "rbgoc-yn3kv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53096447",
+      "user": "mjm55-6fcam-dxw6s-oxtp5-vj3yh-aioda-iu7bl-s54vt-4p4x5-wg2mg-pae",
+      "token": "2dzg",
+      "time": "2025-07-08T04:52:06.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 8590155845527257,
+      "price": 3523,
+      "bonded": true,
+      "user_username": "mjm55-6fcam",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
