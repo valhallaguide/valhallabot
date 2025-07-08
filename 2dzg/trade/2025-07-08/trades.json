@@ -1,5 +1,5 @@
 {
-  "count": 469,
+  "count": 470,
   "data": [
     {
       "id": "52944934",
@@ -7033,6 +7033,21 @@
       "bonded": true,
       "user_username": "归零币不要买",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53190874",
+      "user": "lg6ud-cckhd-btwcq-xxfru-sw7tt-jql7k-57cli-7xca2-vgzqf-cbabo-iqe",
+      "token": "2dzg",
+      "time": "2025-07-08T07:42:47.000Z",
+      "buy": false,
+      "amount_btc": 99271674,
+      "amount_token": 2878437898579606,
+      "price": 3449,
+      "bonded": true,
+      "user_username": "GOB1",
+      "user_image": "8ef3eb77-7e7e-46e1-8511-44722a06dd00.png",
       "decimals": 3,
       "divisibility": 8
     }
