@@ -1,5 +1,5 @@
 {
-  "count": 566,
+  "count": 568,
   "data": [
     {
       "id": "52944934",
@@ -8485,6 +8485,36 @@
       "amount_btc": 150000000,
       "amount_token": 4269249219341993,
       "price": 3520,
+      "bonded": true,
+      "user_username": "梭哈致富",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54048273",
+      "user": "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe",
+      "token": "2dzg",
+      "time": "2025-07-08T17:20:17.000Z",
+      "buy": false,
+      "amount_btc": 153321802,
+      "amount_token": 4452235539652616,
+      "price": 3436,
+      "bonded": true,
+      "user_username": "Leomilkkk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54042558",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-08T17:17:03.000Z",
+      "buy": false,
+      "amount_btc": 104158990,
+      "amount_token": 2988264105149716,
+      "price": 3486,
       "bonded": true,
       "user_username": "梭哈致富",
       "user_image": null,
