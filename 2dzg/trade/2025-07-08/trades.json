@@ -1,5 +1,5 @@
 {
-  "count": 492,
+  "count": 493,
   "data": [
     {
       "id": "52944934",
@@ -7378,6 +7378,21 @@
       "bonded": true,
       "user_username": "0XAICC.blife",
       "user_image": "9a3317ff-5fb6-4eeb-9c4e-e2f761fdadbb.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53384068",
+      "user": "oby6t-ekjcp-xclg5-bdk7r-q2s5p-k2dk6-vvg5j-ne7in-um5ph-p4byp-bae",
+      "token": "2dzg",
+      "time": "2025-07-08T09:33:44.000Z",
+      "buy": false,
+      "amount_btc": 171665520,
+      "amount_token": 5000000000000000,
+      "price": 3422,
+      "bonded": true,
+      "user_username": "只玩GOB",
+      "user_image": "dd6c81a2-0ac6-4962-8da9-a7af4a415a04.jpg",
       "decimals": 3,
       "divisibility": 8
     }
