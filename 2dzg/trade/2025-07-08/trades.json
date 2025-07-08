@@ -1,5 +1,5 @@
 {
-  "count": 314,
+  "count": 317,
   "data": [
     {
       "id": "52944934",
@@ -4708,6 +4708,51 @@
       "bonded": true,
       "user_username": "fuokcPsou",
       "user_image": "18496963-bb81-4df4-883e-6f5d747eb154.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53057844",
+      "user": "sxfdt-g74bw-sv4qk-lkrkg-kmlzi-dgpst-gyz5y-ktsmi-cs6jg-rqily-qqe",
+      "token": "2dzg",
+      "time": "2025-07-08T02:43:32.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1439892594506705,
+      "price": 3463,
+      "bonded": true,
+      "user_username": "南方有财",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53057833",
+      "user": "opbe7-aq3ho-2dfke-i5y2l-hhlch-hsevo-nk72u-g26kj-452u3-7z7qc-iqe",
+      "token": "2dzg",
+      "time": "2025-07-08T02:43:27.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4360444149069263,
+      "price": 3446,
+      "bonded": true,
+      "user_username": "Juniortlk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53057790",
+      "user": "aeacz-3keeh-pdysr-blb4p-fl4kd-cmlxw-3uvd2-6w2nn-o3nu3-twtkr-yqe",
+      "token": "2dzg",
+      "time": "2025-07-08T02:43:05.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 8908682210021457,
+      "price": 3398,
+      "bonded": true,
+      "user_username": "aeacz-3keeh",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
