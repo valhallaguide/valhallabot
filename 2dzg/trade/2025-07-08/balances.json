@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 184,
+    "totalUsers": 183,
     "nonSellersCount": 174,
-    "sellersCount": 10,
-    "totalBalance": 1378562772581186800
+    "sellersCount": 9,
+    "totalBalance": 1370118557054001000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -89,10 +89,6 @@
     "aeacz-3keeh-pdysr-blb4p-fl4kd-cmlxw-3uvd2-6w2nn-o3nu3-twtkr-yqe": {
       "balance": 17209796840670748,
       "username": "aeacz-3keeh"
-    },
-    "rbgoc-yn3kv-ioixm-5ht52-hy32k-nbvec-muhc5-w4ncq-x4yaf-v26tm-lae": {
-      "balance": 17034371372713040,
-      "username": "rbgoc-yn3kv"
     },
     "m7mri-jz5g3-grdds-d7z4t-ztr6p-egir3-mbkez-iu6vy-k7yny-l5ax4-nae": {
       "balance": 17000015946353158,
@@ -217,6 +213,10 @@
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 8603247132006026,
       "username": "marjames"
+    },
+    "mjm55-6fcam-dxw6s-oxtp5-vj3yh-aioda-iu7bl-s54vt-4p4x5-wg2mg-pae": {
+      "balance": 8590155845527257,
+      "username": "mjm55-6fcam"
     },
     "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae": {
       "balance": 8460350998725689,
