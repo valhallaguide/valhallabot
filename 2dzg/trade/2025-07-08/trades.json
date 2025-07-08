@@ -1,5 +1,5 @@
 {
-  "count": 327,
+  "count": 328,
   "data": [
     {
       "id": "52944934",
@@ -4902,6 +4902,21 @@
       "price": 3783,
       "bonded": true,
       "user_username": "西部社区88",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "53070762",
+      "user": "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe",
+      "token": "2dzg",
+      "time": "2025-07-08T03:46:43.000Z",
+      "buy": false,
+      "amount_btc": 388377011,
+      "amount_token": 10499900000000000,
+      "price": 3652,
+      "bonded": true,
+      "user_username": "valhalla holder",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
