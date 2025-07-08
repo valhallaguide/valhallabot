@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 183,
+    "totalUsers": 182,
     "nonSellersCount": 166,
-    "sellersCount": 17,
-    "totalBalance": 1302796124995598000
+    "sellersCount": 16,
+    "totalBalance": 1302702343914019600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -566,10 +566,6 @@
       "balance": 184838067802871,
       "username": "gundam"
     },
-    "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe": {
-      "balance": 176598900463918,
-      "username": "mei6g-cngyr"
-    },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
       "username": "DuckBro"
@@ -589,6 +585,10 @@
     "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe": {
       "balance": 94576959290914,
       "username": "BLUEKUSH.blife"
+    },
+    "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe": {
+      "balance": 82817818885272,
+      "username": "mei6g-cngyr"
     },
     "kzfro-twshm-oi27w-uc6wo-pblcc-dnibh-mv46s-hm5qc-mt47o-nz75y-yae": {
       "balance": 73037370399980,
