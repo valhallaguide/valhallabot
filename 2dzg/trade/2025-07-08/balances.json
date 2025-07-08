@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 183,
-    "nonSellersCount": 173,
+    "totalUsers": 181,
+    "nonSellersCount": 171,
     "sellersCount": 10,
-    "totalBalance": 1364133159198914800
+    "totalBalance": 1344022318690465300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -158,10 +158,6 @@
       "balance": 11532714423504594,
       "username": "宝宝没大饼"
     },
-    "23qal-vsxhm-4sq2r-dqx3b-7ofdv-wgffq-yj5ju-dwzek-mdx4c-lz4io-iae": {
-      "balance": 11520684662922292,
-      "username": "挂在山顶吹冷风"
-    },
     "2j7gr-7jaqs-zdsnn-ixp3p-4h56q-haj4i-czy6i-gmney-6icl4-vbbus-tqe": {
       "balance": 11323607681508716,
       "username": "2j7gr-7jaqs"
@@ -209,10 +205,6 @@
     "uls3l-3gndy-6h73b-bglyc-ejhi2-nbmkq-ctdzg-r7oa7-zzs3r-b65pj-kae": {
       "balance": 8603247132006026,
       "username": "marjames"
-    },
-    "mjm55-6fcam-dxw6s-oxtp5-vj3yh-aioda-iu7bl-s54vt-4p4x5-wg2mg-pae": {
-      "balance": 8590155845527257,
-      "username": "mjm55-6fcam"
     },
     "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae": {
       "balance": 8460350998725689,
