@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 203,
-    "nonSellersCount": 192,
+    "totalUsers": 204,
+    "nonSellersCount": 193,
     "sellersCount": 11,
-    "totalBalance": 1187522147821351700
+    "totalBalance": 1193667919103410200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -78,6 +78,10 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
+    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
+      "balance": 18560494732055270,
+      "username": "x3snx-wrugd"
+    },
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 17557001872309776,
       "username": "uj2ot-rsdjv"
@@ -117,10 +121,6 @@
     "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
       "balance": 13514461335810048,
       "username": "7sfwt-qm2ht"
-    },
-    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
-      "balance": 12795809702036142,
-      "username": "x3snx-wrugd"
     },
     "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae": {
       "balance": 12036586913201364,
@@ -513,6 +513,10 @@
     "qjcff-nlqy4-v27kk-ageh7-z4vsq-lukoz-vvtg7-zh2qk-7n5g5-f2zro-uqe": {
       "balance": 384943816338087,
       "username": "IC Blife"
+    },
+    "mka6x-klvck-xytvr-ahxlw-hpueh-eydb3-e5hfi-tjj3z-tph2q-3hj4h-vae": {
+      "balance": 381086252039315,
+      "username": "☠️💀☠️💀"
     },
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
