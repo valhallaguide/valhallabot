@@ -1,5 +1,5 @@
 {
-  "count": 382,
+  "count": 383,
   "data": [
     {
       "id": "54248945",
@@ -5727,6 +5727,21 @@
       "price": 2905,
       "bonded": true,
       "user_username": "kilmeyx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "55722569",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-09T13:17:30.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5098632502934564,
+      "price": 2948,
+      "bonded": true,
+      "user_username": "归零币别买",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
