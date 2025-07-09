@@ -1,5 +1,5 @@
 {
-  "count": 312,
+  "count": 314,
   "data": [
     {
       "id": "54248945",
@@ -4677,6 +4677,36 @@
       "price": 3158,
       "bonded": true,
       "user_username": "mei6g-cngyr",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54277023",
+      "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
+      "token": "2dzg",
+      "time": "2025-07-09T02:40:04.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 162249681884510,
+      "price": 3067,
+      "bonded": true,
+      "user_username": "avofv-w34hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54276252",
+      "user": "kfk5j-ghsf3-ngvtt-rq5yy-6mfzw-3d7lq-basos-wck7c-3vhyh-mlm3t-3ae",
+      "token": "2dzg",
+      "time": "2025-07-09T02:38:49.000Z",
+      "buy": false,
+      "amount_btc": 302224804,
+      "amount_token": 9761067312524738,
+      "price": 3065,
+      "bonded": true,
+      "user_username": "LLONGKING.blife",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
