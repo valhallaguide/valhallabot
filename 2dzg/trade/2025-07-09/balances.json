@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 180,
+    "totalUsers": 179,
     "nonSellersCount": 167,
-    "sellersCount": 13,
-    "totalBalance": 1294542090103884500
+    "sellersCount": 12,
+    "totalBalance": 1294879129198863000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -502,6 +502,10 @@
       "balance": 700819132557692,
       "username": "gphpq-pmych"
     },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 648965123659027,
+      "username": "大波浪"
+    },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "qiegao"
@@ -537,10 +541,6 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
-    },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 311926028680422,
-      "username": "大波浪"
     },
     "rnj2z-hybx7-w35sj-tr6ms-qzax4-tmlgm-ysc63-2eg6h-exe54-ezecg-uae": {
       "balance": 286362431435169,
