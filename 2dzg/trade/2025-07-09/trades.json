@@ -1,5 +1,5 @@
 {
-  "count": 316,
+  "count": 317,
   "data": [
     {
       "id": "54248945",
@@ -4738,6 +4738,21 @@
       "bonded": true,
       "user_username": "拉发射就砸盘筹码想全部自己老鼠仓接外部吃全部砸给你亏钱也砸",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54433929",
+      "user": "3awlz-o4em3-ydoew-jf2gx-2re3h-xfwzm-fh274-7tl7s-iqdmn-ppnb5-uqe",
+      "token": "2dzg",
+      "time": "2025-07-09T04:06:14.000Z",
+      "buy": false,
+      "amount_btc": 7193138,
+      "amount_token": 231643795956542,
+      "price": 3119,
+      "bonded": true,
+      "user_username": "RWA",
+      "user_image": "a4b88bfe-bd3c-41b3-bd5b-22644b4933c7.jpg",
       "decimals": 3,
       "divisibility": 8
     }
