@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 332,
   "data": [
     {
       "id": "54248945",
@@ -4948,6 +4948,36 @@
       "bonded": true,
       "user_username": "大波浪",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54855899",
+      "user": "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae",
+      "token": "2dzg",
+      "time": "2025-07-09T07:59:11.000Z",
+      "buy": false,
+      "amount_btc": 91478395,
+      "amount_token": 3303514596870056,
+      "price": 2769,
+      "bonded": true,
+      "user_username": "hgfc-ndkf",
+      "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54851490",
+      "user": "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae",
+      "token": "2dzg",
+      "time": "2025-07-09T07:57:08.000Z",
+      "buy": false,
+      "amount_btc": 92363075,
+      "amount_token": 3303514596870056,
+      "price": 2796,
+      "bonded": true,
+      "user_username": "hgfc-ndkf",
+      "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg",
       "decimals": 3,
       "divisibility": 8
     }
