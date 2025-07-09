@@ -140,13 +140,6 @@
     "user_image": "dd3ce378-5117-4fac-9d94-17bedaece61c.jpg"
   },
   {
-    "user": "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe",
-    "token": "2dzg",
-    "balance": 18560494732055270,
-    "user_username": "x3snx-wrugd",
-    "user_image": null
-  },
-  {
     "user": "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae",
     "token": "2dzg",
     "balance": 17557001872309776,
@@ -214,6 +207,13 @@
     "token": "2dzg",
     "balance": 13514461335810048,
     "user_username": "7sfwt-qm2ht",
+    "user_image": null
+  },
+  {
+    "user": "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe",
+    "token": "2dzg",
+    "balance": 12795809702036142,
+    "user_username": "x3snx-wrugd",
     "user_image": null
   },
   {
@@ -721,6 +721,13 @@
     "user_image": "4f466289-02cd-4f3c-b12f-dea26877df28.jpg"
   },
   {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 1439394674220917,
+    "user_username": "VALHALLA Liquidity Fund",
+    "user_image": null
+  },
+  {
     "user": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
     "token": "2dzg",
     "balance": 1380882097337548,
@@ -952,13 +959,6 @@
     "user_image": null
   },
   {
-    "user": "mka6x-klvck-xytvr-ahxlw-hpueh-eydb3-e5hfi-tjj3z-tph2q-3hj4h-vae",
-    "token": "2dzg",
-    "balance": 381086252039315,
-    "user_username": "☠️💀☠️💀",
-    "user_image": "6953ae2b-72d3-4aa1-a2fe-e671b8af2c14.jpeg"
-  },
-  {
     "user": "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae",
     "token": "2dzg",
     "balance": 326837436264380,
@@ -1041,13 +1041,6 @@
     "balance": 118940870824037,
     "user_username": "cola999",
     "user_image": "c782d3f7-d3ac-44b3-81d3-d3b43bda8649.png"
-  },
-  {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 105449993038540,
-    "user_username": "VALHALLA Liquidity Fund",
-    "user_image": null
   },
   {
     "user": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
