@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 353,
   "data": [
     {
       "id": "54248945",
@@ -5293,81 +5293,6 @@
       "bonded": true,
       "user_username": "ZBOBfacai",
       "user_image": "2211a41d-6665-4ff4-ade8-eba21da5ff25.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "55362223",
-      "user": "izt7g-gzbas-5jqve-vmaqf-3cxma-76dcv-eyey3-rzlo7-5pgnm-26c25-qae",
-      "token": "2dzg",
-      "time": "2025-07-09T10:33:17.000Z",
-      "buy": true,
-      "amount_btc": 150000000,
-      "amount_token": 4846694971283248,
-      "price": 3102,
-      "bonded": true,
-      "user_username": "Shdjfueh",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "55361677",
-      "user": "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe",
-      "token": "2dzg",
-      "time": "2025-07-09T10:31:33.000Z",
-      "buy": true,
-      "amount_btc": 10000000,
-      "amount_token": 325679671522842,
-      "price": 3056,
-      "bonded": true,
-      "user_username": "成功一次足以",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "55361645",
-      "user": "yn3aq-wdkbd-znyzq-mbf53-y4d6v-mx35n-3zykb-hvnoe-i4zgj-cik3p-bae",
-      "token": "2dzg",
-      "time": "2025-07-09T10:31:25.000Z",
-      "buy": true,
-      "amount_btc": 81332490,
-      "amount_token": 2660923764975523,
-      "price": 3053,
-      "bonded": true,
-      "user_username": "jelly",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "55361578",
-      "user": "uhsbs-zm6kz-5m5fv-wzz7s-fzz37-s3ah2-wvpux-u4usf-4rggs-ynhvx-cqe",
-      "token": "2dzg",
-      "time": "2025-07-09T10:31:08.000Z",
-      "buy": true,
-      "amount_btc": 617848905,
-      "amount_token": 20942706919855388,
-      "price": 3028,
-      "bonded": true,
-      "user_username": "uhsbs-zm6kz",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "55361572",
-      "user": "gnc7d-bdjjp-7tvjb-zxe7v-gy46h-grtu2-m2jhd-w47rr-yrbua-a35dz-iae",
-      "token": "2dzg",
-      "time": "2025-07-09T10:31:08.000Z",
-      "buy": false,
-      "amount_btc": 8019803,
-      "amount_token": 283186421104150,
-      "price": 2845,
-      "bonded": true,
-      "user_username": "未成年，别割我",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
