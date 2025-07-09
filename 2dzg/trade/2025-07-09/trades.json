@@ -1,5 +1,5 @@
 {
-  "count": 321,
+  "count": 323,
   "data": [
     {
       "id": "54248945",
@@ -4810,6 +4810,36 @@
       "amount_btc": 210627950,
       "amount_token": 6951866081333595,
       "price": 3012,
+      "bonded": true,
+      "user_username": "47nmm-kdjpe",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54576372",
+      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
+      "token": "2dzg",
+      "time": "2025-07-09T05:58:53.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 337039094978605,
+      "price": 2953,
+      "bonded": true,
+      "user_username": "大波浪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "54575103",
+      "user": "47nmm-kdjpe-raigu-gr5rt-a27kt-n3h4k-hpfsn-hooo4-s7txo-ptrt4-gqe",
+      "token": "2dzg",
+      "time": "2025-07-09T05:58:05.000Z",
+      "buy": false,
+      "amount_btc": 206245716,
+      "amount_token": 6951866081333596,
+      "price": 2950,
       "bonded": true,
       "user_username": "47nmm-kdjpe",
       "user_image": null,
