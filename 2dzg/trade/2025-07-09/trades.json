@@ -1,5 +1,5 @@
 {
-  "count": 377,
+  "count": 381,
   "data": [
     {
       "id": "54248945",
@@ -5652,6 +5652,66 @@
       "price": 2744,
       "bonded": true,
       "user_username": "孤独的交易者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "55611857",
+      "user": "2uyhw-sh45v-yd723-3sf7i-c4ng2-ujmwn-ncgps-mv7vo-5ecc7-aecbu-sae",
+      "token": "2dzg",
+      "time": "2025-07-09T12:53:53.000Z",
+      "buy": false,
+      "amount_btc": 33002283,
+      "amount_token": 1124293153924199,
+      "price": 2945,
+      "bonded": true,
+      "user_username": "BTC社区-去中心化",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "55603131",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-09T12:52:08.000Z",
+      "buy": true,
+      "amount_btc": 2715622,
+      "amount_token": 91455034486852,
+      "price": 2954,
+      "bonded": true,
+      "user_username": "孤独的交易者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "55601387",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-09T12:51:46.000Z",
+      "buy": true,
+      "amount_btc": 67064696,
+      "amount_token": 2266295460738272,
+      "price": 2954,
+      "bonded": true,
+      "user_username": "孤独的交易者",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "55597150",
+      "user": "ycf5d-xaoc2-4uhfc-humlv-em7yq-o63j4-h47hy-424dy-4lze6-ydicd-fqe",
+      "token": "2dzg",
+      "time": "2025-07-09T12:50:36.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1699349448252958,
+      "price": 2934,
+      "bonded": true,
+      "user_username": "odin.fvn",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
