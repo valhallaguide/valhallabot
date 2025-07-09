@@ -49,13 +49,6 @@
     "user_image": null
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 35209166993389220,
-    "user_username": "归零币不要买",
-    "user_image": null
-  },
-  {
     "user": "pdpih-ro3zt-q7iqm-5xkwz-3kceq-nz5xr-b7efb-krmdh-nbm3n-v72hb-vae",
     "token": "2dzg",
     "balance": 33754560492349652,
@@ -1305,7 +1298,7 @@
     "user": "6dyvj-e4p7d-y5ymg-63e77-s2nxk-rbooa-wg2hz-47j2e-ddoqe-ybma3-3qe",
     "token": "2dzg",
     "balance": 100000000000,
-    "user_username": "weth社区控盘后全面介入",
+    "user_username": "进入进出",
     "user_image": null
   },
   {
@@ -1362,6 +1355,13 @@
     "token": "2dzg",
     "balance": 48638779767,
     "user_username": "波波仔",
+    "user_image": null
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 21203717,
+    "user_username": "VALHALLA Liquidity Fund",
     "user_image": null
   },
   {
