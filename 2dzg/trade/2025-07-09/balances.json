@@ -3,7 +3,7 @@
     "totalUsers": 180,
     "nonSellersCount": 167,
     "sellersCount": 13,
-    "totalBalance": 1226050106574025500
+    "totalBalance": 1222151583059234600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -202,10 +202,6 @@
       "balance": 7937331865799698,
       "username": "ee7co-zsckv"
     },
-    "tnt6y-rvppz-27gko-k6zvq-uxwmm-weef4-5gi7i-gczum-6ilgg-32ygu-dae": {
-      "balance": 7862999622045082,
-      "username": "0XAICC.blife◨ ◨"
-    },
     "dvxkn-zkqpd-ff2aq-aznpa-g5wug-qgi4y-u3wf2-5ffet-pkhzj-kryfs-vqe": {
       "balance": 7721700909003559,
       "username": "luckydog"
@@ -285,6 +281,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
+    },
+    "tnt6y-rvppz-27gko-k6zvq-uxwmm-weef4-5gi7i-gczum-6ilgg-32ygu-dae": {
+      "balance": 4320727298804235,
+      "username": "0XAICC.blife◨ ◨"
     },
     "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae": {
       "balance": 4280697049304849,
@@ -466,10 +466,6 @@
       "balance": 1005289911016572,
       "username": "zimuzu"
     },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 1005216315209281,
-      "username": "大波浪"
-    },
     "ffhjy-oa5qz-3l7hl-357fn-4tmuj-kt5bw-rclzu-ihj53-anybb-ctj46-qqe": {
       "balance": 973236420381389,
       "username": "YYJ万人团队"
@@ -505,6 +501,10 @@
     "gphpq-pmych-xbnm4-yc3yz-k5ib7-lqqon-e4rmf-5lxiw-cmjoa-vsdcz-tqe": {
       "balance": 700819132557692,
       "username": "gphpq-pmych"
+    },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 648965123659027,
+      "username": "大波浪"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
