@@ -1,5 +1,5 @@
 {
-  "count": 284,
+  "count": 287,
   "data": [
     {
       "id": "56181513",
@@ -4258,6 +4258,51 @@
       "bonded": true,
       "user_username": "哈没事",
       "user_image": "1e211e80-90ba-4619-9073-8cfdf890a8dd.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56196125",
+      "user": "nrzwf-ssvqp-yn4a3-h6vfp-tr42w-upce7-nnv54-po7bi-tevrm-l7z3h-rae",
+      "token": "2dzg",
+      "time": "2025-07-10T02:45:16.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 435679492451692,
+      "price": 2285,
+      "bonded": true,
+      "user_username": "nrzwf-ssvqp",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56196058",
+      "user": "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae",
+      "token": "2dzg",
+      "time": "2025-07-10T02:44:31.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 436180365074091,
+      "price": 2282,
+      "bonded": true,
+      "user_username": "avofv-w34hm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56196052",
+      "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+      "token": "2dzg",
+      "time": "2025-07-10T02:44:26.000Z",
+      "buy": false,
+      "amount_btc": 907240709,
+      "amount_token": 37999106062889944,
+      "price": 2279,
+      "bonded": true,
+      "user_username": "VALHALLA Liquidity Fund",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
