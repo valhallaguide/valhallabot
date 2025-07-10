@@ -3,7 +3,7 @@
     "totalUsers": 199,
     "nonSellersCount": 194,
     "sellersCount": 5,
-    "totalBalance": 1214286628166752800
+    "totalBalance": 1213851448684247000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -374,10 +374,6 @@
       "balance": 1979653899231963,
       "username": "🌞100BTC"
     },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 1815034373400463,
-      "username": "大波浪"
-    },
     "5tlpg-ez3ou-73oln-wqh65-m7aty-32a34-qrbrb-ll6kk-wexb2-xvz33-lae": {
       "balance": 1683779501082183,
       "username": "gighc"
@@ -401,6 +397,10 @@
     "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
       "balance": 1380882097337548,
       "username": "uhned-xb6pp"
+    },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 1379854890894738,
+      "username": "大波浪"
     },
     "3t5hg-xic5k-vmk6t-zrfet-zwypo-vk73i-qhxr7-tghxs-qtt3o-hmttv-nae": {
       "balance": 1375117548581163,
