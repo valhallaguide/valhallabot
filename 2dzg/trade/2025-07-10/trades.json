@@ -1,5 +1,5 @@
 {
-  "count": 288,
+  "count": 287,
   "data": [
     {
       "id": "56181513",
@@ -4302,21 +4302,6 @@
       "price": 2279,
       "bonded": true,
       "user_username": "VALHALLA Liquidity Fund",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "56196170",
-      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
-      "token": "2dzg",
-      "time": "2025-07-10T02:45:47.000Z",
-      "buy": true,
-      "amount_btc": 10000000,
-      "amount_token": 435179482505725,
-      "price": 2287,
-      "bonded": true,
-      "user_username": "大波浪",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
