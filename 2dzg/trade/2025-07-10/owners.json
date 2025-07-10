@@ -518,13 +518,6 @@
     "user_image": "947d1b63-025b-4f3b-afb6-facf27699c47.jpg"
   },
   {
-    "user": "vvpiq-lxgn6-x3q7p-amhp3-6n3j3-dmtm2-ojfc7-d3y4l-eczw2-5um43-aae",
-    "token": "2dzg",
-    "balance": 4546842738376670,
-    "user_username": "捏鸡鸡",
-    "user_image": "940b8422-200a-4cc3-ad64-0e33f9cabcee.jpg"
-  },
-  {
     "user": "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae",
     "token": "2dzg",
     "balance": 4280697049304849,
@@ -544,6 +537,13 @@
     "balance": 4094290576041904,
     "user_username": "益生元",
     "user_image": null
+  },
+  {
+    "user": "vvpiq-lxgn6-x3q7p-amhp3-6n3j3-dmtm2-ojfc7-d3y4l-eczw2-5um43-aae",
+    "token": "2dzg",
+    "balance": 4000000000000000,
+    "user_username": "捏鸡鸡",
+    "user_image": "940b8422-200a-4cc3-ad64-0e33f9cabcee.jpg"
   },
   {
     "user": "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe",
