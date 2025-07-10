@@ -1,5 +1,5 @@
 {
-  "count": 310,
+  "count": 311,
   "data": [
     {
       "id": "56181513",
@@ -4647,6 +4647,21 @@
       "price": 2459,
       "bonded": true,
       "user_username": "bit-dog",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56234236",
+      "user": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
+      "token": "2dzg",
+      "time": "2025-07-10T08:24:38.000Z",
+      "buy": false,
+      "amount_btc": 33730544,
+      "amount_token": 1380882097337548,
+      "price": 2450,
+      "bonded": true,
+      "user_username": "uhned-xb6pp",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
