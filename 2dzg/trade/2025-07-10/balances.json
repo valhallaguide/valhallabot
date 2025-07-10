@@ -1,18 +1,14 @@
 {
   "summary": {
     "totalUsers": 201,
-    "nonSellersCount": 201,
-    "sellersCount": 0,
-    "totalBalance": 1333134116898690000
+    "nonSellersCount": 196,
+    "sellersCount": 5,
+    "totalBalance": 1256040478389006600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
       "balance": 105000000000000000,
       "username": "BOBBODILY.blife"
-    },
-    "ex224-qnaa7-c7cvm-47e5k-4oz57-l3ybo-hmxnp-diiyw-hbtiq-dqxyf-rae": {
-      "balance": 62108428236966260,
-      "username": "瓦尔哈拉QQ784386301"
     },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
@@ -250,10 +246,6 @@
       "balance": 6288796713652934,
       "username": "Brandon Stark"
     },
-    "jmasz-3otpn-6uoku-ayvdz-ra4ph-2wjhv-aqs7j-sn2hq-2sfg3-3d25k-pae": {
-      "balance": 6253432859581522,
-      "username": "169"
-    },
     "iajqb-suxfp-277ff-qe3u7-l2vca-odybc-qbtib-3v3xc-dg3wx-43xps-xqe": {
       "balance": 6044860718951457,
       "username": "Omandem"
@@ -265,10 +257,6 @@
     "qa2bp-pllzs-wm3mt-svubm-cmzoc-vt3sr-oj4ap-ycqgj-vnscu-tf4lr-gqe": {
       "balance": 5669590698784849,
       "username": "qa2bp-pllzs"
-    },
-    "yg3ir-iutzw-mrfxt-yw6yr-psj2f-4i4t7-g72ys-n57h7-pqxef-mxbs6-gqe": {
-      "balance": 5491194490993943,
-      "username": "yg3ir-iutzw"
     },
     "x3ijv-4e6pe-x5juj-kaxt2-i7z6p-gkqfz-a2bnd-5e2ky-3v3ns-eo5js-3qe": {
       "balance": 5467065563143949,
@@ -337,10 +325,6 @@
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 3361718790867045,
       "username": "奥丁社区～格局"
-    },
-    "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
-      "balance": 3135132929103201,
-      "username": "bOb：686627708"
     },
     "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
       "balance": 3113267001768151,
@@ -601,10 +585,6 @@
     "yudhu-dhaj5-u535x-wmi4z-ji5os-whlmo-g4jwu-bhvm4-cjf3g-cth3d-2qe": {
       "balance": 118940870824037,
       "username": "cola999"
-    },
-    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
-      "balance": 105449993038540,
-      "username": "VALHALLA Liquidity Fund"
     },
     "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe": {
       "balance": 94576959290914,
