@@ -1,5 +1,5 @@
 {
-  "count": 328,
+  "count": 330,
   "data": [
     {
       "id": "56181513",
@@ -4918,6 +4918,36 @@
       "bonded": true,
       "user_username": "sgxydr",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56538264",
+      "user": "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae",
+      "token": "2dzg",
+      "time": "2025-07-10T17:41:25.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 4032798519657256,
+      "price": 2481,
+      "bonded": true,
+      "user_username": "Valhalla必飞",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "56536858",
+      "user": "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae",
+      "token": "2dzg",
+      "time": "2025-07-10T17:40:45.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 12373869336719656,
+      "price": 2453,
+      "bonded": true,
+      "user_username": "Valhalla必飞",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
