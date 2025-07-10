@@ -30,7 +30,7 @@
   {
     "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
     "token": "2dzg",
-    "balance": 44273692967997176,
+    "balance": 43500000000000000,
     "user_username": "peezy",
     "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
   },
@@ -518,6 +518,13 @@
     "user_image": "947d1b63-025b-4f3b-afb6-facf27699c47.jpg"
   },
   {
+    "user": "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae",
+    "token": "2dzg",
+    "balance": 4773838149249103,
+    "user_username": "奥丁社区～格局",
+    "user_image": null
+  },
+  {
     "user": "jw3mf-7kktp-zj6me-znncu-fyrpp-ksocr-rxsnl-s5uy3-wbfpa-7mjmi-xae",
     "token": "2dzg",
     "balance": 4280697049304849,
@@ -578,13 +585,6 @@
     "token": "2dzg",
     "balance": 3368241875460153,
     "user_username": "gqoep-skb3q",
-    "user_image": null
-  },
-  {
-    "user": "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae",
-    "token": "2dzg",
-    "balance": 3361718790867045,
-    "user_username": "奥丁社区～格局",
     "user_image": null
   },
   {
