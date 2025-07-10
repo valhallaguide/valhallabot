@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 199,
-    "nonSellersCount": 193,
-    "sellersCount": 6,
-    "totalBalance": 1212979588826721300
+    "nonSellersCount": 194,
+    "sellersCount": 5,
+    "totalBalance": 1213851448684247000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -430,6 +430,10 @@
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
     },
+    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
+      "balance": 1170024056220337,
+      "username": "avofv-w34hm"
+    },
     "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
       "balance": 1164478058160070,
       "username": "blifef3"
@@ -474,10 +478,6 @@
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
     },
-    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
-      "balance": 733843691146246,
-      "username": "avofv-w34hm"
-    },
     "ui6ha-jr36n-dzclx-lilox-4qmzn-q2ahj-47cp7-lfsem-jnt36-q3tf4-6ae": {
       "balance": 705930756995048,
       "username": "mengou2"
@@ -509,6 +509,10 @@
     "dwqhl-qyddy-f4ak7-pozau-uvqq3-m2qmr-vms73-kigzt-lmlum-crzic-dae": {
       "balance": 498036436820592,
       "username": "Bad Moon Rising"
+    },
+    "nrzwf-ssvqp-yn4a3-h6vfp-tr42w-upce7-nnv54-po7bi-tevrm-l7z3h-rae": {
+      "balance": 435679492451692,
+      "username": "nrzwf-ssvqp"
     },
     "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae": {
       "balance": 409459826368826,
