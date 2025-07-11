@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
+    "totalUsers": 199,
     "nonSellersCount": 193,
-    "sellersCount": 7,
-    "totalBalance": 1219202890382865000
+    "sellersCount": 6,
+    "totalBalance": 1238822400656593700
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -61,6 +61,10 @@
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 23597445520465572,
       "username": "uj2ot-rsdjv"
+    },
+    "bnwaj-ga3eo-n767n-xk6yw-rsc2o-ezfyz-xejwx-ept2a-t7mnh-lien7-pqe": {
+      "balance": 22800637260456536,
+      "username": "瓦尔哈拉共识群784386301"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
@@ -313,10 +317,6 @@
     "gqoep-skb3q-3zpu7-dmjcv-dbjam-stp3f-4wqzc-hslmm-e5pls-zlt2c-hae": {
       "balance": 3368241875460153,
       "username": "gqoep-skb3q"
-    },
-    "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
-      "balance": 3181126986727843,
-      "username": "mustholder"
     },
     "tq3y7-hc7wp-pg2aq-4gno3-laef6-zed6k-6mzfc-xmhq3-2uk6n-sz2f6-jqe": {
       "balance": 3135132929103201,
