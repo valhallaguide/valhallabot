@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 211,
-    "nonSellersCount": 203,
+    "totalUsers": 210,
+    "nonSellersCount": 202,
     "sellersCount": 8,
-    "totalBalance": 1359142823596226300
+    "totalBalance": 1360453196823391700
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -254,6 +254,10 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
+    "jihwf-i2fdd-vbrqg-papgd-6nh24-ykzhd-q7acd-fkvrv-3uysb-moeh3-oqe": {
+      "balance": 5738618546039035,
+      "username": "first launched"
+    },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
@@ -358,10 +362,6 @@
       "balance": 2933850679419034,
       "username": "KKO"
     },
-    "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe": {
-      "balance": 2826698767505953,
-      "username": "Aiz888"
-    },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
@@ -409,10 +409,6 @@
     "pnp5s-kf5d2-4v54z-7gfym-sz52q-5rljo-one6w-isqk7-ohdrz-7krxo-mqe": {
       "balance": 1672100000000000,
       "username": "胡子社区1"
-    },
-    "2d2xp-rw643-esj5q-uakhk-3dtvg-pmzwe-wh2nc-xdldy-rbmkn-d6ded-dae": {
-      "balance": 1601546551367609,
-      "username": "2d2xp"
     },
     "rbeo6-3se4q-zbe7f-rbx64-gyxe3-3vdxy-dpmcb-erp6y-h2m2l-4kdny-3ae": {
       "balance": 1547382559038060,
