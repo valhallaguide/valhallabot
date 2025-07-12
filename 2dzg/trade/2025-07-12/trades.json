@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 303,
   "data": [
     {
       "id": "57961098",
@@ -4528,6 +4528,21 @@
       "bonded": true,
       "user_username": "环球俱乐部-BD",
       "user_image": "4c47544b-8c19-4bc6-879c-3c171f86e488.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58415868",
+      "user": "mj6ov-pqfx6-m3c2x-zdnkh-zmby3-myijx-2vq5s-xqoxe-yygqh-jqw2u-vae",
+      "token": "2dzg",
+      "time": "2025-07-12T16:51:14.000Z",
+      "buy": true,
+      "amount_btc": 54176503,
+      "amount_token": 1549990561915830,
+      "price": 3486,
+      "bonded": true,
+      "user_username": "奥丁必定成功",
+      "user_image": "e7a687c4-a27f-407d-b9d6-0f4f7b74238b.jpg",
       "decimals": 3,
       "divisibility": 8
     }
