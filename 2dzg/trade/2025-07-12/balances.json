@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 207,
-    "nonSellersCount": 196,
+    "totalUsers": 208,
+    "nonSellersCount": 197,
     "sellersCount": 11,
-    "totalBalance": 1346636150572047000
+    "totalBalance": 1347215366463961600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -501,6 +501,10 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
+    },
+    "igcwr-xstcn-2ngkz-ycqti-khcin-j7n4o-2qk7s-vl4hh-2ok7w-v5qdu-gqe": {
+      "balance": 579215891914459,
+      "username": "igcwr-xstcn"
     },
     "js2wl-e5koz-ulqd4-wqdsc-ffqba-6xf6q-5f3ht-6bcy4-bzowj-3q3hm-kae": {
       "balance": 551163968799962,
