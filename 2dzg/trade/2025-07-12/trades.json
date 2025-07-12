@@ -1,5 +1,5 @@
 {
-  "count": 264,
+  "count": 266,
   "data": [
     {
       "id": "57961098",
@@ -3957,6 +3957,36 @@
       "price": 3120,
       "bonded": true,
       "user_username": "t6sht-4guae",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58063772",
+      "user": "kej6w-igclr-rufct-lcrgn-trl6m-op4t5-dofpr-quvjx-anxcf-pg2a4-cqe",
+      "token": "2dzg",
+      "time": "2025-07-12T09:50:20.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 146223144900696,
+      "price": 3403,
+      "bonded": true,
+      "user_username": "acwld-wricg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58063283",
+      "user": "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae",
+      "token": "2dzg",
+      "time": "2025-07-12T09:46:49.000Z",
+      "buy": false,
+      "amount_btc": 162768818,
+      "amount_token": 4773838149249103,
+      "price": 3401,
+      "bonded": true,
+      "user_username": "奥丁平台是个啥",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
