@@ -1,5 +1,5 @@
 {
-  "count": 277,
+  "count": 280,
   "data": [
     {
       "id": "57961098",
@@ -4152,6 +4152,51 @@
       "price": 3158,
       "bonded": true,
       "user_username": "wangbaoze",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58076889",
+      "user": "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae",
+      "token": "2dzg",
+      "time": "2025-07-12T11:10:08.000Z",
+      "buy": false,
+      "amount_btc": 185099276,
+      "amount_token": 6018293456600682,
+      "price": 3063,
+      "bonded": true,
+      "user_username": "木已成舟",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58076630",
+      "user": "k4eca-dbmei-fxjxp-meuzw-shx66-fjgck-pdy4l-qvgt5-lwn4i-yjmnb-rae",
+      "token": "2dzg",
+      "time": "2025-07-12T11:09:11.000Z",
+      "buy": false,
+      "amount_btc": 188413563,
+      "amount_token": 6018293456600681,
+      "price": 3118,
+      "bonded": true,
+      "user_username": "木已成舟",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58076176",
+      "user": "t6sht-4guae-r6mwy-dqnb4-jmaxo-m3sik-qnmp2-dhlec-h535i-iypiw-7qe",
+      "token": "2dzg",
+      "time": "2025-07-12T11:06:56.000Z",
+      "buy": true,
+      "amount_btc": 55497244,
+      "amount_token": 1743949076874955,
+      "price": 3174,
+      "bonded": true,
+      "user_username": "t6sht-4guae",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
