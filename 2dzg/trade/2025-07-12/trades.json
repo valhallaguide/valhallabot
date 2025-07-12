@@ -1,5 +1,5 @@
 {
-  "count": 282,
+  "count": 284,
   "data": [
     {
       "id": "57961098",
@@ -4227,6 +4227,36 @@
       "price": 3003,
       "bonded": true,
       "user_username": "uvtrg-rv5xc",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58079190",
+      "user": "4oxl7-y4q54-2gfqe-6fsua-qqqlq-w4scp-5uvis-6cchb-mpnoi-5xa24-dqe",
+      "token": "2dzg",
+      "time": "2025-07-12T11:19:42.000Z",
+      "buy": false,
+      "amount_btc": 251250315,
+      "amount_token": 7544388044677056,
+      "price": 3308,
+      "bonded": true,
+      "user_username": "4oxl7-y4q54",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58078789",
+      "user": "uh7ww-erxut-geu2o-fdd2c-mwq2t-6firc-4qa6b-covuw-3bqsp-e2w34-3ae",
+      "token": "2dzg",
+      "time": "2025-07-12T11:17:53.000Z",
+      "buy": true,
+      "amount_btc": 863628425,
+      "amount_token": 26413289015149744,
+      "price": 3385,
+      "bonded": true,
+      "user_username": "Xiao Sung",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
