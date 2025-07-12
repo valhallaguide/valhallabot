@@ -1,5 +1,5 @@
 {
-  "count": 261,
+  "count": 264,
   "data": [
     {
       "id": "57961098",
@@ -3913,6 +3913,51 @@
       "bonded": true,
       "user_username": "YYC2",
       "user_image": "9dfb2792-0eb0-4490-bd39-03033ec74a63.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58063051",
+      "user": "4oxl7-y4q54-2gfqe-6fsua-qqqlq-w4scp-5uvis-6cchb-mpnoi-5xa24-dqe",
+      "token": "2dzg",
+      "time": "2025-07-12T09:44:09.000Z",
+      "buy": true,
+      "amount_btc": 1000000000,
+      "amount_token": 30177552178708224,
+      "price": 3451,
+      "bonded": true,
+      "user_username": "4oxl7-y4q54",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58062895",
+      "user": "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae",
+      "token": "2dzg",
+      "time": "2025-07-12T09:43:05.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3174101633077549,
+      "price": 3149,
+      "bonded": true,
+      "user_username": "发射DEV空投筹码",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58062813",
+      "user": "t6sht-4guae-r6mwy-dqnb4-jmaxo-m3sik-qnmp2-dhlec-h535i-iypiw-7qe",
+      "token": "2dzg",
+      "time": "2025-07-12T09:42:48.000Z",
+      "buy": true,
+      "amount_btc": 110008511,
+      "amount_token": 3526545490412749,
+      "price": 3120,
+      "bonded": true,
+      "user_username": "t6sht-4guae",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
