@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 210,
-    "nonSellersCount": 200,
-    "sellersCount": 10,
-    "totalBalance": 1336059866111788500
+    "totalUsers": 209,
+    "nonSellersCount": 201,
+    "sellersCount": 8,
+    "totalBalance": 1340663040426080000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -301,6 +301,10 @@
     "6rhmo-v2uhk-jvy7n-d2uqa-p5z2s-tw2zn-iaqke-t5zee-m6wcp-l35yx-cqe": {
       "balance": 4625467749760804,
       "username": "亚斯塔"
+    },
+    "iozom-usfvb-6ifaw-dgbct-itmal-mzk2x-rc6k4-bq6mb-qzvti-etp67-qae": {
+      "balance": 4603174314291343,
+      "username": "iozom-usfvb"
     },
     "lg6ud-cckhd-btwcq-xxfru-sw7tt-jql7k-57cli-7xca2-vgzqf-cbabo-iqe": {
       "balance": 4417720271240681,
