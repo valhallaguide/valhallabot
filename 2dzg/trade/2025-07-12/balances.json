@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 191,
-    "sellersCount": 9,
-    "totalBalance": 1261169483485864000
+    "totalUsers": 202,
+    "nonSellersCount": 192,
+    "sellersCount": 10,
+    "totalBalance": 1274515489182395100
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -37,6 +37,10 @@
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 32279548362194464,
       "username": "74ecf-lae"
+    },
+    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
+      "balance": 29738868942255150,
+      "username": "x3snx-wrugd"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -93,10 +97,6 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
-    },
-    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
-      "balance": 18560494732055270,
-      "username": "x3snx-wrugd"
     },
     "ee7co-zsckv-ouwv7-nk644-byqis-vjxoe-r3i6n-pmijk-2ghgk-v3on6-mae": {
       "balance": 16844457730175576,
@@ -334,6 +334,10 @@
       "balance": 2737158631207711,
       "username": "Activity"
     },
+    "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae": {
+      "balance": 2584094827000910,
+      "username": "ulmiu-ykw64"
+    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -458,10 +462,6 @@
       "balance": 784865145993081,
       "username": "ssowe-dnf"
     },
-    "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae": {
-      "balance": 783225259406602,
-      "username": "ulmiu-ykw64"
-    },
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
       "username": "p5tj2-pgr7f69"
@@ -521,6 +521,10 @@
     "mka6x-klvck-xytvr-ahxlw-hpueh-eydb3-e5hfi-tjj3z-tph2q-3hj4h-vae": {
       "balance": 381086252039315,
       "username": "☠️💀☠️💀"
+    },
+    "xwu6z-6eued-wdkhs-eblhw-rop62-zwcr2-f6naa-wrqs7-dfijo-upfmu-gae": {
+      "balance": 366761918737451,
+      "username": "xwu6z-6eued"
     },
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
