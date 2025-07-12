@@ -1,5 +1,5 @@
 {
-  "count": 195,
+  "count": 200,
   "data": [
     {
       "id": "57961098",
@@ -2923,6 +2923,81 @@
       "bonded": true,
       "user_username": "yg3ir-iutzw",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58017056",
+      "user": "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae",
+      "token": "2dzg",
+      "time": "2025-07-12T05:00:20.000Z",
+      "buy": true,
+      "amount_btc": 20000000,
+      "amount_token": 783225259406602,
+      "price": 2543,
+      "bonded": true,
+      "user_username": "ulmiu-ykw64",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58017043",
+      "user": "6sl5n-qauc7-ksfoe-r3poe-fmxt6-lojd2-45lfp-a2qhz-dgvzv-iokck-lqe",
+      "token": "2dzg",
+      "time": "2025-07-12T05:00:18.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 392227188077475,
+      "price": 2538,
+      "bonded": true,
+      "user_username": "ssowe-dnf",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58017012",
+      "user": "6sl5n-qauc7-ksfoe-r3poe-fmxt6-lojd2-45lfp-a2qhz-dgvzv-iokck-lqe",
+      "token": "2dzg",
+      "time": "2025-07-12T05:00:06.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 392637957915606,
+      "price": 2535,
+      "bonded": true,
+      "user_username": "ssowe-dnf",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58016995",
+      "user": "kx3yl-neaxg-zvfp2-tpyzn-whuhd-onlrk-sp7mf-p3mfo-msi4g-xsihl-eae",
+      "token": "2dzg",
+      "time": "2025-07-12T04:59:55.000Z",
+      "buy": true,
+      "amount_btc": 36991712,
+      "amount_token": 1456019043977052,
+      "price": 2532,
+      "bonded": true,
+      "user_username": "TRAMP2025.blife",
+      "user_image": "64116a3c-88f4-4661-9169-436861e831ce.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58016739",
+      "user": "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae",
+      "token": "2dzg",
+      "time": "2025-07-12T04:57:23.000Z",
+      "buy": true,
+      "amount_btc": 520000000,
+      "amount_token": 21083279818890070,
+      "price": 2522,
+      "bonded": true,
+      "user_username": "valhalla.guide",
+      "user_image": "ad088bf8-2fa8-4fca-a1d2-fdd2eab136c3.png",
       "decimals": 3,
       "divisibility": 8
     }
