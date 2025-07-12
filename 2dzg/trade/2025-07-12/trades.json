@@ -1,5 +1,5 @@
 {
-  "count": 295,
+  "count": 297,
   "data": [
     {
       "id": "57961098",
@@ -4420,6 +4420,36 @@
       "amount_btc": 254368339,
       "amount_token": 7621835015909141,
       "price": 3359,
+      "bonded": true,
+      "user_username": "了凡不凡",
+      "user_image": "a340fd6d-0171-42a9-af5c-ca1505c12fd2.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58399706",
+      "user": "jeeun-h6nmo-nkim6-oxa5d-n3e4x-gmzk3-oghpc-ux3pw-4oma4-wwgnj-iae",
+      "token": "2dzg",
+      "time": "2025-07-12T15:13:57.000Z",
+      "buy": true,
+      "amount_btc": 17640387,
+      "amount_token": 514775017491147,
+      "price": 3412,
+      "bonded": true,
+      "user_username": "jeeun-h6nmo",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58399181",
+      "user": "w5jbu-vzect-njlz6-udywh-3utzc-h2ccx-vqjro-iw2lc-oyxli-msd2y-cae",
+      "token": "2dzg",
+      "time": "2025-07-12T15:11:52.000Z",
+      "buy": true,
+      "amount_btc": 154790200,
+      "amount_token": 4552454746693532,
+      "price": 3406,
       "bonded": true,
       "user_username": "了凡不凡",
       "user_image": "a340fd6d-0171-42a9-af5c-ca1505c12fd2.webp",
