@@ -1,5 +1,5 @@
 {
-  "count": 242,
+  "count": 244,
   "data": [
     {
       "id": "57961098",
@@ -3627,6 +3627,36 @@
       "price": 3279,
       "bonded": true,
       "user_username": "Brandon Stark",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58053237",
+      "user": "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe",
+      "token": "2dzg",
+      "time": "2025-07-12T08:45:53.000Z",
+      "buy": true,
+      "amount_btc": 3333333,
+      "amount_token": 95152723623099,
+      "price": 3486,
+      "bonded": true,
+      "user_username": "mei6g-cngyr",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58053208",
+      "user": "t4mwb-3ijm4-q4jip-nye35-ho3lh-kxotl-me72f-7cbpl-qfle3-qshwp-6qe",
+      "token": "2dzg",
+      "time": "2025-07-12T08:45:48.000Z",
+      "buy": true,
+      "amount_btc": 40000000,
+      "amount_token": 1144047000942696,
+      "price": 3485,
+      "bonded": true,
+      "user_username": "t4mwb-3ijm4",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
