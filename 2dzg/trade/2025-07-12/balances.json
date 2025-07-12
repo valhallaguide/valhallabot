@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 211,
-    "nonSellersCount": 203,
+    "totalUsers": 212,
+    "nonSellersCount": 204,
     "sellersCount": 8,
-    "totalBalance": 1359142823596226300
+    "totalBalance": 1363401061159720400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -206,6 +206,10 @@
       "balance": 8150116183390866,
       "username": "luckydog"
     },
+    "yw2gr-5h33b-jwwot-2qwt5-7pgrf-yqucc-ovw5q-4uuux-jc5kw-l5s46-pae": {
+      "balance": 7936000818984059,
+      "username": "愉快的一天"
+    },
     "3wdds-2tty6-qkcow-vsegx-6scwz-64xep-4wfbq-l5b3a-5l7lq-3a2xr-xqe": {
       "balance": 7906545634369024,
       "username": "mu2728"
@@ -270,10 +274,6 @@
       "balance": 5446547772880106,
       "username": "99不88"
     },
-    "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
-      "balance": 5388237358187209,
-      "username": "Fartus deus"
-    },
     "b3lu7-2ftva-vrr2d-kryog-bh7kv-tjobj-jwser-hpp2b-oer7f-z434a-aae": {
       "balance": 5217696403641722,
       "username": "soonbob"
@@ -292,7 +292,7 @@
     },
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
-      "username": "比特强"
+      "username": "比特强RUNESDROP"
     },
     "76edc-6qduc-m4dmb-uicm3-ytjbg-4q3kf-yizrh-ttrur-lcapz-fwq2s-hae": {
       "balance": 4773838149249103,
@@ -350,6 +350,10 @@
       "balance": 3181126986727843,
       "username": "mustholder"
     },
+    "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae": {
+      "balance": 3113267001768151,
+      "username": "Fartus deus"
+    },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 3012309091481441,
       "username": "笑哈哈"
@@ -357,10 +361,6 @@
     "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
       "balance": 2933850679419034,
       "username": "KKO"
-    },
-    "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe": {
-      "balance": 2826698767505953,
-      "username": "Aiz888"
     },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
@@ -429,6 +429,10 @@
     "xp77w-edm6t-y562u-7louu-mmls2-4wvyp-fopst-fet43-nfnbv-h6jhx-4ae": {
       "balance": 1472875782911005,
       "username": "zxcz"
+    },
+    "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe": {
+      "balance": 1423905868435125,
+      "username": "Aiz888"
     },
     "3t5hg-xic5k-vmk6t-zrfet-zwypo-vk73i-qhxr7-tghxs-qtt3o-hmttv-nae": {
       "balance": 1375117548581163,
