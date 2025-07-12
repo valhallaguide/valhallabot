@@ -1,5 +1,5 @@
 {
-  "count": 289,
+  "count": 291,
   "data": [
     {
       "id": "57961098",
@@ -4333,6 +4333,36 @@
       "bonded": true,
       "user_username": "2d2xp",
       "user_image": "c5727896-c074-45b3-b433-c526d227d3db.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58190676",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-12T12:43:08.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 296829582925722,
+      "price": 3353,
+      "bonded": true,
+      "user_username": "小赢家2波段",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58189930",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-12T12:42:52.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 29697794459845,
+      "price": 3350,
+      "bonded": true,
+      "user_username": "小赢家2波段",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
       "decimals": 3,
       "divisibility": 8
     }
