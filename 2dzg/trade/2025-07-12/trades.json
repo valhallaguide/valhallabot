@@ -1,5 +1,5 @@
 {
-  "count": 291,
+  "count": 292,
   "data": [
     {
       "id": "57961098",
@@ -4363,6 +4363,21 @@
       "bonded": true,
       "user_username": "小赢家2波段",
       "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58240667",
+      "user": "2d2xp-rw643-esj5q-uakhk-3dtvg-pmzwe-wh2nc-xdldy-rbmkn-d6ded-dae",
+      "token": "2dzg",
+      "time": "2025-07-12T13:09:04.000Z",
+      "buy": false,
+      "amount_btc": 49551091,
+      "amount_token": 1488347839195744,
+      "price": 3338,
+      "bonded": true,
+      "user_username": "2d2xp",
+      "user_image": "c5727896-c074-45b3-b433-c526d227d3db.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
