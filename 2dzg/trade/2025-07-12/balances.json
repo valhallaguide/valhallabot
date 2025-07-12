@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 204,
-    "nonSellersCount": 197,
-    "sellersCount": 7,
-    "totalBalance": 1320190071856574500
+    "totalUsers": 207,
+    "nonSellersCount": 199,
+    "sellersCount": 8,
+    "totalBalance": 1353541725668360400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -41,6 +41,10 @@
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 32279548362194464,
       "username": "74ecf-lae"
+    },
+    "4oxl7-y4q54-2gfqe-6fsua-qqqlq-w4scp-5uvis-6cchb-mpnoi-5xa24-dqe": {
+      "balance": 30177552178708224,
+      "username": "4oxl7-y4q54"
     },
     "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
       "balance": 29738868942255150,
@@ -337,6 +341,10 @@
     "4eipf-ppdda-3c756-hoky7-7wmdd-wgyo7-l4bbn-bh3by-4tcu2-mepyc-4qe": {
       "balance": 3181126986727843,
       "username": "mustholder"
+    },
+    "rqcfu-qx7qa-zfxwj-qp3sr-h5kim-dcujy-kcxis-okumu-4ga4o-jtdyz-rae": {
+      "balance": 3174101633077549,
+      "username": "发射DEV空投筹码"
     },
     "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
       "balance": 3012309091481441,
