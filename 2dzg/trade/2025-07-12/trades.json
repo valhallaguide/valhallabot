@@ -1,5 +1,5 @@
 {
-  "count": 246,
+  "count": 249,
   "data": [
     {
       "id": "57961098",
@@ -3688,6 +3688,51 @@
       "bonded": true,
       "user_username": "Aiz888",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58056444",
+      "user": "yw2gr-5h33b-jwwot-2qwt5-7pgrf-yqucc-ovw5q-4uuux-jc5kw-l5s46-pae",
+      "token": "2dzg",
+      "time": "2025-07-12T09:00:19.000Z",
+      "buy": false,
+      "amount_btc": 277196625,
+      "amount_token": 7936000818984059,
+      "price": 3467,
+      "bonded": true,
+      "user_username": "愉快的一天",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58056420",
+      "user": "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe",
+      "token": "2dzg",
+      "time": "2025-07-12T09:00:14.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1402792899070828,
+      "price": 3554,
+      "bonded": true,
+      "user_username": "Aiz888",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58055440",
+      "user": "szz5v-paffw-wmb72-a4bvl-4mmai-3ns6g-izpxg-lrho4-nnvga-vcokp-4ae",
+      "token": "2dzg",
+      "time": "2025-07-12T08:55:42.000Z",
+      "buy": true,
+      "amount_btc": 80619000,
+      "amount_token": 2274970356419058,
+      "price": 3538,
+      "bonded": true,
+      "user_username": "Fartus deus",
+      "user_image": "d4bdc306-2dc0-4f69-8d70-ad4d8da05ab6.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
