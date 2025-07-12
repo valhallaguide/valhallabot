@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 259,
-    "nonSellersCount": 246,
+    "totalUsers": 258,
+    "nonSellersCount": 245,
     "sellersCount": 13,
-    "totalBalance": 1361864268184430600
+    "totalBalance": 1362732835424147200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -362,6 +362,10 @@
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
     },
+    "t6srt-z5qpg-62lwy-k32mg-g4orp-byfwe-i3egz-xugcj-22gh6-m4pey-2ae": {
+      "balance": 2761443022627679,
+      "username": "t6srt-z5qpg"
+    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -413,10 +417,6 @@
     "5hwlg-at4ly-a3jr6-2smcc-e52zq-xoaq2-wzukc-ry5hx-kb6ja-h5ecg-3qe": {
       "balance": 1496777059560702,
       "username": "Bob.life"
-    },
-    "xp77w-edm6t-y562u-7louu-mmls2-4wvyp-fopst-fet43-nfnbv-h6jhx-4ae": {
-      "balance": 1472875782911005,
-      "username": "zxcz"
     },
     "3t5hg-xic5k-vmk6t-zrfet-zwypo-vk73i-qhxr7-tghxs-qtt3o-hmttv-nae": {
       "balance": 1375117548581163,
@@ -697,10 +697,6 @@
     "56zkw-cxmcd-ascgp-edo7h-3vei6-r3rej-rd5qr-cj4lz-2zonr-obdfx-kqe": {
       "balance": 420000000000000,
       "username": "剑道尘心0.7 12"
-    },
-    "53dde-k3u2g-pttcv-ksraq-irtus-l5h3o-3mvnw-txzkp-szsf7-gkanf-mqe": {
-      "balance": 420000000000000,
-      "username": "53dde-k3u2g"
     },
     "4ono3-qjyom-jmrkp-pm5xd-dmgd3-nu247-6hs44-uusm2-pwia2-sb7pi-aqe": {
       "balance": 420000000000000,
