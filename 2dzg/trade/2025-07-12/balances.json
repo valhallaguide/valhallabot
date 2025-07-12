@@ -1,14 +1,18 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 192,
+    "totalUsers": 203,
+    "nonSellersCount": 195,
     "sellersCount": 8,
-    "totalBalance": 1226204643469910500
+    "totalBalance": 1250312032738177500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
       "balance": 105000000000000000,
       "username": "BOBBODILY.blife"
+    },
+    "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
+      "balance": 64473595655189496,
+      "username": "valhalla.guide"
     },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
@@ -17,10 +21,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 46158895974674860,
       "username": "RUNESLEO.blife"
-    },
-    "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
-      "balance": 43390315836299420,
-      "username": "valhalla.guide"
     },
     "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae": {
       "balance": 36186516747953670,
@@ -398,6 +398,10 @@
       "balance": 1472875782911005,
       "username": "zxcz"
     },
+    "kx3yl-neaxg-zvfp2-tpyzn-whuhd-onlrk-sp7mf-p3mfo-msi4g-xsihl-eae": {
+      "balance": 1456019043977052,
+      "username": "TRAMP2025.blife"
+    },
     "3t5hg-xic5k-vmk6t-zrfet-zwypo-vk73i-qhxr7-tghxs-qtt3o-hmttv-nae": {
       "balance": 1375117548581163,
       "username": "juoo"
@@ -465,6 +469,14 @@
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
+    },
+    "6sl5n-qauc7-ksfoe-r3poe-fmxt6-lojd2-45lfp-a2qhz-dgvzv-iokck-lqe": {
+      "balance": 784865145993081,
+      "username": "ssowe-dnf"
+    },
+    "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae": {
+      "balance": 783225259406602,
+      "username": "ulmiu-ykw64"
     },
     "p5tj2-pgr7f-ry3sq-aedqz-2erxw-4p4no-5rjcu-hhph7-n6ur6-qyxj6-hae": {
       "balance": 765219399310963,
