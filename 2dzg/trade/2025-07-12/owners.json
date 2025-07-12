@@ -700,13 +700,6 @@
     "user_image": "dab32aef-ce1f-4a74-b9e1-9ec7a88337cc.jpg"
   },
   {
-    "user": "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe",
-    "token": "2dzg",
-    "balance": 2060627578296705,
-    "user_username": "Odin's",
-    "user_image": "55f7aa5e-a545-4e8f-bd91-a3ef95da8ae8.jpg"
-  },
-  {
     "user": "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae",
     "token": "2dzg",
     "balance": 1991374004848860,
@@ -782,13 +775,6 @@
     "balance": 1472875782911005,
     "user_username": "zxcz",
     "user_image": "4f466289-02cd-4f3c-b12f-dea26877df28.jpg"
-  },
-  {
-    "user": "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe",
-    "token": "2dzg",
-    "balance": 1423905868435125,
-    "user_username": "Aiz888",
-    "user_image": null
   },
   {
     "user": "3t5hg-xic5k-vmk6t-zrfet-zwypo-vk73i-qhxr7-tghxs-qtt3o-hmttv-nae",
@@ -873,6 +859,13 @@
     "balance": 1005289911016572,
     "user_username": "zimuzu",
     "user_image": null
+  },
+  {
+    "user": "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe",
+    "token": "2dzg",
+    "balance": 994020135922861,
+    "user_username": "Odin's",
+    "user_image": "55f7aa5e-a545-4e8f-bd91-a3ef95da8ae8.jpg"
   },
   {
     "user": "ffhjy-oa5qz-3l7hl-357fn-4tmuj-kt5bw-rclzu-ihj53-anybb-ctj46-qqe",
