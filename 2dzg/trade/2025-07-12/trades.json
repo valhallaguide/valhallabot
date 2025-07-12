@@ -1,5 +1,5 @@
 {
-  "count": 284,
+  "count": 285,
   "data": [
     {
       "id": "57961098",
@@ -4258,6 +4258,21 @@
       "bonded": true,
       "user_username": "Xiao Sung",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58081198",
+      "user": "rqjcw-ylkxm-txfls-zbdy4-kmav3-ea6kt-gwimx-qfwri-gp6jx-ojgkx-3qe",
+      "token": "2dzg",
+      "time": "2025-07-12T11:29:12.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1500172456219259,
+      "price": 3323,
+      "bonded": true,
+      "user_username": "中国 龍",
+      "user_image": "efc51801-438f-4c05-987b-a22b75409c87.jpg",
       "decimals": 3,
       "divisibility": 8
     }
