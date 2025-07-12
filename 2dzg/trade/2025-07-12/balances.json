@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 200,
-    "nonSellersCount": 200,
-    "sellersCount": 0,
-    "totalBalance": 1307375129468679400
+    "nonSellersCount": 194,
+    "sellersCount": 6,
+    "totalBalance": 1238120549481199400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -21,10 +21,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43390315836299420,
       "username": "valhalla.guide"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 42000000000000000,
-      "username": "peezy"
     },
     "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae": {
       "balance": 36186516747953670,
@@ -65,10 +61,6 @@
     "uj2ot-rsdjv-mhvpp-ar3co-fofki-7qf77-o5dsi-oxc5q-tlzfy-s6ij3-sae": {
       "balance": 23597445520465572,
       "username": "uj2ot-rsdjv"
-    },
-    "bnwaj-ga3eo-n767n-xk6yw-rsc2o-ezfyz-xejwx-ept2a-t7mnh-lien7-pqe": {
-      "balance": 21800637260456536,
-      "username": "瓦尔哈拉共识群784386301"
     },
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
@@ -298,10 +290,6 @@
       "balance": 4094290576041904,
       "username": "益生元"
     },
-    "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
-      "balance": 4053723323091552,
-      "username": "Uwnvhjj"
-    },
     "t6sht-4guae-r6mwy-dqnb4-jmaxo-m3sik-qnmp2-dhlec-h535i-iypiw-7qe": {
       "balance": 4045722095077953,
       "username": "t6sht-4guae"
@@ -466,10 +454,6 @@
       "balance": 1005289911016572,
       "username": "zimuzu"
     },
-    "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe": {
-      "balance": 994020135922861,
-      "username": "Odin's"
-    },
     "ffhjy-oa5qz-3l7hl-357fn-4tmuj-kt5bw-rclzu-ihj53-anybb-ctj46-qqe": {
       "balance": 973236420381389,
       "username": "YYJ万人团队"
@@ -537,10 +521,6 @@
     "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae": {
       "balance": 409459826368826,
       "username": "jh2pb-wqscg"
-    },
-    "mpszi-75d7l-ktvnq-fqh5m-u72ow-kuzry-4asyf-uw4fs-te33a-2xgnk-dqe": {
-      "balance": 397680385397229,
-      "username": "mpszi-75d7l"
     },
     "z3td5-vysw5-vllko-manvm-qyu7l-bekza-rqmu5-boyxq-engel-iuvwf-rae": {
       "balance": 388398333693627,
@@ -633,10 +613,6 @@
     "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae": {
       "balance": 12528088512181,
       "username": "BC-OG Bitcoin logo"
-    },
-    "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe": {
-      "balance": 8518882612037,
-      "username": "Valhalla Liquidity Fund"
     },
     "gudmu-h7aur-57wjp-3tlic-l2drh-pqwkw-hcxsp-66cny-kjehz-p73dh-eae": {
       "balance": 473234773034,
