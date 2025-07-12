@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 210,
-    "nonSellersCount": 199,
+    "totalUsers": 211,
+    "nonSellersCount": 200,
     "sellersCount": 11,
-    "totalBalance": 1351617254158365000
+    "totalBalance": 1361708225428206600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -169,6 +169,10 @@
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
+    },
+    "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe": {
+      "balance": 10090971269841596,
+      "username": "小龙王"
     },
     "gh5bl-67smr-w3rvc-rwuja-lgyiw-5cir5-kebzb-sqcpx-twzwt-ivm4j-cqe": {
       "balance": 10035212619145836,
