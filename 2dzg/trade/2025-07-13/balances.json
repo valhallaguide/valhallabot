@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 232,
+    "totalUsers": 233,
     "nonSellersCount": 217,
-    "sellersCount": 15,
-    "totalBalance": 1320586124178389500
+    "sellersCount": 16,
+    "totalBalance": 1317578793593146600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -302,10 +302,6 @@
       "balance": 4225794615381548,
       "username": "九紫离火🔥100BTC"
     },
-    "chlty-y566l-xgsfa-h2xym-fwkfy-vcbgc-7gzfe-e67us-bkdto-s6fvd-kqe": {
-      "balance": 4127044047697767,
-      "username": "chlty-y566l"
-    },
     "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
       "balance": 4094290576041904,
       "username": "益生元"
@@ -449,6 +445,10 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
+    },
+    "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
+      "balance": 1119713462454720,
+      "username": "好运连连，"
     },
     "g66pe-5mux2-bkhms-r2rkp-mtcen-j7js2-4jscg-5unbn-mhaeg-dxt5u-kae": {
       "balance": 1105874050992209,
