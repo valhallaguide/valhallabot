@@ -1,5 +1,5 @@
 {
-  "count": 202,
+  "count": 204,
   "data": [
     {
       "id": "58457484",
@@ -3028,6 +3028,36 @@
       "bonded": true,
       "user_username": "ai16z-bitit🐬🐬🐬🐬🐬🐬🐬🐬🐬🐬🐬",
       "user_image": "8f7ae588-f848-4daa-8c52-325f93dc9bbb.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58476205",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-13T02:25:20.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 311470683959440,
+      "price": 3196,
+      "bonded": true,
+      "user_username": "小赢家2号",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58476092",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-13T02:24:51.000Z",
+      "buy": true,
+      "amount_btc": 3000000,
+      "amount_token": 93497624562336,
+      "price": 3193,
+      "bonded": true,
+      "user_username": "小赢家2号",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
       "decimals": 3,
       "divisibility": 8
     }
