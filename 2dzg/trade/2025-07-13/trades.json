@@ -1,5 +1,5 @@
 {
-  "count": 254,
+  "count": 255,
   "data": [
     {
       "id": "58457484",
@@ -3808,6 +3808,21 @@
       "bonded": true,
       "user_username": "VALHALLA共识Q群784386301",
       "user_image": "41cd1253-94a6-4487-9622-57d6b7febaec.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58625154",
+      "user": "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe",
+      "token": "2dzg",
+      "time": "2025-07-13T14:10:19.000Z",
+      "buy": false,
+      "amount_btc": 22234799,
+      "amount_token": 755396196248844,
+      "price": 2955,
+      "bonded": true,
+      "user_username": "Odin's",
+      "user_image": "55f7aa5e-a545-4e8f-bd91-a3ef95da8ae8.jpg",
       "decimals": 3,
       "divisibility": 8
     }
