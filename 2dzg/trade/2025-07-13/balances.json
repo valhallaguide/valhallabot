@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 232,
-    "nonSellersCount": 219,
+    "totalUsers": 230,
+    "nonSellersCount": 217,
     "sellersCount": 13,
-    "totalBalance": 1316205668681871000
+    "totalBalance": 1301259907817239000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -178,10 +178,6 @@
       "balance": 10090971269841596,
       "username": "小龙王"
     },
-    "gh5bl-67smr-w3rvc-rwuja-lgyiw-5cir5-kebzb-sqcpx-twzwt-ivm4j-cqe": {
-      "balance": 10035212619145836,
-      "username": "xiaor"
-    },
     "tp7sx-g3rvv-5d5ti-y6t47-wbx52-h5hwx-mq77d-ekpya-uiiky-mk37r-gae": {
       "balance": 9648788745755400,
       "username": "tp自己7sx-g3rvv"
@@ -277,10 +273,6 @@
     "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae": {
       "balance": 4917621246714855,
       "username": "Moby Dick"
-    },
-    "aj6ce-6d2wh-yrjxu-xoarn-tlweq-4wwqj-s3ymv-k6eqo-wlsz7-j53uk-uqe": {
-      "balance": 4910548245486306,
-      "username": "billycannotstop"
     },
     "i453a-fj6le-iym23-qo7t3-dlx5u-ggvxe-e4yya-d2ecq-xovu7-wawdb-cqe": {
       "balance": 4876957951066821,
