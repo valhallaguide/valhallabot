@@ -3,7 +3,7 @@
     "totalUsers": 232,
     "nonSellersCount": 219,
     "sellersCount": 13,
-    "totalBalance": 1306491965814429400
+    "totalBalance": 1306149484864964900
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -514,10 +514,6 @@
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
     },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 603233265127176,
-      "username": "大波浪"
-    },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
@@ -641,6 +637,10 @@
     "qp4qh-d3bow-dfewd-oc5d6-in53q-knmq7-o2on5-j6z44-rz73g-n4ruz-qae": {
       "balance": 275909724863493,
       "username": "LITTLE RUG BOY"
+    },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 260752315662514,
+      "username": "大波浪"
     },
     "sotbo-rmkba-hxf4w-54b6w-fgfhd-6i4v4-lr4n3-dhbdo-irvhg-t6srr-3ae": {
       "balance": 198999037426523,
