@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 248,
-    "nonSellersCount": 234,
+    "totalUsers": 247,
+    "nonSellersCount": 233,
     "sellersCount": 14,
-    "totalBalance": 1343825322957260000
+    "totalBalance": 1339221897380452900
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -346,10 +346,6 @@
       "balance": 3181126986727843,
       "username": "mustholder"
     },
-    "sq3p3-5hhue-cbglg-lhpgd-hkrsw-el6iq-upg5q-simhc-26loo-lr3tz-lae": {
-      "balance": 3076118109851769,
-      "username": "sq3p3-5hhue"
-    },
     "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe": {
       "balance": 3021584784995378,
       "username": "Odin's"
@@ -398,10 +394,6 @@
       "balance": 1979653899231963,
       "username": "🌞100BTC"
     },
-    "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae": {
-      "balance": 1707527253579705,
-      "username": "hytre"
-    },
     "5tlpg-ez3ou-73oln-wqh65-m7aty-32a34-qrbrb-ll6kk-wexb2-xvz33-lae": {
       "balance": 1683779501082183,
       "username": "gighc"
@@ -414,13 +406,13 @@
       "balance": 1549990561915830,
       "username": "奥丁必定成功"
     },
+    "sq3p3-5hhue-cbglg-lhpgd-hkrsw-el6iq-upg5q-simhc-26loo-lr3tz-lae": {
+      "balance": 1548712209011428,
+      "username": "sq3p3-5hhue"
+    },
     "rbeo6-3se4q-zbe7f-rbx64-gyxe3-3vdxy-dpmcb-erp6y-h2m2l-4kdny-3ae": {
       "balance": 1547382559038060,
       "username": "BOBOB"
-    },
-    "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe": {
-      "balance": 1541560813533123,
-      "username": "sgxydr"
     },
     "vu2to-6rlzb-xpoa4-bm6hn-qfqnq-xq5hv-3xqws-bspmx-p6ytk-zhjlv-6qe": {
       "balance": 1512179612919140,
@@ -717,6 +709,10 @@
     "ign5r-kgihj-vqkm5-4kgnj-wo5jm-fhfus-wzv6m-idbaw-5skia-kp24m-eqe": {
       "balance": 184838067802871,
       "username": "gundam"
+    },
+    "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae": {
+      "balance": 173068391146023,
+      "username": "hytre"
     },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
