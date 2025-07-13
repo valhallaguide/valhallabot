@@ -1,5 +1,5 @@
 {
-  "count": 273,
+  "count": 271,
   "data": [
     {
       "id": "58457484",
@@ -4062,36 +4062,6 @@
       "price": 3292,
       "bonded": true,
       "user_username": "Yyc52-bflc7",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "58638855",
-      "user": "chlty-y566l-xgsfa-h2xym-fwkfy-vcbgc-7gzfe-e67us-bkdto-s6fvd-kqe",
-      "token": "2dzg",
-      "time": "2025-07-13T15:09:52.000Z",
-      "buy": false,
-      "amount_btc": 16790912,
-      "amount_token": 527044047697767,
-      "price": 3199,
-      "bonded": true,
-      "user_username": "chlty-y566l",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "58638113",
-      "user": "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae",
-      "token": "2dzg",
-      "time": "2025-07-13T15:05:26.000Z",
-      "buy": true,
-      "amount_btc": 36000000,
-      "amount_token": 1119713462454720,
-      "price": 3204,
-      "bonded": true,
-      "user_username": "好运连连，",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
