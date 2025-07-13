@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 245,
-    "nonSellersCount": 231,
+    "totalUsers": 247,
+    "nonSellersCount": 233,
     "sellersCount": 14,
-    "totalBalance": 1337051688470046700
+    "totalBalance": 1339221897380452900
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -406,6 +406,10 @@
       "balance": 1549990561915830,
       "username": "奥丁必定成功"
     },
+    "sq3p3-5hhue-cbglg-lhpgd-hkrsw-el6iq-upg5q-simhc-26loo-lr3tz-lae": {
+      "balance": 1548712209011428,
+      "username": "sq3p3-5hhue"
+    },
     "rbeo6-3se4q-zbe7f-rbx64-gyxe3-3vdxy-dpmcb-erp6y-h2m2l-4kdny-3ae": {
       "balance": 1547382559038060,
       "username": "BOBOB"
@@ -513,6 +517,10 @@
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "qiegao"
+    },
+    "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
+      "balance": 621496701394591,
+      "username": "uhned-xb6pp"
     },
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
