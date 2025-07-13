@@ -1,5 +1,5 @@
 {
-  "count": 217,
+  "count": 221,
   "data": [
     {
       "id": "58457484",
@@ -3252,6 +3252,66 @@
       "price": 3056,
       "bonded": true,
       "user_username": "t6sht-4guae",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58495065",
+      "user": "izt7g-gzbas-5jqve-vmaqf-3cxma-76dcv-eyey3-rzlo7-5pgnm-26c25-qae",
+      "token": "2dzg",
+      "time": "2025-07-13T03:39:55.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 4827427753329283,
+      "price": 3113,
+      "bonded": true,
+      "user_username": "Satoshio",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58494865",
+      "user": "lb2iz-kdp2u-sbazm-agsrb-cxg2t-ynwac-2tc3i-tybbf-xiyy4-jacti-nae",
+      "token": "2dzg",
+      "time": "2025-07-13T03:39:01.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1624420968334566,
+      "price": 3069,
+      "bonded": true,
+      "user_username": "hahgcr-usg",
+      "user_image": "a686a484-9825-47a6-b92e-7b79a498a71a.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58494688",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-13T03:38:23.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1632156905030868,
+      "price": 3055,
+      "bonded": true,
+      "user_username": "sgxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58494105",
+      "user": "bofjx-6fhff-wszsv-jajnw-oruqu-nnayc-d64pt-v3dhl-sfkrf-kyyk5-vae",
+      "token": "2dzg",
+      "time": "2025-07-13T03:36:07.000Z",
+      "buy": false,
+      "amount_btc": 51792568,
+      "amount_token": 1707527253579705,
+      "price": 3040,
+      "bonded": true,
+      "user_username": "hytre",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
