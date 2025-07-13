@@ -1,5 +1,5 @@
 {
-  "count": 251,
+  "count": 252,
   "data": [
     {
       "id": "58457484",
@@ -3763,6 +3763,21 @@
       "bonded": true,
       "user_username": "BabyOdin加池子领空投共识群513661469",
       "user_image": "21c62672-222a-4801-9065-0e088adaff88.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58621742",
+      "user": "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae",
+      "token": "2dzg",
+      "time": "2025-07-13T13:55:38.000Z",
+      "buy": true,
+      "amount_btc": 111783944,
+      "amount_token": 3821881517581256,
+      "price": 2926,
+      "bonded": true,
+      "user_username": "VALHALLA共识Q群784386301",
+      "user_image": "41cd1253-94a6-4487-9622-57d6b7febaec.jpg",
       "decimals": 3,
       "divisibility": 8
     }
