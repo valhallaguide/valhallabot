@@ -1,5 +1,5 @@
 {
-  "count": 205,
+  "count": 208,
   "data": [
     {
       "id": "58457484",
@@ -3073,6 +3073,51 @@
       "bonded": true,
       "user_username": "小赢家2号",
       "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58478627",
+      "user": "sq3p3-5hhue-cbglg-lhpgd-hkrsw-el6iq-upg5q-simhc-26loo-lr3tz-lae",
+      "token": "2dzg",
+      "time": "2025-07-13T02:35:15.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1548712209011428,
+      "price": 3219,
+      "bonded": true,
+      "user_username": "sq3p3-5hhue",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58478250",
+      "user": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
+      "token": "2dzg",
+      "time": "2025-07-13T02:34:02.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 310604125516754,
+      "price": 3204,
+      "bonded": true,
+      "user_username": "uhned-xb6pp",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58478189",
+      "user": "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe",
+      "token": "2dzg",
+      "time": "2025-07-13T02:33:47.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 310892575877837,
+      "price": 3201,
+      "bonded": true,
+      "user_username": "uhned-xb6pp",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
