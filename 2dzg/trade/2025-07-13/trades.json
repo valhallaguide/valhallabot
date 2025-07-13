@@ -1,5 +1,5 @@
 {
-  "count": 170,
+  "count": 174,
   "data": [
     {
       "id": "58457484",
@@ -2548,6 +2548,66 @@
       "bonded": true,
       "user_username": "study-Aad",
       "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58460846",
+      "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
+      "token": "2dzg",
+      "time": "2025-07-13T00:54:30.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1260446611573461,
+      "price": 3955,
+      "bonded": true,
+      "user_username": "study-Aad",
+      "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58460826",
+      "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
+      "token": "2dzg",
+      "time": "2025-07-13T00:54:21.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1265744356720600,
+      "price": 3938,
+      "bonded": true,
+      "user_username": "study-Aad",
+      "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58460810",
+      "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
+      "token": "2dzg",
+      "time": "2025-07-13T00:54:08.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1271075589296754,
+      "price": 3922,
+      "bonded": true,
+      "user_username": "study-Aad",
+      "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58460804",
+      "user": "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae",
+      "token": "2dzg",
+      "time": "2025-07-13T00:54:07.000Z",
+      "buy": false,
+      "amount_btc": 239468930,
+      "amount_token": 6100000000000000,
+      "price": 3905,
+      "bonded": true,
+      "user_username": "齐天大圣",
+      "user_image": "d54a732e-8f59-4945-89c9-23138b7c7b49.png",
       "decimals": 3,
       "divisibility": 8
     }
