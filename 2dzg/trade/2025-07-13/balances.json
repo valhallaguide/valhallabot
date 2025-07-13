@@ -3,7 +3,7 @@
     "totalUsers": 232,
     "nonSellersCount": 217,
     "sellersCount": 15,
-    "totalBalance": 1340909378197469000
+    "totalBalance": 1331998205448702000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -89,10 +89,6 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
-    },
-    "pzhia-iyeet-pqmq4-mzm7c-7g5m7-rvnav-w642f-siwyn-ahrsq-i4bi6-aqe": {
-      "balance": 18069934221410476,
-      "username": "pzhia-iyeet"
     },
     "ee7co-zsckv-ouwv7-nk644-byqis-vjxoe-r3i6n-pmijk-2ghgk-v3on6-mae": {
       "balance": 16844457730175576,
@@ -197,6 +193,10 @@
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 9391148320309790,
       "username": "kbb43-ai2fj"
+    },
+    "pzhia-iyeet-pqmq4-mzm7c-7g5m7-rvnav-w642f-siwyn-ahrsq-i4bi6-aqe": {
+      "balance": 9158761472643400,
+      "username": "pzhia-iyeet"
     },
     "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
       "balance": 8900402998486548,
