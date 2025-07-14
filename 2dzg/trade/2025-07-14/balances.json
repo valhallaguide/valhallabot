@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 230,
-    "nonSellersCount": 222,
+    "totalUsers": 229,
+    "nonSellersCount": 221,
     "sellersCount": 8,
-    "totalBalance": 1375455026601894700
+    "totalBalance": 1376028670298110500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -254,6 +254,10 @@
       "balance": 6044860718951457,
       "username": "Omandem"
     },
+    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
+      "balance": 5787647734712640,
+      "username": "益生元"
+    },
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
@@ -309,10 +313,6 @@
     "llv4u-e2uvd-mx5uo-7govs-iamcg-dmbyd-65gkp-wb5pn-bm4g3-w43ym-hae": {
       "balance": 4225794615381548,
       "username": "九紫离火🔥100BTC"
-    },
-    "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
-      "balance": 4094290576041904,
-      "username": "益生元"
     },
     "ddtzi-ke4qm-bm773-hnbsy-2amir-4xfgy-fr7od-47owo-mpw32-fsf43-iae": {
       "balance": 3948653908640945,
@@ -469,10 +469,6 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
-    },
-    "brd7t-hdxjk-rzkpb-xhupz-2mopg-dn2ls-3pmxi-57b5x-36fse-mkn74-sae": {
-      "balance": 1119713462454720,
-      "username": "好运连连，"
     },
     "g66pe-5mux2-bkhms-r2rkp-mtcen-j7js2-4jscg-5unbn-mhaeg-dxt5u-kae": {
       "balance": 1105874050992209,
