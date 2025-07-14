@@ -1,5 +1,5 @@
 {
-  "count": 180,
+  "count": 181,
   "data": [
     {
       "id": "58688931",
@@ -2697,6 +2697,21 @@
       "price": 2987,
       "bonded": true,
       "user_username": "益生元",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58754544",
+      "user": "chlty-y566l-xgsfa-h2xym-fwkfy-vcbgc-7gzfe-e67us-bkdto-s6fvd-kqe",
+      "token": "2dzg",
+      "time": "2025-07-14T08:58:29.000Z",
+      "buy": true,
+      "amount_btc": 109425484,
+      "amount_token": 3623492066373486,
+      "price": 3020,
+      "bonded": true,
+      "user_username": "chlty-y566l",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
