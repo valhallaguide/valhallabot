@@ -588,13 +588,6 @@
     "user_image": null
   },
   {
-    "user": "chlty-y566l-xgsfa-h2xym-fwkfy-vcbgc-7gzfe-e67us-bkdto-s6fvd-kqe",
-    "token": "2dzg",
-    "balance": 3600000000000000,
-    "user_username": "chlty-y566l",
-    "user_image": null
-  },
-  {
     "user": "r7lsc-psd6k-2u35i-7qnwz-bf4re-iafbq-ue7az-broqv-slp5b-5wbhn-gqe",
     "token": "2dzg",
     "balance": 3535328870294709,
@@ -641,13 +634,6 @@
     "token": "2dzg",
     "balance": 2745597245496972,
     "user_username": "yg3ir-iutzw",
-    "user_image": null
-  },
-  {
-    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
-    "token": "2dzg",
-    "balance": 2710252686917369,
-    "user_username": "Activity",
     "user_image": null
   },
   {
@@ -795,6 +781,13 @@
     "token": "2dzg",
     "balance": 1369561192396558,
     "user_username": "直通车",
+    "user_image": null
+  },
+  {
+    "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+    "token": "2dzg",
+    "balance": 1355126343458685,
+    "user_username": "Activity",
     "user_image": null
   },
   {
