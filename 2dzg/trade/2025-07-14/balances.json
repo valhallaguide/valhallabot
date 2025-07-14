@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 223,
-    "nonSellersCount": 214,
+    "totalUsers": 222,
+    "nonSellersCount": 213,
     "sellersCount": 9,
-    "totalBalance": 1342941457353394400
+    "totalBalance": 1316872231119911700
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -61,10 +61,6 @@
     "cqx3a-wqcdq-bzgx6-25vxm-wctqf-vsurf-k3oh5-dauyp-3gc4i-53r6w-wae": {
       "balance": 29201097061116196,
       "username": "MR _DOGINAL XXXX"
-    },
-    "uh7ww-erxut-geu2o-fdd2c-mwq2t-6firc-4qa6b-covuw-3bqsp-e2w34-3ae": {
-      "balance": 26413289015149744,
-      "username": "Xiao Sung"
     },
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
@@ -474,6 +470,10 @@
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
     },
+    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
+      "balance": 947296046794288,
+      "username": "大波浪"
+    },
     "ptgx3-7qoqa-gytny-nar3w-a6wk4-35xpa-bsdbi-7mnjn-t7eir-xmq67-gae": {
       "balance": 788983440753631,
       "username": "ptgx3-7qoqa"
@@ -505,10 +505,6 @@
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
       "username": "Bitcoin Ecosystem Great Again"
-    },
-    "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae": {
-      "balance": 603233265127176,
-      "username": "大波浪"
     },
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
