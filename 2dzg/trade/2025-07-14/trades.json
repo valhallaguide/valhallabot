@@ -1,5 +1,5 @@
 {
-  "count": 170,
+  "count": 174,
   "data": [
     {
       "id": "58688931",
@@ -2547,6 +2547,66 @@
       "price": 3216,
       "bonded": true,
       "user_username": "天涯心",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58751667",
+      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
+      "token": "2dzg",
+      "time": "2025-07-14T08:29:40.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 344062781667112,
+      "price": 2893,
+      "bonded": true,
+      "user_username": "大波浪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58751584",
+      "user": "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe",
+      "token": "2dzg",
+      "time": "2025-07-14T08:29:21.000Z",
+      "buy": true,
+      "amount_btc": 100000000,
+      "amount_token": 3459266702076454,
+      "price": 2890,
+      "bonded": true,
+      "user_username": "D先生",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58751393",
+      "user": "uh7ww-erxut-geu2o-fdd2c-mwq2t-6firc-4qa6b-covuw-3bqsp-e2w34-3ae",
+      "token": "2dzg",
+      "time": "2025-07-14T08:28:30.000Z",
+      "buy": false,
+      "amount_btc": 781340005,
+      "amount_token": 26413289015149744,
+      "price": 2862,
+      "bonded": true,
+      "user_username": "Xiao Sung",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58750845",
+      "user": "xyoy2-nbpi3-zaix4-i5pae-kprtq-brl6i-x252g-mgofj-5gfmy-gsogk-zae",
+      "token": "2dzg",
+      "time": "2025-07-14T08:25:19.000Z",
+      "buy": false,
+      "amount_btc": 430520296,
+      "amount_token": 13728948741410262,
+      "price": 3088,
+      "bonded": true,
+      "user_username": "xyoy2-nbpi3",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
