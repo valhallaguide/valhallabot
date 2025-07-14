@@ -3,7 +3,7 @@
     "totalUsers": 229,
     "nonSellersCount": 221,
     "sellersCount": 8,
-    "totalBalance": 1374682475897581000
+    "totalBalance": 1373814733735547400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -426,10 +426,6 @@
       "balance": 1496777059560702,
       "username": "Bob.life"
     },
-    "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
-      "balance": 1489238863428463,
-      "username": "uhned-xb6pp"
-    },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 1476445437998307,
       "username": "aimed"
@@ -529,6 +525,10 @@
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
       "username": "qiegao"
+    },
+    "uhned-xb6pp-tcksz-wafxx-sfnca-77ryf-ovkox-xpupy-zb7jk-tohrz-4qe": {
+      "balance": 621496701394591,
+      "username": "uhned-xb6pp"
     },
     "bqxnx-vguwk-xbkmp-xre5z-i4xmu-la6ob-znogp-nq47p-d7ifm-66zmd-vqe": {
       "balance": 615395972687099,
