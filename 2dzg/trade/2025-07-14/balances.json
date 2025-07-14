@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 223,
-    "nonSellersCount": 214,
+    "totalUsers": 222,
+    "nonSellersCount": 213,
     "sellersCount": 9,
-    "totalBalance": 1327904048915696400
+    "totalBalance": 1307319402220360000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -30,10 +30,6 @@
       "balance": 42233368118771304,
       "username": "peezy"
     },
-    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
-      "balance": 39880334998902870,
-      "username": "x3snx-wrugd"
-    },
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 36311637653632630,
       "username": "VALHALLA共识Q群784386301"
@@ -53,6 +49,10 @@
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 31397000416225776,
       "username": "74ecf-lae"
+    },
+    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
+      "balance": 29738868942255150,
+      "username": "x3snx-wrugd"
     },
     "sux5y-6wfx5-lm4ri-antma-wfi5t-r3yjy-oi6qv-a6fuf-clfog-cz2q5-eae": {
       "balance": 29543771459455230,
@@ -157,10 +157,6 @@
     "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae": {
       "balance": 10790192492268310,
       "username": "ICBin ∞"
-    },
-    "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae": {
-      "balance": 10443180638688468,
-      "username": "35b35-p4w26"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
