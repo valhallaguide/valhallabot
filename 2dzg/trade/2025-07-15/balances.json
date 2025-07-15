@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 220,
-    "nonSellersCount": 210,
-    "sellersCount": 10,
-    "totalBalance": 1320802772526448000
+    "nonSellersCount": 211,
+    "sellersCount": 9,
+    "totalBalance": 1335877975939723300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -146,6 +146,10 @@
       "balance": 11574254155625280,
       "username": "562fk-7eqo3"
     },
+    "ufz42-4vms7-b4qcx-wrft5-5tgfw-db4ec-oyl6e-venhz-ihyuj-mvebg-hae": {
+      "balance": 11445377495069052,
+      "username": "wangbaoze"
+    },
     "nv37b-7ukb3-crr5p-2x5cg-jm6ex-ryodq-ou7dy-5c23b-uy6m4-wx7rx-6qe": {
       "balance": 11193019074586370,
       "username": "wawa-xy13h"
@@ -257,6 +261,10 @@
     "ki42y-mnqc3-zehsq-ov4yk-pychb-p63t3-c3e3s-x77fq-fbslx-nelho-uae": {
       "balance": 5672992948105693,
       "username": "biainihigh"
+    },
+    "wnttj-hh7fs-jxuqe-55njo-x2mys-ptifq-m3633-2jggr-fruv3-6cp4u-yae": {
+      "balance": 5661507170655479,
+      "username": "zimuzu"
     },
     "x3ijv-4e6pe-x5juj-kaxt2-i7z6p-gkqfz-a2bnd-5e2ky-3v3ns-eo5js-3qe": {
       "balance": 5467065563143949,
@@ -382,10 +390,6 @@
       "balance": 1672100000000000,
       "username": "ljhgccfgjj"
     },
-    "apjgi-dkrbv-yewrs-l733j-b5jmt-5hcl5-6fmzy-cprvg-6tank-enoqj-cae": {
-      "balance": 1667089312546312,
-      "username": "Yyc52-bflc7"
-    },
     "kptfp-arlza-akans-6nihy-iwuud-4mlss-ewyqe-6dfg7-lcbmb-xbril-3qe": {
       "balance": 1590843649499453,
       "username": "kptfp-arlza"
@@ -446,10 +450,6 @@
       "balance": 1073654962182172,
       "username": "jvdd5-of3by"
     },
-    "wnttj-hh7fs-jxuqe-55njo-x2mys-ptifq-m3633-2jggr-fruv3-6cp4u-yae": {
-      "balance": 1005289911016572,
-      "username": "zimuzu"
-    },
     "ffhjy-oa5qz-3l7hl-357fn-4tmuj-kt5bw-rclzu-ihj53-anybb-ctj46-qqe": {
       "balance": 973236420381389,
       "username": "YYJ万人团队"
@@ -489,6 +489,10 @@
     "gphpq-pmych-xbnm4-yc3yz-k5ib7-lqqon-e4rmf-5lxiw-cmjoa-vsdcz-tqe": {
       "balance": 700819132557692,
       "username": "gphpq-pmych"
+    },
+    "bnwaj-ga3eo-n767n-xk6yw-rsc2o-ezfyz-xejwx-ept2a-t7mnh-lien7-pqe": {
+      "balance": 640697971113390,
+      "username": "奥丁特罗夫斯基"
     },
     "4ivvu-3te66-wg7d5-udjo2-tzr7f-fip6c-qbj2z-5x2ac-zxup4-sb3ne-mqe": {
       "balance": 630583363198936,
