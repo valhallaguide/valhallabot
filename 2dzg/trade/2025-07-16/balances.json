@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 215,
-    "nonSellersCount": 215,
-    "sellersCount": 0,
-    "totalBalance": 1382166516918008300
+    "nonSellersCount": 210,
+    "sellersCount": 5,
+    "totalBalance": 1337215916646442800
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -25,10 +25,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43473595655189496,
       "username": "valhalla.guide"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 40110434910187976,
-      "username": "peezy"
     },
     "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
       "balance": 39880334998902870,
@@ -346,10 +342,6 @@
       "balance": 3193501771135201,
       "username": "BOBOB"
     },
-    "t6sht-4guae-r6mwy-dqnb4-jmaxo-m3sik-qnmp2-dhlec-h535i-iypiw-7qe": {
-      "balance": 3000523919817655,
-      "username": "t6sht-4guae"
-    },
     "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
       "balance": 2933850679419034,
       "username": "KKO"
@@ -397,10 +389,6 @@
     "fgjj7-pz26e-vm6lf-suztr-ef74q-3632m-fc45i-jodfn-sro3v-xwi6k-bqe": {
       "balance": 1937829440108165,
       "username": "KC"
-    },
-    "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe": {
-      "balance": 1699641441559901,
-      "username": "Odin's"
     },
     "pnp5s-kf5d2-4v54z-7gfym-sz52q-5rljo-one6w-isqk7-ohdrz-7krxo-mqe": {
       "balance": 1672100000000000,
@@ -665,14 +653,6 @@
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
       "username": "hsjzgdfff1413777"
-    },
-    "z5iqh-jgt2z-yzqo3-w7zfw-2grpc-rkets-yemmi-3t7fl-2nlhp-amqzx-3qe": {
-      "balance": 70000000000000,
-      "username": "z5iqh-jgt2z"
-    },
-    "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe": {
-      "balance": 70000000000000,
-      "username": "BOBO The Best Builder"
     },
     "sdgxm-5dris-d2ly5-wxm2b-34liq-r2knr-b2ovf-6lrmi-fwy2r-zychm-qqe": {
       "balance": 66381390335884,
