@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 213,
-    "nonSellersCount": 204,
-    "sellersCount": 9,
-    "totalBalance": 1254908744847270100
+    "nonSellersCount": 205,
+    "sellersCount": 8,
+    "totalBalance": 1274000454894485500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -73,6 +73,10 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
+    },
+    "tzsvy-wkfdv-pxmi4-szlue-xkc3s-5oe67-sdpco-o6pn5-5amlj-h2fsw-fae": {
+      "balance": 19091710047215580,
+      "username": "奥丁新手"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
