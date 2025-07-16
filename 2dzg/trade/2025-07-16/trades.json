@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 60,
   "data": [
     {
       "id": "58966537",
@@ -868,6 +868,36 @@
       "bonded": true,
       "user_username": "avofv-w34hm",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58996160",
+      "user": "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe",
+      "token": "2dzg",
+      "time": "2025-07-16T03:49:17.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 392471310135684,
+      "price": 2536,
+      "bonded": true,
+      "user_username": "sgxydr",
+      "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "58995850",
+      "user": "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe",
+      "token": "2dzg",
+      "time": "2025-07-16T03:46:35.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1968530593442920,
+      "price": 2533,
+      "bonded": true,
+      "user_username": "如来神鞭",
+      "user_image": "b6594746-f301-4295-8e9d-597348d29d1a.png",
       "decimals": 3,
       "divisibility": 8
     }
