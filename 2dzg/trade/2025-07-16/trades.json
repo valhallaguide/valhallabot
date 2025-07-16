@@ -1,5 +1,5 @@
 {
-  "count": 88,
+  "count": 91,
   "data": [
     {
       "id": "58966537",
@@ -1318,6 +1318,51 @@
       "bonded": true,
       "user_username": "t6sht-4guae",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59034549",
+      "user": "tc6ze-jaswd-sjag3-lgjbb-dlx2e-rml4e-lh4is-rktup-migoq-k4e3a-tqe",
+      "token": "2dzg",
+      "time": "2025-07-16T10:22:46.000Z",
+      "buy": false,
+      "amount_btc": 333428326,
+      "amount_token": 12567981625096014,
+      "price": 2621,
+      "bonded": true,
+      "user_username": "Xfgekavkbrkn",
+      "user_image": "b4fa61b8-768a-4685-a45f-830c70795b26.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59034440",
+      "user": "3veia-wz2rm-g4hsd-jtdtv-yltmt-442xm-4ep66-ptqyk-jzfik-23eg3-2qe",
+      "token": "2dzg",
+      "time": "2025-07-16T10:21:38.000Z",
+      "buy": false,
+      "amount_btc": 187497015,
+      "amount_token": 6881738887310853,
+      "price": 2712,
+      "bonded": true,
+      "user_username": "如来神鞭",
+      "user_image": "b6594746-f301-4295-8e9d-597348d29d1a.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59034359",
+      "user": "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae",
+      "token": "2dzg",
+      "time": "2025-07-16T10:20:44.000Z",
+      "buy": false,
+      "amount_btc": 115056564,
+      "amount_token": 4158895974674865,
+      "price": 2764,
+      "bonded": true,
+      "user_username": "RUNESLEO.blife",
+      "user_image": "6d757d91-8a42-45cc-94d3-7f2a1631cca0.gif",
       "decimals": 3,
       "divisibility": 8
     }
