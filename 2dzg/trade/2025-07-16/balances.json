@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 213,
-    "nonSellersCount": 206,
-    "sellersCount": 7,
-    "totalBalance": 1296789706143479600
+    "totalUsers": 211,
+    "nonSellersCount": 203,
+    "sellersCount": 8,
+    "totalBalance": 1246737195016279300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -25,10 +25,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43473595655189496,
       "username": "valhalla.guide"
-    },
-    "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe": {
-      "balance": 39880334998902870,
-      "username": "x3snx-wrugd"
     },
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 36311637653632630,
@@ -157,10 +153,6 @@
     "vcccd-5wvai-mhkyo-od2cw-5mvuz-theyf-zl6g2-jrx3n-lvnez-3hltw-qqe": {
       "balance": 10777448931608582,
       "username": "vcccd-5wvai"
-    },
-    "35b35-p4w26-guk35-gxnhg-ljee6-s26qm-4jst4-nujks-dxnuu-cczjp-rae": {
-      "balance": 10443180638688468,
-      "username": "35b35-p4w26"
     },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
@@ -502,6 +494,10 @@
       "balance": 551163968799962,
       "username": "WIZARDS."
     },
+    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
+      "balance": 532636956421642,
+      "username": "avofv-w34hm"
+    },
     "jeeun-h6nmo-nkim6-oxa5d-n3e4x-gmzk3-oghpc-ux3pw-4oma4-wwgnj-iae": {
       "balance": 514775017491147,
       "username": "jeeun-h6nmo"
@@ -594,10 +590,6 @@
       "balance": 184838067802871,
       "username": "gundam"
     },
-    "avofv-w34hm-jxdr5-bedr7-pwyqc-e4w5p-gbirp-non7s-mmd7k-uk4u3-kae": {
-      "balance": 166479722407372,
-      "username": "avofv-w34hm"
-    },
     "btoh2-bt4zi-cr6pp-lhldo-nudpq-nkfsi-3ylmn-gscyt-uflrv-rrsng-4qe": {
       "balance": 158862494740141,
       "username": "DuckBro"
@@ -621,10 +613,6 @@
     "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
       "balance": 110892473872586,
       "username": "齐天大圣"
-    },
-    "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe": {
-      "balance": 95152723623099,
-      "username": "mei6g-cngyr"
     },
     "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe": {
       "balance": 94576959290914,
