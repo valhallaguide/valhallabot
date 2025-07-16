@@ -1,5 +1,5 @@
 {
-  "count": 105,
+  "count": 106,
   "data": [
     {
       "id": "58966537",
@@ -1573,6 +1573,21 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59076992",
+      "user": "oalab-uhjs4-zt75y-ul5mp-i3jvv-mpqmf-omsrk-zz6gh-meii2-wckqd-uae",
+      "token": "2dzg",
+      "time": "2025-07-16T19:10:06.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 11430207647232860,
+      "price": 2652,
+      "bonded": true,
+      "user_username": "乱世巨星",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
