@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 75,
   "data": [
     {
       "id": "58966537",
@@ -1077,6 +1077,51 @@
       "price": 2520,
       "bonded": true,
       "user_username": "Elon_mAsk",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59017833",
+      "user": "6rhmo-v2uhk-jvy7n-d2uqa-p5z2s-tw2zn-iaqke-t5zee-m6wcp-l35yx-cqe",
+      "token": "2dzg",
+      "time": "2025-07-16T07:08:56.000Z",
+      "buy": false,
+      "amount_btc": 148507121,
+      "amount_token": 5490083421157245,
+      "price": 2698,
+      "bonded": true,
+      "user_username": "6rhmo...cqe",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59017740",
+      "user": "6rhmo-v2uhk-jvy7n-d2uqa-p5z2s-tw2zn-iaqke-t5zee-m6wcp-l35yx-cqe",
+      "token": "2dzg",
+      "time": "2025-07-16T07:07:49.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5490083421157245,
+      "price": 2739,
+      "bonded": true,
+      "user_username": "6rhmo...cqe",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59017585",
+      "user": "nu3o4-otoaw-nedhr-o3gxs-ldurh-nggum-vdrso-6ofoi-3koa7-ohjgv-gqe",
+      "token": "2dzg",
+      "time": "2025-07-16T07:06:04.000Z",
+      "buy": true,
+      "amount_btc": 660000000,
+      "amount_token": 25182217274059764,
+      "price": 2697,
+      "bonded": true,
+      "user_username": "nu3o4-otoaw",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
