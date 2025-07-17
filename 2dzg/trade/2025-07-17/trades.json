@@ -1,5 +1,5 @@
 {
-  "count": 86,
+  "count": 88,
   "data": [
     {
       "id": "59086852",
@@ -1287,6 +1287,36 @@
       "price": 2637,
       "bonded": true,
       "user_username": "乱世巨星",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59109152",
+      "user": "ojstn-ap77j-exdj6-ev4bz-vh4bp-t35sg-ynl6k-zpxcr-wblxp-2ib2c-7ae",
+      "token": "2dzg",
+      "time": "2025-07-17T04:18:35.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 381375238094514,
+      "price": 2610,
+      "bonded": true,
+      "user_username": "大波浪",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59109068",
+      "user": "ntxic-niq5h-lb2oz-u7dob-jlds4-6pqbt-fzzfm-o2wze-s4cny-feknn-lqe",
+      "token": "2dzg",
+      "time": "2025-07-17T04:18:05.000Z",
+      "buy": false,
+      "amount_btc": 109751423,
+      "amount_token": 4206047268083927,
+      "price": 2607,
+      "bonded": true,
+      "user_username": "Xunliajqune",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
