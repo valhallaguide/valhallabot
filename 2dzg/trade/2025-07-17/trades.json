@@ -1,5 +1,5 @@
 {
-  "count": 105,
+  "count": 104,
   "data": [
     {
       "id": "59086852",
@@ -1558,21 +1558,6 @@
       "bonded": true,
       "user_username": "Eⅰncs-fginrv",
       "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "59132020",
-      "user": "mwhrm-2ky3u-iclin-uqt6q-rifue-claxq-4cu43-r5y63-5e6no-ectrt-xqe",
-      "token": "2dzg",
-      "time": "2025-07-17T07:58:26.000Z",
-      "buy": true,
-      "amount_btc": 16334254,
-      "amount_token": 561211866229815,
-      "price": 2898,
-      "bonded": true,
-      "user_username": "盘古社区_Jack",
-      "user_image": "d62585c6-107d-4918-beaa-e60a78f5389b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
