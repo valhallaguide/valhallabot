@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 92,
   "data": [
     {
       "id": "59086852",
@@ -1333,6 +1333,51 @@
       "bonded": true,
       "user_username": "Xunliajqune",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59112168",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-07-17T04:44:53.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5394769668617813,
+      "price": 2787,
+      "bonded": true,
+      "user_username": "utschhx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59112156",
+      "user": "bnwaj-ga3eo-n767n-xk6yw-rsc2o-ezfyz-xejwx-ept2a-t7mnh-lien7-pqe",
+      "token": "2dzg",
+      "time": "2025-07-17T04:44:45.000Z",
+      "buy": true,
+      "amount_btc": 34309955,
+      "amount_token": 1245381284342598,
+      "price": 2745,
+      "bonded": true,
+      "user_username": "DXWZfacai",
+      "user_image": "2211a41d-6665-4ff4-ade8-eba21da5ff25.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59111986",
+      "user": "bnwaj-ga3eo-n767n-xk6yw-rsc2o-ezfyz-xejwx-ept2a-t7mnh-lien7-pqe",
+      "token": "2dzg",
+      "time": "2025-07-17T04:42:58.000Z",
+      "buy": true,
+      "amount_btc": 500725365,
+      "amount_token": 18677319672331600,
+      "price": 2736,
+      "bonded": true,
+      "user_username": "DXWZfacai",
+      "user_image": "2211a41d-6665-4ff4-ade8-eba21da5ff25.jpg",
       "decimals": 3,
       "divisibility": 8
     }
