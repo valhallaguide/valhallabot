@@ -1,5 +1,5 @@
 {
-  "count": 80,
+  "count": 81,
   "data": [
     {
       "id": "59217241",
@@ -1195,6 +1195,21 @@
       "amount_btc": 150000000,
       "amount_token": 6049881870728408,
       "price": 2486,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59306049",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:55:45.000Z",
+      "buy": false,
+      "amount_btc": 227711886,
+      "amount_token": 9237505221699696,
+      "price": 2447,
       "bonded": true,
       "user_username": "Labubua",
       "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
