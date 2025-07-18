@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 202,
-    "nonSellersCount": 202,
-    "sellersCount": 0,
-    "totalBalance": 1340901899695966200
+    "nonSellersCount": 197,
+    "sellersCount": 5,
+    "totalBalance": 1261997683070315500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -13,10 +13,6 @@
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
       "username": "To the moon."
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 45019907020829060,
-      "username": "peezy"
     },
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43473595655189496,
@@ -77,10 +73,6 @@
     "g6xf7-i6nex-6ywzk-eqzdh-pbfdg-kafwb-4nvxt-rs6ce-ttrmi-skanl-kqe": {
       "balance": 21532285492506610,
       "username": "MaxiMax"
-    },
-    "ee7co-zsckv-ouwv7-nk644-byqis-vjxoe-r3i6n-pmijk-2ghgk-v3on6-mae": {
-      "balance": 21379659541848810,
-      "username": "Ddbyf2vbhk"
     },
     "ihrbi-diuht-xf3q3-nhorb-uisc4-q3jwr-4zcza-5pvra-kbfae-zluj4-5qe": {
       "balance": 21202007395901710,
@@ -185,10 +177,6 @@
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 9391148320309790,
       "username": "kbb43-ai2fj"
-    },
-    "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
-      "balance": 9143649700645184,
-      "username": "ddbea-3vrre"
     },
     "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe": {
       "balance": 9092606689457678,
@@ -346,10 +334,6 @@
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
     },
-    "ltqz5-wzehw-i3pre-e3bdn-i6ezp-za242-3dhtf-pc7ff-brbpm-xklbr-sqe": {
-      "balance": 2253666283828808,
-      "username": "sgxydr"
-    },
     "2c62g-644tt-vmaf5-25hj5-uczex-ywvwf-uol6l-5g2oq-7db76-cuesm-wae": {
       "balance": 2214510348417087,
       "username": "OHY-644tt"
@@ -429,10 +413,6 @@
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
       "username": "BlackCatTeam💎"
-    },
-    "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
-      "balance": 1107334078498731,
-      "username": "aimed"
     },
     "jvdd5-of3by-afxzt-gkhmr-2xhcq-pntxr-7r7fd-hkjmw-dy2nw-wfyfh-fae": {
       "balance": 1073654962182172,
