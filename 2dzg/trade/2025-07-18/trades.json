@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 80,
   "data": [
     {
       "id": "59217241",
@@ -1123,6 +1123,81 @@
       "bonded": true,
       "user_username": "AI万倍线上推广",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305880",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:53:21.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 396987440235778,
+      "price": 2507,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305867",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:53:10.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 397404602582174,
+      "price": 2505,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305851",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:53:04.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 397822423148664,
+      "price": 2502,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305833",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:52:54.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1995408885004673,
+      "price": 2499,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305791",
+      "user": "kpbxm-tl6xq-z77nt-h4uzo-hidrg-awbdk-h5zjc-n3zvs-lb4oj-o4akd-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:52:38.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 6049881870728408,
+      "price": 2486,
+      "bonded": true,
+      "user_username": "Labubua",
+      "user_image": "287b7451-7561-449e-ac76-0a2703560fcc.jpg",
       "decimals": 3,
       "divisibility": 8
     }
