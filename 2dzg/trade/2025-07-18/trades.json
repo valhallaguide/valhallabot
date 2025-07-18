@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "data": [
     {
       "id": "59217241",
@@ -1108,6 +1108,21 @@
       "bonded": true,
       "user_username": "sgxydr",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59305019",
+      "user": "nu3o4-otoaw-nedhr-o3gxs-ldurh-nggum-vdrso-6ofoi-3koa7-ohjgv-gqe",
+      "token": "2dzg",
+      "time": "2025-07-18T15:43:30.000Z",
+      "buy": true,
+      "amount_btc": 40306181,
+      "amount_token": 1642108270578340,
+      "price": 2447,
+      "bonded": true,
+      "user_username": "AI万倍线上推广",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
