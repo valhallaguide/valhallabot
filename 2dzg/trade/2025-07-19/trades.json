@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 51,
   "data": [
     {
       "id": "59331937",
@@ -733,6 +733,36 @@
       "bonded": true,
       "user_username": "BTCswd",
       "user_image": "48921548-7165-4346-a3f2-4a09f5042ac5.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59381264",
+      "user": "4parh-vqrro-frfqo-ppsql-bkgo7-x2zo4-lltag-2fz54-eiida-btsga-sqe",
+      "token": "2dzg",
+      "time": "2025-07-19T13:06:30.000Z",
+      "buy": true,
+      "amount_btc": 47085000,
+      "amount_token": 2003640488277267,
+      "price": 2344,
+      "bonded": true,
+      "user_username": "4parh-vqrro",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59381233",
+      "user": "nu3o4-otoaw-nedhr-o3gxs-ldurh-nggum-vdrso-6ofoi-3koa7-ohjgv-gqe",
+      "token": "2dzg",
+      "time": "2025-07-19T13:06:12.000Z",
+      "buy": false,
+      "amount_btc": 114669898,
+      "amount_token": 4910527067644585,
+      "price": 2332,
+      "bonded": true,
+      "user_username": "WWE",
+      "user_image": "fe5b456f-832a-4ee9-8f58-b427bc357b7e.jpg",
       "decimals": 3,
       "divisibility": 8
     }
