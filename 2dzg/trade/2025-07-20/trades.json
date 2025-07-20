@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 40,
   "data": [
     {
       "id": "59412695",
@@ -567,6 +567,36 @@
       "price": 2086,
       "bonded": true,
       "user_username": "梭哈致富",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59468576",
+      "user": "k4mqg-xra54-7qn37-4ofqe-nuw7j-pbxcf-yn2b3-vpkj5-t6dtn-eg63w-xqe",
+      "token": "2dzg",
+      "time": "2025-07-20T12:03:44.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1417478667932363,
+      "price": 2109,
+      "bonded": true,
+      "user_username": "k4mqg-xra54",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59468552",
+      "user": "d5ynk-ngy6j-24m2d-cezex-gf7ke-vqdle-iezv3-t7jsj-5lzwv-puicj-dqe",
+      "token": "2dzg",
+      "time": "2025-07-20T12:03:24.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 473631875990376,
+      "price": 2102,
+      "bonded": true,
+      "user_username": "d5ynk-ngy6j",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
