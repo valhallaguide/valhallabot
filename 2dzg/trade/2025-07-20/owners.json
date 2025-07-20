@@ -35,13 +35,6 @@
     "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
   },
   {
-    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
-    "token": "2dzg",
-    "balance": 38669800421654700,
-    "user_username": "梭哈致富",
-    "user_image": null
-  },
-  {
     "user": "gsnd4-fabxv-vawel-3fna4-exr4o-o4fih-pyolx-khflg-ynckf-z5rjt-qae",
     "token": "2dzg",
     "balance": 37768066326444250,
@@ -1111,6 +1104,13 @@
     "balance": 12528088512181,
     "user_username": "BC-OG Bitcoin logo",
     "user_image": "2f691694-a99c-4c11-9242-21505b2b9a29.jpg"
+  },
+  {
+    "user": "hmqxw-kvazh-4yoi5-od5yf-hzyju-tekdr-nz24y-rnoud-gc5v2-aaav5-xqe",
+    "token": "2dzg",
+    "balance": 8518882612037,
+    "user_username": "梭哈致富",
+    "user_image": null
   },
   {
     "user": "gudmu-h7aur-57wjp-3tlic-l2drh-pqwkw-hcxsp-66cny-kjehz-p73dh-eae",
