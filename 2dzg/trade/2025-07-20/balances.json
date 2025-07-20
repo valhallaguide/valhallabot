@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 203,
-    "nonSellersCount": 203,
-    "sellersCount": 0,
-    "totalBalance": 1309434546563968300
+    "nonSellersCount": 201,
+    "sellersCount": 2,
+    "totalBalance": 1265501340814819600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -21,10 +21,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 42000000000000000,
       "username": "RUNESLEO.blife"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 40000000000000000,
-      "username": "peezy"
     },
     "gsnd4-fabxv-vawel-3fna4-exr4o-o4fih-pyolx-khflg-ynckf-z5rjt-qae": {
       "balance": 37768066326444250,
@@ -289,10 +285,6 @@
     "llv4u-e2uvd-mx5uo-7govs-iamcg-dmbyd-65gkp-wb5pn-bm4g3-w43ym-hae": {
       "balance": 4225794615381548,
       "username": "⚡️100BTC"
-    },
-    "mbz53-ahzx2-azlxz-qlyc4-ujut2-zyqt2-gm3mx-vnylp-3u4w5-bk275-iae": {
-      "balance": 3933205749148898,
-      "username": "TTmbz53-TTahzx2"
     },
     "awpiv-h7gqh-gs2kz-vcbaj-34oxk-6q7kl-nyfwx-q7ctd-nrnaj-3gyjz-mae": {
       "balance": 3839071565986258,
