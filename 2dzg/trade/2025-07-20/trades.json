@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "data": [
     {
       "id": "59412695",
@@ -508,6 +508,21 @@
       "bonded": true,
       "user_username": "Yyc52-bflc7",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59440066",
+      "user": "xcj4b-alxct-d73lc-qa6pv-5n6fd-hlnnw-q4q4p-yq5ax-pcl7g-od7st-tqe",
+      "token": "2dzg",
+      "time": "2025-07-20T05:15:48.000Z",
+      "buy": false,
+      "amount_btc": 2179465,
+      "amount_token": 94576959290914,
+      "price": 2315,
+      "bonded": true,
+      "user_username": "BLUEKUSH.blife",
+      "user_image": "dedb4c97-31d7-47e8-8361-e9a2a6f45a07.png",
       "decimals": 3,
       "divisibility": 8
     }
