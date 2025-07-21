@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 201,
-    "nonSellersCount": 199,
+    "totalUsers": 200,
+    "nonSellersCount": 198,
     "sellersCount": 2,
-    "totalBalance": 1250589342330820000
+    "totalBalance": 1243543320901700400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -88,7 +88,7 @@
     },
     "wy33k-7twtq-32yxl-eup6f-jrkvj-eaomm-kpvkb-k76ge-tkzjv-iyooj-sqe": {
       "balance": 20195581709643936,
-      "username": "WETH榜一是狗逼，散户共识群1053887144"
+      "username": "共识群1053887144"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
@@ -221,10 +221,6 @@
     "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe": {
       "balance": 7174405690706108,
       "username": "love.ll"
-    },
-    "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae": {
-      "balance": 7046021429119446,
-      "username": "fybjdbx"
     },
     "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae": {
       "balance": 6542062194140206,
