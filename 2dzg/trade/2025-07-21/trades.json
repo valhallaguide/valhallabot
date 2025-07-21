@@ -1,5 +1,5 @@
 {
-  "count": 85,
+  "count": 90,
   "data": [
     {
       "id": "59499503",
@@ -1273,6 +1273,81 @@
       "bonded": true,
       "user_username": "盘古社区_Jack",
       "user_image": "d62585c6-107d-4918-beaa-e60a78f5389b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59616828",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-21T17:19:30.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 436677363566719,
+      "price": 2279,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59616822",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-21T17:19:26.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 437183219449426,
+      "price": 2277,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59616813",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-21T17:19:22.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 437689955274126,
+      "price": 2274,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59616793",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-21T17:19:17.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 438197573083409,
+      "price": 2271,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59616767",
+      "user": "bjesk-dktrf-cr6gb-druq6-5mtoa-h3q34-qptvu-gxl7x-ysnf7-ws5ky-pqe",
+      "token": "2dzg",
+      "time": "2025-07-21T17:18:43.000Z",
+      "buy": false,
+      "amount_btc": 207804187,
+      "amount_token": 9092606689457678,
+      "price": 2269,
+      "bonded": true,
+      "user_username": "Xyou",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
