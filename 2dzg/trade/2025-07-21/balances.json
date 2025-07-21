@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 198,
+    "totalUsers": 199,
+    "nonSellersCount": 197,
     "sellersCount": 2,
-    "totalBalance": 1243543320901700400
+    "totalBalance": 1223347739192056300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -85,10 +85,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
-    },
-    "wy33k-7twtq-32yxl-eup6f-jrkvj-eaomm-kpvkb-k76ge-tkzjv-iyooj-sqe": {
-      "balance": 20195581709643936,
-      "username": "共识群1053887144"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
