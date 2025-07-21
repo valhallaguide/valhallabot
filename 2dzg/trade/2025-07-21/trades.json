@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 39,
   "data": [
     {
       "id": "59499503",
@@ -568,6 +568,21 @@
       "bonded": true,
       "user_username": "STACKS.blife",
       "user_image": "936267b7-fd48-44d4-ba21-acd604def98a.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59561623",
+      "user": "lznu6-oecb5-ndmuq-uxplp-isif7-tlv3j-hcyli-43vsj-hettg-ukzcr-gae",
+      "token": "2dzg",
+      "time": "2025-07-21T09:17:26.000Z",
+      "buy": true,
+      "amount_btc": 17392523,
+      "amount_token": 867565000351020,
+      "price": 1996,
+      "bonded": true,
+      "user_username": "砸完亏几千U哦，会算帐不",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
