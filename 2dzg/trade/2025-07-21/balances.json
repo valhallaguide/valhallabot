@@ -1,7 +1,7 @@
 {
   "summary": {
-    "totalUsers": 201,
-    "nonSellersCount": 199,
+    "totalUsers": 200,
+    "nonSellersCount": 198,
     "sellersCount": 2,
     "totalBalance": 1234826193246216400
   },
@@ -797,10 +797,6 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 1,
       "username": "planBCrypto"
-    },
-    "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
-      "balance": 1,
-      "username": "0xSatoshiFan"
     }
   }
 }
