@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 206,
-    "nonSellersCount": 201,
+    "totalUsers": 207,
+    "nonSellersCount": 202,
     "sellersCount": 5,
-    "totalBalance": 1235702900904898800
+    "totalBalance": 1242681083306961200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -142,6 +142,10 @@
       "balance": 10777448931608582,
       "username": "vcccd-5wvai"
     },
+    "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe": {
+      "balance": 10505264469096064,
+      "username": "jduv~xjgs"
+    },
     "t7ikl-oqjix-3o754-gk274-e7syg-6lmis-4ujcu-5we35-x6wpe-bkok7-zae": {
       "balance": 10320343471240672,
       "username": "t7ikl-oqjix"
@@ -254,10 +258,6 @@
       "balance": 5217696403641722,
       "username": "soonbob"
     },
-    "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe": {
-      "balance": 5068405509669742,
-      "username": "jduv~xjgs"
-    },
     "mw4ju-vjyfz-fa6zk-cskk2-73ctl-vxiqg-rjsx2-23mqo-gixs5-3cz7l-vae": {
       "balance": 5000000000000000,
       "username": "很好吃"
@@ -269,6 +269,10 @@
     "hwlf4-ovqnq-yggxt-yioax-wotbo-jtli5-ofxfc-bpoa3-vxd6s-hhmwy-kqe": {
       "balance": 4799257622001221,
       "username": "比特强"
+    },
+    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
+      "balance": 4565792320056099,
+      "username": "hgfc-ndkf"
     },
     "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
       "balance": 4411196309865762,
@@ -285,10 +289,6 @@
     "llv4u-e2uvd-mx5uo-7govs-iamcg-dmbyd-65gkp-wb5pn-bm4g3-w43ym-hae": {
       "balance": 4225794615381548,
       "username": "⚡️100BTC"
-    },
-    "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
-      "balance": 3921649764407870,
-      "username": "hgfc-ndkf"
     },
     "awpiv-h7gqh-gs2kz-vcbaj-34oxk-6q7kl-nyfwx-q7ctd-nrnaj-3gyjz-mae": {
       "balance": 3839071565986258,
@@ -449,6 +449,10 @@
     "7kbya-md3zv-admdg-hrlpk-r6id3-iuzv5-ryg67-lmlqa-uusbj-hredm-4qe": {
       "balance": 967425610868444,
       "username": "7kbya-md3zv"
+    },
+    "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe": {
+      "balance": 897180886987352,
+      "username": "拿住就好了"
     },
     "lznu6-oecb5-ndmuq-uxplp-isif7-tlv3j-hcyli-43vsj-hettg-ukzcr-gae": {
       "balance": 867565000351020,
