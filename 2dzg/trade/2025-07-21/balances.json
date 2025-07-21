@@ -3,7 +3,7 @@
     "totalUsers": 200,
     "nonSellersCount": 198,
     "sellersCount": 2,
-    "totalBalance": 1234826193246216400
+    "totalBalance": 1232449429840189400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -325,10 +325,6 @@
     "senl2-cmcnw-uzqs7-iente-wtuim-mzfvb-mspy5-vehf2-5x36b-mcl5k-gqe": {
       "balance": 2412997867494550,
       "username": "AAAAAbbb"
-    },
-    "r5xsu-gdydc-njtkb-hpv63-3lanj-372an-adww5-bmkul-cxw23-7lv6l-rqe": {
-      "balance": 2376763406026984,
-      "username": "YYC2570"
     },
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
@@ -797,6 +793,10 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 1,
       "username": "planBCrypto"
+    },
+    "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
+      "balance": 1,
+      "username": "0xSatoshiFan"
     }
   }
 }
