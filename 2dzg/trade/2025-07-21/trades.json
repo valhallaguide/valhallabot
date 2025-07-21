@@ -1,5 +1,5 @@
 {
-  "count": 56,
+  "count": 61,
   "data": [
     {
       "id": "59499503",
@@ -838,6 +838,81 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59608672",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:44:58.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 492916816292780,
+      "price": 2019,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59608666",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:44:53.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 493523585359400,
+      "price": 2017,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59608651",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:44:47.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 494131476057351,
+      "price": 2014,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59608636",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:44:42.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 494740491153526,
+      "price": 2012,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59608630",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:44:36.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 495350633423356,
+      "price": 2009,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
