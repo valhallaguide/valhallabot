@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 47,
   "data": [
     {
       "id": "59499503",
@@ -672,6 +672,36 @@
       "price": 2032,
       "bonded": true,
       "user_username": "WETH榜一是狗逼，散户共识群1053887144",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59585136",
+      "user": "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe",
+      "token": "2dzg",
+      "time": "2025-07-21T12:40:11.000Z",
+      "buy": false,
+      "amount_btc": 49501688,
+      "amount_token": 2239753448816052,
+      "price": 2214,
+      "bonded": true,
+      "user_username": "rvzg666",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59584508",
+      "user": "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe",
+      "token": "2dzg",
+      "time": "2025-07-21T12:36:10.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2239753448816052,
+      "price": 2227,
+      "bonded": true,
+      "user_username": "rvzg666",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
