@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 51,
   "data": [
     {
       "id": "59499503",
@@ -748,6 +748,21 @@
       "bonded": true,
       "user_username": "共识群1053887144",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59604477",
+      "user": "bs2fp-v4ktr-cfb3k-tm3vm-itzcv-7nz54-gi7gs-pwq7s-qpnwq-wv77b-vae",
+      "token": "2dzg",
+      "time": "2025-07-21T15:06:44.000Z",
+      "buy": false,
+      "amount_btc": 5760734,
+      "amount_token": 290192492268310,
+      "price": 1994,
+      "bonded": true,
+      "user_username": "ICBin ∞",
+      "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png",
       "decimals": 3,
       "divisibility": 8
     }
