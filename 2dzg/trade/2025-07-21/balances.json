@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 201,
+    "totalUsers": 202,
     "nonSellersCount": 201,
-    "sellersCount": 0,
-    "totalBalance": 1276805465437025000
+    "sellersCount": 1,
+    "totalBalance": 1245597809801018400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -17,10 +17,6 @@
     "ogywv-ujlny-4cpok-xr37f-d4b2j-4yczu-s5ned-fpd3r-2my2g-l475e-vae": {
       "balance": 43473595655189496,
       "username": "valhalla.guide"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 42039564553236940,
-      "username": "peezy"
     },
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 42000000000000000,
@@ -137,6 +133,10 @@
     "nv37b-7ukb3-crr5p-2x5cg-jm6ex-ryodq-ou7dy-5c23b-uy6m4-wx7rx-6qe": {
       "balance": 11193019074586370,
       "username": "WAWA社区·xy13h"
+    },
+    "jo3re-w42rv-jzuu5-5iezh-lfjks-xn4gh-qjf2g-x45eo-nuh2u-27kj7-nae": {
+      "balance": 10831908917229932,
+      "username": "tmn7p...6qe"
     },
     "df7it-ilvu7-s7e65-urh63-rtlfn-2miaf-2aq5o-tm6ch-pkaye-6t3z4-bae": {
       "balance": 10811442120218028,
