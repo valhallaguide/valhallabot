@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 100,
   "data": [
     {
       "id": "59630537",
@@ -1437,6 +1437,66 @@
       "price": 2096,
       "bonded": true,
       "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59722106",
+      "user": "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe",
+      "token": "2dzg",
+      "time": "2025-07-22T12:32:51.000Z",
+      "buy": true,
+      "amount_btc": 80348779,
+      "amount_token": 3700891623919289,
+      "price": 2170,
+      "bonded": true,
+      "user_username": "jduv~xjgs",
+      "user_image": "eb34b611-6367-49d5-af77-f906fc5b1d70.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59721973",
+      "user": "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae",
+      "token": "2dzg",
+      "time": "2025-07-22T12:32:08.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 7004759336968632,
+      "price": 2149,
+      "bonded": true,
+      "user_username": "gudnfuv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59721916",
+      "user": "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe",
+      "token": "2dzg",
+      "time": "2025-07-22T12:31:42.000Z",
+      "buy": true,
+      "amount_btc": 50666771,
+      "amount_token": 2394662863084588,
+      "price": 2111,
+      "bonded": true,
+      "user_username": "jduv~xjgs",
+      "user_image": "eb34b611-6367-49d5-af77-f906fc5b1d70.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "59721758",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-22T12:30:35.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 474357970303393,
+      "price": 2098,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
