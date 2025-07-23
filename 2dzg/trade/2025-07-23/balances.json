@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 205,
-    "nonSellersCount": 202,
+    "totalUsers": 206,
+    "nonSellersCount": 203,
     "sellersCount": 3,
-    "totalBalance": 1246560898506610200
+    "totalBalance": 1246980898506610200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -525,6 +525,10 @@
     "golk4-6d2fr-oafn6-h66d2-jtu3o-ix6o6-qgtio-enzll-t6udd-aoynu-zae": {
       "balance": 420000000000000,
       "username": "golk4-6d2fr"
+    },
+    "2aaa5-g7mxb-iduyg-v3wbq-ggsij-qeyl2-czjan-abonv-7egv3-gj2qp-oqe": {
+      "balance": 420000000000000,
+      "username": "Jenny Firth"
     },
     "jh2pb-wqscg-zp5el-f7xjh-poamj-wt2qz-wr4es-lcdj7-f2nrn-rsf25-yae": {
       "balance": 409459826368826,
