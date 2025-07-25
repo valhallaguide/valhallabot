@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 199,
-    "nonSellersCount": 198,
+    "totalUsers": 201,
+    "nonSellersCount": 200,
     "sellersCount": 1,
-    "totalBalance": 1232195051342278700
+    "totalBalance": 1221831881911008000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -93,10 +93,6 @@
     "7hhcr-oyrzr-lqxp2-glswt-b6czu-di7ss-g373i-unl5e-dkh4w-7b6qk-jae": {
       "balance": 16430458254470496,
       "username": "Zhuu"
-    },
-    "rfgrj-qslrz-5uki6-p5vqc-exinf-ert2r-5c2dp-nqgd6-danth-omsqd-4ae": {
-      "balance": 16268679195211972,
-      "username": "Llllllll"
     },
     "tcoqj-ya2wx-aymju-4kccm-egd67-ephun-dsl6w-rkexx-rancn-bm53c-yae": {
       "balance": 15914104299488502,
@@ -326,6 +322,10 @@
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
     },
+    "ntxic-niq5h-lb2oz-u7dob-jlds4-6pqbt-fzzfm-o2wze-s4cny-feknn-lqe": {
+      "balance": 2708659737530433,
+      "username": "beautiful"
+    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -370,6 +370,10 @@
       "balance": 1937829440108165,
       "username": "KC"
     },
+    "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe": {
+      "balance": 1903594978223593,
+      "username": "BABYODIN铁军- X小赢家"
+    },
     "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe": {
       "balance": 1699641441559901,
       "username": "Odin's"
@@ -405,6 +409,10 @@
     "ii7hs-63hgq-b74u6-qr6k5-loabo-re52u-jt5pf-c2pfp-uaau2-vtlgy-pqe": {
       "balance": 1299866761790557,
       "username": "ii7hs-63hgq"
+    },
+    "ynh4b-rv5ex-667pi-s3jzv-zs3v7-xh36c-4vd24-ppjzg-nb6vt-a23in-vqe": {
+      "balance": 1293255048187779,
+      "username": "planchette"
     },
     "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
       "balance": 1183537949705839,
