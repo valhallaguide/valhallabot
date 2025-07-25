@@ -1,5 +1,5 @@
 {
-  "count": 22,
+  "count": 26,
   "data": [
     {
       "id": "60111965",
@@ -327,6 +327,66 @@
       "price": 1787,
       "bonded": true,
       "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60124952",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-25T01:21:57.000Z",
+      "buy": true,
+      "amount_btc": 5000000,
+      "amount_token": 269895428196590,
+      "price": 1843,
+      "bonded": true,
+      "user_username": "BABYODIN铁军- X小赢家",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60124883",
+      "user": "ntxic-niq5h-lb2oz-u7dob-jlds4-6pqbt-fzzfm-o2wze-s4cny-feknn-lqe",
+      "token": "2dzg",
+      "time": "2025-07-25T01:21:08.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2708659737530433,
+      "price": 1842,
+      "bonded": true,
+      "user_username": "beautiful",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60124877",
+      "user": "uzbnm-k2zuw-wv3x7-amfil-jiffx-yylen-jx3qz-uqwot-a2f55-2ludt-qqe",
+      "token": "2dzg",
+      "time": "2025-07-25T01:21:04.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1633699550027003,
+      "price": 1830,
+      "bonded": true,
+      "user_username": "BABYODIN铁军- X小赢家",
+      "user_image": "d8f45cc0-9324-4194-a9c7-6b3fddd0b9ca.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60124824",
+      "user": "rfgrj-qslrz-5uki6-p5vqc-exinf-ert2r-5c2dp-nqgd6-danth-omsqd-4ae",
+      "token": "2dzg",
+      "time": "2025-07-25T01:20:18.000Z",
+      "buy": false,
+      "amount_btc": 301057199,
+      "amount_token": 16268679195211972,
+      "price": 1823,
+      "bonded": true,
+      "user_username": "Llllllll",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
