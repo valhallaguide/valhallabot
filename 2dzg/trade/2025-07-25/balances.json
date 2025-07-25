@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 199,
-    "nonSellersCount": 199,
-    "sellersCount": 0,
-    "totalBalance": 1208566649643063800
+    "nonSellersCount": 198,
+    "sellersCount": 1,
+    "totalBalance": 1208257612506631400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -533,10 +533,6 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
-    },
-    "nra4z-4itoo-odnhl-jpw4k-4bcvm-5tyf3-55yei-qfod6-4tnu3-erfmf-zqe": {
-      "balance": 309037136432397,
-      "username": "拿住就好了"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
