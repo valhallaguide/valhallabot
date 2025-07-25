@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 36,
   "data": [
     {
       "id": "60111965",
@@ -492,6 +492,51 @@
       "price": 1782,
       "bonded": true,
       "user_username": "love.ll",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60150869",
+      "user": "4fb3s-rg3lj-untra-3e3m4-fd22y-ntkiz-mqz4w-s46nc-psgjg-5fqb5-4ae",
+      "token": "2dzg",
+      "time": "2025-07-25T03:59:35.000Z",
+      "buy": false,
+      "amount_btc": 1788284,
+      "amount_token": 100852316090882,
+      "price": 1781,
+      "bonded": true,
+      "user_username": "After Spring",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60150855",
+      "user": "4fb3s-rg3lj-untra-3e3m4-fd22y-ntkiz-mqz4w-s46nc-psgjg-5fqb5-4ae",
+      "token": "2dzg",
+      "time": "2025-07-25T03:59:28.000Z",
+      "buy": true,
+      "amount_btc": 1000000,
+      "amount_token": 55830693043520,
+      "price": 1782,
+      "bonded": true,
+      "user_username": "After Spring",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60151486",
+      "user": "ntxic-niq5h-lb2oz-u7dob-jlds4-6pqbt-fzzfm-o2wze-s4cny-feknn-lqe",
+      "token": "2dzg",
+      "time": "2025-07-25T04:03:52.000Z",
+      "buy": false,
+      "amount_btc": 47869906,
+      "amount_token": 2708659737530433,
+      "price": 1770,
+      "bonded": true,
+      "user_username": "beautiful",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
