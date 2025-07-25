@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 32,
   "data": [
     {
       "id": "60111965",
@@ -477,21 +477,6 @@
       "price": 1812,
       "bonded": true,
       "user_username": "拿住就好了",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "60143411",
-      "user": "za737-fqvyz-utafh-gb6ab-is2aa-uq3wq-owti2-d26df-wgtrq-iib3n-sqe",
-      "token": "2dzg",
-      "time": "2025-07-25T03:13:28.000Z",
-      "buy": false,
-      "amount_btc": 128303302,
-      "amount_token": 7174405690706108,
-      "price": 1782,
-      "bonded": true,
-      "user_username": "love.ll",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
