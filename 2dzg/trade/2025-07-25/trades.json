@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 30,
   "data": [
     {
       "id": "60111965",
@@ -415,6 +415,36 @@
       "amount_btc": 10000000,
       "amount_token": 549573814472583,
       "price": 1811,
+      "bonded": true,
+      "user_username": "Dbly-uopb",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60128035",
+      "user": "vmjtv-j7f6m-4hy53-e37tf-vpffu-jd3ic-ivxvm-bbk46-fuxkg-mo4mj-zae",
+      "token": "2dzg",
+      "time": "2025-07-25T01:56:31.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 548133134131964,
+      "price": 1816,
+      "bonded": true,
+      "user_username": "BITFI 群328715832",
+      "user_image": "53e955a8-753f-4165-83d0-42516a61baf8.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60128015",
+      "user": "jhfnv-xmun3-5aoa5-7xdry-ak5uo-emtc5-pxqew-4yr7j-hziww-ugm73-bqe",
+      "token": "2dzg",
+      "time": "2025-07-25T01:56:22.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 548852764890961,
+      "price": 1814,
       "bonded": true,
       "user_username": "Dbly-uopb",
       "user_image": null,
