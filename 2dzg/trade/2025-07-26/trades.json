@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 47,
   "data": [
     {
       "id": "60307351",
@@ -703,21 +703,6 @@
       "bonded": true,
       "user_username": "ICP音乐",
       "user_image": "6f81c589-6789-41c4-bedd-6bd9698bda2d.jpg",
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "60462858",
-      "user": "uzpur-rnncu-ndyen-k7tg6-kk4hm-skilz-reds5-5eeul-vskrn-by4ly-7ae",
-      "token": "2dzg",
-      "time": "2025-07-26T16:28:41.000Z",
-      "buy": true,
-      "amount_btc": 117557019,
-      "amount_token": 6336083411194531,
-      "price": 1860,
-      "bonded": true,
-      "user_username": "梁山好汉之一",
-      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
