@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 47,
   "data": [
     {
       "id": "60307351",
@@ -688,6 +688,21 @@
       "bonded": true,
       "user_username": "奥丁马上起飞",
       "user_image": "3c68032b-a73f-40bd-bbcc-4a2ed005f814.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60462482",
+      "user": "vhwz7-5f53p-ws4gs-vlkqz-bgsgp-645ac-ypzfb-zvcoc-lmbxj-vxt6b-gae",
+      "token": "2dzg",
+      "time": "2025-07-26T16:22:40.000Z",
+      "buy": true,
+      "amount_btc": 97441369,
+      "amount_token": 5325113173159870,
+      "price": 1832,
+      "bonded": true,
+      "user_username": "ICP音乐",
+      "user_image": "6f81c589-6789-41c4-bedd-6bd9698bda2d.jpg",
       "decimals": 3,
       "divisibility": 8
     }
