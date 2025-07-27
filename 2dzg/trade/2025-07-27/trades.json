@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 48,
   "data": [
     {
       "id": "60466281",
@@ -672,6 +672,51 @@
       "price": 1913,
       "bonded": true,
       "user_username": "lla4z-fhmm",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528800",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:51:03.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 523316163419697,
+      "price": 1902,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528794",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:50:59.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 523978863344691,
+      "price": 1900,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528778",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:50:51.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 524642823512684,
+      "price": 1897,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
