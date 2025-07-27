@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 207,
-    "nonSellersCount": 202,
+    "totalUsers": 205,
+    "nonSellersCount": 200,
     "sellersCount": 5,
-    "totalBalance": 1289236113269432600
+    "totalBalance": 1277953810931995000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -182,10 +182,6 @@
       "balance": 8840037040823085,
       "username": "bxlo5yy7g"
     },
-    "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe": {
-      "balance": 8608375025932492,
-      "username": "anx.slaw 🌊"
-    },
     "qijjb-ikwe2-yqt3e-kdaqy-oo5zo-tudrs-2zidf-hqynp-kl5vf-xpufv-gae": {
       "balance": 8460350998725689,
       "username": "ValHalla-BitCats"
@@ -286,10 +282,6 @@
       "balance": 4225794615381548,
       "username": "⚡️100BTC"
     },
-    "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae": {
-      "balance": 4156172493494731,
-      "username": "比谁格局"
-    },
     "awpiv-h7gqh-gs2kz-vcbaj-34oxk-6q7kl-nyfwx-q7ctd-nrnaj-3gyjz-mae": {
       "balance": 3839071565986258,
       "username": "awpiv-h7gqh"
@@ -349,6 +341,10 @@
     "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae": {
       "balance": 2097245897399016,
       "username": "A7JPF7777777"
+    },
+    "ctx5e-vfki4-5rvzg-zmggy-p5v5h-jggmt-sstsr-zixe6-l6fud-hu6bb-4qe": {
+      "balance": 2038514926420735,
+      "username": "花开🦋自来"
     },
     "4parh-vqrro-frfqo-ppsql-bkgo7-x2zo4-lltag-2fz54-eiida-btsga-sqe": {
       "balance": 2003640488277267,
@@ -493,10 +489,6 @@
     "igcwr-xstcn-2ngkz-ycqti-khcin-j7n4o-2qk7s-vl4hh-2ok7w-v5qdu-gqe": {
       "balance": 579215891914459,
       "username": "igcwr-xstcn"
-    },
-    "ta4jw-tumww-2xdt6-jrvbq-rtvon-2ygne-jyjt3-iciui-bqnbg-j5hs6-sqe": {
-      "balance": 556269744431194,
-      "username": "CX——能能"
     },
     "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe": {
       "balance": 553667039249366,
