@@ -1,5 +1,5 @@
 {
-  "count": 312,
+  "count": 315,
   "data": [
     {
       "id": "60466281",
@@ -4677,6 +4677,51 @@
       "price": 2677,
       "bonded": true,
       "user_username": "Eincs-fginrv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620050",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:40:29.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1834270724254179,
+      "price": 2719,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620032",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:40:22.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1843714785519203,
+      "price": 2705,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620012",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:40:17.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1853232008590703,
+      "price": 2691,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
