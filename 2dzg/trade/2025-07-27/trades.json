@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 306,
   "data": [
     {
       "id": "60466281",
@@ -4543,6 +4543,51 @@
       "bonded": true,
       "user_username": "Mikegg",
       "user_image": "54126fee-855c-4ca8-afee-140ce3d84349.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615235",
+      "user": "n7cdc-pinlh-nybfv-spdhp-whhhl-omb6j-m7z7n-7hbkb-6jsim-gdwbv-uqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:20:02.000Z",
+      "buy": true,
+      "amount_btc": 103294171,
+      "amount_token": 3616240660655355,
+      "price": 2856,
+      "bonded": true,
+      "user_username": "fssfggg",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615110",
+      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:19:07.000Z",
+      "buy": false,
+      "amount_btc": 84762648,
+      "amount_token": 3000000000000000,
+      "price": 2827,
+      "bonded": true,
+      "user_username": "Eincs-fginrv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615081",
+      "user": "obgvf-enxje-rzcuw-evq23-35oaw-ka77y-yvh3k-e7kdv-qqg3n-b6ahe-6ae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:19:01.000Z",
+      "buy": true,
+      "amount_btc": 7435024,
+      "amount_token": 259505202412822,
+      "price": 2851,
+      "bonded": true,
+      "user_username": "obgvf-enxje",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
