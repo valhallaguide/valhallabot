@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 200,
-    "sellersCount": 0,
-    "totalBalance": 1281177595130988000
+    "totalUsers": 197,
+    "nonSellersCount": 196,
+    "sellersCount": 1,
+    "totalBalance": 1231961879314371600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -110,14 +110,6 @@
       "balance": 14849188028208616,
       "username": "oe333"
     },
-    "dm5cr-4lf2q-ogpsc-2k25w-mn5mv-tquo3-euvrl-otakq-gty5a-3tnfc-pae": {
-      "balance": 14669081110958952,
-      "username": "woshinibaba"
-    },
-    "ajmya-j2zlq-5iudy-6roqn-mppwa-2fz7t-sxbxy-stkn7-oxz7y-gtpfd-mqe": {
-      "balance": 14102932980023090,
-      "username": "112233💎💰"
-    },
     "zp4ua-sc3ea-usgqz-n5e4v-pwue7-nf2kx-xnhmk-xoxqp-n2t54-ajmlh-tae": {
       "balance": 14041435746041820,
       "username": "S1055U"
@@ -162,6 +154,10 @@
       "balance": 9648788745755400,
       "username": "tp自己7sx-g3rvv"
     },
+    "2yhbh-em2dr-abxlh-3cxgv-6nkqq-zpole-dvkql-suux6-x3du7-ku75q-aqe": {
+      "balance": 9619766699042498,
+      "username": "布局起飞"
+    },
     "kbb43-ai2fj-lcljq-f4p5w-cnegy-tfa3q-ko76p-nv6o3-e2bw3-c2ztb-zqe": {
       "balance": 9391148320309790,
       "username": "kbb43-ai2fj"
@@ -194,18 +190,6 @@
       "balance": 7906545634369024,
       "username": "mu2728"
     },
-    "trsmg-tqos7-q7wct-nmz6s-wnbty-2ha3i-ubn5j-eb3vx-he7sh-hebjr-aae": {
-      "balance": 7878259363106275,
-      "username": "trsmg"
-    },
-    "hce24-azksb-v3z35-wine7-ppxog-dc3fp-xj5t2-wu3z7-afovg-l4mas-rae": {
-      "balance": 7730571414339098,
-      "username": "1b挑战号"
-    },
-    "hm2sh-uqckt-sekaz-gyrr2-s6saq-ayiu3-mc4q3-kekar-yspar-4ddao-3ae": {
-      "balance": 7586999804687525,
-      "username": "共识社区助力金狗发射"
-    },
     "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe": {
       "balance": 7537237192117558,
       "username": "守望者-美姐战队-钢铁侠"
@@ -217,10 +201,6 @@
     "4ze2r-q7upz-7hrlu-gzyjm-gmwtq-a7sm4-bdutf-n6par-r5ti3-5qheq-dqe": {
       "balance": 7309961830063448,
       "username": "奥丁之歌永不过时"
-    },
-    "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
-      "balance": 6867637842544007,
-      "username": "lla4z-fhmm"
     },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 6539795977009336,
@@ -805,6 +785,10 @@
     "e6jrt-sammj-j6gcd-n4nw4-gm343-orrd6-rz35m-maafg-gwedu-uzktl-xae": {
       "balance": 1,
       "username": "planBCrypto"
+    },
+    "2a25u-t3h6j-3t2zj-caiev-ruzu3-7epxe-e727e-mu2po-bakub-k3eyc-zqe": {
+      "balance": 1,
+      "username": "0xSatoshiFan"
     }
   }
 }
