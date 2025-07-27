@@ -1,5 +1,5 @@
 {
-  "count": 339,
+  "count": 341,
   "data": [
     {
       "id": "60466281",
@@ -5083,6 +5083,36 @@
       "bonded": true,
       "user_username": "奥丁一手咨询111089303",
       "user_image": "eb34b611-6367-49d5-af77-f906fc5b1d70.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60635855",
+      "user": "ugce4-fzcw3-lgux4-7ucro-deyzz-w754o-m5prr-ogkr3-ilxae-fel3v-mqe",
+      "token": "2dzg",
+      "time": "2025-07-27T22:26:49.000Z",
+      "buy": false,
+      "amount_btc": 24526360,
+      "amount_token": 854891831791261,
+      "price": 2879,
+      "bonded": true,
+      "user_username": "Ugce4-ghujp",
+      "user_image": "ad599175-55fc-46bc-8f0f-ab7bbeb6abf0.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60635808",
+      "user": "ugce4-fzcw3-lgux4-7ucro-deyzz-w754o-m5prr-ogkr3-ilxae-fel3v-mqe",
+      "token": "2dzg",
+      "time": "2025-07-27T22:26:24.000Z",
+      "buy": false,
+      "amount_btc": 46592616,
+      "amount_token": 1618297277263753,
+      "price": 2886,
+      "bonded": true,
+      "user_username": "Ugce4-ghujp",
+      "user_image": "ad599175-55fc-46bc-8f0f-ab7bbeb6abf0.jpg",
       "decimals": 3,
       "divisibility": 8
     }
