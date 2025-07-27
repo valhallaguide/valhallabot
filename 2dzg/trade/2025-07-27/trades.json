@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 45,
   "data": [
     {
       "id": "60466281",
@@ -627,6 +627,51 @@
       "price": 1940,
       "bonded": true,
       "user_username": "ASGARDIAN",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528599",
+      "user": "ybuoq-7j6sv-blftd-6qxkm-oxodo-gmk7f-gocjl-jdgbt-e3i4y-ehbag-dae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:48:24.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 525308047121944,
+      "price": 1895,
+      "bonded": true,
+      "user_username": "A7JPF7777777",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528501",
+      "user": "gmbul-jcwut-oidch-x5vgs-cbdgj-lg43o-f4t62-shaam-ryk5m-yv3o5-fae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:46:54.000Z",
+      "buy": false,
+      "amount_btc": 83958353,
+      "amount_token": 4433830807912950,
+      "price": 1892,
+      "bonded": true,
+      "user_username": "ASGARDIAN",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60528496",
+      "user": "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe",
+      "token": "2dzg",
+      "time": "2025-07-27T05:46:49.000Z",
+      "buy": false,
+      "amount_btc": 111535413,
+      "amount_token": 5817413946908745,
+      "price": 1913,
+      "bonded": true,
+      "user_username": "lla4z-fhmm",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
