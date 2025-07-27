@@ -1,5 +1,5 @@
 {
-  "count": 203,
+  "count": 208,
   "data": [
     {
       "id": "60466281",
@@ -3043,6 +3043,81 @@
       "bonded": true,
       "user_username": "这是一个好币",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60601511",
+      "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+      "token": "2dzg",
+      "time": "2025-07-27T15:19:24.000Z",
+      "buy": false,
+      "amount_btc": 32391403,
+      "amount_token": 1088947778571455,
+      "price": 2984,
+      "bonded": true,
+      "user_username": "ns53a-hjqmi",
+      "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60601505",
+      "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+      "token": "2dzg",
+      "time": "2025-07-27T15:19:23.000Z",
+      "buy": false,
+      "amount_btc": 32494734,
+      "amount_token": 1088947778571455,
+      "price": 2994,
+      "bonded": true,
+      "user_username": "ns53a-hjqmi",
+      "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60601499",
+      "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+      "token": "2dzg",
+      "time": "2025-07-27T15:19:23.000Z",
+      "buy": false,
+      "amount_btc": 32598561,
+      "amount_token": 1088947778571455,
+      "price": 3003,
+      "bonded": true,
+      "user_username": "ns53a-hjqmi",
+      "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60601487",
+      "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+      "token": "2dzg",
+      "time": "2025-07-27T15:19:23.000Z",
+      "buy": false,
+      "amount_btc": 32702885,
+      "amount_token": 1088947778571455,
+      "price": 3013,
+      "bonded": true,
+      "user_username": "ns53a-hjqmi",
+      "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60601454",
+      "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
+      "token": "2dzg",
+      "time": "2025-07-27T15:19:12.000Z",
+      "buy": false,
+      "amount_btc": 151175268,
+      "amount_token": 4988966479858862,
+      "price": 3023,
+      "bonded": true,
+      "user_username": "anx.slaw 🌊",
+      "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg",
       "decimals": 3,
       "divisibility": 8
     }
