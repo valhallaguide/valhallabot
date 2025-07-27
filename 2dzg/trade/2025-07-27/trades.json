@@ -1,5 +1,5 @@
 {
-  "count": 306,
+  "count": 310,
   "data": [
     {
       "id": "60466281",
@@ -4587,6 +4587,66 @@
       "price": 2851,
       "bonded": true,
       "user_username": "obgvf-enxje",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60616006",
+      "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:24:03.000Z",
+      "buy": false,
+      "amount_btc": 153225340,
+      "amount_token": 5370559202603305,
+      "price": 2845,
+      "bonded": true,
+      "user_username": "ns53a-hjqmi",
+      "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615953",
+      "user": "ugce4-fzcw3-lgux4-7ucro-deyzz-w754o-m5prr-ogkr3-ilxae-fel3v-mqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:23:49.000Z",
+      "buy": false,
+      "amount_btc": 62231394,
+      "amount_token": 2157729703018338,
+      "price": 2889,
+      "bonded": true,
+      "user_username": "就这样吧",
+      "user_image": "ad599175-55fc-46bc-8f0f-ab7bbeb6abf0.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615659",
+      "user": "eiqwp-ujakd-oxg6z-v3l6a-jwnuu-zf462-7rrli-6ztau-ukaz6-mrpn4-jqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:22:24.000Z",
+      "buy": true,
+      "amount_btc": 87000000,
+      "amount_token": 2990054386592213,
+      "price": 2907,
+      "bonded": true,
+      "user_username": "Eincs-fginrv",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60615295",
+      "user": "cl4vm-sk7ez-u2xli-rqxd7-7docf-r6xt4-ri6x7-skpds-cwcqk-76euz-wae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:20:34.000Z",
+      "buy": true,
+      "amount_btc": 90000000,
+      "amount_token": 3120520359033854,
+      "price": 2882,
+      "bonded": true,
+      "user_username": "cl4vm-sk7ez",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
