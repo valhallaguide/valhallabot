@@ -1,5 +1,5 @@
 {
-  "count": 72,
+  "count": 73,
   "data": [
     {
       "id": "60466281",
@@ -1078,6 +1078,21 @@
       "bonded": true,
       "user_username": "H21NFT.blife",
       "user_image": "06749b0a-fa9b-477d-b8ed-47b2d2bb1c58.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60570059",
+      "user": "jrz33-kplma-prj3k-wt6ko-tyw34-7jvhb-3nlzj-piktv-3omec-tpry2-lqe",
+      "token": "2dzg",
+      "time": "2025-07-27T11:39:50.000Z",
+      "buy": false,
+      "amount_btc": 45371679,
+      "amount_token": 2342507845706918,
+      "price": 1941,
+      "bonded": true,
+      "user_username": "今年小目标-揽胜",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
