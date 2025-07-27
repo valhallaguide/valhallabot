@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 79,
   "data": [
     {
       "id": "60466281",
@@ -1168,6 +1168,21 @@
       "bonded": true,
       "user_username": "比特狗QQ群939162831",
       "user_image": "78246bb8-19bb-428f-a30f-b5f0c6c34a97.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60577144",
+      "user": "foc7y-xssej-t2asw-uorzy-7subl-mx7vc-5oupk-pmm7j-yd7ul-2d5yl-7ae",
+      "token": "2dzg",
+      "time": "2025-07-27T12:41:30.000Z",
+      "buy": true,
+      "amount_btc": 84251184,
+      "amount_token": 4156172493494731,
+      "price": 2027,
+      "bonded": true,
+      "user_username": "比谁格局",
+      "user_image": "a9866595-c1f1-4336-819f-bc8b4ca8d549.png",
       "decimals": 3,
       "divisibility": 8
     }
