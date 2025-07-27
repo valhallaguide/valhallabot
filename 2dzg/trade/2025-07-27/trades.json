@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 53,
   "data": [
     {
       "id": "60466281",
@@ -778,6 +778,21 @@
       "bonded": true,
       "user_username": "张总怎么不波了张总",
       "user_image": "ad599175-55fc-46bc-8f0f-ab7bbeb6abf0.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60546764",
+      "user": "2rasp-axfym-z4y2n-bfxd3-d2fbm-22di3-ea2x3-cyq3w-nuro2-m456s-xae",
+      "token": "2dzg",
+      "time": "2025-07-27T08:44:52.000Z",
+      "buy": true,
+      "amount_btc": 10287396,
+      "amount_token": 535004539562854,
+      "price": 1914,
+      "bonded": true,
+      "user_username": "歌德爾社区qq255827967",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
