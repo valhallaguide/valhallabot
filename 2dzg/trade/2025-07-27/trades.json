@@ -1,5 +1,5 @@
 {
-  "count": 315,
+  "count": 318,
   "data": [
     {
       "id": "60466281",
@@ -4720,6 +4720,51 @@
       "amount_btc": 50000000,
       "amount_token": 1853232008590703,
       "price": 2691,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620286",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:41:41.000Z",
+      "buy": true,
+      "amount_btc": 76721087,
+      "amount_token": 2772959382600102,
+      "price": 2763,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620079",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:40:38.000Z",
+      "buy": true,
+      "amount_btc": 32337727,
+      "amount_token": 1175303281287066,
+      "price": 2742,
+      "bonded": true,
+      "user_username": "鱿鱼重启群号491533409",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60620056",
+      "user": "o3mwg-nt6wg-k7g4a-uaj4f-hksxi-isfm7-poil7-qz6o5-sadin-675tj-hae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:40:33.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 1824899076637030,
+      "price": 2733,
       "bonded": true,
       "user_username": "鱿鱼重启群号491533409",
       "user_image": null,
