@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 42,
   "data": [
     {
       "id": "60466281",
@@ -612,6 +612,21 @@
       "price": 1919,
       "bonded": true,
       "user_username": "布局起飞",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60526571",
+      "user": "gmbul-jcwut-oidch-x5vgs-cbdgj-lg43o-f4t62-shaam-ryk5m-yv3o5-fae",
+      "token": "2dzg",
+      "time": "2025-07-27T05:25:17.000Z",
+      "buy": true,
+      "amount_btc": 86007603,
+      "amount_token": 4433830807912950,
+      "price": 1940,
+      "bonded": true,
+      "user_username": "ASGARDIAN",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
