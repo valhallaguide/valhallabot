@@ -1,5 +1,5 @@
 {
-  "count": 288,
+  "count": 291,
   "data": [
     {
       "id": "60466281",
@@ -4318,6 +4318,51 @@
       "bonded": true,
       "user_username": "vhjxfjvcxzjbcc",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60612296",
+      "user": "s2bo6-qjt22-qxtu3-foaib-qtbwr-lmo3b-wqvxu-dz3fa-tujb4-skxkl-eqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:05:06.000Z",
+      "buy": true,
+      "amount_btc": 168467462,
+      "amount_token": 6091917457723858,
+      "price": 2775,
+      "bonded": true,
+      "user_username": "s2bo6-qjt22",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60611986",
+      "user": "cetkw-dhrka-zq5j6-evvuk-7hiqj-dbpdi-lfetx-5rwew-5clbq-tyrnm-oae",
+      "token": "2dzg",
+      "time": "2025-07-27T16:03:50.000Z",
+      "buy": true,
+      "amount_btc": 135622693,
+      "amount_token": 4980881093931285,
+      "price": 2728,
+      "bonded": true,
+      "user_username": "cetkw-dhrka",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60611725",
+      "user": "ugce4-fzcw3-lgux4-7ucro-deyzz-w754o-m5prr-ogkr3-ilxae-fel3v-mqe",
+      "token": "2dzg",
+      "time": "2025-07-27T16:03:01.000Z",
+      "buy": true,
+      "amount_btc": 230612415,
+      "amount_token": 8630918812073352,
+      "price": 2690,
+      "bonded": true,
+      "user_username": "散户给你撑起来，你给BOB转一点，必火",
+      "user_image": "ad599175-55fc-46bc-8f0f-ab7bbeb6abf0.jpg",
       "decimals": 3,
       "divisibility": 8
     }
