@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 215,
-    "nonSellersCount": 206,
+    "totalUsers": 216,
+    "nonSellersCount": 207,
     "sellersCount": 9,
-    "totalBalance": 1343226791865805000
+    "totalBalance": 1347640280282670000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -90,6 +90,10 @@
       "balance": 18948993386655640,
       "username": "Einherjari"
     },
+    "qbpwe-pylhi-jszs4-2m7zg-en7rm-xrwyf-pl6n7-lfrhv-epilu-5cuc7-wae": {
+      "balance": 17533594193662024,
+      "username": "李纯仪"
+    },
     "yscib-yaakp-3jank-bvm5x-lyt3m-gojpi-shiyj-25imp-qfsi4-vsgwj-lqe": {
       "balance": 16929696156060684,
       "username": "环球俱乐部-BD"
@@ -129,10 +133,6 @@
     "pahtp-nwxzh-5ns2n-jeobh-5pfkx-wy52r-de3np-y2mgz-l2igm-nkerx-nqe": {
       "balance": 13892904145775472,
       "username": "比特狗QQ群939162831"
-    },
-    "qbpwe-pylhi-jszs4-2m7zg-en7rm-xrwyf-pl6n7-lfrhv-epilu-5cuc7-wae": {
-      "balance": 13444588188749424,
-      "username": "李纯仪"
     },
     "tnt6y-rvppz-27gko-k6zvq-uxwmm-weef4-5gi7i-gczum-6ilgg-32ygu-dae": {
       "balance": 11882900741518516,
@@ -569,6 +569,10 @@
     "mxrd2-hdcn2-4hplu-y4sng-r47ip-unwft-2b3dt-mm2r5-77uvt-bwsot-yae": {
       "balance": 326837436264380,
       "username": "THOEMMY.blife"
+    },
+    "pz2pn-g45rf-5zsqm-6afxo-6keon-f45qi-jfvbi-gz5br-5aujx-o3z34-nqe": {
+      "balance": 324482411952163,
+      "username": "金子啊"
     },
     "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe": {
       "balance": 277626153946160,
