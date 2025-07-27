@@ -504,13 +504,6 @@
     "user_image": "2474a07a-b1e7-45cc-badf-41b205d086d1.jpg"
   },
   {
-    "user": "jzqve-iup4p-344e7-vfy6i-b7qkd-w2mol-6xi63-qibbq-ldunn-swcjo-cqe",
-    "token": "2dzg",
-    "balance": 4988966479858862,
-    "user_username": "anx.slaw 🌊",
-    "user_image": "9e0e2f3b-dad3-4b31-bdb0-131e08e6f67c.jpg"
-  },
-  {
     "user": "33tkd-ika5q-4kl4v-f5rva-rctwf-7pjwp-joqo2-pznap-houmd-6hdev-hae",
     "token": "2dzg",
     "balance": 4917621246714855,
@@ -530,13 +523,6 @@
     "balance": 4411196309865762,
     "user_username": "益生元",
     "user_image": null
-  },
-  {
-    "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
-    "token": "2dzg",
-    "balance": 4355791114285822,
-    "user_username": "ns53a-hjqmi",
-    "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif"
   },
   {
     "user": "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe",
@@ -1482,6 +1468,13 @@
     "balance": 2,
     "user_username": "八方来财·因果",
     "user_image": null
+  },
+  {
+    "user": "ns53a-hjqmi-ybqkd-ghk5n-d3ewm-aqoz6-2hcr7-kuttk-ruwtk-gc3lw-qae",
+    "token": "2dzg",
+    "balance": 2,
+    "user_username": "ns53a-hjqmi",
+    "user_image": "5def3f58-aac1-4d3f-afb0-716031c77828.gif"
   },
   {
     "user": "x3snx-wrugd-m5j4i-dtu2v-kxleb-lmkvw-hghvi-tdzg2-lfb2o-zazwm-pqe",
