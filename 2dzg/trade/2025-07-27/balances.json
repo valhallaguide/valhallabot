@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 204,
+    "totalUsers": 203,
     "nonSellersCount": 200,
-    "sellersCount": 4,
-    "totalBalance": 1287264662417543700
+    "sellersCount": 3,
+    "totalBalance": 1280613184331720200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -126,10 +126,6 @@
       "balance": 13892904145775472,
       "username": "比特狗QQ群939162831"
     },
-    "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae": {
-      "balance": 13024954622396618,
-      "username": "fffaasxxx"
-    },
     "tnt6y-rvppz-27gko-k6zvq-uxwmm-weef4-5gi7i-gczum-6ilgg-32ygu-dae": {
       "balance": 11882900741518516,
       "username": "0XAICC.blife◨ ◨"
@@ -221,6 +217,10 @@
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 6539795977009336,
       "username": "axxdu-mgrui"
+    },
+    "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae": {
+      "balance": 6373476536573135,
+      "username": "fffaasxxx"
     },
     "mbz53-ahzx2-azlxz-qlyc4-ujut2-zyqt2-gm3mx-vnylp-3u4w5-bk275-iae": {
       "balance": 6187965797319468,
