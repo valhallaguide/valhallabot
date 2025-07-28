@@ -1,5 +1,5 @@
 {
-  "count": 585,
+  "count": 588,
   "data": [
     {
       "id": "60649715",
@@ -8772,6 +8772,51 @@
       "price": 2882,
       "bonded": true,
       "user_username": "金子啊",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60770387",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-28T14:54:39.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5301651643095166,
+      "price": 2836,
+      "bonded": true,
+      "user_username": "fffaasxxx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60770342",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-28T14:54:17.000Z",
+      "buy": false,
+      "amount_btc": 139993749,
+      "amount_token": 5000000000000000,
+      "price": 2793,
+      "bonded": true,
+      "user_username": "fffaasxxx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60770112",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-28T14:52:49.000Z",
+      "buy": false,
+      "amount_btc": 162256705,
+      "amount_token": 5705429345908956,
+      "price": 2834,
+      "bonded": true,
+      "user_username": "fffaasxxx",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
