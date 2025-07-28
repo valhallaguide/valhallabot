@@ -1,5 +1,5 @@
 {
-  "count": 511,
+  "count": 514,
   "data": [
     {
       "id": "60649715",
@@ -7662,6 +7662,51 @@
       "price": 3083,
       "bonded": true,
       "user_username": "s2bo6-qjt22",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60735334",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-28T10:48:31.000Z",
+      "buy": false,
+      "amount_btc": 88054805,
+      "amount_token": 2902670785296875,
+      "price": 3035,
+      "bonded": true,
+      "user_username": "fffaasxxx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60735284",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-28T10:48:12.000Z",
+      "buy": false,
+      "amount_btc": 27540788,
+      "amount_token": 902670785296875,
+      "price": 3062,
+      "bonded": true,
+      "user_username": "fffaasxxx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60735138",
+      "user": "yfuo2-7s3i6-bgj5b-jlddd-jcbns-uoled-d7jnd-a77so-ack2i-dv4zo-gae",
+      "token": "2dzg",
+      "time": "2025-07-28T10:47:14.000Z",
+      "buy": false,
+      "amount_btc": 45872032,
+      "amount_token": 1498039347325946,
+      "price": 3070,
+      "bonded": true,
+      "user_username": "yfuo2-7s3i6",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
