@@ -1,5 +1,5 @@
 {
-  "count": 403,
+  "count": 404,
   "data": [
     {
       "id": "60649715",
@@ -6043,6 +6043,21 @@
       "bonded": true,
       "user_username": "九世轮回大善人",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60692978",
+      "user": "k4dva-dmsed-lsybz-yoldf-6ioxe-z54xh-nvlq2-vtv4s-2vbym-m2lem-5qe",
+      "token": "2dzg",
+      "time": "2025-07-28T05:55:07.000Z",
+      "buy": true,
+      "amount_btc": 187791060,
+      "amount_token": 6386776450825501,
+      "price": 2952,
+      "bonded": true,
+      "user_username": "goododinfun",
+      "user_image": "257fbfa7-616e-44e3-ac59-f000f43ad89c.png",
       "decimals": 3,
       "divisibility": 8
     }
