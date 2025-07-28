@@ -105,13 +105,6 @@
     "user_image": null
   },
   {
-    "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
-    "token": "2dzg",
-    "balance": 22532355407230040,
-    "user_username": "fffaasxxx",
-    "user_image": null
-  },
-  {
     "user": "qbpwe-pylhi-jszs4-2m7zg-en7rm-xrwyf-pl6n7-lfrhv-epilu-5cuc7-wae",
     "token": "2dzg",
     "balance": 21857831984107530,
@@ -166,6 +159,13 @@
     "balance": 20800013547550012,
     "user_username": "UnknownPlayer ∞",
     "user_image": "a8674d63-9889-455b-8255-ebdd84ee1afa.png"
+  },
+  {
+    "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+    "token": "2dzg",
+    "balance": 20000000000000000,
+    "user_username": "fffaasxxx",
+    "user_image": null
   },
   {
     "user": "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe",
@@ -1041,13 +1041,6 @@
     "balance": 326837436264380,
     "user_username": "THOEMMY.blife",
     "user_image": "9fbab1dc-78d3-4000-8591-1c9899ea2e76.webp"
-  },
-  {
-    "user": "zlo3t-itg7o-o6fdw-etdzy-f3h3f-kgumm-3gdvf-yz6kc-5ufxo-5ho2s-mqe",
-    "token": "2dzg",
-    "balance": 315163318871205,
-    "user_username": "Taylor",
-    "user_image": null
   },
   {
     "user": "lbwtm-6wpux-tjwv3-i4pfm-iphep-xs5cb-uuioc-jepg4-yp4rr-jvz5z-oqe",
