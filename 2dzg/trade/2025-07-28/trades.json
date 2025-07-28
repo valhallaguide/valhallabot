@@ -1,5 +1,5 @@
 {
-  "count": 360,
+  "count": 361,
   "data": [
     {
       "id": "60649715",
@@ -5398,6 +5398,21 @@
       "bonded": true,
       "user_username": "jdjzefm",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60671171",
+      "user": "j7w5g-nfcay-iqut2-ecebu-j65yr-qvz5i-rao6j-dmjxv-e2zsu-mujhg-mqe",
+      "token": "2dzg",
+      "time": "2025-07-28T03:16:10.000Z",
+      "buy": false,
+      "amount_btc": 37393126,
+      "amount_token": 1364943141802687,
+      "price": 2748,
+      "bonded": true,
+      "user_username": "奥丁一手咨询111089303",
+      "user_image": "eb34b611-6367-49d5-af77-f906fc5b1d70.jpg",
       "decimals": 3,
       "divisibility": 8
     }
