@@ -1,5 +1,5 @@
 {
-  "count": 612,
+  "count": 613,
   "data": [
     {
       "id": "60649715",
@@ -9178,6 +9178,21 @@
       "bonded": true,
       "user_username": "fffaasxxx",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60774521",
+      "user": "42z4r-neyfc-m5z54-qkajx-cf4mp-k5lms-4oztf-63psy-rse2y-x7vsu-pae",
+      "token": "2dzg",
+      "time": "2025-07-28T15:20:37.000Z",
+      "buy": true,
+      "amount_btc": 172669933,
+      "amount_token": 6173016866881114,
+      "price": 2808,
+      "bonded": true,
+      "user_username": "瓦尔哈拉钻石手",
+      "user_image": "3c68032b-a73f-40bd-bbcc-4a2ed005f814.jpg",
       "decimals": 3,
       "divisibility": 8
     }
