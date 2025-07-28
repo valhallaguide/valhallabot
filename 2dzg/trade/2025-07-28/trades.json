@@ -1,5 +1,5 @@
 {
-  "count": 388,
+  "count": 389,
   "data": [
     {
       "id": "60649715",
@@ -5818,6 +5818,21 @@
       "bonded": true,
       "user_username": "JEEP",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60683884",
+      "user": "dqdsi-mjdfk-e77k6-o54b5-aq3gs-2w5q3-khav2-px2nq-5lxav-tgvec-nqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:47:43.000Z",
+      "buy": true,
+      "amount_btc": 22131685,
+      "amount_token": 752501896282511,
+      "price": 2929,
+      "bonded": true,
+      "user_username": "orlando",
+      "user_image": "4fd5b788-9080-41b1-8286-0c587b9bdee4.jpg",
       "decimals": 3,
       "divisibility": 8
     }
