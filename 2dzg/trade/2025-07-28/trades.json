@@ -1,5 +1,5 @@
 {
-  "count": 613,
+  "count": 615,
   "data": [
     {
       "id": "60649715",
@@ -9193,6 +9193,36 @@
       "bonded": true,
       "user_username": "瓦尔哈拉钻石手",
       "user_image": "3c68032b-a73f-40bd-bbcc-4a2ed005f814.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60776578",
+      "user": "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae",
+      "token": "2dzg",
+      "time": "2025-07-28T15:38:05.000Z",
+      "buy": true,
+      "amount_btc": 389569968,
+      "amount_token": 13128638326592714,
+      "price": 3010,
+      "bonded": true,
+      "user_username": "go _home",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60776536",
+      "user": "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae",
+      "token": "2dzg",
+      "time": "2025-07-28T15:37:50.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 10468506651640160,
+      "price": 2895,
+      "bonded": true,
+      "user_username": "go _home",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
