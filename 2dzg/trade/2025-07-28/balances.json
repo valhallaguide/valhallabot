@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 214,
-    "nonSellersCount": 207,
+    "totalUsers": 215,
+    "nonSellersCount": 208,
     "sellersCount": 7,
-    "totalBalance": 1309897435535906800
+    "totalBalance": 1309907435535906800
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -657,6 +657,10 @@
     "t6yi5-rae34-kmird-evtst-n5nsm-fxoyj-t2ycz-h2rqy-xgixd-rbg3v-wae": {
       "balance": 12528088512181,
       "username": "BC-OG Bitcoin logo"
+    },
+    "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae": {
+      "balance": 10000000000000,
+      "username": "go _home"
     },
     "gudmu-h7aur-57wjp-3tlic-l2drh-pqwkw-hcxsp-66cny-kjehz-p73dh-eae": {
       "balance": 473234773034,
