@@ -1,5 +1,5 @@
 {
-  "count": 384,
+  "count": 388,
   "data": [
     {
       "id": "60649715",
@@ -5758,6 +5758,66 @@
       "bonded": true,
       "user_username": "蝴蝶蝴蝶🦋",
       "user_image": "f2c8b63d-a6f4-47da-b80f-7c2d5a00c738.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60682954",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:44:19.000Z",
+      "buy": true,
+      "amount_btc": 102133336,
+      "amount_token": 3494014926528520,
+      "price": 2923,
+      "bonded": true,
+      "user_username": "JEEP",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60682856",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:43:58.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5196051575467383,
+      "price": 2893,
+      "bonded": true,
+      "user_username": "JEEP",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60682614",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:43:09.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5274328118782751,
+      "price": 2851,
+      "bonded": true,
+      "user_username": "JEEP",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60682534",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:42:56.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5354387810643273,
+      "price": 2808,
+      "bonded": true,
+      "user_username": "JEEP",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
