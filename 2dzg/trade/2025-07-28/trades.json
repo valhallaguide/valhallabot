@@ -1,5 +1,5 @@
 {
-  "count": 383,
+  "count": 384,
   "data": [
     {
       "id": "60649715",
@@ -5743,6 +5743,21 @@
       "bonded": true,
       "user_username": "fffaasxxx",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60681175",
+      "user": "eeade-ope2v-5y3wk-ll7py-7v3q2-lzp25-hfzyz-n6kjp-x2akw-epzop-sqe",
+      "token": "2dzg",
+      "time": "2025-07-28T04:30:52.000Z",
+      "buy": false,
+      "amount_btc": 1111094,
+      "amount_token": 40362409452931,
+      "price": 2766,
+      "bonded": true,
+      "user_username": "蝴蝶蝴蝶🦋",
+      "user_image": "f2c8b63d-a6f4-47da-b80f-7c2d5a00c738.png",
       "decimals": 3,
       "divisibility": 8
     }
