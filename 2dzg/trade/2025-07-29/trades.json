@@ -1,5 +1,5 @@
 {
-  "count": 288,
+  "count": 289,
   "data": [
     {
       "id": "60819558",
@@ -4317,6 +4317,21 @@
       "price": 3142,
       "bonded": true,
       "user_username": "fffaasxxx",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60849475",
+      "user": "gahmr-ydn3s-m2vfh-2vdeg-3s3ul-ymtc3-cqb25-owjs5-ju5nk-4fewp-2ae",
+      "token": "2dzg",
+      "time": "2025-07-29T03:59:18.000Z",
+      "buy": true,
+      "amount_btc": 70000000,
+      "amount_token": 2183275862403243,
+      "price": 3200,
+      "bonded": true,
+      "user_username": "G4社区--gahmr",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
