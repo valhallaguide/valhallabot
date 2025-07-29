@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 212,
-    "nonSellersCount": 206,
+    "totalUsers": 211,
+    "nonSellersCount": 205,
     "sellersCount": 6,
-    "totalBalance": 1263231991077318700
+    "totalBalance": 1243331925609464000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -61,10 +61,6 @@
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
       "username": "jilkufyrjy.rybjbnb"
-    },
-    "qbpwe-pylhi-jszs4-2m7zg-en7rm-xrwyf-pl6n7-lfrhv-epilu-5cuc7-wae": {
-      "balance": 21857831984107530,
-      "username": "李纯仪"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21834264806545284,
@@ -230,6 +226,10 @@
       "balance": 5672992948105693,
       "username": "biainihigh"
     },
+    "hoqp5-zp6l4-23s2a-wxdz4-ugebw-qlrxx-ysade-hdupo-h3a36-j37ua-tqe": {
+      "balance": 5528666135264914,
+      "username": "hoqp5-zp6l4"
+    },
     "x3ijv-4e6pe-x5juj-kaxt2-i7z6p-gkqfz-a2bnd-5e2ky-3v3ns-eo5js-3qe": {
       "balance": 5467065563143949,
       "username": "BitCatCat 💎"
@@ -297,10 +297,6 @@
     "kery2-m5z2t-j32kf-acqdg-bdpak-fqmsr-enh43-fcvy3-aw3a5-2emso-pqe": {
       "balance": 3696165145807004,
       "username": "kery2-m5z2t"
-    },
-    "hoqp5-zp6l4-23s2a-wxdz4-ugebw-qlrxx-ysade-hdupo-h3a36-j37ua-tqe": {
-      "balance": 3570899619011903,
-      "username": "hoqp5-zp6l4"
     },
     "r7lsc-psd6k-2u35i-7qnwz-bf4re-iafbq-ue7az-broqv-slp5b-5wbhn-gqe": {
       "balance": 3535328870294709,
