@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 217,
-    "nonSellersCount": 217,
-    "sellersCount": 0,
-    "totalBalance": 1413080664949359900
+    "nonSellersCount": 212,
+    "sellersCount": 5,
+    "totalBalance": 1306635532499946200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -29,10 +29,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 42000000000000000,
       "username": "RUNESLEO.blife"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 40000000000000000,
-      "username": "peezy"
     },
     "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae": {
       "balance": 36186516747953670,
@@ -65,14 +61,6 @@
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
       "username": "jilkufyrjy.rybjbnb"
-    },
-    "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae": {
-      "balance": 23597144978232870,
-      "username": "go _home"
-    },
-    "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae": {
-      "balance": 22532355407230040,
-      "username": "fffaasxxx"
     },
     "qbpwe-pylhi-jszs4-2m7zg-en7rm-xrwyf-pl6n7-lfrhv-epilu-5cuc7-wae": {
       "balance": 21857831984107530,
@@ -121,10 +109,6 @@
     "tcoqj-ya2wx-aymju-4kccm-egd67-ephun-dsl6w-rkexx-rancn-bm53c-yae": {
       "balance": 15914104299488502,
       "username": "tcoqj-ya2wx"
-    },
-    "7sfwt-qm2ht-o4rzk-45zn3-nezen-sezd7-bpsaq-63jn5-ntzg6-elrtz-3qe": {
-      "balance": 15821514021972624,
-      "username": "7sfwt-qm2ht"
     },
     "4xym2-6vn6l-4sonw-v6pkn-h63w6-n3daf-byxey-ewyi2-ettyg-ggvhq-qqe": {
       "balance": 14962522620907288,
@@ -301,10 +285,6 @@
     "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae": {
       "balance": 4565792320056099,
       "username": "hgfc-ndkf"
-    },
-    "yfuo2-7s3i6-bgj5b-jlddd-jcbns-uoled-d7jnd-a77so-ack2i-dv4zo-gae": {
-      "balance": 4494118041977838,
-      "username": "yfuo2-7s3i6"
     },
     "iuhgc-e7fd5-javdn-3xse7-5x53j-vypw7-oyizy-7lrpm-pdpk3-axsjl-5ae": {
       "balance": 4411196309865762,
