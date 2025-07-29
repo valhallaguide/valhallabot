@@ -1,5 +1,5 @@
 {
-  "count": 283,
+  "count": 282,
   "data": [
     {
       "id": "60819558",
@@ -4227,21 +4227,6 @@
       "price": 3031,
       "bonded": true,
       "user_username": "鱿鱼重启群号491533409",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "60847339",
-      "user": "5y2u6-ysrro-lkn2x-mz7ar-uulvc-hvbr5-tlpda-bbnga-p3q6y-2dm63-3ae",
-      "token": "2dzg",
-      "time": "2025-07-29T03:32:19.000Z",
-      "buy": true,
-      "amount_btc": 300000000,
-      "amount_token": 9703773212888576,
-      "price": 3121,
-      "bonded": true,
-      "user_username": "Djrjdbdjej",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
