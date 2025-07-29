@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 304,
   "data": [
     {
       "id": "60819558",
@@ -4542,6 +4542,21 @@
       "price": 2996,
       "bonded": true,
       "user_username": "奥丁第一资讯群",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "60942506",
+      "user": "vgrwi-mr767-lj4pi-je46c-bxkz5-dvdej-xyr77-5hn3x-tzlfs-nptgc-2ae",
+      "token": "2dzg",
+      "time": "2025-07-29T14:41:50.000Z",
+      "buy": false,
+      "amount_btc": 115238033,
+      "amount_token": 3887585859480929,
+      "price": 2962,
+      "bonded": true,
+      "user_username": "vgrwi-mr76 M",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
