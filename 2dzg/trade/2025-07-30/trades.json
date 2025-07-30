@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 49,
   "data": [
     {
       "id": "60993480",
@@ -715,6 +715,21 @@
       "amount_btc": 254109639,
       "amount_token": 9720088277397424,
       "price": 2636,
+      "bonded": true,
+      "user_username": "SROM",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61108812",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-30T11:28:10.000Z",
+      "buy": false,
+      "amount_btc": 397142792,
+      "amount_token": 15225431015273794,
+      "price": 2566,
       "bonded": true,
       "user_username": "SROM",
       "user_image": null,
