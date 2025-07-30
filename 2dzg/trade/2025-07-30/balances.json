@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 210,
-    "nonSellersCount": 210,
-    "sellersCount": 0,
-    "totalBalance": 1349450402108024600
+    "nonSellersCount": 207,
+    "sellersCount": 3,
+    "totalBalance": 1290872147339377400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -42,10 +42,6 @@
       "balance": 35864597103555730,
       "username": "Kuromi"
     },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 33300000000000000,
-      "username": "peezy"
-    },
     "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe": {
       "balance": 32500388745094656,
       "username": "共识蜜蜂🦋🐝"
@@ -69,10 +65,6 @@
     "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae": {
       "balance": 23597144978232870,
       "username": "VALHALLA _NO1"
-    },
-    "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae": {
-      "balance": 22480000000000000,
-      "username": "VALHALLA DIAMOND HANDS"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21834264806545284,
@@ -341,10 +333,6 @@
     "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
       "balance": 2933850679419034,
       "username": "KKO"
-    },
-    "nv37b-7ukb3-crr5p-2x5cg-jm6ex-ryodq-ou7dy-5c23b-uy6m4-wx7rx-6qe": {
-      "balance": 2798254768646593,
-      "username": "xy13h"
     },
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
