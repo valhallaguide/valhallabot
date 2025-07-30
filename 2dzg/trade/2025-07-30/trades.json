@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 48,
   "data": [
     {
       "id": "60993480",
@@ -688,6 +688,36 @@
       "bonded": true,
       "user_username": "ICBin ∞",
       "user_image": "24af5a68-6087-4913-ab1e-71e522a6360c.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61107673",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-30T11:16:16.000Z",
+      "buy": true,
+      "amount_btc": 147015001,
+      "amount_token": 5505342737876370,
+      "price": 2677,
+      "bonded": true,
+      "user_username": "SROM",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61107620",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-07-30T11:15:43.000Z",
+      "buy": true,
+      "amount_btc": 254109639,
+      "amount_token": 9720088277397424,
+      "price": 2636,
+      "bonded": true,
+      "user_username": "SROM",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
