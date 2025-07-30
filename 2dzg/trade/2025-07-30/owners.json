@@ -259,13 +259,6 @@
     "user_image": null
   },
   {
-    "user": "k4dva-dmsed-lsybz-yoldf-6ioxe-z54xh-nvlq2-vtv4s-2vbym-m2lem-5qe",
-    "token": "2dzg",
-    "balance": 10777853382374368,
-    "user_username": "goododinfun",
-    "user_image": "257fbfa7-616e-44e3-ac59-f000f43ad89c.png"
-  },
-  {
     "user": "vcccd-5wvai-mhkyo-od2cw-5mvuz-theyf-zl6g2-jrx3n-lvnez-3hltw-qqe",
     "token": "2dzg",
     "balance": 10777448931608582,
@@ -320,6 +313,13 @@
     "balance": 8900402998486548,
     "user_username": "WEN DOG",
     "user_image": null
+  },
+  {
+    "user": "k4dva-dmsed-lsybz-yoldf-6ioxe-z54xh-nvlq2-vtv4s-2vbym-m2lem-5qe",
+    "token": "2dzg",
+    "balance": 8840528157186637,
+    "user_username": "goododinfun",
+    "user_image": "257fbfa7-616e-44e3-ac59-f000f43ad89c.png"
   },
   {
     "user": "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe",
