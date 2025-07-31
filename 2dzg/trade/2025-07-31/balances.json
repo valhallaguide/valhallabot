@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 207,
-    "nonSellersCount": 204,
-    "sellersCount": 3,
-    "totalBalance": 1314441420726757000
+    "nonSellersCount": 205,
+    "sellersCount": 2,
+    "totalBalance": 1315031857980193300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -501,6 +501,10 @@
     "suiur-zkqcw-prptk-4gk63-zoet4-l3ses-gcyle-xemsa-4d3lf-eq34l-xae": {
       "balance": 593855400737076,
       "username": "odin红岩"
+    },
+    "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe": {
+      "balance": 590437253436069,
+      "username": "VALHALLA Diamond Hand"
     },
     "nelrz-rcypw-itmav-7jtzs-ccmr4-squlf-so63k-jv363-4dqds-fzba2-tqe": {
       "balance": 579380553364180,
