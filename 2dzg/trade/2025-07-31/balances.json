@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 207,
-    "nonSellersCount": 207,
-    "sellersCount": 0,
-    "totalBalance": 1348740100336518000
+    "nonSellersCount": 205,
+    "sellersCount": 2,
+    "totalBalance": 1314076315696009000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -45,10 +45,6 @@
     "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe": {
       "balance": 32500388745094656,
       "username": "STRAIGHT to the moon 🌈"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 32500000000000000,
-      "username": "peezy"
     },
     "nx73d-kwt6g-7ki2u-ogefs-2tsdj-xfg7a-4holb-anrfo-vhb2x-74ecf-lae": {
       "balance": 31397000416225776,
@@ -353,10 +349,6 @@
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
       "username": "mbdyv-puuw3"
-    },
-    "uhsqd-hkpyd-wi2gk-mkarz-rnp2u-nl67q-ehx2v-6urxj-cirkt-r7ps6-3qe": {
-      "balance": 2163784640508445,
-      "username": "笑哈哈"
     },
     "ueand-djux3-buuur-kufas-u7cdo-puxay-srzpc-6j635-y5s53-jagsa-eae": {
       "balance": 2112402163277873,
