@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 77,
   "data": [
     {
       "id": "61161292",
@@ -1138,6 +1138,21 @@
       "bonded": true,
       "user_username": "ODINDOG DIAMOND HAND NO.5",
       "user_image": "ac5adfcf-ce3b-4155-8a04-0d53efebb605.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61301144",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-07-31T21:29:59.000Z",
+      "buy": false,
+      "amount_btc": 65996439,
+      "amount_token": 2500000000000000,
+      "price": 2644,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
