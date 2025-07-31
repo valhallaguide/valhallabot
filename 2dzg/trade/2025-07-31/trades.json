@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 47,
   "data": [
     {
       "id": "61161292",
@@ -685,6 +685,21 @@
       "amount_btc": 1000000,
       "amount_token": 36658550421714,
       "price": 2714,
+      "bonded": true,
+      "user_username": "VALHALLA Diamond Hand",
+      "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61264077",
+      "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
+      "token": "2dzg",
+      "time": "2025-07-31T13:59:44.000Z",
+      "buy": false,
+      "amount_btc": 560659,
+      "amount_token": 20437253436069,
+      "price": 2757,
       "bonded": true,
       "user_username": "VALHALLA Diamond Hand",
       "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
