@@ -882,13 +882,6 @@
     "user_image": "bdee022b-3204-4ea1-bcff-553752ab1806.jpg"
   },
   {
-    "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
-    "token": "2dzg",
-    "balance": 590437253436069,
-    "user_username": "VALHALLA Diamond Hand",
-    "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg"
-  },
-  {
     "user": "nelrz-rcypw-itmav-7jtzs-ccmr4-squlf-so63k-jv363-4dqds-fzba2-tqe",
     "token": "2dzg",
     "balance": 579380553364180,
@@ -901,6 +894,13 @@
     "balance": 579215891914459,
     "user_username": "igcwr-xstcn",
     "user_image": null
+  },
+  {
+    "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
+    "token": "2dzg",
+    "balance": 570000000000000,
+    "user_username": "VALHALLA Diamond Hand",
+    "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg"
   },
   {
     "user": "zfxa6-53utb-5hsza-nw3wr-otwgj-s2p6a-nqfjx-xz2yv-u4qtq-msli4-4qe",
