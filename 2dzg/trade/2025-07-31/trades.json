@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 16,
   "data": [
     {
       "id": "61161292",
@@ -205,6 +205,36 @@
       "amount_btc": 150000000,
       "amount_token": 5630193642208893,
       "price": 2671,
+      "bonded": true,
+      "user_username": "STRAIGHT to the moon 🌈",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61196295",
+      "user": "5y2u6-ysrro-lkn2x-mz7ar-uulvc-hvbr5-tlpda-bbnga-p3q6y-2dm63-3ae",
+      "token": "2dzg",
+      "time": "2025-07-31T06:01:17.000Z",
+      "buy": true,
+      "amount_btc": 300000000,
+      "amount_token": 10829225690875254,
+      "price": 2799,
+      "bonded": true,
+      "user_username": "Djrjdbdjej",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61196201",
+      "user": "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe",
+      "token": "2dzg",
+      "time": "2025-07-31T06:00:45.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 5542314996610968,
+      "price": 2714,
       "bonded": true,
       "user_username": "STRAIGHT to the moon 🌈",
       "user_image": null,
