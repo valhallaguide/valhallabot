@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 76,
   "data": [
     {
       "id": "61161292",
@@ -1108,6 +1108,36 @@
       "bonded": true,
       "user_username": "VALHALLA Diamond Hand",
       "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61278127",
+      "user": "i7cvl-kp7ph-k4ah6-szitv-ijwd7-55h2u-bdwjx-ubibm-5mpqx-gislg-dqe",
+      "token": "2dzg",
+      "time": "2025-07-31T15:23:32.000Z",
+      "buy": false,
+      "amount_btc": 10551592,
+      "amount_token": 398138050241312,
+      "price": 2662,
+      "bonded": true,
+      "user_username": "ODINDOG DIAMOND HAND NO.5",
+      "user_image": "ac5adfcf-ce3b-4155-8a04-0d53efebb605.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61278090",
+      "user": "i7cvl-kp7ph-k4ah6-szitv-ijwd7-55h2u-bdwjx-ubibm-5mpqx-gislg-dqe",
+      "token": "2dzg",
+      "time": "2025-07-31T15:23:21.000Z",
+      "buy": true,
+      "amount_btc": 10657884,
+      "amount_token": 398138050241312,
+      "price": 2664,
+      "bonded": true,
+      "user_username": "ODINDOG DIAMOND HAND NO.5",
+      "user_image": "ac5adfcf-ce3b-4155-8a04-0d53efebb605.jpg",
       "decimals": 3,
       "divisibility": 8
     }
