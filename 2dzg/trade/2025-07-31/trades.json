@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 21,
   "data": [
     {
       "id": "61161292",
@@ -295,6 +295,21 @@
       "amount_btc": 2374412,
       "amount_token": 90822177425626,
       "price": 2627,
+      "bonded": true,
+      "user_username": "Gold 𝛑 Diamond Hand",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61241686",
+      "user": "btrl7-4beag-eu4zi-3xtyc-b3l7k-scbcb-arosi-hcayg-imcc2-6t3rc-iae",
+      "token": "2dzg",
+      "time": "2025-07-31T10:40:14.000Z",
+      "buy": false,
+      "amount_btc": 567793442,
+      "amount_token": 22399251782193108,
+      "price": 2470,
       "bonded": true,
       "user_username": "Gold 𝛑 Diamond Hand",
       "user_image": null,
