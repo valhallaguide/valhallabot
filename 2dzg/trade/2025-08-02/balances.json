@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 200,
+    "totalUsers": 199,
+    "nonSellersCount": 199,
     "sellersCount": 0,
-    "totalBalance": 1324300473746980900
+    "totalBalance": 1288113956999027000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -33,10 +33,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 42000000000000000,
       "username": "RUNESLEO.blife"
-    },
-    "ymp5k-cocuo-m3daz-twelo-5ddgj-hfol3-nonou-zxwmy-nupws-baayc-yae": {
-      "balance": 36186516747953670,
-      "username": "hermit"
     },
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 35870506274971504,
