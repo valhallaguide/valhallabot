@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 7,
   "data": [
     {
       "id": "61428065",
@@ -85,6 +85,21 @@
       "amount_btc": 201683973,
       "amount_token": 7590957538246676,
       "price": 2670,
+      "bonded": true,
+      "user_username": "Soom",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61491129",
+      "user": "7bpc4-3tv4e-oabju-eetv5-5loj2-xqe62-i3stc-qh524-cenix-ihmmw-sqe",
+      "token": "2dzg",
+      "time": "2025-08-02T06:38:29.000Z",
+      "buy": false,
+      "amount_btc": 199678310,
+      "amount_token": 7590957538246676,
+      "price": 2616,
       "bonded": true,
       "user_username": "Soom",
       "user_image": null,
