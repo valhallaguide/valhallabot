@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 20,
   "data": [
     {
       "id": "61428065",
@@ -267,6 +267,36 @@
       "price": 2475,
       "bonded": true,
       "user_username": "Kairos",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61522367",
+      "user": "j3pgp-kbk6n-ot364-2sk6q-nixsb-mluzm-g2n5x-3qpxe-36pgi-b6tlo-jqe",
+      "token": "2dzg",
+      "time": "2025-08-02T11:58:57.000Z",
+      "buy": false,
+      "amount_btc": 1723462,
+      "amount_token": 70000000000000,
+      "price": 2474,
+      "bonded": true,
+      "user_username": "BOBO The Best Builder",
+      "user_image": "1859b4cd-dbb3-491c-a068-94835c7b8aa1.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61522133",
+      "user": "z5iqh-jgt2z-yzqo3-w7zfw-2grpc-rkets-yemmi-3t7fl-2nlhp-amqzx-3qe",
+      "token": "2dzg",
+      "time": "2025-08-02T11:57:36.000Z",
+      "buy": false,
+      "amount_btc": 1723779,
+      "amount_token": 70000000000000,
+      "price": 2474,
+      "bonded": true,
+      "user_username": "z5iqh-jgt2z",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
