@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 18,
   "data": [
     {
       "id": "61428065",
@@ -250,6 +250,21 @@
       "amount_btc": 150000000,
       "amount_token": 6175694182318124,
       "price": 2436,
+      "bonded": true,
+      "user_username": "Kairos",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61511960",
+      "user": "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe",
+      "token": "2dzg",
+      "time": "2025-08-02T10:16:02.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 6078143955184253,
+      "price": 2475,
       "bonded": true,
       "user_username": "Kairos",
       "user_image": null,
