@@ -1,0 +1,80 @@
+{
+  "count": 5,
+  "data": [
+    {
+      "id": "61428065",
+      "user": "pli3g-xdtln-stmzi-i6ak6-v2v43-sjnt6-kridp-xt4el-dgc6y-peffm-sqe",
+      "token": "2dzg",
+      "time": "2025-08-01T16:51:09.000Z",
+      "buy": false,
+      "amount_btc": 43069235,
+      "amount_token": 1650569054516439,
+      "price": 2616,
+      "bonded": true,
+      "user_username": "pli3g-xdtl3",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61309756",
+      "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
+      "token": "2dzg",
+      "time": "2025-08-01T00:22:51.000Z",
+      "buy": false,
+      "amount_btc": 6470461,
+      "amount_token": 247337291663352,
+      "price": 2628,
+      "bonded": true,
+      "user_username": "NO.1～wdnxnrfif",
+      "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61309377",
+      "user": "7szkn-krxff-pqv77-vrayj-lvm5b-bwi65-xoxnn-r4lov-macur-v3den-nqe",
+      "token": "2dzg",
+      "time": "2025-08-01T00:17:48.000Z",
+      "buy": true,
+      "amount_btc": 45000000,
+      "amount_token": 1706352455232998,
+      "price": 2630,
+      "bonded": true,
+      "user_username": "7szkn-krxff",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61308394",
+      "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
+      "token": "2dzg",
+      "time": "2025-08-01T00:08:35.000Z",
+      "buy": true,
+      "amount_btc": 6505659,
+      "amount_token": 247337291663352,
+      "price": 2617,
+      "bonded": true,
+      "user_username": "NO.1～wdnxnrfif",
+      "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61308351",
+      "user": "5qim6-rvzwc-6apzt-l4k44-fbdo2-dq3n7-mkszp-2qrwb-jqsop-a4rhw-hqe",
+      "token": "2dzg",
+      "time": "2025-08-01T00:08:20.000Z",
+      "buy": false,
+      "amount_btc": 6505659,
+      "amount_token": 249828307346739,
+      "price": 2616,
+      "bonded": true,
+      "user_username": "NO.1～wdnxnrfif",
+      "user_image": "da5871f5-83b2-4327-882a-2ae9bfa6423b.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    }
+  ]
+}
