@@ -518,13 +518,6 @@
     "user_image": null
   },
   {
-    "user": "7szkn-krxff-pqv77-vrayj-lvm5b-bwi65-xoxnn-r4lov-macur-v3den-nqe",
-    "token": "2dzg",
-    "balance": 3198726250939810,
-    "user_username": "7szkn-krxff",
-    "user_image": null
-  },
-  {
     "user": "rbeo6-3se4q-zbe7f-rbx64-gyxe3-3vdxy-dpmcb-erp6y-h2m2l-4kdny-3ae",
     "token": "2dzg",
     "balance": 3193501771135201,
@@ -544,13 +537,6 @@
     "balance": 2933850679419034,
     "user_username": "KKO",
     "user_image": "1e6d3852-c6cc-47df-bf88-944751f0e30f.jpg"
-  },
-  {
-    "user": "tli3i-mvdlb-3fjvd-firtk-36yta-424h4-edc5z-nwzq3-jn6hb-6lhxz-kae",
-    "token": "2dzg",
-    "balance": 2909235060911602,
-    "user_username": "tli3i-mvdlb",
-    "user_image": null
   },
   {
     "user": "nv37b-7ukb3-crr5p-2x5cg-jm6ex-ryodq-ou7dy-5c23b-uy6m4-wx7rx-6qe",
@@ -907,6 +893,13 @@
     "token": "2dzg",
     "balance": 420000000000000,
     "user_username": "golk4-6d2fr",
+    "user_image": null
+  },
+  {
+    "user": "7szkn-krxff-pqv77-vrayj-lvm5b-bwi65-xoxnn-r4lov-macur-v3den-nqe",
+    "token": "2dzg",
+    "balance": 400000000000000,
+    "user_username": "7szkn-krxff",
     "user_image": null
   },
   {
