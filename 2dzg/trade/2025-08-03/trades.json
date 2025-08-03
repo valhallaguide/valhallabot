@@ -1,5 +1,5 @@
 {
-  "count": 29,
+  "count": 30,
   "data": [
     {
       "id": "61627839",
@@ -432,6 +432,21 @@
       "price": 2244,
       "bonded": true,
       "user_username": "Kairos",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61722379",
+      "user": "47dkv-cb34p-geowe-zhojo-vra7d-vunwp-3bfo4-ug7hj-ur2uu-qlrcx-uqe",
+      "token": "2dzg",
+      "time": "2025-08-03T10:39:16.000Z",
+      "buy": false,
+      "amount_btc": 47932598,
+      "amount_token": 2139837014526991,
+      "price": 2245,
+      "bonded": true,
+      "user_username": "47dkv-cb34p",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
