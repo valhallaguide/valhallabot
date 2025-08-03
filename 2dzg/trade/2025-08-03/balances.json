@@ -3,7 +3,7 @@
     "totalUsers": 194,
     "nonSellersCount": 191,
     "sellersCount": 3,
-    "totalBalance": 1275987356935430400
+    "totalBalance": 1275077871147809300
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -326,10 +326,6 @@
       "balance": 2112402163277873,
       "username": "mengou1"
     },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 2093023737326904,
-      "username": "仅共识WETH.Q群34801174"
-    },
     "4parh-vqrro-frfqo-ppsql-bkgo7-x2zo4-lltag-2fz54-eiida-btsga-sqe": {
       "balance": 2003640488277267,
       "username": "4parh-vqrro"
@@ -393,6 +389,10 @@
     "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
       "balance": 1219325252148856,
       "username": "MAY"
+    },
+    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
+      "balance": 1183537949705839,
+      "username": "仅共识WETH.Q群34801174"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
