@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 29,
   "data": [
     {
       "id": "61887337",
@@ -418,6 +418,21 @@
       "bonded": true,
       "user_username": "0XAICC.blife◨ ◨",
       "user_image": "9a3317ff-5fb6-4eeb-9c4e-e2f761fdadbb.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61944716",
+      "user": "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe",
+      "token": "2dzg",
+      "time": "2025-08-04T02:04:19.000Z",
+      "buy": false,
+      "amount_btc": 1821724153,
+      "amount_token": 90468882310167820,
+      "price": 1811,
+      "bonded": true,
+      "user_username": "Kairos",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
