@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 75,
   "data": [
     {
       "id": "61887337",
@@ -1122,21 +1122,6 @@
       "price": 1939,
       "bonded": true,
       "user_username": "哈哈Cnm",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "62064217",
-      "user": "irpiw-vbzwm-tuc4o-s3rr3-o3f25-unshb-ndv5p-g7es2-cdzj4-qevd6-uae",
-      "token": "2dzg",
-      "time": "2025-08-04T11:43:12.000Z",
-      "buy": false,
-      "amount_btc": 43572306,
-      "amount_token": 2264503911678805,
-      "price": 1928,
-      "bonded": true,
-      "user_username": "赚小米米",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
