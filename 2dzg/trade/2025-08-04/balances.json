@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 199,
-    "nonSellersCount": 198,
-    "sellersCount": 1,
-    "totalBalance": 1255834581669214000
+    "nonSellersCount": 197,
+    "sellersCount": 2,
+    "totalBalance": 1252096472638295600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -281,10 +281,6 @@
     "awpiv-h7gqh-gs2kz-vcbaj-34oxk-6q7kl-nyfwx-q7ctd-nrnaj-3gyjz-mae": {
       "balance": 3839071565986258,
       "username": "awpiv-h7gqh"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 3738109030918325,
-      "username": "仅共识WETH.Q群34801174"
     },
     "5xs5j-umojd-2s2vp-qtzu4-wp2ie-wievh-nvreb-yrm2c-llsqg-iwhms-eqe": {
       "balance": 3719156398597797,
