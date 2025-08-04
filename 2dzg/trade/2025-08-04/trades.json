@@ -1,5 +1,5 @@
 {
-  "count": 68,
+  "count": 69,
   "data": [
     {
       "id": "61887337",
@@ -1018,6 +1018,21 @@
       "bonded": true,
       "user_username": "lla4z-fhmm",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62028554",
+      "user": "etdqz-qduvl-vaxww-7aeeq-t7p7h-fq7ia-meka5-3mlxw-k3e2d-gtsad-rqe",
+      "token": "2dzg",
+      "time": "2025-08-04T08:18:40.000Z",
+      "buy": true,
+      "amount_btc": 10000000,
+      "amount_token": 496705462515626,
+      "price": 2004,
+      "bonded": true,
+      "user_username": "Blue Sky",
+      "user_image": "fe9f9a7b-aa4d-4baf-a416-26160a91bd40.jfif",
       "decimals": 3,
       "divisibility": 8
     }
