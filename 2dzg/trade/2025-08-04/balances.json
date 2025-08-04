@@ -1,18 +1,14 @@
 {
   "summary": {
-    "totalUsers": 194,
-    "nonSellersCount": 194,
+    "totalUsers": 193,
+    "nonSellersCount": 193,
     "sellersCount": 0,
-    "totalBalance": 1302679061782946000
+    "totalBalance": 1212210179472777500
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
       "balance": 105000000000000000,
       "username": "BOBBODILY.blife"
-    },
-    "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe": {
-      "balance": 90468882310167820,
-      "username": "Kairos"
     },
     "b6xjw-klhvp-45s2x-qd4ts-mx2ju-7fdjk-sz62d-6gkgo-g43rf-ofi3f-2ae": {
       "balance": 48331168399594260,
