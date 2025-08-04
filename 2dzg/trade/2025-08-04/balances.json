@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 197,
-    "nonSellersCount": 195,
+    "totalUsers": 198,
+    "nonSellersCount": 196,
     "sellersCount": 2,
-    "totalBalance": 1228419643479069700
+    "totalBalance": 1245555334401803800
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -57,6 +57,10 @@
     "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae": {
       "balance": 24266215157503610,
       "username": "jilkufyrjy.rybjbnb"
+    },
+    "mjm55-6fcam-dxw6s-oxtp5-vj3yh-aioda-iu7bl-s54vt-4p4x5-wg2mg-pae": {
+      "balance": 23179236263238450,
+      "username": "mjm55-6fcam"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21834264806545284,
@@ -157,10 +161,6 @@
     "fxxgn-3lvzw-443up-xft2e-3ywun-w2ofg-2zjag-5lyqg-ooysg-rt7wt-7qe": {
       "balance": 10090971269841596,
       "username": "小龙王"
-    },
-    "mjm55-6fcam-dxw6s-oxtp5-vj3yh-aioda-iu7bl-s54vt-4p4x5-wg2mg-pae": {
-      "balance": 10049428088765672,
-      "username": "mjm55-6fcam"
     },
     "tp7sx-g3rvv-5d5ti-y6t47-wbx52-h5hwx-mq77d-ekpya-uiiky-mk37r-gae": {
       "balance": 9648788745755400,
@@ -269,6 +269,10 @@
     "llv4u-e2uvd-mx5uo-7govs-iamcg-dmbyd-65gkp-wb5pn-bm4g3-w43ym-hae": {
       "balance": 4225794615381548,
       "username": "Odinjiu"
+    },
+    "oznmc-2nxc5-pfu6r-pmwwj-qtz3g-2peuc-qkv5l-p37z5-7mh74-xlupt-lqe": {
+      "balance": 4005882748261004,
+      "username": "lla4z-fhmm"
     },
     "awpiv-h7gqh-gs2kz-vcbaj-34oxk-6q7kl-nyfwx-q7ctd-nrnaj-3gyjz-mae": {
       "balance": 3839071565986258,
