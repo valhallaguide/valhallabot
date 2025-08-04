@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 59,
   "data": [
     {
       "id": "61887337",
@@ -868,6 +868,21 @@
       "bonded": true,
       "user_username": "三三三",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "61965320",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-08-04T03:06:36.000Z",
+      "buy": true,
+      "amount_btc": 163260701,
+      "amount_token": 7964542307144650,
+      "price": 2059,
+      "bonded": true,
+      "user_username": "CZfc只买价值标",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.jpg",
       "decimals": 3,
       "divisibility": 8
     }
