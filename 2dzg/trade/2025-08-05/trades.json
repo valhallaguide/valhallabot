@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 93,
   "data": [
     {
       "id": "62155209",
@@ -1378,6 +1378,21 @@
       "bonded": true,
       "user_username": "ThxRunes⚡️",
       "user_image": "705e24aa-01ac-4717-be86-b20252649750.webp",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62220012",
+      "user": "hoqp5-zp6l4-23s2a-wxdz4-ugebw-qlrxx-ysade-hdupo-h3a36-j37ua-tqe",
+      "token": "2dzg",
+      "time": "2025-08-05T06:41:11.000Z",
+      "buy": false,
+      "amount_btc": 111471005,
+      "amount_token": 5528666135264914,
+      "price": 2012,
+      "bonded": true,
+      "user_username": "hoqp5-zp6l4",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
