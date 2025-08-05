@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 197,
-    "nonSellersCount": 197,
-    "sellersCount": 0,
-    "totalBalance": 1280738008331650800
+    "nonSellersCount": 196,
+    "sellersCount": 1,
+    "totalBalance": 1278344539862364400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -325,10 +325,6 @@
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 2393468469286356,
-      "username": "仅共识WETH.Q群34801174"
     },
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
