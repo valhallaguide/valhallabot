@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 40,
   "data": [
     {
       "id": "62383065",
@@ -568,6 +568,36 @@
       "bonded": true,
       "user_username": "ha~BOB",
       "user_image": "023c2006-3c65-4017-88b0-3f8db2437ed6.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62509162",
+      "user": "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe",
+      "token": "2dzg",
+      "time": "2025-08-06T08:47:01.000Z",
+      "buy": true,
+      "amount_btc": 30000000,
+      "amount_token": 1588787827887378,
+      "price": 1882,
+      "bonded": true,
+      "user_username": "仅共识WETH.Q群34801174",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62509091",
+      "user": "7oxwb-iftxe-kfshv-ftk6r-fys6z-ww4sf-2m55m-vrl2s-75ddd-qi7jl-fae",
+      "token": "2dzg",
+      "time": "2025-08-06T08:46:30.000Z",
+      "buy": false,
+      "amount_btc": 598820753,
+      "amount_token": 30907905219552296,
+      "price": 1875,
+      "bonded": true,
+      "user_username": "奥丁第一资讯111089303",
+      "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg",
       "decimals": 3,
       "divisibility": 8
     }
