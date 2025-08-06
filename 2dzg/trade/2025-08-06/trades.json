@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 42,
   "data": [
     {
       "id": "62383065",
@@ -598,6 +598,36 @@
       "bonded": true,
       "user_username": "奥丁第一资讯111089303",
       "user_image": "4c713a39-1d2b-44b9-89a3-addf4635019a.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62516642",
+      "user": "hyahm-6b3h5-smmus-oqtpt-qshgd-amner-sae5w-pyddo-mq6tj-h2twt-hae",
+      "token": "2dzg",
+      "time": "2025-08-06T09:23:00.000Z",
+      "buy": true,
+      "amount_btc": 205000000,
+      "amount_token": 10714992298436470,
+      "price": 1928,
+      "bonded": true,
+      "user_username": "paly",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62516425",
+      "user": "kokz4-d5vjq-zftch-3r52i-5636p-7c2lv-mjimr-2xmir-d4qtk-drd46-gae",
+      "token": "2dzg",
+      "time": "2025-08-06T09:21:32.000Z",
+      "buy": false,
+      "amount_btc": 12962808,
+      "amount_token": 692675747481245,
+      "price": 1879,
+      "bonded": true,
+      "user_username": "kokz4-d5vjq",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
