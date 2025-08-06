@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 195,
-    "nonSellersCount": 195,
-    "sellersCount": 0,
-    "totalBalance": 1258158516200647700
+    "nonSellersCount": 192,
+    "sellersCount": 3,
+    "totalBalance": 1215015131561716700
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -29,10 +29,6 @@
     "tmzcp-ynouh-uburc-orac6-x6wgl-sksd2-evmbb-vlbbh-h2cii-26dqu-iae": {
       "balance": 42000000000000000,
       "username": "RUNESLEO.blife"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 40050520760027440,
-      "username": "peezy"
     },
     "jmmbq-r6oyl-kbsqo-72u4w-o5l3e-t7cxa-3tib4-pidti-cxt6g-dreuy-dae": {
       "balance": 35870506274971504,
@@ -366,10 +362,6 @@
       "balance": 1737111948780634,
       "username": "obgvf-enxje"
     },
-    "e5oh3-bmddw-hu7wt-bvyr5-ex5sh-ftzni-hnvxa-5tfz2-qap7s-agbmv-lqe": {
-      "balance": 1645286974305547,
-      "username": "Odin's"
-    },
     "mj6ov-pqfx6-m3c2x-zdnkh-zmby3-myijx-2vq5s-xqoxe-yygqh-jqw2u-vae": {
       "balance": 1549990561915830,
       "username": "奥丁必定成功"
@@ -385,10 +377,6 @@
     "5hwlg-at4ly-a3jr6-2smcc-e52zq-xoaq2-wzukc-ry5hx-kb6ja-h5ecg-3qe": {
       "balance": 1496777059560702,
       "username": "守望者-国际社区-端木俱乐部"
-    },
-    "kyidx-coaza-b76um-7cphk-u546f-lgo6n-neszr-evxd6-3wze4-lpgss-gqe": {
-      "balance": 1447576904596984,
-      "username": "Mikegg"
     },
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
