@@ -77,13 +77,6 @@
     "user_image": "c9dd8c14-83e2-400a-b961-5ee3108ee428.jpg"
   },
   {
-    "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
-    "token": "2dzg",
-    "balance": 25000000000000000,
-    "user_username": "peezy",
-    "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
-  },
-  {
     "user": "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae",
     "token": "2dzg",
     "balance": 24266215157503610,
@@ -96,6 +89,13 @@
     "balance": 23179236263238450,
     "user_username": "mjm55-6fcam",
     "user_image": null
+  },
+  {
+    "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+    "token": "2dzg",
+    "balance": 22200000000000000,
+    "user_username": "peezy",
+    "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg"
   },
   {
     "user": "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe",
@@ -893,13 +893,6 @@
     "token": "2dzg",
     "balance": 384943816338087,
     "user_username": "IC Blife",
-    "user_image": null
-  },
-  {
-    "user": "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae",
-    "token": "2dzg",
-    "balance": 371470470562396,
-    "user_username": "Chaojixuanfeng",
     "user_image": null
   },
   {
