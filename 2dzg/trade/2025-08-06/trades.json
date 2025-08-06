@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 50,
   "data": [
     {
       "id": "62383065",
@@ -718,6 +718,36 @@
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62609149",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-08-06T15:27:44.000Z",
+      "buy": false,
+      "amount_btc": 49946365,
+      "amount_token": 2800000000000000,
+      "price": 1786,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62609080",
+      "user": "ulmiu-ykw64-trlqr-ryx4s-bfggo-z57a6-ltoqy-fgeki-pcvw7-bpdgf-iae",
+      "token": "2dzg",
+      "time": "2025-08-06T15:27:22.000Z",
+      "buy": false,
+      "amount_btc": 6650880,
+      "amount_token": 371470470562396,
+      "price": 1798,
+      "bonded": true,
+      "user_username": "联合国依据的",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
