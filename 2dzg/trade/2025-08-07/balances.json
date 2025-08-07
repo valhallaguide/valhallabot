@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 200,
-    "nonSellersCount": 196,
+    "totalUsers": 202,
+    "nonSellersCount": 198,
     "sellersCount": 4,
-    "totalBalance": 1264040387893216300
+    "totalBalance": 1273005714420030200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -226,6 +226,10 @@
       "balance": 6913574084213291,
       "username": "盘古OSk共识群456017188"
     },
+    "g2bil-fqg67-5tgdi-sk6jb-it2ny-uaslc-4f7m4-5dvk4-nthbz-gawao-jae": {
+      "balance": 6563144869746237,
+      "username": "g2bil-fqg67"
+    },
     "6oedu-mgr2o-265fb-pygff-2bxfi-j5li2-2kclj-5f6ep-a7n4d-jy27s-iae": {
       "balance": 6539795977009336,
       "username": "axxdu-mgrui"
@@ -357,6 +361,10 @@
     "kyidx-coaza-b76um-7cphk-u546f-lgo6n-neszr-evxd6-3wze4-lpgss-gqe": {
       "balance": 2416964062110061,
       "username": "Mikegg"
+    },
+    "ivkmm-lwbm2-7ti2m-anzpf-phd7y-xfyar-ataxq-nxs57-7qtie-o3atp-4ae": {
+      "balance": 2402181657067685,
+      "username": "先信资本007"
     },
     "mbdyv-puuw3-nvfnx-zigvp-vaplm-xntdy-o23yu-qgh2t-5xqmj-moro7-uqe": {
       "balance": 2353220018126491,
