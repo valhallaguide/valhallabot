@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 197,
-    "nonSellersCount": 195,
+    "totalUsers": 199,
+    "nonSellersCount": 197,
     "sellersCount": 2,
-    "totalBalance": 1243950295334543400
+    "totalBalance": 1261672098270927000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -166,6 +166,10 @@
       "balance": 10090971269841596,
       "username": "小龙王"
     },
+    "gth5d-jt3vh-mk53l-ksadz-3kbo5-eaaha-mthvw-zberl-uwvuy-c2iad-pqe": {
+      "balance": 9861325165844864,
+      "username": "ICP招募团队长392399691"
+    },
     "tp7sx-g3rvv-5d5ti-y6t47-wbx52-h5hwx-mq77d-ekpya-uiiky-mk37r-gae": {
       "balance": 9648788745755400,
       "username": "tp自己7sx-g3rvv"
@@ -205,6 +209,10 @@
     "6dxrg-bfsoh-hl4wn-kdgkq-cumbb-h3gdr-xumzs-j7lvy-blb6r-3t7ip-kqe": {
       "balance": 7537237192117558,
       "username": "守望者-美姐战队-钢铁侠"
+    },
+    "7k67s-zuzng-cq5sv-j3imn-6djee-sbay3-vn27a-sm2s5-uth5x-qimqt-kqe": {
+      "balance": 7353287257519479,
+      "username": "2k27yka-keq"
     },
     "dnvqw-narsz-wmbvx-xnkw2-uhkqx-zzaxf-mnt4f-le6tj-x7auh-7shqz-uae": {
       "balance": 7340029188749825,
@@ -330,6 +338,10 @@
       "balance": 2503914923587510,
       "username": "MAY"
     },
+    "tw7ax-txfbu-ozf4l-6cd43-xrpt7-ua7qb-jyeli-vi5so-q7ajj-nf2os-sae": {
+      "balance": 2489801745157622,
+      "username": "tw7ax-txfbu"
+    },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
       "username": "Castle"
@@ -357,10 +369,6 @@
     "y573i-a5kmp-ahdd6-q2umb-4zoxi-uut5l-7s53k-x3gvg-gjttr-7lw72-fae": {
       "balance": 1991374004848860,
       "username": "y573i-a5kmp"
-    },
-    "tw7ax-txfbu-ozf4l-6cd43-xrpt7-ua7qb-jyeli-vi5so-q7ajj-nf2os-sae": {
-      "balance": 1982611232138720,
-      "username": "tw7ax-txfbu"
     },
     "jk6p7-5rvwa-rxwtv-r6jrv-vg4s3-hya6i-rgxuf-xt3j6-pn733-gbykc-lae": {
       "balance": 1979653899231963,
