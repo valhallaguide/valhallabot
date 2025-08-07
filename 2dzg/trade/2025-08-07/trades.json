@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 44,
   "data": [
     {
       "id": "62656592",
@@ -627,6 +627,36 @@
       "price": 1963,
       "bonded": true,
       "user_username": "tw7ax-txfbu",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62844616",
+      "user": "7k67s-zuzng-cq5sv-j3imn-6djee-sbay3-vn27a-sm2s5-uth5x-qimqt-kqe",
+      "token": "2dzg",
+      "time": "2025-08-07T13:56:03.000Z",
+      "buy": true,
+      "amount_btc": 150000000,
+      "amount_token": 7353287257519479,
+      "price": 2048,
+      "bonded": true,
+      "user_username": "2k27yka-keq",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62844539",
+      "user": "gth5d-jt3vh-mk53l-ksadz-3kbo5-eaaha-mthvw-zberl-uwvuy-c2iad-pqe",
+      "token": "2dzg",
+      "time": "2025-08-07T13:55:32.000Z",
+      "buy": true,
+      "amount_btc": 196923716,
+      "amount_token": 9861325165844864,
+      "price": 2011,
+      "bonded": true,
+      "user_username": "ICP招募团队长392399691",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
