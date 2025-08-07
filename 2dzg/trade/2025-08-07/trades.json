@@ -1,5 +1,5 @@
 {
-  "count": 63,
+  "count": 66,
   "data": [
     {
       "id": "62656592",
@@ -943,6 +943,51 @@
       "bonded": true,
       "user_username": "CZfc只买价值标",
       "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.jpg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62857121",
+      "user": "6gonp-7fesa-bwtxs-qtaek-hv3tx-wd7xb-gd5qt-z24o2-a5dpi-6jiuo-uae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:53:56.000Z",
+      "buy": false,
+      "amount_btc": 49410926,
+      "amount_token": 2389379406612119,
+      "price": 2072,
+      "bonded": true,
+      "user_username": "哇哈哈",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62857047",
+      "user": "7k67s-zuzng-cq5sv-j3imn-6djee-sbay3-vn27a-sm2s5-uth5x-qimqt-kqe",
+      "token": "2dzg",
+      "time": "2025-08-07T14:53:26.000Z",
+      "buy": false,
+      "amount_btc": 141922979,
+      "amount_token": 6783939599371272,
+      "price": 2084,
+      "bonded": true,
+      "user_username": "2k27yka-keq",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62857010",
+      "user": "gwnvx-v7jfl-g6y3w-llkuy-wqt2h-dwxpq-wp2vr-kh5rx-y62jr-cq5wp-kae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:53:11.000Z",
+      "buy": false,
+      "amount_btc": 16900320,
+      "amount_token": 800124357984981,
+      "price": 2120,
+      "bonded": true,
+      "user_username": "函数公式",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
