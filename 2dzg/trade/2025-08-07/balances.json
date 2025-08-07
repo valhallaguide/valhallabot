@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 196,
-    "nonSellersCount": 194,
+    "totalUsers": 193,
+    "nonSellersCount": 191,
     "sellersCount": 2,
-    "totalBalance": 1227025132155939600
+    "totalBalance": 1210855764928337000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -141,10 +141,6 @@
     "vcccd-5wvai-mhkyo-od2cw-5mvuz-theyf-zl6g2-jrx3n-lvnez-3hltw-qqe": {
       "balance": 10777448931608582,
       "username": "vcccd-5wvai"
-    },
-    "lodvu-o2aqs-bvzkq-uw77x-ksgtb-4vibf-cf54i-g6n4p-iow7t-wuzec-yqe": {
-      "balance": 10710469981850212,
-      "username": "ncd5r-ongq6"
     },
     "vhwz7-5f53p-ws4gs-vlkqz-bgsgp-645ac-ypzfb-zvcoc-lmbxj-vxt6b-gae": {
       "balance": 10533538812614788,
@@ -313,14 +309,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "kvchr-h3el7-sv3gq-f3fuw-fj76k-s5lgn-sp7pf-5j6wb-zribm-xlgvg-3ae": {
-      "balance": 2738232669073513,
-      "username": "奥丁财富社区"
-    },
-    "kjib3-p4sf6-wx6m6-pan2u-tefrj-x36yt-v5fic-nj5xp-zv4tq-wzaxb-5qe": {
-      "balance": 2720664576678788,
-      "username": "Bob guoziwei"
     },
     "ikejk-gwl24-xpokw-k2zye-t4q7q-6ejsy-qn6wx-57kl4-yxpfj-h4lhu-tae": {
       "balance": 2503914923587510,
