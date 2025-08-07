@@ -1,5 +1,5 @@
 {
-  "count": 51,
+  "count": 53,
   "data": [
     {
       "id": "62656592",
@@ -760,6 +760,36 @@
       "amount_btc": 20396000,
       "amount_token": 1003394819042569,
       "price": 2025,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62853957",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:36:46.000Z",
+      "buy": true,
+      "amount_btc": 23897567,
+      "amount_token": 1147113636583541,
+      "price": 2075,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62853881",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:36:23.000Z",
+      "buy": true,
+      "amount_btc": 30239000,
+      "amount_token": 1456265644751143,
+      "price": 2069,
       "bonded": true,
       "user_username": "peezy",
       "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
