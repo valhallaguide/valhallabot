@@ -1,5 +1,5 @@
 {
-  "count": 83,
+  "count": 84,
   "data": [
     {
       "id": "62656592",
@@ -1243,6 +1243,21 @@
       "bonded": true,
       "user_username": "g2bil-fqg67",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62889563",
+      "user": "ivkmm-lwbm2-7ti2m-anzpf-phd7y-xfyar-ataxq-nxs57-7qtie-o3atp-4ae",
+      "token": "2dzg",
+      "time": "2025-08-07T18:04:06.000Z",
+      "buy": false,
+      "amount_btc": 55001402,
+      "amount_token": 2402181657067685,
+      "price": 2293,
+      "bonded": true,
+      "user_username": "先信资本007",
+      "user_image": "dff0d86f-f3bd-4544-960d-55cbdccbeadb.jpg",
       "decimals": 3,
       "divisibility": 8
     }
