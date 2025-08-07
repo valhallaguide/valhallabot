@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "data": [
     {
       "id": "62656592",
@@ -598,6 +598,21 @@
       "bonded": true,
       "user_username": "奥丁财富社区",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62842497",
+      "user": "dtkzk-g3cuc-bygkq-h5jsq-i4otn-i7enr-bz4xf-mxfxr-pgmwk-uproz-tae",
+      "token": "2dzg",
+      "time": "2025-08-07T13:46:17.000Z",
+      "buy": true,
+      "amount_btc": 326725496,
+      "amount_token": 16925163178603416,
+      "price": 1960,
+      "bonded": true,
+      "user_username": "CZfc只买价值标",
+      "user_image": "2454f678-59d2-4a3a-8cff-b896e40a9ec3.jpg",
       "decimals": 3,
       "divisibility": 8
     }
