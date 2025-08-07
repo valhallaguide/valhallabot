@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 49,
   "data": [
     {
       "id": "62656592",
@@ -688,6 +688,51 @@
       "bonded": true,
       "user_username": "ncd5r-ongq6",
       "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62852715",
+      "user": "cd2te-zhoko-ydp5g-xte5o-36kec-hb4hf-cxg35-pkv2t-bjkfp-2ozst-jqe",
+      "token": "2dzg",
+      "time": "2025-08-07T14:29:57.000Z",
+      "buy": true,
+      "amount_btc": 148864155,
+      "amount_token": 7400036907976995,
+      "price": 2019,
+      "bonded": true,
+      "user_username": "cd2te-zhoko",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62852706",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:29:49.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2516067027789049,
+      "price": 1983,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62852319",
+      "user": "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae",
+      "token": "2dzg",
+      "time": "2025-08-07T14:27:47.000Z",
+      "buy": true,
+      "amount_btc": 50000000,
+      "amount_token": 2531686976177549,
+      "price": 1971,
+      "bonded": true,
+      "user_username": "peezy",
+      "user_image": "08429885-1fab-4952-bb08-f744f371c92b.jpeg",
       "decimals": 3,
       "divisibility": 8
     }
