@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 200,
-    "nonSellersCount": 200,
-    "sellersCount": 0,
-    "totalBalance": 1304598925180508700
+    "nonSellersCount": 198,
+    "sellersCount": 2,
+    "totalBalance": 1283234803202942200
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -85,10 +85,6 @@
     "iwqog-g2hsm-4id7s-d62qn-fgh5u-iuluj-znqcc-u2mtz-zlfp6-vigrv-sqe": {
       "balance": 20800013547550012,
       "username": "UnknownPlayer ∞"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 19875105853815624,
-      "username": "peezy"
     },
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
@@ -425,10 +421,6 @@
     "5hwlg-at4ly-a3jr6-2smcc-e52zq-xoaq2-wzukc-ry5hx-kb6ja-h5ecg-3qe": {
       "balance": 1496777059560702,
       "username": "守望者-国际社区-端木俱乐部"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 1489016123751017,
-      "username": "仅共识WETH.Q群34801174"
     },
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
