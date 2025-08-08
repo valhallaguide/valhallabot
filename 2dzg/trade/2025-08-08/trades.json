@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 70,
   "data": [
     {
       "id": "62909921",
@@ -1032,6 +1032,21 @@
       "price": 2082,
       "bonded": true,
       "user_username": "Daniel.3.4",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62975940",
+      "user": "kvchr-h3el7-sv3gq-f3fuw-fj76k-s5lgn-sp7pf-5j6wb-zribm-xlgvg-3ae",
+      "token": "2dzg",
+      "time": "2025-08-08T05:59:09.000Z",
+      "buy": false,
+      "amount_btc": 57558367,
+      "amount_token": 2738232669073513,
+      "price": 2105,
+      "bonded": true,
+      "user_username": "奥丁财富社区",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
