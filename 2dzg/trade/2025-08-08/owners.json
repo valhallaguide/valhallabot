@@ -77,13 +77,6 @@
     "user_image": "c9dd8c14-83e2-400a-b961-5ee3108ee428.jpg"
   },
   {
-    "user": "ltlal-ojx4v-qtslo-d54h4-uyxs6-7ffur-tmwpw-il3g6-qk2me-2534t-aae",
-    "token": "2dzg",
-    "balance": 28571465827272012,
-    "user_username": "Icp1000玩家共识群392399691",
-    "user_image": null
-  },
-  {
     "user": "mfd3g-oeiss-uug3z-rwzqd-mbhyv-u7nqb-molum-vrbv3-uvkiw-rhhwa-tae",
     "token": "2dzg",
     "balance": 24266215157503610,
@@ -95,6 +88,13 @@
     "token": "2dzg",
     "balance": 23179236263238450,
     "user_username": "mjm55-6fcam",
+    "user_image": null
+  },
+  {
+    "user": "ltlal-ojx4v-qtslo-d54h4-uyxs6-7ffur-tmwpw-il3g6-qk2me-2534t-aae",
+    "token": "2dzg",
+    "balance": 22000000000000000,
+    "user_username": "Icp1000玩家共识群392399691",
     "user_image": null
   },
   {
