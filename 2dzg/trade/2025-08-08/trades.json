@@ -1,5 +1,5 @@
 {
-  "count": 64,
+  "count": 66,
   "data": [
     {
       "id": "62909921",
@@ -957,6 +957,36 @@
       "price": 2043,
       "bonded": true,
       "user_username": "cd2te-zhoko",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62966540",
+      "user": "sfeas-ivm6i-rcdcj-i7mlc-iqqvb-5sdso-gfajn-vpmju-wg2kb-hlu2e-rqe",
+      "token": "2dzg",
+      "time": "2025-08-08T05:08:33.000Z",
+      "buy": false,
+      "amount_btc": 58081708,
+      "amount_token": 2846247414007484,
+      "price": 2043,
+      "bonded": true,
+      "user_username": "sfeas-ivm6i",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "62966371",
+      "user": "sfeas-ivm6i-rcdcj-i7mlc-iqqvb-5sdso-gfajn-vpmju-wg2kb-hlu2e-rqe",
+      "token": "2dzg",
+      "time": "2025-08-08T05:08:15.000Z",
+      "buy": true,
+      "amount_btc": 58666282,
+      "amount_token": 2846247414007484,
+      "price": 2058,
+      "bonded": true,
+      "user_username": "sfeas-ivm6i",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
