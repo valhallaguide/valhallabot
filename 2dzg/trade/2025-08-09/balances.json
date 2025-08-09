@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 197,
-    "nonSellersCount": 197,
-    "sellersCount": 0,
-    "totalBalance": 1284139947742264600
+    "nonSellersCount": 195,
+    "sellersCount": 2,
+    "totalBalance": 1262002947742264600
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -65,10 +65,6 @@
     "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
       "balance": 22342564233378364,
       "username": "peezy"
-    },
-    "ltlal-ojx4v-qtslo-d54h4-uyxs6-7ffur-tmwpw-il3g6-qk2me-2534t-aae": {
-      "balance": 22000000000000000,
-      "username": "Icp1000玩家共识群392399691"
     },
     "ezuau-r2ka2-p7abz-2o2nf-3pfgn-xwl2x-z6oms-g5aye-x2m4i-3qrek-zqe": {
       "balance": 21834264806545284,
@@ -573,10 +569,6 @@
     "kej6w-igclr-rufct-lcrgn-trl6m-op4t5-dofpr-quvjx-anxcf-pg2a4-cqe": {
       "balance": 146223144900696,
       "username": "cdak-fwicg"
-    },
-    "obgvf-enxje-rzcuw-evq23-35oaw-ka77y-yvh3k-e7kdv-qqg3n-b6ahe-6ae": {
-      "balance": 137000000000000,
-      "username": "obgvf-enxje"
     },
     "dkaq6-aitri-pe5p5-4ssli-txu3n-p7h4o-mx3ol-rv7db-lgtex-vin72-fqe": {
       "balance": 136461544635278,
