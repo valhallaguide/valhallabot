@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 194,
-    "nonSellersCount": 189,
+    "totalUsers": 195,
+    "nonSellersCount": 190,
     "sellersCount": 5,
-    "totalBalance": 1215381983797063000
+    "totalBalance": 1216669654649596700
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -397,6 +397,10 @@
     "ynh4b-rv5ex-667pi-s3jzv-zs3v7-xh36c-4vd24-ppjzg-nb6vt-a23in-vqe": {
       "balance": 1293255048187779,
       "username": "planchette"
+    },
+    "b7ey7-7bczi-3v2jk-cfuu2-4xmgc-fvm3x-6u6sf-qpjlk-ghxfd-xeff7-5qe": {
+      "balance": 1287670852533753,
+      "username": "金铲铲"
     },
     "pf5a7-bppe5-hy6e4-wpg3i-lej2w-kig36-qrwvm-nzx57-byk2m-z72ch-6ae": {
       "balance": 1126648240528628,
