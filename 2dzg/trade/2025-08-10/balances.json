@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 193,
-    "nonSellersCount": 191,
+    "totalUsers": 194,
+    "nonSellersCount": 192,
     "sellersCount": 2,
-    "totalBalance": 1241972877757580000
+    "totalBalance": 1250873280756067000
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -169,6 +169,10 @@
     "ddbea-3vrre-bpfq5-5lhur-zyzjy-owsb3-5at4g-fp445-oyx6r-qo3qf-iae": {
       "balance": 9143649700645184,
       "username": "ddbea-3vrre"
+    },
+    "oaarz-gqylc-omsbk-sf4gu-sjkd5-uhlzb-4lwhg-5adtn-bq42i-t27vk-oae": {
+      "balance": 8900402998486548,
+      "username": "WEN DOG"
     },
     "bxlo5-yy7go-5llyi-ozwfw-j6wyw-wxcxl-lwdop-qotey-cedtc-hkuxo-5qe": {
       "balance": 8840037040823085,
