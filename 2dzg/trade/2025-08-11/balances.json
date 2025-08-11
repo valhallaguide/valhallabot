@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 194,
-    "nonSellersCount": 194,
-    "sellersCount": 0,
-    "totalBalance": 1251041445225830000
+    "nonSellersCount": 193,
+    "sellersCount": 1,
+    "totalBalance": 1250970361166216400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -577,10 +577,6 @@
     "7vyvu-ohtvz-pwuvi-vfu7y-xpmto-lsbo7-3q2c2-4pzzj-eaase-johct-hae": {
       "balance": 110892473872586,
       "username": "齐天大圣"
-    },
-    "o3ply-7xhoz-klskp-qgoos-vtumf-gdptt-nh6n2-37bgx-nixi3-6nwrb-xae": {
-      "balance": 71084059613438,
-      "username": "peezy"
     },
     "n7ica-5gdif-pkfoh-ukvne-vw3bo-rl2fm-wqyyq-smqw3-x6q36-nnial-qqe": {
       "balance": 70073621520772,
