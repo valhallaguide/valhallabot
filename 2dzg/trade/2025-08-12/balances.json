@@ -1,9 +1,9 @@
 {
   "summary": {
-    "totalUsers": 196,
-    "nonSellersCount": 194,
+    "totalUsers": 195,
+    "nonSellersCount": 193,
     "sellersCount": 2,
-    "totalBalance": 1259167281037369300
+    "totalBalance": 1257678264913618400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -385,10 +385,6 @@
     "5hwlg-at4ly-a3jr6-2smcc-e52zq-xoaq2-wzukc-ry5hx-kb6ja-h5ecg-3qe": {
       "balance": 1496777059560702,
       "username": "国际社区-端木俱乐部"
-    },
-    "v2723-tbzks-3jxzo-4lrgz-4pjcw-e3zbf-t234p-js6c7-v4xov-jou6f-sqe": {
-      "balance": 1489016123751017,
-      "username": "仅共识WETH.Q群34801174"
     },
     "32gve-l4mfv-kpssj-z6egn-bzfw5-w5ufc-kgndd-ohfdb-ymgmi-y4j4q-mae": {
       "balance": 1353461323103685,
