@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 31,
   "data": [
     {
       "id": "63719121",
@@ -388,6 +388,81 @@
       "bonded": true,
       "user_username": "蒙古地推",
       "user_image": "f2c8b63d-a6f4-47da-b80f-7c2d5a00c738.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "64050470",
+      "user": "eeade-ope2v-5y3wk-ll7py-7v3q2-lzp25-hfzyz-n6kjp-x2akw-epzop-sqe",
+      "token": "2dzg",
+      "time": "2025-08-12T07:54:10.000Z",
+      "buy": false,
+      "amount_btc": 54593166,
+      "amount_token": 2444092659547132,
+      "price": 2237,
+      "bonded": true,
+      "user_username": "蒙古地推",
+      "user_image": "f2c8b63d-a6f4-47da-b80f-7c2d5a00c738.png",
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "64050379",
+      "user": "tqbs4-v3iev-6bgfo-kxiip-l4sk5-xijd5-g3hyd-sovx7-wjkdp-hyy64-hae",
+      "token": "2dzg",
+      "time": "2025-08-12T07:53:57.000Z",
+      "buy": false,
+      "amount_btc": 352956065,
+      "amount_token": 15426043800241230,
+      "price": 2252,
+      "bonded": true,
+      "user_username": "ALicec",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "64049667",
+      "user": "mei6g-cngyr-ibgcr-zhgny-4gfpm-inn2d-5iwbe-4nziy-3ampb-xv6xn-7qe",
+      "token": "2dzg",
+      "time": "2025-08-12T07:52:36.000Z",
+      "buy": true,
+      "amount_btc": 3333333,
+      "amount_token": 141282272685529,
+      "price": 2348,
+      "bonded": true,
+      "user_username": "mei6g-cngyr",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "64049631",
+      "user": "6yr24-s76jh-x7rbr-vwsss-3ormh-cpu6q-f6zvm-x4ejf-z74g4-cyzvu-jae",
+      "token": "2dzg",
+      "time": "2025-08-12T07:52:32.000Z",
+      "buy": false,
+      "amount_btc": 121068063,
+      "amount_token": 5147797248333667,
+      "price": 2347,
+      "bonded": true,
+      "user_username": "BRC20-dev",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "64049619",
+      "user": "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe",
+      "token": "2dzg",
+      "time": "2025-08-12T07:52:31.000Z",
+      "buy": true,
+      "amount_btc": 1282265184,
+      "amount_token": 57877533045108690,
+      "price": 2379,
+      "bonded": true,
+      "user_username": "Kairos",
+      "user_image": null,
       "decimals": 3,
       "divisibility": 8
     }
