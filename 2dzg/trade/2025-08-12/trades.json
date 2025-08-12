@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "data": [
     {
       "id": "63719121",
@@ -177,6 +177,21 @@
       "price": 1888,
       "bonded": true,
       "user_username": "ICP招募团队长392399691",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    },
+    {
+      "id": "63922959",
+      "user": "ltlal-ojx4v-qtslo-d54h4-uyxs6-7ffur-tmwpw-il3g6-qk2me-2534t-aae",
+      "token": "2dzg",
+      "time": "2025-08-12T01:11:41.000Z",
+      "buy": true,
+      "amount_btc": 19992670,
+      "amount_token": 1051754691593206,
+      "price": 1893,
+      "bonded": true,
+      "user_username": "价值连城",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
