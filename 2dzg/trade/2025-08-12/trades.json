@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 38,
   "data": [
     {
       "id": "63719121",
@@ -567,21 +567,6 @@
       "price": 2198,
       "bonded": true,
       "user_username": "get.rich",
-      "user_image": null,
-      "decimals": 3,
-      "divisibility": 8
-    },
-    {
-      "id": "64088995",
-      "user": "j7i4h-egfkh-llmxe-3noro-dvqu6-gglqb-wzhxl-2qz3p-q6rhh-36r63-vqe",
-      "token": "2dzg",
-      "time": "2025-08-12T09:41:38.000Z",
-      "buy": false,
-      "amount_btc": 1130663598,
-      "amount_token": 57877533045108690,
-      "price": 1826,
-      "bonded": true,
-      "user_username": "Kairos",
       "user_image": null,
       "decimals": 3,
       "divisibility": 8
