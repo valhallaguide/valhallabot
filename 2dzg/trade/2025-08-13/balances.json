@@ -1,9 +1,9 @@
 {
   "summary": {
     "totalUsers": 189,
-    "nonSellersCount": 189,
-    "sellersCount": 0,
-    "totalBalance": 1243794131630388000
+    "nonSellersCount": 187,
+    "sellersCount": 2,
+    "totalBalance": 1223771464932273400
   },
   "data": {
     "vv5jb-7sm7u-vn3nq-6nflf-dghis-fd7ji-cx764-xunni-zosog-eqvpw-oae": {
@@ -85,10 +85,6 @@
     "hycjz-2pmt3-25elg-qftgq-5ckfa-2hmpb-qctgd-u24wz-i5pxd-gua4q-2qe": {
       "balance": 18948993386655640,
       "username": "Einherjari"
-    },
-    "ltlal-ojx4v-qtslo-d54h4-uyxs6-7ffur-tmwpw-il3g6-qk2me-2534t-aae": {
-      "balance": 17288816018694904,
-      "username": "价值连城"
     },
     "yscib-yaakp-3jank-bvm5x-lyt3m-gojpi-shiyj-25imp-qfsi4-vsgwj-lqe": {
       "balance": 16929696156060684,
@@ -309,10 +305,6 @@
     "xciqo-53dhe-6ucuw-opxd7-jqwww-uhevy-uaoy7-buey5-aijgc-366c2-hqe": {
       "balance": 2782815541180920,
       "username": "🪙BTC STANDARD🪙"
-    },
-    "pjxid-fx4zx-w737z-iivjz-aoi7r-jelqf-bl63j-s4js6-pf25y-xzxkt-hae": {
-      "balance": 2733850679419034,
-      "username": "KKO"
     },
     "7ml7m-2mepz-esaa3-ejyvm-nzsyv-j2dxz-gc4dw-5uaa6-mm3yj-likoa-gqe": {
       "balance": 2461060189762385,
