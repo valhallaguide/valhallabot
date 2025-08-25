@@ -1,0 +1,20 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "id": "64238556",
+      "user": "z2vm5-gaaaa-aaaaj-azw6q-cai",
+      "token": "2dzg",
+      "time": "2025-08-24T15:03:25.000Z",
+      "buy": true,
+      "amount_btc": 0,
+      "amount_token": 0,
+      "price": 1349,
+      "bonded": true,
+      "user_username": "",
+      "user_image": null,
+      "decimals": 3,
+      "divisibility": 8
+    }
+  ]
+}
